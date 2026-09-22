@@ -14,7 +14,7 @@ export async function sendPush(
 ): Promise<number> {
   const appId = process.env.ONESIGNAL_APP_ID;
   const apiKey = process.env.ONESIGNAL_API_KEY;
-  if (!appId || !apiKey) {
+  if (!appId || !apiKey || apiKey.startsWith("PLACEHOLDER")) {
     logger.warn("OneSignal yapılandırılmamış; bildirim atlandı");
     return 0;
   }

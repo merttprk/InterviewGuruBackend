@@ -259,7 +259,8 @@ export const deleteMyData = onCall({enforceAppCheck, timeoutSeconds: 120}, async
 /** FAIL-CLOSED: sır boşsa hiçbir isteği kabul etme; sabit zamanlı karşılaştırma. */
 function webhookAuthValid(header: string | undefined): boolean {
   const expected = REVENUECAT_WEBHOOK_AUTH.value().trim();
-  if (!expected) return false;
+  // Yer tutucu değer (servis henüz kurulmadı) hiçbir isteği geçirmez.
+  if (!expected || expected.startsWith("PLACEHOLDER")) return false;
   const a = Buffer.from((header ?? "").trim());
   const b = Buffer.from(expected);
   return a.length === b.length && crypto.timingSafeEqual(a, b);
