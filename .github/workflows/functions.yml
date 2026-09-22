@@ -1,4 +1,4 @@
-# Backend CI — Functions derlemesi ve testler. Deploy YAPILMAZ (secret'lar ve onay kullanıcıda).
+# Backend CI — Functions derlemesi ve testler (proje interviewguru/ alt klasöründe). Deploy YAPILMAZ (secret'lar ve onay kullanıcıda).
 name: Functions
 
 on:
@@ -16,18 +16,18 @@ jobs:
     timeout-minutes: 15
     defaults:
       run:
-        working-directory: functions
+        working-directory: interviewguru/functions
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
         with:
           node-version: "22"
           cache: npm
-          cache-dependency-path: functions/package-lock.json
+          cache-dependency-path: interviewguru/functions/package-lock.json
       - run: npm ci
       - run: npm run lint
       - run: npm run build
       - run: npm test
       - name: İçerik doğrulama (dersler/keşfet JSON)
-        working-directory: scripts/content-build
+        working-directory: interviewguru/scripts/content-build
         run: node validate.js
