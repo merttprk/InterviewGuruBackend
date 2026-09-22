@@ -15,6 +15,7 @@
  * Kullanım (servis hesabı anahtarı GİT'E GİRMEZ, .gitignore'da):
  *   cd scripts/seed-content && npm install
  *   SERVICE_ACCOUNT=./serviceAccountKey.json node seed.js [--lang en,tr] [--dry]
+ *   node seed.js --cli-auth            (firebase login oturumuyla, anahtar dosyası olmadan)
  *
  * İdempotent: aynı içerikle tekrar çalıştırmak aynı sonucu verir. İçerikte
  * artık olmayan konu dokümanlarını SİLMEZ (yıkıcı işlem yok); --prune verilirse siler.
@@ -34,14 +35,49 @@ const IMAGES = path.resolve(__dirname, "images");
 const PROJECT = "interviewguru-745f5";
 
 const keyPath = process.env.SERVICE_ACCOUNT || path.resolve(__dirname, "serviceAccountKey.json");
+const cliAuth = args.includes("--cli-auth");
+
+/**
+ * --cli-auth: servis hesabı anahtarı yerine terminaldeki `firebase login` oturumu
+ * kullanılır (~/.config/configstore/firebase-tools.json). Anahtar dosyası
+ * indirmeye gerek kalmaz; hiçbir sır diske ya da repoya yazılmaz. İstemci
+ * kimliği firebase-tools'un herkese açık OAuth istemcisidir.
+ */
+function cliCredential() {
+  const store = path.join(require("os").homedir(), ".config/configstore/firebase-tools.json");
+  const refresh = JSON.parse(fs.readFileSync(store, "utf8")).tokens?.refresh_token;
+  if (!refresh) throw new Error("firebase login oturumu bulunamadı — önce `firebase login`");
+  // Firestore istemcisi yalnız sertifika ya da ADC kabul ediyor: oturum, çalışma
+  // süresince 600 izinli geçici bir ADC dosyası olarak verilir ve çıkışta silinir.
+  const tmp = path.join(require("os").tmpdir(), `ig-seed-adc-${process.pid}.json`);
+  fs.writeFileSync(tmp, JSON.stringify({
+    type: "authorized_user",
+    client_id: "563584335869-fgrhgmd47bqnekij5i8b5pr03ho849e6.apps.googleusercontent.com",
+    client_secret: "j9iVZfS8kkCEFUPaAeJV0sAi",
+    refresh_token: refresh,
+  }), { mode: 0o600 });
+  const cleanup = () => { try { fs.unlinkSync(tmp); } catch (_) { /* zaten silinmiş */ } };
+  process.on("exit", cleanup);
+  process.env.GOOGLE_APPLICATION_CREDENTIALS = tmp;
+  process.env.GOOGLE_CLOUD_PROJECT = PROJECT;
+  return admin.credential.applicationDefault();
+}
+
 if (!dry) {
-  const key = JSON.parse(fs.readFileSync(keyPath, "utf8"));
-  if (key.project_id !== PROJECT) {
-    console.error(`Anahtar ${key.project_id} projesine ait, beklenen ${PROJECT}. Durduruldu.`);
-    process.exit(1);
+  let credential;
+  if (cliAuth) {
+    credential = cliCredential();
+  } else {
+    const key = JSON.parse(fs.readFileSync(keyPath, "utf8"));
+    if (key.project_id !== PROJECT) {
+      console.error(`Anahtar ${key.project_id} projesine ait, beklenen ${PROJECT}. Durduruldu.`);
+      process.exit(1);
+    }
+    credential = admin.credential.cert(key);
   }
   admin.initializeApp({
-    credential: admin.credential.cert(key),
+    credential,
+    projectId: PROJECT,
     storageBucket: process.env.STORAGE_BUCKET || `${PROJECT}.firebasestorage.app`,
   });
 }
