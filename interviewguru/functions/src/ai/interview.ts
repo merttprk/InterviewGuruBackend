@@ -55,6 +55,7 @@ export async function generateQuestions(
     "behavioral = STAR-style past experience; technical = role-specific knowledge/problem solving;",
     "hr = motivation, salary, culture fit; mixed = a balance of all.",
     "id: q1, q2, ... in order. tip: one practical sentence on how to answer well.",
+    `category: a short 1-3 word topic label in ${lang}, capitalized (e.g. Teamwork, System design), never the raw type key.`,
   ].join("\n");
   const user = [
     `Role: ${role}`,
