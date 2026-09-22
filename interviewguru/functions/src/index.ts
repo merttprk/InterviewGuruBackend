@@ -1,6 +1,6 @@
-import { onCall, onRequest } from "firebase-functions/v2/https";
-import { onSchedule } from "firebase-functions/v2/scheduler";
-import { defineSecret } from "firebase-functions/params";
+import {onCall, onRequest} from "firebase-functions/v2/https";
+import {onSchedule} from "firebase-functions/v2/scheduler";
+import {defineSecret} from "firebase-functions/params";
 import * as logger from "firebase-functions/logger";
 import * as admin from "firebase-admin";
 import * as crypto from "crypto";
@@ -8,12 +8,12 @@ import * as crypto from "crypto";
 import {
   AppError, optionalText, rateLimit, requireText, requireUid, toHttpsError,
 } from "./middleware/errors";
-import { CREDIT_COST, MAX_CV_CHARS, dayKey, normalizeLanguage, Language } from "./config";
+import {CREDIT_COST, MAX_CV_CHARS, dayKey, normalizeLanguage, Language} from "./config";
 import * as credits from "./services/credits";
-import { processRevenueCatWebhook } from "./services/subscription";
-import { sendPushChunked } from "./services/onesignal";
-import { NOTIFICATION_TEXTS } from "./services/notification-texts";
-import { reviewCv as runCvReview, improveCvText as runImprove, ImproveKind } from "./ai/cv-review";
+import {processRevenueCatWebhook} from "./services/subscription";
+import {sendPushChunked} from "./services/onesignal";
+import {NOTIFICATION_TEXTS} from "./services/notification-texts";
+import {reviewCv as runCvReview, improveCvText as runImprove, ImproveKind} from "./ai/cv-review";
 import {
   evaluateAnswers, generateQuestions, InterviewType, Seniority,
 } from "./ai/interview";
@@ -52,22 +52,22 @@ const serverTime = () => admin.firestore.FieldValue.serverTimestamp();
  * İstemcinin kredi göstergesi. Yeni kullanıcıya hoş geldin kredisini de
  * (idempotent) burada tanımlar. deviceId: Android SSAID / iOS IDFV.
  */
-export const getAiState = onCall({ enforceAppCheck }, async (request) => {
+export const getAiState = onCall({enforceAppCheck}, async (request) => {
   try {
     const uid = requireUid(request);
     await credits.grantWelcomeIfNeeded(uid, request.data?.deviceId);
-    return { success: true, ...(await credits.getState(uid)) };
+    return {success: true, ...(await credits.getState(uid))};
   } catch (e) {
     throw toHttpsError(e);
   }
 });
 
 /** Ödüllü reklam izlendikten sonra 1 kredi (günlük sınırlı). */
-export const claimAdReward = onCall({ enforceAppCheck }, async (request) => {
+export const claimAdReward = onCall({enforceAppCheck}, async (request) => {
   try {
     const uid = requireUid(request);
     await rateLimit(uid, "claimAdReward", 10, 60 * 60 * 1000);
-    return { success: true, ...(await credits.rewardAd(uid)) };
+    return {success: true, ...(await credits.rewardAd(uid))};
   } catch (e) {
     throw toHttpsError(e);
   }
@@ -108,8 +108,8 @@ export const reviewCv = onCall(AI_OPTIONS, async (request) => {
       review,
     });
 
-    logger.info("CV değerlendirildi", { uid, score: review.overallScore, language });
-    return { success: true, reviewId: ref.id, review, state };
+    logger.info("CV değerlendirildi", {uid, score: review.overallScore, language});
+    return {success: true, reviewId: ref.id, review, state};
   } catch (e) {
     throw toHttpsError(e);
   }
@@ -131,7 +131,7 @@ export const improveCvText = onCall(AI_OPTIONS, async (request) => {
     await credits.assertCanSpend(uid, CREDIT_COST.improveCvText);
     const result = await runImprove(text, kind, language, targetRole);
     const state = await credits.spend(uid, CREDIT_COST.improveCvText);
-    return { success: true, result, state };
+    return {success: true, result, state};
   } catch (e) {
     throw toHttpsError(e);
   }
@@ -169,7 +169,7 @@ export const generateInterviewQuestions = onCall(AI_OPTIONS, async (request) => 
       language,
       questions,
     });
-    return { success: true, interviewId: ref.id, questions };
+    return {success: true, interviewId: ref.id, questions};
   } catch (e) {
     throw toHttpsError(e);
   }
@@ -190,7 +190,7 @@ export const evaluateInterview = onCall(AI_OPTIONS, async (request) => {
     const interview = snap.data() || {};
     if (interview.status === "completed") {
       // Aynı mülakatı iki kez değerlendirip iki kredi harcatma.
-      return { success: true, evaluation: interview.evaluation, state: await credits.getState(uid) };
+      return {success: true, evaluation: interview.evaluation, state: await credits.getState(uid)};
     }
 
     const byId = new Map<string, string>();
@@ -215,13 +215,13 @@ export const evaluateInterview = onCall(AI_OPTIONS, async (request) => {
       {
         status: "completed",
         completedAt: serverTime(),
-        answers: qa.map((x: { id: string; answer: string }) => ({ id: x.id, answer: x.answer })),
+        answers: qa.map((x: { id: string; answer: string }) => ({id: x.id, answer: x.answer})),
         overallScore: evaluation.overallScore,
         evaluation,
       },
-      { merge: true }
+      {merge: true}
     );
-    return { success: true, evaluation, state };
+    return {success: true, evaluation, state};
   } catch (e) {
     throw toHttpsError(e);
   }
@@ -231,7 +231,7 @@ export const evaluateInterview = onCall(AI_OPTIONS, async (request) => {
 // Hesap silme (Play veri silme şartı + App Store 5.1.1(v))
 // ---------------------------------------------------------------------------
 
-export const deleteMyData = onCall({ enforceAppCheck, timeoutSeconds: 120 }, async (request) => {
+export const deleteMyData = onCall({enforceAppCheck, timeoutSeconds: 120}, async (request) => {
   try {
     const uid = requireUid(request);
     const userRef = db().collection("users").doc(uid);
@@ -240,13 +240,13 @@ export const deleteMyData = onCall({ enforceAppCheck, timeoutSeconds: 120 }, asy
       .where(admin.firestore.FieldPath.documentId(), "<", `${uid}_`).get()
       .then((s) => Promise.all(s.docs.map((d) => d.ref.delete())));
     try {
-      await admin.storage().bucket().deleteFiles({ prefix: `users/${uid}/` });
+      await admin.storage().bucket().deleteFiles({prefix: `users/${uid}/`});
     } catch (err) {
       logger.warn("Storage silme atlandı", err);
     }
     await admin.auth().deleteUser(uid).catch((err) => logger.warn("Auth kullanıcı silinemedi", err));
     logger.info(`Kullanıcı verisi silindi: ${uid}`);
-    return { success: true };
+    return {success: true};
   } catch (e) {
     throw toHttpsError(e);
   }
@@ -265,7 +265,7 @@ function webhookAuthValid(header: string | undefined): boolean {
   return a.length === b.length && crypto.timingSafeEqual(a, b);
 }
 
-export const revenuecatWebhook = onRequest({ secrets: [REVENUECAT_WEBHOOK_AUTH] }, async (req, res) => {
+export const revenuecatWebhook = onRequest({secrets: [REVENUECAT_WEBHOOK_AUTH]}, async (req, res) => {
   try {
     if (req.method !== "POST") {
       res.status(405).send("Method Not Allowed");
@@ -294,7 +294,7 @@ async function isAdmin(uid: string): Promise<boolean> {
 }
 
 /** Admin yayını: { title, body, audience: "all" | "premium" | "free" } */
-export const sendNotification = onCall({ secrets: [ONESIGNAL_API_KEY] }, async (request) => {
+export const sendNotification = onCall({secrets: [ONESIGNAL_API_KEY]}, async (request) => {
   try {
     const uid = requireUid(request);
     if (!(await isAdmin(uid))) throw new AppError("permission-denied", "Admin only");
@@ -304,8 +304,8 @@ export const sendNotification = onCall({ secrets: [ONESIGNAL_API_KEY] }, async (
     if (request.data?.audience === "premium") query = query.where("isPremium", "==", true);
     if (request.data?.audience === "free") query = query.where("isPremium", "==", false);
     const snap = await query.select().get();
-    const sent = await sendPushChunked(snap.docs.map((d) => d.id), title, body, { type: "broadcast" });
-    return { success: true, sent, total: snap.size };
+    const sent = await sendPushChunked(snap.docs.map((d) => d.id), title, body, {type: "broadcast"});
+    return {success: true, sent, total: snap.size};
   } catch (e) {
     throw toHttpsError(e);
   }
@@ -343,7 +343,7 @@ export const scheduledEngagementReminders = onSchedule(
       if (n < 1) continue;
       const lang = normalizeLanguage(d.language);
       const key = `${lang}_${n}`;
-      const g = groups.get(key) || { lang, n, uids: [] };
+      const g = groups.get(key) || {lang, n, uids: []};
       g.uids.push(doc.id);
       groups.set(key, g);
     }
@@ -368,7 +368,7 @@ export const scheduledEngagementReminders = onSchedule(
     }
     for (const [lang, uids] of byLang) {
       const t = NOTIFICATION_TEXTS[lang];
-      sent += await sendPushChunked(uids, t.comebackTitle, t.comebackBody, { type: "comeback" });
+      sent += await sendPushChunked(uids, t.comebackTitle, t.comebackBody, {type: "comeback"});
     }
     logger.info(`Etkileşim bildirimleri: ${sent} alıcı`);
   }

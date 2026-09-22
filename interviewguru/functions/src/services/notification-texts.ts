@@ -1,4 +1,4 @@
-import { Language } from "../config";
+import {Language} from "../config";
 
 /**
  * Zamanlanmış bildirim metinleri. PatternFusion bunları Firestore'dan okuyor ve

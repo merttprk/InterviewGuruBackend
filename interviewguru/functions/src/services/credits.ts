@@ -1,6 +1,6 @@
 import * as admin from "firebase-admin";
 import * as logger from "firebase-functions/logger";
-import { AppError } from "../middleware/errors";
+import {AppError} from "../middleware/errors";
 import {
   AD_REWARD_CREDITS,
   AD_REWARD_DAILY_LIMIT,
@@ -65,10 +65,10 @@ export async function grantWelcomeIfNeeded(uid: string, deviceId?: string): Prom
     const deviceRef = db().collection("device_credits").doc(device);
     const deviceSnap = await deviceRef.get();
     if (deviceSnap.exists && deviceSnap.data()?.welcomeGranted === true) {
-      await userRef.set({ welcomeGranted: true }, { merge: true });
+      await userRef.set({welcomeGranted: true}, {merge: true});
       await deviceRef.set(
-        { lastUid: uid, lastSeenAt: admin.firestore.FieldValue.serverTimestamp() },
-        { merge: true }
+        {lastUid: uid, lastSeenAt: admin.firestore.FieldValue.serverTimestamp()},
+        {merge: true}
       );
       return;
     }
@@ -86,7 +86,7 @@ export async function grantWelcomeIfNeeded(uid: string, deviceId?: string): Prom
         welcomeGranted: true,
         updatedAt: admin.firestore.FieldValue.serverTimestamp(),
       },
-      { merge: true }
+      {merge: true}
     );
     granted = true;
   });
@@ -99,7 +99,7 @@ export async function grantWelcomeIfNeeded(uid: string, deviceId?: string): Prom
         lastUid: uid,
         lastSeenAt: admin.firestore.FieldValue.serverTimestamp(),
       },
-      { merge: true }
+      {merge: true}
     );
   }
   if (granted) logger.info(`Hoş geldin kredisi: uid=${uid} device=${device || "?"}`);
@@ -134,9 +134,9 @@ export async function spend(uid: string, cost: number): Promise<CreditState> {
 
     if (data.isPremium === true) {
       const used = counterToday(data.aiUsage, today) + cost;
-      const aiUsage = { day: today, count: used };
-      tx.set(ref, { aiUsage, updatedAt: admin.firestore.FieldValue.serverTimestamp() }, { merge: true });
-      return buildState({ ...data, aiUsage }, today);
+      const aiUsage = {day: today, count: used};
+      tx.set(ref, {aiUsage, updatedAt: admin.firestore.FieldValue.serverTimestamp()}, {merge: true});
+      return buildState({...data, aiUsage}, today);
     }
 
     const credits = Number(data.aiCredits || 0);
@@ -144,8 +144,8 @@ export async function spend(uid: string, cost: number): Promise<CreditState> {
       throw new AppError("insufficient-credits", "Not enough AI credits");
     }
     const aiCredits = credits - cost;
-    tx.set(ref, { aiCredits, updatedAt: admin.firestore.FieldValue.serverTimestamp() }, { merge: true });
-    return buildState({ ...data, aiCredits }, today);
+    tx.set(ref, {aiCredits, updatedAt: admin.firestore.FieldValue.serverTimestamp()}, {merge: true});
+    return buildState({...data, aiCredits}, today);
   });
 }
 
@@ -164,14 +164,14 @@ export async function rewardAd(uid: string): Promise<CreditState> {
     if (count >= AD_REWARD_DAILY_LIMIT) {
       throw new AppError("daily-limit", "Daily ad reward limit reached");
     }
-    const adRewards = { day: today, count: count + 1 };
+    const adRewards = {day: today, count: count + 1};
     const aiCredits = Number(data.aiCredits || 0) + AD_REWARD_CREDITS;
     tx.set(
       ref,
-      { adRewards, aiCredits, updatedAt: admin.firestore.FieldValue.serverTimestamp() },
-      { merge: true }
+      {adRewards, aiCredits, updatedAt: admin.firestore.FieldValue.serverTimestamp()},
+      {merge: true}
     );
-    return buildState({ ...data, adRewards, aiCredits }, today);
+    return buildState({...data, adRewards, aiCredits}, today);
   });
 }
 
@@ -187,6 +187,6 @@ export async function countQuestionSet(uid: string): Promise<void> {
     if (count >= FREE_DAILY_QUESTION_SETS) {
       throw new AppError("daily-limit", "Daily interview limit reached");
     }
-    tx.set(ref, { questionSets: { day: today, count: count + 1 } }, { merge: true });
+    tx.set(ref, {questionSets: {day: today, count: count + 1}}, {merge: true});
   });
 }

@@ -1,5 +1,5 @@
-import { jsonCompletion } from "../services/openai";
-import { LANGUAGE_NAMES, Language } from "../config";
+import {jsonCompletion} from "../services/openai";
+import {LANGUAGE_NAMES, Language} from "../config";
 
 /**
  * CV değerlendirmesi. Eski istemci düz metin istiyor, "\n\n" ile bölüp Türkçe
@@ -30,9 +30,9 @@ export const CV_REVIEW_SCHEMA = {
   additionalProperties: false,
   required: ["overallScore", "headline", "atsScore", "sections", "missingKeywords", "rewrittenSummary", "topActions"],
   properties: {
-    overallScore: { type: "integer" },
-    headline: { type: "string" },
-    atsScore: { type: "integer" },
+    overallScore: {type: "integer"},
+    headline: {type: "string"},
+    atsScore: {type: "integer"},
     sections: {
       type: "array",
       items: {
@@ -40,16 +40,16 @@ export const CV_REVIEW_SCHEMA = {
         additionalProperties: false,
         required: ["key", "score", "strengths", "improvements"],
         properties: {
-          key: { type: "string", enum: SECTION_KEYS },
-          score: { type: "integer" },
-          strengths: { type: "array", items: { type: "string" } },
-          improvements: { type: "array", items: { type: "string" } },
+          key: {type: "string", enum: SECTION_KEYS},
+          score: {type: "integer"},
+          strengths: {type: "array", items: {type: "string"}},
+          improvements: {type: "array", items: {type: "string"}},
         },
       },
     },
-    missingKeywords: { type: "array", items: { type: "string" } },
-    rewrittenSummary: { type: "string" },
-    topActions: { type: "array", items: { type: "string" } },
+    missingKeywords: {type: "array", items: {type: "string"}},
+    rewrittenSummary: {type: "string"},
+    topActions: {type: "array", items: {type: "string"}},
   },
 };
 
@@ -93,7 +93,7 @@ export async function reviewCv(
   const clamp = (n: number, max: number) => Math.max(0, Math.min(max, Math.round(Number(n) || 0)));
   result.overallScore = clamp(result.overallScore, 100);
   result.atsScore = clamp(result.atsScore, 100);
-  result.sections = (result.sections || []).map((s) => ({ ...s, score: clamp(s.score, 10) }));
+  result.sections = (result.sections || []).map((s) => ({...s, score: clamp(s.score, 10)}));
   return result;
 }
 
@@ -109,9 +109,9 @@ export const IMPROVE_SCHEMA = {
   additionalProperties: false,
   required: ["improved", "alternatives", "tips"],
   properties: {
-    improved: { type: "string" },
-    alternatives: { type: "array", items: { type: "string" } },
-    tips: { type: "array", items: { type: "string" } },
+    improved: {type: "string"},
+    alternatives: {type: "array", items: {type: "string"}},
+    tips: {type: "array", items: {type: "string"}},
   },
 };
 

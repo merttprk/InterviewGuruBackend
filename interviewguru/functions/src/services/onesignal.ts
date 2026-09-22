@@ -31,10 +31,10 @@ export async function sendPush(
     body: JSON.stringify({
       app_id: appId,
       // SDK 5 kullanıcı modeli: OneSignal.login(uid) → external_id takma adı.
-      include_aliases: { external_id: uids },
+      include_aliases: {external_id: uids},
       target_channel: "push",
-      headings: { en: title },
-      contents: { en: message },
+      headings: {en: title},
+      contents: {en: message},
       data,
       ios_sound: "default",
       android_sound: "default",

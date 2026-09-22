@@ -1,4 +1,4 @@
-import { HttpsError, CallableRequest } from "firebase-functions/v2/https";
+import {HttpsError, CallableRequest} from "firebase-functions/v2/https";
 import * as logger from "firebase-functions/logger";
 import * as admin from "firebase-admin";
 
@@ -36,10 +36,10 @@ const HTTPS_CODES: Record<AppErrorCode, ConstructorParameters<typeof HttpsError>
 export function toHttpsError(error: unknown): HttpsError {
   if (error instanceof HttpsError) return error;
   if (error instanceof AppError) {
-    return new HttpsError(HTTPS_CODES[error.code], error.message, { code: error.code });
+    return new HttpsError(HTTPS_CODES[error.code], error.message, {code: error.code});
   }
   logger.error("Beklenmeyen hata", error);
-  return new HttpsError("internal", "Unexpected error", { code: "internal" });
+  return new HttpsError("internal", "Unexpected error", {code: "internal"});
 }
 
 /** Kimliği doğrulanmış uid'yi döndürür, yoksa hata fırlatır. */
@@ -69,14 +69,14 @@ export async function rateLimit(
     const start = Number(data.windowStart || 0);
     let count = Number(data.count || 0);
     if (now - start > windowMs) {
-      tx.set(ref, { windowStart: now, count: 1 });
+      tx.set(ref, {windowStart: now, count: 1});
       return;
     }
     if (count >= maxRequests) {
       throw new AppError("rate-limit-exceeded", `Too many ${fn} requests`);
     }
     count += 1;
-    tx.set(ref, { windowStart: start, count }, { merge: true });
+    tx.set(ref, {windowStart: start, count}, {merge: true});
   });
 }
 

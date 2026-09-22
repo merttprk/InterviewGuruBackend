@@ -1,7 +1,7 @@
 import fetch from "node-fetch";
 import * as logger from "firebase-functions/logger";
-import { AppError } from "../middleware/errors";
-import { openAiModel } from "../config";
+import {AppError} from "../middleware/errors";
+import {openAiModel} from "../config";
 
 /**
  * OpenAI Chat Completions çağrısı, katı JSON şemasıyla (structured outputs).
@@ -30,11 +30,11 @@ export async function jsonCompletion<T>(options: JsonCompletionOptions): Promise
     max_tokens: options.maxTokens ?? 2000,
     response_format: {
       type: "json_schema",
-      json_schema: { name: options.schemaName, strict: true, schema: options.schema },
+      json_schema: {name: options.schemaName, strict: true, schema: options.schema},
     },
     messages: [
-      { role: "system", content: options.system },
-      { role: "user", content: options.user },
+      {role: "system", content: options.system},
+      {role: "user", content: options.user},
     ],
   };
 

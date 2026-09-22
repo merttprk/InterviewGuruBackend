@@ -1,6 +1,6 @@
 import * as logger from "firebase-functions/logger";
 import * as admin from "firebase-admin";
-import { PACKAGE_CREDITS, SUBSCRIPTION_PRODUCTS } from "../config";
+import {PACKAGE_CREDITS, SUBSCRIPTION_PRODUCTS} from "../config";
 
 /**
  * RevenueCat webhook işleyicisi. PatternFusion'daki sürümden uyarlandı:
@@ -34,8 +34,8 @@ export async function processRevenueCatWebhook(
   const event = body?.event;
   const type = event?.type;
   const uid = event?.app_user_id;
-  if (!type) return { status: 400, message: "Missing event type" };
-  if (!uid) return { status: 400, message: "Missing app_user_id" };
+  if (!type) return {status: 400, message: "Missing event type"};
+  if (!uid) return {status: 400, message: "Missing app_user_id"};
 
   if (event.id) {
     const ref = admin.firestore().collection("processedRevenueCatEvents").doc(String(event.id));
@@ -50,7 +50,7 @@ export async function processRevenueCatWebhook(
       });
       return true;
     });
-    if (!created) return { status: 200, message: "Already processed" };
+    if (!created) return {status: 200, message: "Already processed"};
   }
 
   switch (type) {
@@ -75,7 +75,7 @@ export async function processRevenueCatWebhook(
   default:
     logger.info(`İşlenmeyen RevenueCat olayı: ${type}`);
   }
-  return { status: 200, message: "OK" };
+  return {status: 200, message: "OK"};
 }
 
 function ts(ms: unknown): admin.firestore.Timestamp | null {
@@ -92,7 +92,7 @@ async function activate(uid: string, event: any): Promise<void> {
       subscriptionExpirationDate: ts(event.expiration_at_ms),
       updatedAt: admin.firestore.FieldValue.serverTimestamp(),
     },
-    { merge: true }
+    {merge: true}
   );
   logger.info(`Premium açıldı: ${uid} (${event.product_id})`);
 }
@@ -110,7 +110,7 @@ async function cancel(uid: string, event: any): Promise<void> {
       subscriptionExpirationDate: ts(exp),
       updatedAt: admin.firestore.FieldValue.serverTimestamp(),
     },
-    { merge: true }
+    {merge: true}
   );
 }
 
@@ -121,7 +121,7 @@ async function expire(uid: string): Promise<void> {
       subscriptionStatus: "expired",
       updatedAt: admin.firestore.FieldValue.serverTimestamp(),
     },
-    { merge: true }
+    {merge: true}
   );
   logger.info(`Premium kapandı: ${uid}`);
 }
@@ -133,7 +133,7 @@ async function addPackage(uid: string, event: any): Promise<void> {
       aiCredits: admin.firestore.FieldValue.increment(amount),
       updatedAt: admin.firestore.FieldValue.serverTimestamp(),
     },
-    { merge: true }
+    {merge: true}
   );
   logger.info(`Paket: ${uid} +${amount} kredi (${event.product_id})`);
 }
@@ -151,13 +151,13 @@ async function transfer(fromUid: string, event: any): Promise<void> {
         subscriptionExpirationDate: from.subscriptionExpirationDate || null,
         updatedAt: admin.firestore.FieldValue.serverTimestamp(),
       },
-      { merge: true }
+      {merge: true}
     );
   }
   if (targets.length > 0) {
     await fromRef.set(
-      { isPremium: false, subscriptionStatus: "transferred", updatedAt: admin.firestore.FieldValue.serverTimestamp() },
-      { merge: true }
+      {isPremium: false, subscriptionStatus: "transferred", updatedAt: admin.firestore.FieldValue.serverTimestamp()},
+      {merge: true}
     );
   }
 }

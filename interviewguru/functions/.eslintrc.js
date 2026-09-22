@@ -29,5 +29,10 @@ module.exports = {
     "quotes": ["error", "double"],
     "import/no-unresolved": 0,
     "indent": ["error", 2],
+    // Google şablonunun 80 sütun ve zorunlu JSDoc kuralları bu kod tabanına uymuyor:
+    // yorumlar Türkçe düz açıklama, tipler zaten TypeScript'te.
+    "max-len": ["error", {"code": 120, "ignoreUrls": true, "ignoreStrings": true, "ignoreTemplateLiterals": true}],
+    "require-jsdoc": "off",
+    "valid-jsdoc": "off",
   },
 };

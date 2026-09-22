@@ -1,5 +1,5 @@
-import { jsonCompletion } from "../services/openai";
-import { LANGUAGE_NAMES, Language } from "../config";
+import {jsonCompletion} from "../services/openai";
+import {LANGUAGE_NAMES, Language} from "../config";
 
 /**
  * Deneme mülakatı: önce rol/seviye/türe göre soru seti üretilir (ücretsiz,
@@ -28,10 +28,10 @@ export const QUESTIONS_SCHEMA = {
         additionalProperties: false,
         required: ["id", "question", "category", "tip"],
         properties: {
-          id: { type: "string" },
-          question: { type: "string" },
-          category: { type: "string" },
-          tip: { type: "string" },
+          id: {type: "string"},
+          question: {type: "string"},
+          category: {type: "string"},
+          tip: {type: "string"},
         },
       },
     },
@@ -71,7 +71,7 @@ export async function generateQuestions(
     maxTokens: 1500,
     temperature: 0.8,
   });
-  return (result.questions || []).slice(0, count).map((q, i) => ({ ...q, id: `q${i + 1}` }));
+  return (result.questions || []).slice(0, count).map((q, i) => ({...q, id: `q${i + 1}`}));
 }
 
 export interface AnswerFeedback {
@@ -96,9 +96,9 @@ export const EVALUATION_SCHEMA = {
   additionalProperties: false,
   required: ["overallScore", "summary", "hireSignal", "answers", "nextSteps"],
   properties: {
-    overallScore: { type: "integer" },
-    summary: { type: "string" },
-    hireSignal: { type: "string", enum: ["strong_yes", "yes", "maybe", "no"] },
+    overallScore: {type: "integer"},
+    summary: {type: "string"},
+    hireSignal: {type: "string", enum: ["strong_yes", "yes", "maybe", "no"]},
     answers: {
       type: "array",
       items: {
@@ -106,16 +106,16 @@ export const EVALUATION_SCHEMA = {
         additionalProperties: false,
         required: ["id", "score", "feedback", "strengths", "improvements", "sampleAnswer"],
         properties: {
-          id: { type: "string" },
-          score: { type: "integer" },
-          feedback: { type: "string" },
-          strengths: { type: "array", items: { type: "string" } },
-          improvements: { type: "array", items: { type: "string" } },
-          sampleAnswer: { type: "string" },
+          id: {type: "string"},
+          score: {type: "integer"},
+          feedback: {type: "string"},
+          strengths: {type: "array", items: {type: "string"}},
+          improvements: {type: "array", items: {type: "string"}},
+          sampleAnswer: {type: "string"},
         },
       },
     },
-    nextSteps: { type: "array", items: { type: "string" } },
+    nextSteps: {type: "array", items: {type: "string"}},
   },
 };
 
@@ -152,6 +152,6 @@ export async function evaluateAnswers(
   });
   const clamp = (n: number, max: number) => Math.max(0, Math.min(max, Math.round(Number(n) || 0)));
   result.overallScore = clamp(result.overallScore, 100);
-  result.answers = (result.answers || []).map((a) => ({ ...a, score: clamp(a.score, 10) }));
+  result.answers = (result.answers || []).map((a) => ({...a, score: clamp(a.score, 10)}));
   return result;
 }
