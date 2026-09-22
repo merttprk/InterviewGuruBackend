@@ -4,7 +4,7 @@ const fs = require("fs");
 const path = require("path");
 const { REGIONS, SALARIES, COUNTRIES, TIPS } = require("./base");
 
-const OUT = "/Users/muhammedmert/InterviewGuruBackend/interviewguru/content";
+const OUT = path.resolve(__dirname, "..", "..", "content");
 const LANGS = (process.argv[2] || "en,tr,de,es,fr,pt,hi,id,ms").split(",");
 const en = JSON.parse(fs.readFileSync(path.join(__dirname, "i18n/en.json"), "utf8"));
 

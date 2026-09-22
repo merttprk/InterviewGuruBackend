@@ -1,7 +1,8 @@
 // Üretilen 27 dosyanın doğrulaması.
 const fs = require("fs");
 const path = require("path");
-const ROOT = "/Users/muhammedmert/InterviewGuruBackend/interviewguru/content";
+// Depo içi göreli yol: yerelde ve CI'da aynı çalışır (mutlak yol CI'da düşüyordu).
+const ROOT = path.resolve(__dirname, "..", "..", "content");
 const LANGS = ["en", "tr", "de", "es", "fr", "pt", "hi", "id", "ms"];
 const KINDS = ["salaries", "countries", "tips"];
 const errs = [];
