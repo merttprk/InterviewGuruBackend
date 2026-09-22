@@ -1,0 +1,322 @@
+{
+  "id": "technical_skills",
+  "order": 5,
+  "icon": "technical",
+  "color": "#8B5CF6",
+  "title": "Alana Göre Teknik Mülakatlar",
+  "summary": "Kodlama ve değerleme sorularından vaka mülakatlarına ve yetenek testlerine kadar, alanındaki teknik aşamalara hazırlan.",
+  "topics": [
+    {
+      "id": "analysis_method",
+      "order": 1,
+      "title": "Her Teknik Problemi Yapılandırmak",
+      "minutes": 3,
+      "premium": false,
+      "pages": [
+        {
+          "title": "Çözmeden önce netleştir",
+          "body": "Alanın ne olursa olsun ilk adım aynıdır: problemi doğru anladığından emin ol. Soruyu kendi cümlelerinle yeniden ifade et; girdileri, kısıtları ve beklenen çıktıyı sor, varsayımlarını teyit et. Mülakatçılar soru sorup sormayacağını görmek için problemleri çoğu zaman bilerek belirsiz bırakır. Doğrudan çözüme atlamak, yanlış problemi çok iyi çözme riskini taşır.",
+          "tip": "Varsayımlarını yüksek sesle söyle: ‘Verinin belleğe sığdığını varsayıyorum, bu uygun mu?’"
+        },
+        {
+          "title": "Parçalara ayır",
+          "body": "Büyük problemler, onları küçük adımlara böldüğünde yönetilebilir hale gelir. Detaya girmeden önce planını özetle: ‘Önce yükü hesaplayacağım, sonra sınırla karşılaştıracağım, ardından bileşeni boyutlandıracağım.’ Bu, yapılandırılmış düşündüğünü gösterir ve mülakatçının yönünü erkenden düzeltmesine imkân tanır. Optimize etmeden ya da karmaşıklık eklemeden önce basit ve çalışan bir yaklaşımla başla.",
+          "tip": "Adımları yaz ki hem sen hem de mülakatçı onları takip edebilsin."
+        },
+        {
+          "title": "Sesli düşün",
+          "body": "Mülakatçılar yalnızca sonuca değil, akıl yürütmene de bakar. Ne yaptığını ve nedenini, elediğin seçenekler dahil anlat: ‘Burada bir arama tablosu kullanabilirim ama bu aralık için formül daha basit.’ Takılırsan neleri denediğini ve nerede tıkandığını söyle. Mülakatçılar, kendini net ifade eden adaylara genellikle ipucu verir.",
+          "tip": "Uzun sessizlikler mülakatçıya daha da uzun gelir; emin olmasan bile anlatmaya devam et."
+        },
+        {
+          "title": "Kontrol et ve değerlendir",
+          "body": "Bir cevaba ulaştığında onu test et. Basit bir örnek, bir uç durum ya da hızlı bir mantık kontrolü dene: Sayının birimi doğru mu, büyüklüğü makul mü? Ardından çözümünü özetle ve sınırlılıklarından ya da daha fazla zamanın olsa onu nasıl geliştireceğinden bahset. Kendi hatanı yakalamak, mülakatçıları hiç hata yapmamaktan daha çok etkiler.",
+          "tip": "Kendine her zaman şunu sor: ‘Bu cevap gerçek hayatta mantıklı mı?’"
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Sana teknik bir problem verildiğinde ilk ne yapmalısın?",
+          "options": ["Hemen hesaplamaya başlamak", "Problemi, kısıtları ve varsayımları netleştirmek", "Cevabı sormak", "Önceki işini anlatmak"],
+          "answer": 1,
+          "explanation": "Netleştirmek doğru problemi çözmeni sağlar ve mülakatçılar bunu sıklıkla test eder."
+        },
+        {
+          "id": "q2",
+          "question": "Teknik bir soru sırasında neden sesli düşünmelisin?",
+          "options": ["Mülakat bitene kadar zaman doldurmak için", "Mülakatçılar yalnızca sonucu puanladığı için", "Mülakatçıların akıl yürütmeni değerlendirmesini ve ipucu verebilmesini sağladığı için", "Ek soruların önüne geçtiği için"],
+          "answer": 2,
+          "explanation": "Değerlendirilen şey akıl yürütmendir ve net iletişim işe yarar ipuçlarını beraberinde getirir."
+        },
+        {
+          "id": "q3",
+          "question": "Bir cevaba ulaştıktan sonra iyi bir son adım nedir?",
+          "options": ["Bir örnekle ya da mantık kontrolüyle test etmek", "Yorum yapmadan devam etmek", "Daha zor bir problem istemek", "Baştan yeniden yazmak"],
+          "answer": 0,
+          "explanation": "Örneklerle ve mantık kontrolüyle doğrulamak hataları yakalar ve titizliğini gösterir."
+        }
+      ]
+    },
+    {
+      "id": "software_engineering",
+      "order": 2,
+      "title": "Yazılım Mühendisliği Mülakatları",
+      "minutes": 4,
+      "premium": false,
+      "pages": [
+        {
+          "title": "Kodlama aşaması",
+          "body": "Yazılım mülakatlarının çoğu, paylaşılan bir editörde ya da beyaz tahtada canlı kodlama içerir. Problem çözme, kod kalitesi ve iletişim becerin değerlendirilir. Girdiyi ve uç durumları netleştir, önce kaba kuvvet (brute-force) bir çözüm anlat, sonra onu iyileştir. Anlamlı isimlerle temiz ve okunabilir kod yaz. Bitirdiğinde bir test senaryosunu satır satır üzerinden geç ve zaman ile bellek karmaşıklığını belirt.",
+          "tip": "Otomatik tamamlama olmayan sade bir editörde pratik yap; birçok mülakat aracında bu özellik yoktur."
+        },
+        {
+          "title": "Veri yapıları ve algoritmalar",
+          "body": "Temel konular tekrar tekrar karşına çıkar: diziler ve metinler, hash map'ler, yığınlar ve kuyruklar, bağlı listeler, ağaçlar, graflar, sıralama ve arama, özyineleme. Yaygın işlemlerin tipik zaman karmaşıklığını bil; örneğin hash map'te ortalama aramanın sabit zamanlı olduğunu. Tek tek problemleri ezberlemek yerine iki işaretçi (two pointers), kayan pencere (sliding window) ve genişlik öncelikli arama gibi kalıpları tanımayı öğren.",
+          "tip": "Bir problemde tekrarlanan aramalar görürsen hash map'in işe yarayıp yaramayacağını düşün."
+        },
+        {
+          "title": "Sistem tasarımının temelleri",
+          "body": "Orta ve kıdemli seviye roller için bir sistem tasarımı aşaması bekle: ‘Bir URL kısaltıcı tasarla.’ Gereksinimler ve ölçekle başla, ardından ana bileşenleri çiz: istemciler, API, servisler, veritabanı, önbellek. SQL ile NoSQL ya da tutarlılık ile erişilebilirlik gibi ödünleşimleri tartış. Genellikle tek bir doğru cevap yoktur; mülakatçılar gerekçeli seçimler ve darboğazların farkında olduğunu görmek ister.",
+          "tip": "Önce ölçeği tahmin et; örneğin saniyedeki istek sayısı ve veri boyutu."
+        },
+        {
+          "title": "Kod incelemesi ve tartışma",
+          "body": "Bazı şirketler sana mevcut bir kodu gösterip incelemeni ister. Hatalara, belirsiz isimlendirmelere, eksik hata yönetimine, güvenlik açıklarına ve eksik testlere bak. Geri bildirimini saygılı bir dille ver ve bir değişikliğin neden önemli olduğunu açıkla. Geçmiş projelerin de sorulabilir: tasarım kararlarını, neyin ters gittiğini ve neyi farklı yapacağını anlatmaya hazır ol.",
+          "tip": "Ödünleşimleri dahil derinlemesine anlatabileceğin bir proje hazırla."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Kodlama aşamasında çözümünü yazdıktan sonra ne yapmalısın?",
+          "options": ["Yorum yapmadan hemen teslim etmek", "Bir test senaryosunu üzerinden geçip karmaşıklığını belirtmek", "Mülakatçıdan test etmesini istemek", "Silip yeni bir yaklaşıma başlamak"],
+          "answer": 1,
+          "explanation": "Kodunu test etmek ve karmaşıklığını belirtmek titizliğini ve konuya hâkimiyetini gösterir."
+        },
+        {
+          "id": "q2",
+          "question": "Bir sistem tasarımı sorusuna nasıl başlamalısın?",
+          "options": ["Bir veritabanı markası seçerek", "API için kod yazarak", "Gereksinimleri netleştirip ölçeği tahmin ederek", "Ayrıntılı bir sınıf diyagramı çizerek"],
+          "answer": 2,
+          "explanation": "Gereksinimler ve ölçek, sonraki tüm tasarım kararlarını şekillendirir."
+        },
+        {
+          "id": "q3",
+          "question": "Senden kod incelemen istendiğinde nelere bakmalısın?",
+          "options": ["Yalnızca biçimlendirme ve girintilere", "Kodu yazanın adına", "En yeni dil sürümünün kullanılıp kullanılmadığına", "Hatalara, belirsiz isimlendirmelere, hata yönetimine, güvenlik açıklarına ve testlere"],
+          "answer": 3,
+          "explanation": "İyi bir inceleme doğruluğu, anlaşılırlığı, sağlamlığı, güvenliği ve testleri kapsar."
+        }
+      ]
+    },
+    {
+      "id": "finance",
+      "order": 3,
+      "title": "Finans ve Muhasebe Mülakatları",
+      "minutes": 4,
+      "premium": true,
+      "pages": [
+        {
+          "title": "Üç temel tablo",
+          "body": "Gelir tablosu, bilanço ve nakit akış tablosunun birbirine nasıl bağlandığıyla ilgili sorular bekle. Net kâr, gelir tablosundan nakit akış tablosunun en üstüne ve bilançodaki geçmiş yıl kârlarına aktarılır. Klasik bir soru: ‘Amortisman 10 artarsa tablolarda neler değişir, adım adım anlatır mısın?’ Bunu otomatikleşene kadar sesli olarak çalış.",
+          "tip": "Anlatımının sonunda bilançonun mutlaka denk olması gerektiğini unutma."
+        },
+        {
+          "title": "Değerlemenin temelleri",
+          "body": "Başlıca değerleme yöntemlerini bil: indirgenmiş nakit akışı (DCF), benzer şirketler ve emsal işlemler. Firma değeri ile özsermaye değeri arasındaki farkı ve DCF'nin gelecekteki serbest nakit akışlarını neden ağırlıklı ortalama sermaye maliyeti gibi bir oranla indirgediğini açıklamaya hazır ol. Mülakatçılar ezberlenmiş formüllerden çok, her yöntemin neden kullanıldığını anlayıp anlamadığına önem verir.",
+          "tip": "Her yöntemi, alanın dışından birine iki cümleyle anlatabilmelisin."
+        },
+        {
+          "title": "Excel ve modelleme testleri",
+          "body": "Birçok finans rolü süreli bir Excel testi içerir: basit bir model kurmak, veri temizlemek ya da bir veri setinden soruları yanıtlamak. Arama fonksiyonlarını, ÇOKETOPLA (SUMIFS), pivot tabloları, mutlak ve göreli başvuruları ve temel grafik oluşturmayı bil. Girdileri, hesaplamaları ve çıktıları net biçimde ayır ve etiketle. Düzenli ve kontrol edilebilir bir model, kimsenin takip edemediği zekice bir modelden daha yüksek puan alır.",
+          "tip": "Gezinme için klavye kısayollarını öğren; zaman baskısı altında sana değerli dakikalar kazandırır."
+        },
+        {
+          "title": "Piyasa farkındalığı",
+          "body": "‘Takip ettiğin bir şirketten ya da işlemden bahseder misin?’ veya ‘Sence faiz oranları nereye gidiyor?’ gibi sorularla karşılaşabilirsin. Mülakatlardan önceki birkaç hafta boyunca finans haberlerini düzenli olarak takip et. Rakamlarla ve net bir görüşle tartışabileceğin bir şirket ile güncel bir piyasa trendi hazırla. Emin olmaman sorun değil; akıl yürütmeni göster.",
+          "tip": "Kısa bir yatırım sunumu hazırla: şirket, görüşün ve bunu destekleyen iki gerekçe."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Net kâr, gelir tablosundan sonra nereye gider?",
+          "options": ["Yalnızca nakit olarak bilançoya", "Nakit akış tablosunun en üstüne ve geçmiş yıl kârlarına", "Hiçbir yere; gelir tablosunda kalır", "Doğrudan firma değerine"],
+          "answer": 1,
+          "explanation": "Net kâr, nakit akışı ve geçmiş yıl kârları üzerinden üç tabloyu birbirine bağlar."
+        },
+        {
+          "id": "q2",
+          "question": "Aşağıdakilerden hangisi başlıca değerleme yöntemlerinden biridir?",
+          "options": ["İndirgenmiş nakit akışı", "Doğrusal işe alım", "Çift taraflı bordro", "Stok sayımı"],
+          "answer": 0,
+          "explanation": "DCF, benzer şirketler ve emsal işlemler temel yöntemlerdir."
+        },
+        {
+          "id": "q3",
+          "question": "Bir Excel testinde modelin yüksek puan almasını ne sağlar?",
+          "options": ["Tüm formülleri gizlemek", "Mümkün olduğunca çok fonksiyon kullanmak", "Girdilerin, hesaplamaların ve çıktıların net biçimde ayrılıp etiketlenmesi", "Her şeyi tek bir hücreye koymak"],
+          "answer": 2,
+          "explanation": "Düzenli ve kontrol edilebilir bir yapı, zekice çözümlerden daha değerli görülür."
+        }
+      ]
+    },
+    {
+      "id": "engineering_roles",
+      "order": 4,
+      "title": "Mühendislik Mülakatları",
+      "minutes": 4,
+      "premium": true,
+      "pages": [
+        {
+          "title": "Temel bilgiler ve hesaplamalar",
+          "body": "Makine, elektrik ve inşaat mühendisliği mülakatları, temel prensipleri çoğu zaman hızlı hesaplamalarla sınar: gerilme ve şekil değiştirme, ısı transferi, Ohm yasası, güç, kiriş yüklemesi ya da akışkan akışı. Yöntemini net göster, her adımda birimleri yaz ve varsayımlarını belirt. Doğru yaklaşım, kusursuz aritmetikten daha önemlidir. Önce tahmin yap ki çok uçuk bir sonucu hemen fark edebilesin.",
+          "tip": "Mülakattan önceki hafta disiplininin temel formüllerini tekrar et."
+        },
+        {
+          "title": "Önce güvenlik",
+          "body": "Güvenlik soruları hem yaygın hem de ciddidir. Sahada güvensiz bir durumla karşılaştığında nasıl davranacağın ya da bir tasarım güvenlik paylarını karşılamıyorsa ne yapacağın sorulabilir. Teslim tarihi baskısı altında kestirme yollara sapmak yerine işi durduracağını, durumu üst kademeye bildireceğini ve prosedürlere uyacağını göster. Risk değerlendirmesinden, güvenlik katsayılarından ve ilgili koruyucu önlemlerden bahset.",
+          "tip": "Varsayımsal bile olsa, takvime yetişmek için güvenlikten ödün vermeyi asla önerme."
+        },
+        {
+          "title": "Standartlar ve yönetmelikler",
+          "body": "Mühendislik çalışmaları ulusal yapı yönetmelikleri, elektrik tesisat yönetmelikleri ya da uluslararası ISO standartları gibi kurallara ve standartlara dayanır. Bunları ezbere saymana gerek yok, ama nasıl kullandığını açıklayabilmelisin: tasarımları kontrol etmek, uygunluğu belgelemek ve güncel kalmak. Bir standarttan bahsedersen neyi kapsadığını iyi bildiğinden emin ol, çünkü muhtemelen ek sorular gelecektir.",
+          "tip": "Bir projede gerçekten kullandığın standartların adını ver ve nasıl kullandığını anlat."
+        },
+        {
+          "title": "Projelerini anlatmak",
+          "body": "İş hayatından, stajdan ya da üniversiteden bir projeyle ilgili ayrıntılı sorular bekle. Problemi, senin özel rolünü, önemli tasarım kararlarını, kullandığın araçları ve sonuçları, mümkünse rakamlarla anlat. Neyin ters gittiği ve ne öğrendiğin konusunda dürüst ol. Uygunsa çizimlerini ya da portfolyonu yanında getir, ama gizli bilgi içermediğinden emin ol.",
+          "tip": "CV değerlendirme, mülakattan önce proje açıklamalarını toparlamana yardımcı olabilir."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Bir mühendislik mülakatında hesaplama çözerken en önemli şey nedir?",
+          "options": ["Birimlerin ve varsayımların belirtildiği net bir yöntem", "Hiçbir şey yazmadan kusursuz zihinden hesap", "Mülakatçıdan daha hızlı bitirmek", "En gelişmiş formülü kullanmak"],
+          "answer": 0,
+          "explanation": "Yöntem, birimler ve varsayımlar sağlam bir mühendislik bakış açısını gösterir."
+        },
+        {
+          "id": "q2",
+          "question": "Sahada güvensiz bir durumla ilgili soruyu nasıl yanıtlamalısın?",
+          "options": ["İşi hızla bitirip sonra bildiririm", "Teslim tarihi yakınsa görmezden gelirim", "İşi durdurur, üst kademeye bildirir ve prosedürlere uyarım", "Bir iş arkadaşımdan sessizce halletmesini isterim"],
+          "answer": 2,
+          "explanation": "Mülakatçılar, güvenliği teslim tarihlerinin önünde tutan net bir tutum arar."
+        },
+        {
+          "id": "q3",
+          "question": "Portfolyo getirirken neye dikkat etmelisin?",
+          "options": ["Renkli baskı olmasına", "Gizli bilgi içermemesine", "Elli sayfadan uzun olmasına", "Yalnızca üniversite çalışmalarını içermesine"],
+          "answer": 1,
+          "explanation": "Önceki işverenlere ait gizli materyalleri paylaşmak ciddi bir tehlike işaretidir."
+        }
+      ]
+    },
+    {
+      "id": "case_interviews",
+      "order": 5,
+      "title": "Vaka Mülakatları",
+      "minutes": 4,
+      "premium": true,
+      "pages": [
+        {
+          "title": "Vaka mülakatı nedir?",
+          "body": "Danışmanlık ve birçok iş rolünde vaka mülakatları kullanılır: sana ‘Bir perakendecinin kârı düştü, neden?’ gibi bir iş problemi verilir ve mülakatçıyla birlikte bunun üzerinde çalışırsın. Yapılandırılmış düşünme, sayılarla rahat çalışabilme, iş sezgisi ve iletişim becerin değerlendirilir. Vakalar ya mülakatçının her adımı yönlendirdiği mülakatçı odaklı ya da analizi senin yürüttüğün aday odaklı olur.",
+          "tip": "Soruda verilen tüm rakamları ve bilgileri not al."
+        },
+        {
+          "title": "Bir yapı kur",
+          "body": "Hedefi netleştirdikten sonra, problemi birbirinden ayrı parçalara bölen bir çerçeve kurmak için kendine kısa bir süre tanı. Düşen kârlar için konuyu gelirler ve maliyetler olarak ayır, sonra her birini daha da detaylandır. Ezberlenmiş bir şablonu zorla uygulamak yerine çerçeveyi vakaya uyarla. Detaya girmeden önce yapını net biçimde sun ve mülakatçıya önce hangi alanı incelemek istediğini sor.",
+          "tip": "Düşüncelerini toparlamak için otuz saniye iste; bu normaldir ve zaten beklenir."
+        },
+        {
+          "title": "Tahmin ve pazar büyüklüğü",
+          "body": "Pazar büyüklüğü soruları ‘Bir şehirde her gün kaç fincan kahve satılıyor?’ gibi şeyler sorar. Problemi mantıksal adımlara böl: nüfus, kahve içenlerin oranı, kişi başına fincan sayısı vb. Varsayımlarını belirt, yuvarlak sayılar kullan ve adım adım hesapla. Mülakatçı senin mantığını önemser; makul bir yaklaşım, kesin rakamdan daha önemlidir.",
+          "tip": "Vardığın sonucu günlük hayattan bildiğin bir şeyle karşılaştırıp mantık kontrolü yap."
+        },
+        {
+          "title": "Hipotez odaklı düşünme",
+          "body": "Güçlü adaylar erkenden bir hipotez kurar ve onu test eder: ‘Asıl etkenin artan maliyetler olduğunu düşünüyorum, maliyet verilerine bakayım.’ Yeni bilgi geldikçe görüşünü güncelle. Net bir öneriyle bitir: cevabın, onu destekleyen iki üç gerekçe, riskler ve sonraki adımlar. Bir müşterinin genel müdürüne sunum yapıyormuş gibi konuş.",
+          "tip": "Hız ve yapı kazanmak için canlı vakaları deneme mülakatında çalış."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Vaka mülakatında çerçeveleri nasıl kullanmalısın?",
+          "options": ["Ezberlenmiş tek bir şablonu her vakaya uygulayarak", "Yaratıcı görünmek için yapıdan kaçınarak", "Çerçeveyi o probleme özel olarak uyarlayarak", "Çerçeveyi mülakatçının kurmasına izin vererek"],
+          "answer": 2,
+          "explanation": "Probleme özel yapılar gerçek bir düşünce sürecini gösterir; zorla uygulanan şablonlar mekanik görünür."
+        },
+        {
+          "id": "q2",
+          "question": "Pazar büyüklüğü sorusunda en önemli şey nedir?",
+          "options": ["Varsayımların belirtildiği mantıklı bir yaklaşım", "Resmi rakamı tam olarak bilmek", "Hassas ondalıklar kullanmak", "On saniyeden kısa sürede cevap vermek"],
+          "answer": 0,
+          "explanation": "Mülakatçılar kesin rakamı değil, mantığını ve varsayımlarını değerlendirir."
+        },
+        {
+          "id": "q3",
+          "question": "Bir vaka mülakatını nasıl bitirmelisin?",
+          "options": ["Hesapladığın her rakamı özetleyerek", "Mülakatçıya cevabı sorarak", "Daha fazla analiz gerektiğini söyleyerek", "Net bir öneri, gerekçeler, riskler ve sonraki adımlarla"],
+          "answer": 3,
+          "explanation": "Beklenen kapanış, müşteriye sunulmaya hazır, kararlı bir öneridir."
+        }
+      ]
+    },
+    {
+      "id": "test_types",
+      "order": 6,
+      "title": "Ev Ödevleri ve Yetenek Testleri",
+      "minutes": 3,
+      "premium": true,
+      "pages": [
+        {
+          "title": "Evde yapılan ödevler",
+          "body": "Ev ödevi şeklindeki görevler, küçük bir uygulama, bir analiz ya da bir rapor gibi gerçekçi bir işi tamamlaman için sana saatler veya günler tanır. Görev tanımını dikkatle oku ve ekstra bir şey eklemeden önce tam olarak isteneni teslim et. Önerilen bir süre sınırı varsa ona uy. Yaklaşımını, varsayımlarını ve daha fazla zamanın olsa neyi geliştireceğini anlatan kısa bir not ekle.",
+          "tip": "Başlamadan önce işe alım uzmanına görevin nasıl değerlendirileceğini sor."
+        },
+        {
+          "title": "Sayısal ve sözel akıl yürütme",
+          "body": "Sayısal testler; yüzdeleri, oranları ve veri yorumlamayı ölçmek için tablolar ve grafikler kullanır. Sözel testler ise bir metin verir ve ifadelerin doğru mu, yanlış mı yoksa metinden anlaşılamayacağını mı sorar. Sözel sorularda dış bilgini değil, yalnızca verilen bilgiyi kullan. Deneme testlerine kolayca ulaşabilirsin; testlere aşinalık hızını ve doğruluğunu büyük ölçüde artırır.",
+          "tip": "Sözel testlerde metin ifadeyi ne doğruluyor ne de çürütüyorsa doğru cevap ‘bilinemez’dir."
+        },
+        {
+          "title": "Kişilik ve durumsal testler",
+          "body": "Kişilik envanterleri genellikle nasıl davrandığını sorar; durumsal yargı testleri ise birkaç olası yanıtla birlikte iş yeri senaryoları sunar. Dürüst ve tutarlı cevap ver; birçok araç çelişkili yanıtları tespit eder. Rolün gerekliliklerini aklında tut, ama kendine farklı bir kişilik uydurmaya çalışma. Durumsal testlerde profesyonel, iş birliğine açık ve problemi doğrudan ele alan yanıtları seç.",
+          "tip": "Şirketin değerlerini önceden oku; durumsal testler çoğu zaman bu değerleri yansıtır."
+        },
+        {
+          "title": "Zamanını yönetmek",
+          "body": "Yetenek testlerinin çoğu kesin süreyle sınırlıdır ve çok az kişinin tüm soruları bitirebileceği şekilde tasarlanır. Soru sayısına bak ve süreyi bölerek kabaca bir tempo belirle. Takılıp kalma: zor soruları atla ve zaman kalırsa geri dön. Yanlış cevapların puan kırıp kırmadığını öğren; kırmıyorsa her soruyu cevapla. Testlere sessiz bir ortamda ve stabil bir internet bağlantısıyla gir.",
+          "tip": "İzin veriliyorsa hesap makinesi ve karalama kâğıdını hazır bulundur."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Bir ev ödeviyle birlikte ne teslim etmelisin?",
+          "options": ["Daha yüksek maaş talebi", "Yaklaşımın, varsayımların ve olası iyileştirmeler hakkında kısa bir not", "İstenenler yerine ekstra özellikler", "Kod ya da dosya dışında hiçbir şey"],
+          "answer": 1,
+          "explanation": "Akıl yürütmeni açıklamak, değerlendirenlerin çalışmanı anlamasına ve takdir etmesine yardımcı olur."
+        },
+        {
+          "id": "q2",
+          "question": "Sözel akıl yürütme testinde hangi bilgiyi kullanmalısın?",
+          "options": ["Konuyla ilgili genel bilgini", "Gerçek hayatta en olası görüneni", "Yalnızca metinde verilen bilgiyi", "İşverenin tercih edeceğini düşündüğün cevabı"],
+          "answer": 2,
+          "explanation": "Sözel akıl yürütme testleri ifadeleri yalnızca metne göre değerlendirir."
+        },
+        {
+          "id": "q3",
+          "question": "Süreli bir testte zor bir soruda takılırsan ne yapmalısın?",
+          "options": ["Atlayıp zaman kalırsa geri dönmek", "Çözene kadar o soruda kalmak", "Testi erken bitirmek", "Kalan tüm soruları rastgele işaretlemek"],
+          "answer": 0,
+          "explanation": "Atlamak temponu korur ve toplamda daha fazla soru cevaplamanı sağlar."
+        }
+      ]
+    }
+  ]
+}

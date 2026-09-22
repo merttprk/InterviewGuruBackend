@@ -1,0 +1,412 @@
+{
+  "id": "technical_skills",
+  "order": 5,
+  "icon": "technical",
+  "color": "#8B5CF6",
+  "title": "Entrevistas técnicas por área",
+  "summary": "Prepárate para las rondas técnicas de tu área, desde preguntas de programación y valoración hasta casos prácticos y pruebas de aptitud.",
+  "topics": [
+    {
+      "id": "analysis_method",
+      "order": 1,
+      "title": "Cómo estructurar cualquier problema técnico",
+      "minutes": 3,
+      "premium": false,
+      "pages": [
+        {
+          "title": "Aclara antes de resolver",
+          "body": "Sea cual sea tu área, el primer paso es el mismo: asegúrate de entender el problema. Reformúlalo con tus propias palabras, pregunta por los datos de entrada, las restricciones y el resultado esperado, y confirma cualquier suposición. Los entrevistadores suelen dejar los problemas deliberadamente vagos para ver si preguntas. Lanzarte directamente a una solución te expone a resolver muy bien el problema equivocado.",
+          "tip": "Expresa tus suposiciones en voz alta: «Voy a suponer que los datos caben en memoria, ¿te parece razonable?»."
+        },
+        {
+          "title": "Divídelo en partes",
+          "body": "Los problemas grandes se vuelven manejables cuando los divides en pasos más pequeños. Esboza tu plan antes de empezar: «Primero calcularé la carga, luego la compararé con el límite y después dimensionaré el componente». Esto demuestra un pensamiento estructurado y permite que el entrevistador corrija tu rumbo desde el principio. Empieza con un enfoque sencillo que funcione antes de optimizar o añadir complejidad.",
+          "tip": "Anota los pasos para que tanto tú como el entrevistador puedan seguirlos."
+        },
+        {
+          "title": "Piensa en voz alta",
+          "body": "Los entrevistadores evalúan tu razonamiento, no solo la respuesta final. Explica lo que haces y por qué, incluidas las opciones que descartas: «Aquí podría usar una tabla de consulta, pero para este rango una fórmula es más sencilla». Si te atascas, di lo que has intentado y dónde estás bloqueado. Los entrevistadores suelen dar pistas a los candidatos que se comunican con claridad.",
+          "tip": "Los silencios largos se le hacen más largos al entrevistador; sigue explicando aunque no estés seguro."
+        },
+        {
+          "title": "Comprueba y reflexiona",
+          "body": "Cuando llegues a una respuesta, ponla a prueba. Prueba un ejemplo sencillo, un caso límite o una comprobación rápida de coherencia: ¿el número tiene las unidades correctas y un tamaño plausible? Después resume tu solución y menciona sus limitaciones o cómo la mejorarías con más tiempo. Detectar tu propio error impresiona más a los entrevistadores que no cometer ninguno.",
+          "tip": "Pregúntate siempre: «¿Tiene sentido esta respuesta en el mundo real?»."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "¿Qué deberías hacer primero cuando te plantean un problema técnico?",
+          "options": [
+            "Empezar a calcular de inmediato",
+            "Aclarar el problema, las restricciones y las suposiciones",
+            "Pedir la respuesta",
+            "Explicar tu trabajo anterior"
+          ],
+          "answer": 1,
+          "explanation": "Aclarar garantiza que resuelves el problema correcto, y los entrevistadores suelen evaluarlo."
+        },
+        {
+          "id": "q2",
+          "question": "¿Por qué deberías pensar en voz alta durante una pregunta técnica?",
+          "options": [
+            "Sirve para llenar el tiempo hasta que termine la entrevista",
+            "Los entrevistadores solo califican la respuesta final",
+            "Permite a los entrevistadores evaluar tu razonamiento y darte pistas",
+            "Evita las preguntas de seguimiento"
+          ],
+          "answer": 2,
+          "explanation": "Lo que se evalúa es tu razonamiento, y una comunicación clara favorece que te den pistas útiles."
+        },
+        {
+          "id": "q3",
+          "question": "¿Cuál es un buen paso final después de llegar a una respuesta?",
+          "options": [
+            "Probarla con un ejemplo o una comprobación de coherencia",
+            "Pasar a otra cosa sin comentar nada",
+            "Pedir un problema más difícil",
+            "Reescribirla desde cero"
+          ],
+          "answer": 0,
+          "explanation": "Comprobar con ejemplos y verificaciones de coherencia detecta errores y demuestra rigor."
+        }
+      ]
+    },
+    {
+      "id": "software_engineering",
+      "order": 2,
+      "title": "Entrevistas de ingeniería de software",
+      "minutes": 4,
+      "premium": false,
+      "pages": [
+        {
+          "title": "La ronda de programación",
+          "body": "La mayoría de las entrevistas de software incluyen programación en vivo en un editor compartido o una pizarra. Te evalúan por tu capacidad de resolver problemas, la calidad del código y la comunicación. Aclara los datos de entrada y los casos límite, describe una solución de fuerza bruta y luego mejórala. Escribe código limpio y legible con nombres significativos. Al terminar, recorre un caso de prueba línea por línea e indica la complejidad temporal y espacial.",
+          "tip": "Practica en un editor básico sin autocompletado; muchas herramientas de entrevista no lo tienen."
+        },
+        {
+          "title": "Estructuras de datos y algoritmos",
+          "body": "Los temas clave aparecen una y otra vez: arrays y cadenas, tablas hash, pilas y colas, listas enlazadas, árboles, grafos, ordenación y búsqueda, y recursividad. Conoce la complejidad temporal típica de las operaciones habituales, como la búsqueda en tiempo constante promedio en una tabla hash. Aprende a reconocer patrones como dos punteros, ventanas deslizantes y búsqueda en anchura, en lugar de memorizar problemas concretos.",
+          "tip": "Cuando veas búsquedas repetidas en un problema, piensa si una tabla hash te ayudaría."
+        },
+        {
+          "title": "Fundamentos de diseño de sistemas",
+          "body": "Para puestos de nivel intermedio y sénior, espera una ronda de diseño de sistemas: «Diseña un acortador de URL». Empieza por los requisitos y la escala, y luego esboza los componentes principales: clientes, API, servicios, base de datos, caché. Analiza las ventajas y desventajas, como SQL frente a NoSQL, o consistencia frente a disponibilidad. Rara vez hay una única respuesta correcta; los entrevistadores quieren ver decisiones razonadas y conciencia de los cuellos de botella.",
+          "tip": "Estima primero la escala, como las solicitudes por segundo y el volumen de datos."
+        },
+        {
+          "title": "Revisión de código y conversación técnica",
+          "body": "Algunas empresas te muestran código existente y te piden que lo revises. Busca errores, nombres poco claros, falta de gestión de errores, problemas de seguridad y pruebas ausentes. Da tu opinión con respeto y explica por qué importa cada cambio. También pueden preguntarte por tus proyectos anteriores: prepárate para explicar tus decisiones de diseño, qué salió mal y qué harías de otra manera.",
+          "tip": "Prepara un proyecto que puedas explicar a fondo, incluidas sus ventajas y desventajas."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Después de escribir tu solución en una ronda de programación, ¿qué deberías hacer?",
+          "options": [
+            "Entregarla de inmediato sin comentarios",
+            "Recorrer un caso de prueba e indicar su complejidad",
+            "Pedir al entrevistador que la pruebe",
+            "Borrarla y empezar con otro enfoque"
+          ],
+          "answer": 1,
+          "explanation": "Probar tu código e indicar su complejidad demuestra rigor y comprensión."
+        },
+        {
+          "id": "q2",
+          "question": "¿Cómo deberías empezar una pregunta de diseño de sistemas?",
+          "options": [
+            "Elegir una marca de base de datos",
+            "Escribir el código de la API",
+            "Aclarar los requisitos y estimar la escala",
+            "Dibujar un diagrama de clases detallado"
+          ],
+          "answer": 2,
+          "explanation": "Los requisitos y la escala condicionan todas las decisiones de diseño posteriores."
+        },
+        {
+          "id": "q3",
+          "question": "¿Qué deberías buscar cuando te piden revisar código?",
+          "options": [
+            "Solo el formato y la sangría",
+            "El nombre del autor",
+            "Si usa la versión más reciente del lenguaje",
+            "Errores, nombres poco claros, gestión de errores, problemas de seguridad y pruebas"
+          ],
+          "answer": 3,
+          "explanation": "Una buena revisión abarca la corrección, la claridad, la robustez, la seguridad y las pruebas."
+        }
+      ]
+    },
+    {
+      "id": "finance",
+      "order": 3,
+      "title": "Entrevistas de finanzas y contabilidad",
+      "minutes": 4,
+      "premium": true,
+      "pages": [
+        {
+          "title": "Los tres estados financieros",
+          "body": "Espera preguntas sobre cómo se relacionan la cuenta de resultados, el balance y el estado de flujos de efectivo. El beneficio neto pasa de la cuenta de resultados a la parte superior del estado de flujos de efectivo y a las reservas (beneficios retenidos) del balance. Una pregunta clásica: «La amortización aumenta en 10; explícame cómo afecta a los estados». Practícalo en voz alta hasta que te salga de forma automática.",
+          "tip": "Recuerda siempre que el balance debe cuadrar al final de tu explicación."
+        },
+        {
+          "title": "Fundamentos de valoración",
+          "body": "Conoce los principales métodos de valoración: flujos de caja descontados, empresas comparables y transacciones precedentes. Prepárate para explicar la diferencia entre valor de empresa y valor del capital, y por qué el DCF descuenta los flujos de caja libres futuros con una tasa como el coste medio ponderado del capital. A los entrevistadores les importa más que entiendas por qué se usa cada método que las fórmulas memorizadas.",
+          "tip": "Debes poder explicar cada método en dos frases a alguien que no sea especialista."
+        },
+        {
+          "title": "Pruebas de Excel y modelización",
+          "body": "Muchos puestos de finanzas incluyen una prueba de Excel cronometrada: construir un modelo sencillo, limpiar datos o responder preguntas a partir de un conjunto de datos. Domina las funciones de búsqueda, SUMIFS, las tablas dinámicas, las referencias absolutas y relativas, y los gráficos básicos. Mantén los datos de entrada, los cálculos y los resultados claramente separados y etiquetados. Un modelo ordenado y verificable puntúa mejor que uno ingenioso que nadie puede seguir.",
+          "tip": "Aprende los atajos de teclado para navegar; te ahorran minutos valiosos cuando el tiempo aprieta."
+        },
+        {
+          "title": "Conocimiento del mercado",
+          "body": "Pueden preguntarte: «Háblame de una empresa o una operación que hayas seguido» o «¿Hacia dónde crees que van los tipos de interés?». Sigue las noticias financieras con regularidad durante unas semanas antes de las entrevistas. Prepara una empresa y una tendencia reciente del mercado de las que puedas hablar con cifras y una opinión clara. No pasa nada por tener dudas; muestra tu razonamiento.",
+          "tip": "Prepara una breve propuesta de inversión: la empresa, tu opinión y dos razones que la respalden."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "¿Adónde va el beneficio neto después de la cuenta de resultados?",
+          "options": [
+            "Solo al balance como efectivo",
+            "A la parte superior del estado de flujos de efectivo y a las reservas",
+            "A ningún otro sitio; se queda en la cuenta de resultados",
+            "Directamente al valor de empresa"
+          ],
+          "answer": 1,
+          "explanation": "El beneficio neto conecta los tres estados a través del flujo de efectivo y las reservas."
+        },
+        {
+          "id": "q2",
+          "question": "¿Cuál de estos es uno de los principales métodos de valoración?",
+          "options": [
+            "Flujos de caja descontados",
+            "Contratación lineal",
+            "Nómina por partida doble",
+            "Recuento de inventario"
+          ],
+          "answer": 0,
+          "explanation": "El DCF, las empresas comparables y las transacciones precedentes son los métodos principales."
+        },
+        {
+          "id": "q3",
+          "question": "¿Qué hace que un modelo obtenga buena puntuación en una prueba de Excel?",
+          "options": [
+            "Ocultar todas las fórmulas",
+            "Usar el mayor número posible de funciones",
+            "Datos de entrada, cálculos y resultados claramente separados y etiquetados",
+            "Ponerlo todo en una sola celda"
+          ],
+          "answer": 2,
+          "explanation": "Se valora más una estructura ordenada y verificable que el ingenio."
+        }
+      ]
+    },
+    {
+      "id": "engineering_roles",
+      "order": 4,
+      "title": "Entrevistas de ingeniería",
+      "minutes": 4,
+      "premium": true,
+      "pages": [
+        {
+          "title": "Fundamentos y cálculos",
+          "body": "Las entrevistas de ingeniería mecánica, eléctrica y civil suelen evaluar los principios básicos con cálculos rápidos: tensión y deformación, transferencia de calor, ley de Ohm, potencia, cargas en vigas o flujo de fluidos. Muestra tu método con claridad, escribe las unidades en cada paso e indica tus suposiciones. Acertar con el enfoque importa más que la aritmética exacta. Haz primero una estimación para detectar una respuesta que se desvíe mucho.",
+          "tip": "Repasa las fórmulas fundamentales de tu disciplina la semana anterior."
+        },
+        {
+          "title": "La seguridad es lo primero",
+          "body": "Las preguntas sobre seguridad son habituales y se toman muy en serio. Pueden preguntarte cómo reaccionarías ante una situación insegura en la obra o qué harías si un diseño no cumpliera los márgenes de seguridad. Demuestra que detendrías el trabajo, lo escalarías y seguirías los procedimientos en lugar de tomar atajos por la presión de los plazos. Menciona la evaluación de riesgos, los factores de seguridad y las medidas de protección pertinentes.",
+          "tip": "Nunca sugieras comprometer la seguridad para cumplir un plazo, ni siquiera en una situación hipotética."
+        },
+        {
+          "title": "Normas y códigos",
+          "body": "El trabajo de ingeniería se rige por códigos y normas, como los códigos nacionales de edificación, los reglamentos eléctricos o las normas internacionales ISO. No necesitas recitarlos, pero sí explicar cómo los usas: para verificar diseños, documentar el cumplimiento y mantenerte al día. Si mencionas una norma, asegúrate de entender qué abarca, porque es probable que te hagan preguntas de seguimiento.",
+          "tip": "Nombra las normas que realmente usaste en un proyecto y explica cómo."
+        },
+        {
+          "title": "Hablar de tus proyectos",
+          "body": "Espera preguntas detalladas sobre un proyecto del trabajo, de unas prácticas o de la universidad. Explica el problema, tu función concreta, las decisiones de diseño clave, las herramientas que usaste y los resultados, idealmente con cifras. Sé sincero sobre lo que salió mal y lo que aprendiste. Lleva planos o un portafolio si procede, pero comprueba que no incluya nada confidencial.",
+          "tip": "La revisión de CV puede ayudarte a pulir las descripciones de tus proyectos antes de la entrevista."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "¿Qué es lo más importante al resolver un cálculo en una entrevista de ingeniería?",
+          "options": [
+            "Un método claro con unidades y suposiciones explícitas",
+            "Una aritmética mental perfecta sin escribir nada",
+            "Terminar antes que el entrevistador",
+            "Usar la fórmula más avanzada"
+          ],
+          "answer": 0,
+          "explanation": "El método, las unidades y las suposiciones reflejan un buen criterio de ingeniería."
+        },
+        {
+          "id": "q2",
+          "question": "¿Cómo deberías responder a una pregunta sobre una situación insegura en la obra?",
+          "options": [
+            "Terminar la tarea rápido e informar después",
+            "Ignorarla si el plazo está cerca",
+            "Detener el trabajo, escalarlo y seguir los procedimientos",
+            "Pedir a un compañero que se ocupe de ello discretamente"
+          ],
+          "answer": 2,
+          "explanation": "Los entrevistadores buscan un compromiso claro con la seguridad por encima de los plazos."
+        },
+        {
+          "id": "q3",
+          "question": "¿Qué deberías vigilar al llevar un portafolio?",
+          "options": [
+            "Que esté impreso a color",
+            "Que no incluya nada confidencial",
+            "Que tenga más de cincuenta páginas",
+            "Que solo muestre trabajos de la universidad"
+          ],
+          "answer": 1,
+          "explanation": "Compartir material confidencial de empleadores anteriores es una señal de alarma grave."
+        }
+      ]
+    },
+    {
+      "id": "case_interviews",
+      "order": 5,
+      "title": "Entrevistas de casos",
+      "minutes": 4,
+      "premium": true,
+      "pages": [
+        {
+          "title": "Qué es una entrevista de casos",
+          "body": "La consultoría y muchos puestos de negocio utilizan entrevistas de casos: recibes un problema empresarial, como «Los beneficios de un minorista han caído, ¿por qué?», y lo trabajas junto con el entrevistador. Evalúan el pensamiento estructurado, la soltura con los números, el sentido de negocio y la comunicación. Los casos pueden estar dirigidos por el entrevistador, que te guía en cada paso, o por el candidato, que es quien conduce el análisis.",
+          "tip": "Anota todas las cifras y los datos que te den en el enunciado."
+        },
+        {
+          "title": "Construye una estructura",
+          "body": "Después de aclarar el objetivo, tómate un momento para construir un marco que divida el problema en partes diferenciadas. Si caen los beneficios, divídelo en ingresos y costes, y luego desglosa cada uno. Adapta los marcos al caso en lugar de forzar una plantilla memorizada. Presenta tu estructura con claridad antes de profundizar y pregunta qué área le gustaría explorar primero al entrevistador.",
+          "tip": "Pide treinta segundos para ordenar tus ideas; es normal y se espera que lo hagas."
+        },
+        {
+          "title": "Estimaciones y tamaño de mercado",
+          "body": "Las preguntas de tamaño de mercado plantean cosas como: «¿Cuántos cafés se venden al día en una ciudad?». Divide el problema en pasos lógicos: población, porcentaje que toma café, tazas por persona, etc. Indica tus suposiciones, usa números redondos y calcula paso a paso. Al entrevistador le importa tu lógica; un enfoque razonable importa más que la cifra exacta.",
+          "tip": "Contrasta la cifra final con algo que conozcas de la vida cotidiana."
+        },
+        {
+          "title": "Pensamiento basado en hipótesis",
+          "body": "Los candidatos sólidos formulan pronto una hipótesis y la ponen a prueba: «Sospecho que el aumento de los costes es el factor principal; voy a revisar los datos de costes». Actualiza tu opinión a medida que llega nueva información. Termina con una recomendación clara: tu respuesta, dos o tres razones que la respalden, los riesgos y los próximos pasos. Habla como si se lo presentaras al director general de un cliente.",
+          "tip": "Practica casos en vivo en una entrevista de práctica para ganar rapidez y estructura."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "¿Cómo deberías usar los marcos en una entrevista de casos?",
+          "options": [
+            "Aplicar una única plantilla memorizada a todos los casos",
+            "Evitar cualquier estructura para parecer creativo",
+            "Adaptar un marco al problema concreto",
+            "Dejar que el entrevistador lo construya por ti"
+          ],
+          "answer": 2,
+          "explanation": "Las estructuras adaptadas demuestran pensamiento real; las plantillas forzadas parecen mecánicas."
+        },
+        {
+          "id": "q2",
+          "question": "En una pregunta de tamaño de mercado, ¿qué es lo más importante?",
+          "options": [
+            "Un enfoque lógico con suposiciones explícitas",
+            "Conocer la cifra oficial exacta",
+            "Usar decimales precisos",
+            "Responder en menos de diez segundos"
+          ],
+          "answer": 0,
+          "explanation": "Los entrevistadores evalúan tu lógica y tus suposiciones, no la cifra exacta."
+        },
+        {
+          "id": "q3",
+          "question": "¿Cómo deberías terminar una entrevista de casos?",
+          "options": [
+            "Resumiendo cada número que calculaste",
+            "Pidiendo la respuesta al entrevistador",
+            "Diciendo que hace falta más análisis",
+            "Con una recomendación clara, razones, riesgos y próximos pasos"
+          ],
+          "answer": 3,
+          "explanation": "Lo que se espera al final es una recomendación decidida y lista para presentar al cliente."
+        }
+      ]
+    },
+    {
+      "id": "test_types",
+      "order": 6,
+      "title": "Tareas para casa y pruebas de aptitud",
+      "minutes": 3,
+      "premium": true,
+      "pages": [
+        {
+          "title": "Tareas para casa",
+          "body": "Las tareas para casa te dan horas o días para completar un trabajo realista, como una pequeña aplicación, un análisis o un informe. Lee el enunciado con atención y entrega exactamente lo que se pide antes de añadir extras. Respeta el límite de tiempo sugerido. Incluye una nota breve que explique tu enfoque, tus suposiciones y lo que mejorarías con más tiempo.",
+          "tip": "Pregunta al reclutador cómo se evaluará la tarea antes de empezar."
+        },
+        {
+          "title": "Razonamiento numérico y verbal",
+          "body": "Las pruebas numéricas usan tablas y gráficos para evaluar porcentajes, proporciones e interpretación de datos. Las pruebas verbales presentan un texto y preguntan si ciertas afirmaciones son verdaderas, falsas o no pueden determinarse a partir del texto. En las preguntas verbales, usa solo la información dada, no conocimientos externos. Hay muchas pruebas de práctica disponibles, y familiarizarte con ellas mejora mucho tu rapidez y precisión.",
+          "tip": "En las pruebas verbales, «no se puede determinar» es correcto cuando el texto no confirma ni contradice la afirmación."
+        },
+        {
+          "title": "Pruebas de personalidad y situacionales",
+          "body": "Los cuestionarios de personalidad preguntan cómo sueles comportarte, y las pruebas de juicio situacional presentan escenarios laborales con varias respuestas posibles. Responde con sinceridad y coherencia; muchas herramientas detectan respuestas contradictorias. Ten en cuenta los requisitos del puesto, pero no intentes inventarte otra personalidad. En las pruebas situacionales, elige respuestas profesionales y colaborativas que aborden el problema directamente.",
+          "tip": "Lee antes los valores de la empresa; las pruebas situacionales suelen reflejarlos."
+        },
+        {
+          "title": "Gestiona tu tiempo",
+          "body": "La mayoría de las pruebas de aptitud tienen un tiempo estricto y están diseñadas para que pocas personas terminen todas las preguntas. Comprueba el número de preguntas y reparte el tiempo para fijar un ritmo aproximado. No te atasques: salta las preguntas difíciles y vuelve a ellas si te sobra tiempo. Averigua si las respuestas incorrectas penalizan; si no, responde a todas las preguntas. Haz las pruebas en un lugar tranquilo y con una conexión estable.",
+          "tip": "Ten a mano una calculadora y papel para notas si están permitidos."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "¿Qué deberías incluir con una tarea para casa?",
+          "options": [
+            "Una petición de un salario más alto",
+            "Una nota breve sobre tu enfoque, tus suposiciones y posibles mejoras",
+            "Funciones extra en lugar de las solicitadas",
+            "Nada más que el código o el archivo"
+          ],
+          "answer": 1,
+          "explanation": "Explicar tu razonamiento ayuda a los evaluadores a entender y valorar tu trabajo."
+        },
+        {
+          "id": "q2",
+          "question": "En una prueba de razonamiento verbal, ¿qué información deberías usar?",
+          "options": [
+            "Tus conocimientos generales sobre el tema",
+            "Lo que parezca más probable en la vida real",
+            "Solo la información que aparece en el texto",
+            "La respuesta que crees que prefiere el empleador"
+          ],
+          "answer": 2,
+          "explanation": "Las pruebas de razonamiento verbal juzgan las afirmaciones únicamente en función del texto."
+        },
+        {
+          "id": "q3",
+          "question": "¿Qué deberías hacer si te atascas en una pregunta difícil de una prueba cronometrada?",
+          "options": [
+            "Saltarla y volver a ella si te sobra tiempo",
+            "Quedarte en ella hasta resolverla",
+            "Terminar la prueba antes de tiempo",
+            "Responder al azar todas las preguntas restantes"
+          ],
+          "answer": 0,
+          "explanation": "Saltar preguntas mantiene tu ritmo y te permite responder más preguntas en total."
+        }
+      ]
+    }
+  ]
+}

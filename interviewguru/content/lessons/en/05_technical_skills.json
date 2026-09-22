@@ -1,0 +1,322 @@
+{
+  "id": "technical_skills",
+  "order": 5,
+  "icon": "technical",
+  "color": "#8B5CF6",
+  "title": "Technical Interviews by Field",
+  "summary": "Prepare for the technical rounds in your field, from coding and valuation questions to case interviews and aptitude tests.",
+  "topics": [
+    {
+      "id": "analysis_method",
+      "order": 1,
+      "title": "Structuring Any Technical Problem",
+      "minutes": 3,
+      "premium": false,
+      "pages": [
+        {
+          "title": "Clarify before solving",
+          "body": "Whatever your field, the first step is the same: make sure you understand the problem. Restate it in your own words, ask about inputs, constraints and the expected output, and confirm any assumptions. Interviewers often leave problems vague on purpose to see whether you ask. Jumping straight into a solution risks solving the wrong problem well.",
+          "tip": "Say your assumptions out loud: 'I'll assume the data fits in memory — is that fair?'"
+        },
+        {
+          "title": "Break it into parts",
+          "body": "Large problems become manageable when you split them into smaller steps. Outline your plan before diving in: 'First I'll calculate the load, then check it against the limit, then size the component.' This shows structured thinking and lets the interviewer correct your direction early. Start with a simple working approach before optimising or adding complexity.",
+          "tip": "Write the steps down so both you and the interviewer can follow them."
+        },
+        {
+          "title": "Think out loud",
+          "body": "Interviewers assess your reasoning, not just the final answer. Narrate what you are doing and why, including options you reject: 'I could use a lookup table here, but a formula is simpler for this range.' If you get stuck, say what you have tried and where you are blocked. Interviewers often give hints to candidates who communicate clearly.",
+          "tip": "Long silences feel longer to the interviewer; keep narrating even when unsure."
+        },
+        {
+          "title": "Check and reflect",
+          "body": "When you reach an answer, test it. Try a simple example, an edge case or a quick sense check: does the number have the right units and a plausible size? Then summarise your solution and mention its limitations or how you would improve it with more time. Catching your own mistake impresses interviewers more than never making one.",
+          "tip": "Always ask yourself, 'Does this answer make sense in the real world?'"
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "What should you do first when given a technical problem?",
+          "options": ["Start calculating immediately", "Clarify the problem, constraints and assumptions", "Ask for the answer", "Explain your previous job"],
+          "answer": 1,
+          "explanation": "Clarifying ensures you solve the right problem, and interviewers often test for it."
+        },
+        {
+          "id": "q2",
+          "question": "Why should you think out loud during a technical question?",
+          "options": ["It fills time until the interview ends", "Interviewers only grade the final answer", "It lets interviewers assess your reasoning and offer hints", "It prevents follow-up questions"],
+          "answer": 2,
+          "explanation": "Your reasoning is what is being assessed, and clear communication invites useful hints."
+        },
+        {
+          "id": "q3",
+          "question": "What is a good final step after reaching an answer?",
+          "options": ["Test it with an example or sense check", "Move on without comment", "Ask for a harder problem", "Rewrite it from scratch"],
+          "answer": 0,
+          "explanation": "Checking with examples and sense checks catches errors and shows rigour."
+        }
+      ]
+    },
+    {
+      "id": "software_engineering",
+      "order": 2,
+      "title": "Software Engineering Interviews",
+      "minutes": 4,
+      "premium": false,
+      "pages": [
+        {
+          "title": "The coding round",
+          "body": "Most software interviews include live coding on a shared editor or whiteboard. You are judged on problem solving, code quality and communication. Clarify the input and edge cases, describe a brute-force solution, then improve it. Write clean, readable code with meaningful names. When finished, walk through a test case line by line and state the time and space complexity.",
+          "tip": "Practise on a plain editor without autocomplete; many interview tools lack it."
+        },
+        {
+          "title": "Data structures and algorithms",
+          "body": "Core topics appear again and again: arrays and strings, hash maps, stacks and queues, linked lists, trees, graphs, sorting and searching, and recursion. Know the typical time complexity of common operations, such as constant-time average lookup in a hash map. Learn to recognise patterns like two pointers, sliding windows and breadth-first search, rather than memorising individual problems.",
+          "tip": "When you see repeated lookups in a problem, consider whether a hash map helps."
+        },
+        {
+          "title": "System design basics",
+          "body": "For mid-level and senior roles, expect a system design round: 'Design a URL shortener.' Start with requirements and scale, then sketch the main components — clients, API, services, database, cache. Discuss trade-offs, such as SQL versus NoSQL, or consistency versus availability. There is rarely one right answer; interviewers want to see reasoned choices and awareness of bottlenecks.",
+          "tip": "Estimate the scale first, such as requests per second and data size."
+        },
+        {
+          "title": "Code review and discussion",
+          "body": "Some companies show you existing code and ask you to review it. Look for bugs, unclear naming, missing error handling, security issues and missing tests. Give feedback respectfully and explain why a change matters. You may also be asked about your past projects: be ready to explain your design decisions, what went wrong and what you would do differently.",
+          "tip": "Prepare one project you can explain in depth, including its trade-offs."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "After writing your solution in a coding round, what should you do?",
+          "options": ["Submit it immediately without comment", "Walk through a test case and state its complexity", "Ask the interviewer to test it", "Delete it and start a new approach"],
+          "answer": 1,
+          "explanation": "Testing your code and stating complexity shows rigour and understanding."
+        },
+        {
+          "id": "q2",
+          "question": "How should you start a system design question?",
+          "options": ["Choose a database brand", "Write code for the API", "Clarify requirements and estimate the scale", "Draw a detailed class diagram"],
+          "answer": 2,
+          "explanation": "Requirements and scale shape every later design decision."
+        },
+        {
+          "id": "q3",
+          "question": "What should you look for when asked to review code?",
+          "options": ["Only formatting and indentation", "The author's name", "Whether it uses the newest language version", "Bugs, unclear naming, error handling, security issues and tests"],
+          "answer": 3,
+          "explanation": "A good review covers correctness, clarity, robustness, security and testing."
+        }
+      ]
+    },
+    {
+      "id": "finance",
+      "order": 3,
+      "title": "Finance and Accounting Interviews",
+      "minutes": 4,
+      "premium": true,
+      "pages": [
+        {
+          "title": "The three statements",
+          "body": "Expect questions on how the income statement, balance sheet and cash flow statement connect. Net income flows from the income statement to the top of the cash flow statement and into retained earnings on the balance sheet. A classic question: 'Depreciation rises by 10 — walk me through the statements.' Practise this aloud until it becomes automatic.",
+          "tip": "Always remember the balance sheet must balance at the end of your walk-through."
+        },
+        {
+          "title": "Valuation basics",
+          "body": "Know the main valuation methods: discounted cash flow, comparable companies and precedent transactions. Be ready to explain enterprise value versus equity value, and why the DCF discounts future free cash flows using a rate such as the weighted average cost of capital. Interviewers care more about your understanding of why each method is used than about memorised formulas.",
+          "tip": "Be able to explain each method in two sentences to a non-specialist."
+        },
+        {
+          "title": "Excel and modelling tests",
+          "body": "Many finance roles include a timed Excel test: building a simple model, cleaning data or answering questions from a dataset. Know lookup functions, SUMIFS, pivot tables, absolute and relative references, and basic charting. Keep inputs, calculations and outputs clearly separated and labelled. A tidy, checkable model scores better than a clever one nobody can follow.",
+          "tip": "Learn keyboard shortcuts for navigation; they save valuable minutes under time pressure."
+        },
+        {
+          "title": "Market awareness",
+          "body": "You may be asked, 'Tell me about a company or deal you've followed' or 'Where do you think interest rates are heading?' Follow financial news regularly for a few weeks before interviews. Prepare one company and one recent market trend you can discuss with numbers and a clear opinion. It's fine to be uncertain; show your reasoning.",
+          "tip": "Prepare a short investment pitch: the company, your view, and two supporting reasons."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Where does net income go after the income statement?",
+          "options": ["Only to the balance sheet as cash", "To the top of the cash flow statement and into retained earnings", "Nowhere else; it stays on the income statement", "Directly into enterprise value"],
+          "answer": 1,
+          "explanation": "Net income links all three statements through cash flow and retained earnings."
+        },
+        {
+          "id": "q2",
+          "question": "Which is one of the main valuation methods?",
+          "options": ["Discounted cash flow", "Straight-line hiring", "Double-entry payroll", "Inventory counting"],
+          "answer": 0,
+          "explanation": "DCF, comparable companies and precedent transactions are the core methods."
+        },
+        {
+          "id": "q3",
+          "question": "What makes a model score well in an Excel test?",
+          "options": ["Hiding all formulas", "Using as many functions as possible", "Clearly separated, labelled inputs, calculations and outputs", "Putting everything on one cell"],
+          "answer": 2,
+          "explanation": "A tidy, checkable structure is valued over cleverness."
+        }
+      ]
+    },
+    {
+      "id": "engineering_roles",
+      "order": 4,
+      "title": "Engineering Interviews",
+      "minutes": 4,
+      "premium": true,
+      "pages": [
+        {
+          "title": "Fundamentals and calculations",
+          "body": "Mechanical, electrical and civil interviews often test core principles with quick calculations: stress and strain, heat transfer, Ohm's law, power, beam loading or fluid flow. Show your method clearly, write units at every step and state assumptions. Getting the approach right matters more than exact arithmetic. Estimate first, so you can spot an answer that is wildly off.",
+          "tip": "Review the fundamental formulas of your discipline the week before."
+        },
+        {
+          "title": "Safety first",
+          "body": "Safety questions are common and serious. You might be asked how you would respond to an unsafe situation on site or what you would do if a design didn't meet safety margins. Show that you would stop work, escalate and follow procedures rather than cut corners under deadline pressure. Mention risk assessment, safety factors and relevant protective measures.",
+          "tip": "Never suggest compromising safety to meet a schedule, even hypothetically."
+        },
+        {
+          "title": "Standards and codes",
+          "body": "Engineering work follows codes and standards, such as national building codes, electrical regulations or international ISO standards. You don't need to recite them, but you should explain how you use them: checking designs, documenting compliance and staying up to date. If you mention a standard, be sure you understand what it covers, because follow-up questions are likely.",
+          "tip": "Name the standards you actually used in a project and explain how."
+        },
+        {
+          "title": "Talking about projects",
+          "body": "Expect detailed questions about a project from work, internships or university. Explain the problem, your specific role, key design decisions, the tools you used and the results, ideally with numbers. Be honest about what went wrong and what you learned. Bring drawings or a portfolio if appropriate, but check that nothing confidential is included.",
+          "tip": "Your CV review can help you tighten project descriptions before the interview."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "What matters most when solving a calculation in an engineering interview?",
+          "options": ["A clear method with units and stated assumptions", "Perfect mental arithmetic without writing", "Finishing faster than the interviewer", "Using the most advanced formula"],
+          "answer": 0,
+          "explanation": "Method, units and assumptions show sound engineering thinking."
+        },
+        {
+          "id": "q2",
+          "question": "How should you answer a question about an unsafe situation on site?",
+          "options": ["Finish the task quickly and report later", "Ignore it if the deadline is close", "Stop work, escalate and follow procedures", "Ask a colleague to handle it quietly"],
+          "answer": 2,
+          "explanation": "Interviewers look for a clear commitment to safety over deadlines."
+        },
+        {
+          "id": "q3",
+          "question": "What should you be careful about when bringing a portfolio?",
+          "options": ["That it uses colour printing", "That nothing confidential is included", "That it has more than fifty pages", "That it only shows university work"],
+          "answer": 1,
+          "explanation": "Sharing confidential material from past employers is a serious red flag."
+        }
+      ]
+    },
+    {
+      "id": "case_interviews",
+      "order": 5,
+      "title": "Case Interviews",
+      "minutes": 4,
+      "premium": true,
+      "pages": [
+        {
+          "title": "What a case interview is",
+          "body": "Consulting and many business roles use case interviews: you get a business problem, such as 'A retailer's profits have fallen — why?', and work through it with the interviewer. They assess structured thinking, comfort with numbers, business sense and communication. Cases are either interviewer-led, where they guide each step, or candidate-led, where you drive the analysis.",
+          "tip": "Take notes of all numbers and facts given in the prompt."
+        },
+        {
+          "title": "Build a structure",
+          "body": "After clarifying the objective, take a moment to build a framework that breaks the problem into distinct parts. For falling profits, split into revenue and costs, then break each down further. Adapt frameworks to the case rather than forcing a memorised template. Present your structure clearly before diving in, and ask which area the interviewer would like to explore first.",
+          "tip": "Ask for thirty seconds to organise your thoughts; it's normal and expected."
+        },
+        {
+          "title": "Estimation and market sizing",
+          "body": "Market sizing questions ask things like, 'How many coffee cups are sold in a city each day?' Break the problem into logical steps: population, share who drink coffee, cups per person, and so on. State assumptions, use round numbers and calculate step by step. The interviewer cares about your logic; a reasonable approach matters more than the exact figure.",
+          "tip": "Sanity-check the final number against something you know from daily life."
+        },
+        {
+          "title": "Hypothesis-driven thinking",
+          "body": "Strong candidates form an early hypothesis and test it: 'I suspect rising costs are the main driver — let me check the cost data.' Update your view as new information arrives. Finish with a clear recommendation: your answer, two or three supporting reasons, risks and next steps. Speak as if presenting to a client's chief executive.",
+          "tip": "Practise live cases in a mock interview to build speed and structure."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "How should you use frameworks in a case interview?",
+          "options": ["Apply one memorised template to every case", "Avoid structure to seem creative", "Adapt a framework to the specific problem", "Let the interviewer build it for you"],
+          "answer": 2,
+          "explanation": "Tailored structures show real thinking; forced templates look mechanical."
+        },
+        {
+          "id": "q2",
+          "question": "In a market sizing question, what matters most?",
+          "options": ["A logical approach with stated assumptions", "Knowing the exact official figure", "Using precise decimals", "Answering in under ten seconds"],
+          "answer": 0,
+          "explanation": "Interviewers assess your logic and assumptions, not the exact number."
+        },
+        {
+          "id": "q3",
+          "question": "How should you end a case interview?",
+          "options": ["By summarising every number you calculated", "By asking the interviewer for the answer", "By saying more analysis is needed", "With a clear recommendation, reasons, risks and next steps"],
+          "answer": 3,
+          "explanation": "A decisive, client-ready recommendation is the expected finish."
+        }
+      ]
+    },
+    {
+      "id": "test_types",
+      "order": 6,
+      "title": "Take-Home and Aptitude Tests",
+      "minutes": 3,
+      "premium": true,
+      "pages": [
+        {
+          "title": "Take-home assignments",
+          "body": "Take-home tasks give you hours or days to complete a realistic piece of work, such as a small app, an analysis or a report. Read the brief carefully and deliver exactly what is asked, before adding extras. Respect any suggested time limit. Include a short note explaining your approach, assumptions and what you would improve with more time.",
+          "tip": "Ask the recruiter how the task will be assessed before you start."
+        },
+        {
+          "title": "Numerical and verbal reasoning",
+          "body": "Numerical tests use tables and charts to test percentages, ratios and data interpretation. Verbal tests give a passage and ask whether statements are true, false or cannot be determined from the text. For verbal questions, use only the information given, not outside knowledge. Practice tests are widely available and familiarity greatly improves speed and accuracy.",
+          "tip": "In verbal tests, 'cannot say' is correct when the passage doesn't confirm or contradict the statement."
+        },
+        {
+          "title": "Personality and situational tests",
+          "body": "Personality questionnaires ask how you typically behave, and situational judgement tests show workplace scenarios with several possible responses. Answer honestly and consistently; many tools detect contradictory answers. Keep the role's requirements in mind, but don't try to invent a different personality. For situational tests, choose responses that are professional, collaborative and address the problem directly.",
+          "tip": "Read the company values beforehand; situational tests often reflect them."
+        },
+        {
+          "title": "Managing your time",
+          "body": "Most aptitude tests are strictly timed and designed so that few people finish every question. Check the number of questions and divide the time to set a rough pace. Don't get stuck: skip hard questions and return if time allows. Find out whether wrong answers are penalised; if not, answer every question. Take tests in a quiet place with a stable connection.",
+          "tip": "Keep a calculator and scrap paper ready if they are allowed."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "What should you include with a take-home assignment?",
+          "options": ["A request for a higher salary", "A short note on your approach, assumptions and possible improvements", "Extra features instead of the requested ones", "Nothing beyond the code or file"],
+          "answer": 1,
+          "explanation": "Explaining your reasoning helps reviewers understand and value your work."
+        },
+        {
+          "id": "q2",
+          "question": "In a verbal reasoning test, what information should you use?",
+          "options": ["Your general knowledge on the topic", "What seems most likely in real life", "Only the information given in the passage", "The answer you think the employer prefers"],
+          "answer": 2,
+          "explanation": "Verbal reasoning tests judge statements solely against the passage."
+        },
+        {
+          "id": "q3",
+          "question": "What should you do if you get stuck on a hard question in a timed test?",
+          "options": ["Skip it and return if time allows", "Stay on it until you solve it", "End the test early", "Guess randomly on every remaining question"],
+          "answer": 0,
+          "explanation": "Skipping keeps your pace up so you can answer more questions overall."
+        }
+      ]
+    }
+  ]
+}

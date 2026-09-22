@@ -1,0 +1,322 @@
+{
+  "id": "interview_types",
+  "order": 1,
+  "icon": "interview",
+  "color": "#4F46E5",
+  "title": "Jenis-Jenis Wawancara",
+  "summary": "Ketahui apa yang bisa diharapkan dari setiap format wawancara, mulai dari screening singkat lewat telepon hingga wawancara panel.",
+  "topics": [
+    {
+      "id": "phone_interview",
+      "order": 1,
+      "title": "Wawancara Telepon",
+      "minutes": 3,
+      "premium": false,
+      "pages": [
+        {
+          "title": "Tujuan screening lewat telepon",
+          "body": "Wawancara telepon biasanya menjadi penyaring pertama. Rekruter atau hiring manager menghabiskan 15–30 menit untuk memeriksa tiga hal: apakah pengalamanmu cocok dengan posisinya, apakah ekspektasi gaji dan lokasimu realistis, dan apakah kamu bisa berkomunikasi dengan jelas. Wawancara ini jarang mendalam; tugasnya adalah menentukan siapa yang lanjut ke tahap berikutnya.",
+          "tip": "Perlakukan ini seperti wawancara sungguhan. Banyak kandidat gugur di tahap ini karena terlalu santai."
+        },
+        {
+          "title": "Siapkan lingkunganmu",
+          "body": "Pilih ruangan yang tenang, isi daya ponselmu, dan cek sinyal sebelum panggilan dimulai. Letakkan CV, deskripsi lowongan, dan daftar singkat pencapaianmu di depanmu — pewawancara tidak bisa melihat catatanmu, jadi manfaatkan. Sediakan air minum di dekatmu dan matikan notifikasi di komputermu.",
+          "tip": "Berdirilah atau duduk tegak saat berbicara; suaramu akan terdengar lebih bersemangat."
+        },
+        {
+          "title": "Suaramu adalah bahasa tubuhmu",
+          "body": "Tanpa isyarat visual, nada dan tempo bicaralah yang menyampaikan pesanmu. Tersenyumlah saat berbicara — itu terdengar. Berhentilah sejenak sebelum menjawab daripada mengisi keheningan dengan ‘emm’. Jaga jawaban sekitar 60–90 detik dan pastikan lawan bicaramu masih mengikuti: ‘Apakah Anda ingin saya jelaskan lebih detail tentang proyek itu?’",
+          "tip": "Rekam dirimu menjawab satu pertanyaan di ponsel, lalu dengarkan kembali sekali."
+        },
+        {
+          "title": "Tutup panggilan dengan baik",
+          "body": "Menjelang akhir, ajukan satu atau dua pertanyaan tentang posisi tersebut dan langkah selanjutnya: ‘Seperti apa tahapan proses berikutnya?’ Ucapkan terima kasih kepada pewawancara dengan menyebut namanya. Dalam beberapa jam, kirim email singkat yang menegaskan kembali minatmu dan satu alasan mengapa kamu cocok untuk posisi itu.",
+          "tip": "Catat nama pewawancara dan poin-poin penting selama panggilan."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Apa tujuan utama screening lewat telepon?",
+          "options": ["Menegosiasikan gaji akhir", "Menyaring kandidat berdasarkan kecocokan dasar dan komunikasi", "Menguji keterampilan teknis tingkat lanjut", "Bertemu seluruh tim"],
+          "answer": 1,
+          "explanation": "Screening telepon adalah penyaring pertama: kecocokan dasar, ekspektasi, dan komunikasi."
+        },
+        {
+          "id": "q2",
+          "question": "Manakah keuntungan nyata dari wawancara telepon?",
+          "options": ["Kamu bisa menyimpan catatan di depanmu", "Kamu bisa melewatkan persiapan", "Bahasa tubuh sama sekali tidak penting", "Kamu bisa menjawab sambil berjalan di luar"],
+          "answer": 0,
+          "explanation": "Pewawancara tidak bisa melihatmu, jadi CV dan catatanmu bisa ada tepat di depanmu."
+        },
+        {
+          "id": "q3",
+          "question": "Berapa lama sebaiknya satu jawaban dalam wawancara telepon?",
+          "options": ["10 detik", "Sekitar 60–90 detik", "Minimal 5 menit", "Selama mungkin"],
+          "answer": 1,
+          "explanation": "Jawaban yang singkat dan terstruktur membuat pendengar tetap fokus; tawarkan detail tambahan jika mereka menginginkannya."
+        }
+      ]
+    },
+    {
+      "id": "video_interview",
+      "order": 2,
+      "title": "Wawancara Video",
+      "minutes": 3,
+      "premium": false,
+      "pages": [
+        {
+          "title": "Dua jenis wawancara video",
+          "body": "Wawancara video langsung berlangsung di Zoom, Teams, atau Google Meet dengan orang sungguhan. Wawancara satu arah (rekaman) menampilkan sebuah pertanyaan dan memberimu waktu tertentu untuk merekam jawaban, sering kali hanya dengan satu kesempatan ulang atau tanpa kesempatan ulang sama sekali. Keduanya dinilai seperti wawancara tatap muka, tetapi masalah teknis menjadi tanggung jawabmu.",
+          "tip": "Tanyakan platform apa yang akan digunakan dan instal sehari sebelumnya."
+        },
+        {
+          "title": "Kamera, cahaya, dan suara",
+          "body": "Posisikan kamera sejajar mata — tumpuk beberapa buku di bawah laptop jika perlu. Hadapkan wajahmu ke jendela atau lampu agar cahaya jatuh di wajahmu, bukan dari belakang. Gunakan headphone dengan mikrofon untuk menghindari gema. Latar belakang yang polos dan rapi lebih baik daripada latar virtual yang berkedip di sekitar rambutmu.",
+          "tip": "Lakukan panggilan uji coba dengan teman dan tanyakan bagaimana tampilan dan suaramu."
+        },
+        {
+          "title": "Menatap ke kamera",
+          "body": "Kontak mata dalam video berarti menatap lensa, bukan wajah pewawancara di layar. Geser jendela video mendekati kamera agar perbedaannya kecil. Mengangguk dan beri reaksi sedikit lebih banyak daripada saat tatap muka; sinyal halus mudah hilang dalam video.",
+          "tip": "Tempel stiker kecil di samping lensa sebagai pengingat untuk menatap ke sana."
+        },
+        {
+          "title": "Saat terjadi masalah",
+          "body": "Jika koneksi terputus, segera bergabung kembali dan katakan dengan tenang: ‘Maaf, koneksi saya terputus — bisakah Anda mengulang pertanyaan terakhir?’ Siapkan nomor telepon atau email pewawancara sebagai cadangan. Tetap tenang saat menghadapi gangguan teknis itu sendiri merupakan sinyal positif.",
+          "tip": "Tutup aplikasi lain dan jeda pencadangan cloud untuk menghemat bandwidth."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Ke mana sebaiknya kamu menatap untuk menjaga kontak mata dalam wawancara video?",
+          "options": ["Ke mata pewawancara di layar", "Ke video dirimu sendiri", "Ke lensa kamera", "Ke catatanmu"],
+          "answer": 2,
+          "explanation": "Menatap lensa adalah yang terlihat sebagai kontak mata bagi lawan bicara."
+        },
+        {
+          "id": "q2",
+          "question": "Apa pengaturan cahaya terbaik?",
+          "options": ["Jendela terang di belakangmu", "Cahaya dari depan, mengenai wajahmu", "Ruangan gelap agar layar bersinar", "Hanya lampu langit-langit"],
+          "answer": 1,
+          "explanation": "Cahaya dari depan membuat wajahmu tetap terlihat; cahaya dari belakang mengubahmu menjadi siluet."
+        },
+        {
+          "id": "q3",
+          "question": "Koneksimu terputus di tengah jawaban. Apa yang sebaiknya kamu lakukan?",
+          "options": ["Menunggu mereka menghubungimu", "Segera bergabung kembali dan dengan tenang meminta mereka mengulang pertanyaan", "Mengakhiri wawancara", "Mengirim email permintaan maaf nanti"],
+          "answer": 1,
+          "explanation": "Bergabung kembali dengan tenang menunjukkan bahwa kamu mampu menangani masalah dengan baik."
+        }
+      ]
+    },
+    {
+      "id": "face_to_face_interview",
+      "order": 3,
+      "title": "Wawancara Tatap Muka",
+      "minutes": 3,
+      "premium": false,
+      "pages": [
+        {
+          "title": "Wawancara dimulai sejak di pintu",
+          "body": "Wawancara tatap muka dimulai begitu kamu tiba. Resepsionis dan orang yang kamu temui di lift sering dimintai kesan mereka. Datanglah 10 menit lebih awal — bukan 30 — dan bersikap sopanlah kepada semua orang. Manfaatkan waktu menunggu untuk menenangkan napas dan mengulas tiga cerita utamamu.",
+          "tip": "Rencanakan rutemu sehari sebelumnya dan sisihkan waktu cadangan untuk kemacetan."
+        },
+        {
+          "title": "Kesan pertama",
+          "body": "Jabat tangan yang mantap (tetapi tidak meremas), kontak mata, dan senyum tulus menentukan suasana di detik-detik pertama. Tunggu hingga dipersilakan duduk. Letakkan tasmu di lantai, bukan di atas meja, dan pastikan ponselmu dalam mode senyap serta tidak terlihat.",
+          "tip": "Sebut nama pewawancara saat menyapa: ‘Senang bertemu dengan Anda, Bu Sara.’"
+        },
+        {
+          "title": "Membaca suasana",
+          "body": "Dalam wawancara tatap muka, kamu mendapat umpan balik secara langsung. Jika pewawancara mencondongkan badan ke depan, kamu berada di jalur yang tepat; jika mereka melirik jam atau catatannya, segera simpulkan jawabanmu. Sesuaikan sedikit energi dan tingkat formalitasmu dengan mereka — ini membangun kedekatan.",
+          "tip": "Bawa buku catatan berisi pertanyaan yang sudah disiapkan; mencatat singkat membuatmu terlihat antusias."
+        },
+        {
+          "title": "Amati juga perusahaannya",
+          "body": "Kunjungan ke kantor adalah kesempatanmu untuk menilai budayanya. Bagaimana orang-orang berbicara satu sama lain? Apakah suasananya tenang atau tegang? Apakah mereka tampak menikmati pekerjaannya? Kamu juga sedang memutuskan apakah kamu ingin bekerja di sana.",
+          "tip": "Minta untuk melihat tempat tim bekerja jika tidak ditawarkan."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Kapan sebaiknya kamu tiba untuk wawancara tatap muka?",
+          "options": ["Tepat waktu", "Sekitar 10 menit lebih awal", "45 menit lebih awal", "Terlambat beberapa menit tidak masalah"],
+          "answer": 1,
+          "explanation": "Datang sepuluh menit lebih awal menunjukkan rasa hormat tanpa membebani tuan rumah."
+        },
+        {
+          "id": "q2",
+          "question": "Mengapa kamu perlu bersikap sopan kepada resepsionis?",
+          "options": ["Itu tidak penting", "Kesan mereka mungkin disampaikan kepada tim rekrutmen", "Mereka yang membuat keputusan perekrutan", "Agar mendapat tempat parkir yang lebih baik"],
+          "answer": 1,
+          "explanation": "Banyak perusahaan bertanya kepada staf resepsionis tentang bagaimana sikap para kandidat."
+        },
+        {
+          "id": "q3",
+          "question": "Pewawancara terus melirik jam saat kamu berbicara. Apa yang sebaiknya kamu lakukan?",
+          "options": ["Berbicara lebih cepat", "Menyimpulkan jawabanmu secara ringkas", "Menanyakan apakah mereka bosan", "Mengabaikannya"],
+          "answer": 1,
+          "explanation": "Itu isyarat untuk menuntaskan poinmu; kamu bisa menawarkan detail tambahan jika mereka menginginkannya."
+        }
+      ]
+    },
+    {
+      "id": "group_interview",
+      "order": 4,
+      "title": "Wawancara Kelompok",
+      "minutes": 3,
+      "premium": true,
+      "pages": [
+        {
+          "title": "Apa yang diperhatikan penilai",
+          "body": "Dalam wawancara kelompok dan assessment center, beberapa kandidat mengerjakan tugas bersama sementara penilai mengamati. Mereka tidak mencari orang yang paling lantang. Mereka memperhatikan cara kamu mendengarkan, mengembangkan ide orang lain, menjaga kelompok tetap fokus, dan berkontribusi pada hasil.",
+          "tip": "Kualitas kontribusi lebih penting daripada banyaknya bicara."
+        },
+        {
+          "title": "Peran bermanfaat yang bisa kamu ambil",
+          "body": "Kamu bisa memberi nilai tambah tanpa mendominasi: rangkum diskusi (‘Sejauh ini kita sepakat soal A dan B’), atur waktu (‘Waktu kita tinggal 10 menit — bagaimana kalau kita putuskan sekarang?’), atau libatkan anggota yang lebih pendiam (‘Ali, bagaimana menurutmu?’). Perilaku seperti inilah yang dicatat oleh penilai.",
+          "tip": "Menawarkan diri menjadi pengatur waktu adalah kontribusi yang mudah dan terlihat jelas."
+        },
+        {
+          "title": "Berkolaborasi, bukan bersaing",
+          "body": "Perlakukan kandidat lain sebagai rekan kerja. Mengkritik atau memotong pembicaraan mereka justru merugikanmu. Saat tidak setuju, akui dulu pendapat mereka: ‘Poin soal biaya itu bagus; satu risiko yang saya lihat adalah…’. Kelompok yang mencapai keputusan jelas membuat setiap anggotanya terlihat lebih baik.",
+          "tip": "Gunakan nama — ingat nama mereka saat sesi perkenalan."
+        },
+        {
+          "title": "Tugas studi kasus dan presentasi",
+          "body": "Banyak sesi kelompok diakhiri dengan presentasi singkat. Sepakati sejak awal siapa yang mempresentasikan bagian mana. Susun dengan sederhana: masalah, pilihan, rekomendasi, langkah selanjutnya. Jika kamu yang presentasi, beri kredit kepada tim: ‘Kami memutuskan…’.",
+          "tip": "Tulis angka-angka penting dari studi kasus di kertas agar seluruh kelompok bisa melihatnya."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Apa yang paling dihargai penilai dalam wawancara kelompok?",
+          "options": ["Paling banyak bicara", "Mendengarkan dan mengembangkan ide orang lain", "Memenangkan setiap perdebatan", "Diam agar tidak membuat kesalahan"],
+          "answer": 1,
+          "explanation": "Kolaborasi dan kontribusi yang konstruktif adalah hal yang mereka nilai."
+        },
+        {
+          "id": "q2",
+          "question": "Manakah cara yang baik untuk berkontribusi tanpa mendominasi?",
+          "options": ["Memotong pembicaraan agar idemu disampaikan lebih dulu", "Merangkum kemajuan dan mengatur waktu", "Mengkritik ide yang lemah", "Presentasi sendirian"],
+          "answer": 1,
+          "explanation": "Merangkum dan mengatur waktu membantu kelompok dan sangat terlihat."
+        },
+        {
+          "id": "q3",
+          "question": "Bagaimana sebaiknya kamu menyampaikan ketidaksetujuan kepada kandidat lain?",
+          "options": ["Mengatakan bahwa mereka salah", "Mengakui poin mereka, lalu menyampaikan kekhawatiranmu", "Mengabaikan ide mereka", "Meminta penilai untuk memutuskan"],
+          "answer": 1,
+          "explanation": "Mengakui pendapat mereka terlebih dahulu menjaga diskusi tetap konstruktif."
+        }
+      ]
+    },
+    {
+      "id": "technical_interview",
+      "order": 5,
+      "title": "Wawancara Teknis",
+      "minutes": 4,
+      "premium": true,
+      "pages": [
+        {
+          "title": "Apa yang diuji",
+          "body": "Wawancara teknis memeriksa apakah kamu benar-benar mampu melakukan pekerjaannya: coding, pemodelan keuangan, desain, perhitungan teknik, atau pengetahuan bidang tertentu. Pewawancara peduli pada proses berpikirmu sama besarnya dengan jawaban akhir. Pendekatan yang jelas dengan sedikit kesalahan sering kali mendapat nilai lebih baik daripada jawaban benar yang disampaikan tanpa penjelasan.",
+          "tip": "Sampaikan jalan pikiranmu dengan lantang sejak menit pertama."
+        },
+        {
+          "title": "Rutinitas pemecahan masalah yang andal",
+          "body": "1) Ulangi masalahnya dengan kata-katamu sendiri dan ajukan pertanyaan klarifikasi. 2) Telusuri contoh sederhana. 3) Jelaskan solusi dasar terlebih dahulu, lalu perbaiki. 4) Implementasikan atau hitung langkah demi langkah. 5) Uji dengan kasus ekstrem. Rutinitas ini membuatmu tetap tenang meskipun kamu tidak langsung tahu jawabannya.",
+          "tip": "Tanyakan batasannya: ukuran data, tenggat waktu, anggaran, akurasi."
+        },
+        {
+          "title": "Saat kamu buntu",
+          "body": "Sampaikan apa yang kamu ketahui dan di mana kamu buntu: ‘Saya bisa menyelesaikannya untuk list yang sudah terurut; saya sedang memikirkan cara menangani duplikat.’ Pewawancara sering memberi petunjuk — manfaatkan dan ucapkan terima kasih. Jangan pernah menggertak tentang sesuatu yang tidak kamu ketahui; jelaskan bagaimana kamu akan mencari tahu.",
+          "tip": "Diam lebih dari 20 detik terasa lama; teruslah menjelaskan jalan pikiranmu."
+        },
+        {
+          "title": "Cara mempersiapkan diri",
+          "body": "Pelajari kembali dasar-dasar yang tercantum dalam deskripsi lowongan dan berlatihlah dengan soal berbatas waktu. Baca ulang proyek-proyekmu sendiri: kamu harus bisa menjelaskan setiap keputusan yang kamu ambil. Untuk pertanyaan sistem atau studi kasus, berlatihlah menggambar struktur di kertas sebelum masuk ke detail.",
+          "tip": "Gunakan fitur simulasi wawancara di sini dengan tipe ‘Teknis’ untuk berlatih."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Selain jawaban, apa yang paling penting dalam wawancara teknis?",
+          "options": ["Hanya kecepatan", "Proses berpikirmu", "Menggunakan alat terbaru", "Definisi yang dihafal"],
+          "answer": 1,
+          "explanation": "Pewawancara menilai cara kamu bernalar, berkomunikasi, dan menangani masalah."
+        },
+        {
+          "id": "q2",
+          "question": "Apa yang sebaiknya kamu lakukan pertama kali saat mendapat soal?",
+          "options": ["Langsung mulai coding", "Menyatakan ulang soalnya dan mengajukan pertanyaan klarifikasi", "Mengatakan bahwa kamu pernah melihatnya", "Meminta jawabannya"],
+          "answer": 1,
+          "explanation": "Mengklarifikasi terlebih dahulu mencegahmu memecahkan masalah yang salah."
+        },
+        {
+          "id": "q3",
+          "question": "Kamu tidak memahami konsep yang mereka tanyakan. Apa respons terbaik?",
+          "options": ["Menebak dengan percaya diri", "Mengakuinya dan menjelaskan bagaimana kamu akan mencari tahu", "Mengalihkan topik", "Diam saja"],
+          "answer": 1,
+          "explanation": "Kejujuran disertai sikap mau belajar akan dihargai; menggertak mudah ketahuan."
+        }
+      ]
+    },
+    {
+      "id": "panel_interview",
+      "order": 6,
+      "title": "Wawancara Panel",
+      "minutes": 3,
+      "premium": true,
+      "pages": [
+        {
+          "title": "Beberapa pewawancara, satu keputusan",
+          "body": "Dalam wawancara panel, tiga hingga lima orang — misalnya seorang manajer, calon rekan satu tim, dan seseorang dari HR — mewawancaraimu bersama-sama. Masing-masing biasanya berfokus pada area yang berbeda. Keputusan akhirnya diambil bersama, jadi kamu perlu meyakinkan semua orang di ruangan, bukan hanya orang yang paling senior.",
+          "tip": "Tanyakan kepada rekruter sebelumnya nama dan peran anggota panel."
+        },
+        {
+          "title": "Ke mana harus menatap",
+          "body": "Mulailah jawabanmu dengan menatap orang yang bertanya, lalu libatkan yang lain lewat tatapan matamu sambil melanjutkan, dan kembali ke penanya di akhir. Cara ini membuat semua orang tetap terlibat dan menunjukkan rasa percaya diri.",
+          "tip": "Tulis nama-nama mereka di buku catatanmu sesuai urutan tempat duduk."
+        },
+        {
+          "title": "Sesuaikan jawaban dengan setiap peran",
+          "body": "Technical lead menginginkan kedalaman, HR menginginkan nilai-nilai dan kerja sama tim, manajer menginginkan hasil. Saat pertanyaan datang dari orang tertentu, tekankan bagian ceritamu yang relevan dengan perannya.",
+          "tip": "Siapkan satu cerita kuat untuk kemungkinan minat setiap anggota panel."
+        },
+        {
+          "title": "Tetap konsisten",
+          "body": "Panel terkadang mengajukan pertanyaan serupa dengan cara berbeda untuk menguji konsistensi. Jaga cerita dan angka-angkamu tetap sama. Di akhir, ucapkan terima kasih kepada setiap anggota dan, jika memungkinkan, kirim pesan tindak lanjut singkat yang menyebutkan sesuatu dari percakapan tersebut.",
+          "tip": "Jangan abaikan anggota panel yang pendiam; mereka sering memiliki pengaruh besar."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Kepada siapa kamu sebaiknya berbicara saat menjawab pertanyaan panel?",
+          "options": ["Hanya kepada orang yang paling senior", "Hanya kepada orang yang bertanya", "Mulai dengan penanya, libatkan semua orang, akhiri dengan penanya", "Melihat catatanmu"],
+          "answer": 2,
+          "explanation": "Cara ini membuat seluruh panel tetap terlibat sambil tetap menghormati penanya."
+        },
+        {
+          "id": "q2",
+          "question": "Mengapa perlu menyiapkan penekanan yang berbeda untuk setiap anggota panel?",
+          "options": ["Setiap peran peduli pada hal yang berbeda", "Untuk membingungkan mereka", "Panel lebih menyukai jawaban panjang", "Itu tidak perlu"],
+          "answer": 0,
+          "explanation": "Pewawancara teknis, HR, dan manajemen mencari bukti yang berbeda."
+        },
+        {
+          "id": "q3",
+          "question": "Panel mengajukan pertanyaan yang mirip dengan pertanyaan sebelumnya. Apa yang sebaiknya kamu lakukan?",
+          "options": ["Memberikan cerita yang sama sekali baru", "Tetap konsisten dengan fakta yang kamu sampaikan sebelumnya", "Menunjukkan bahwa mereka mengulang pertanyaan", "Melewatinya"],
+          "answer": 1,
+          "explanation": "Panel memeriksa konsistensi; kontradiksi merusak kepercayaan."
+        }
+      ]
+    }
+  ]
+}

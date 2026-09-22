@@ -1,0 +1,322 @@
+{
+  "id": "preparation",
+  "order": 2,
+  "icon": "preparation",
+  "color": "#0EA5E9",
+  "title": "Hazırlık",
+  "summary": "Her mülakata hazır gir: şirketi, pozisyonu, CV'ni, soracağın soruları ve o günkü planını bil.",
+  "topics": [
+    {
+      "id": "company_research",
+      "order": 1,
+      "title": "Şirket Araştırması",
+      "minutes": 3,
+      "premium": false,
+      "pages": [
+        {
+          "title": "Araştırma neden önemli?",
+          "body": "Görüşmeciler, onlar hakkında araştırma yapıp yapmadığını birkaç dakika içinde anlar. Araştırma, deneyimini onların gerçek sorunlarıyla ilişkilendirmeni, “Neden biz?” sorusuna somut cevaplar vermeni ve daha isabetli sorular sormanı sağlar. Ayrıca bu işi gerçekten isteyip istemediğine karar vermene de yardımcı olur. İlk mülakat için yaklaşık 45–60 dakikalık odaklı bir araştırma planla; son aşamalar için daha fazlasını ayır.",
+          "tip": "Tüm bulgularını tek bir sayfada topla; böylece mülakattan önce beş dakikada gözden geçirebilirsin."
+        },
+        {
+          "title": "Nereye bakmalı?",
+          "body": "İşe şirketin web sitesinden başla: hakkımızda sayfası, ürünler, son haberler ve kariyer bölümü. Ardından en güncel basın bültenlerini ya da faaliyet raporunun öne çıkan kısımlarını oku, şirketin LinkedIn sayfasından büyümesini ve son işe alımlarını kontrol et; çalışan yorumlarını okurken tekil şikâyetlere değil, tekrar eden temalara odaklan. Şirket deneyebileceğin bir ürün satıyorsa onu kendin kullan.",
+          "tip": "Şirket adını “haber” kelimesiyle birlikte arat ve son altı aya odaklan."
+        },
+        {
+          "title": "Neleri not almalı?",
+          "body": "Gerçekten kullanabileceğin beş bilgi topla: Şirket ne satıyor ve kime satıyor, başlıca rakipleri kimler, ürün lansmanı ya da büyüme gibi yakın zamandaki bir gelişme, belirttiği değerler veya misyonu ve karşı karşıya kaldığı görünen bir zorluk. Her bilgi için becerilerinin onunla nasıl ilişkili olduğunu anlatan bir cümle yaz. Seninle bağlantısı olmayan bilgiler, sadece genel kültürdür.",
+          "tip": "Bir bilgiyi deneyiminle ya da bir soruyla ilişkilendiremiyorsan notlarından çıkar."
+        },
+        {
+          "title": "Görüşmecilerini araştır",
+          "body": "Seninle kimin görüşeceğini biliyorsan LinkedIn profillerine göz at. Görevlerini, ne kadar süredir orada çalıştıklarını ve ortak bir mesleki geçmişiniz olup olmadığını not et. Bunu neyi önemsediklerini tahmin etmek için kullan: Bir yönetici teslimata, bir ekip arkadaşı iş birliğine, bir direktör ise etkiye bakar. Karşına çıkan kişisel detaylardan bahsetme; her şeyi tamamen profesyonel düzeyde tut.",
+          "tip": "Görüşmecilerin adlarını ve görevlerini paylaşmadılarsa işe alım uzmanından iste."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Araştırdığın her bilginin seninle nasıl ilişkili olduğunu neden not etmelisin?",
+          "options": ["Görüşmeciler ezber becerini puanlar", "Notlarının kapsamlı görünmesini sağlar", "Becerilerinle bağlantısı olmayan bilgiler sadece genel kültürdür", "İşe alım uzmanları notlarını görmek ister"],
+          "answer": 2,
+          "explanation": "Araştırma, ancak onu deneyiminle ya da sorularınla ilişkilendirebildiğinde işe yarar."
+        },
+        {
+          "id": "q2",
+          "question": "Çalışan yorumlarını kullanmanın en iyi yolu nedir?",
+          "options": ["Mülakatta en sert yorumu alıntılamak", "Tekil şikâyetler yerine tekrar eden temalara bakmak", "Tamamen görmezden gelmek", "Yalnızca beş yıldızlı yorumları okumak"],
+          "answer": 1,
+          "explanation": "Tek bir yorum bir anekdottur; tekrar eden temalar ise şirket hakkında gerçek bir şey söyler."
+        },
+        {
+          "id": "q3",
+          "question": "Görüşmecilerini araştırırken neyden kaçınmalısın?",
+          "options": ["Karşına çıkan kişisel detaylardan bahsetmekten", "Mevcut görevlerini kontrol etmekten", "Orada ne kadar süredir çalıştıklarını not etmekten", "İşe alım uzmanından isimlerini istemekten"],
+          "answer": 0,
+          "explanation": "Bulduklarını önceliklerini tahmin etmek için kullan, ama sohbeti profesyonel tut."
+        }
+      ]
+    },
+    {
+      "id": "role_analysis",
+      "order": 2,
+      "title": "İş İlanını Çözümlemek",
+      "minutes": 3,
+      "premium": false,
+      "pages": [
+        {
+          "title": "İlanı bir kontrol listesi gibi oku",
+          "body": "İş ilanı, işverenin çözülmesini istediği sorunların listesidir. İlanı bir belgeye kopyala ve her beceriyi, aracı, sorumluluğu ve beklenen sonucu işaretle. Sonra bunları iki gruba ayır: genellikle en başta yer alan ya da tekrar edilen olmazsa olmazlar ve çoğunlukla “tercih sebebi” ya da “artı” olarak belirtilen olsa iyi olurlar. Bu harita, mülakatın neye odaklanacağını gösterir.",
+          "tip": "Başvururken iş ilanını kaydet; ilanlar çoğu zaman mülakattan önce yayından kaldırılır."
+        },
+        {
+          "title": "Gizli öncelikleri fark et",
+          "body": "Tekrarlara ve sıralamaya dikkat et. Üç kez geçen bir beceri, bir kez geçenden daha önemlidir. Fiiller seviyeyi ele verir: “destek olmak” ve “yardımcı olmak” daha junior bir role işaret ederken, “sahiplenmek”, “liderlik etmek” ve “tanımlamak” kıdeme işaret eder. “Hızlı tempolu” ya da “belirsizliğin yüksek olduğu ortam” gibi ifadeler, değişim ve baskıyla nasıl başa çıktığını test edeceklerinin sinyalidir.",
+          "tip": "Her becerinin kaç kez geçtiğini say; ilk iki üçü, mülakattaki ana temalarındır."
+        },
+        {
+          "title": "Her gereksinimi bir kanıtla eşleştir",
+          "body": "İki sütunlu basit bir tablo hazırla. Sol sütuna her olmazsa olmaz gereksinimi yaz. Sağ sütuna ise deneyiminden bunu kanıtlayan somut bir örnek ekle; mümkünse bir sonuç ya da rakamla. Doğrudan bir örneğin yoksa hızlı öğrenebildiğini gösteren benzer bir örnek bul. Bu örnekler, mülakat cevaplarının bel kemiği olur.",
+          "tip": "Her olmazsa olmaz için en az bir hikâye hedefle; güçlü bir hikâye iki gereksinimi birden karşılayabilir."
+        },
+        {
+          "title": "Eksiklerini dürüstçe ele al",
+          "body": "Bir iş ilanının her satırını karşılamak nadiren mümkündür ve işverenler bunu bilir. Her eksik için kısa ve dürüst bir cevap hazırla: eksiği kabul et, sahip olduğun en yakın deneyimi göster ve bir kurs ya da yan proje gibi, bu açığı nasıl kapattığını anlat. Gösteremeyeceğin bir beceriye asla sahip olduğunu iddia etme; tek bir ek soru bunu ortaya çıkarır.",
+          "tip": "Eksiklerle ilgili cevaplarını bir deneme mülakatında sesli olarak prova et; savunmacı değil, sakin duyulsunlar."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "İş ilanındaki hangi fiil en çok kıdemli bir role işaret eder?",
+          "options": ["Yardımcı olmak", "Destek olmak", "Sahiplenmek", "Yardım etmek"],
+          "answer": 2,
+          "explanation": "“Sahiplenmek”, “liderlik etmek” ve “tanımlamak” gibi fiiller sorumluluğa ve kıdeme işaret eder."
+        },
+        {
+          "id": "q2",
+          "question": "Kanıt tablonun sağ sütununa ne yazılır?",
+          "options": ["Gereksinimi kanıtlayan somut bir örnek", "Beklediğin maaş", "Görüşmecinin adı", "Hobilerinin listesi"],
+          "answer": 0,
+          "explanation": "Her olmazsa olmaz, ideal olarak bir sonuç ya da rakam içeren somut bir örnekle eşleşir."
+        },
+        {
+          "id": "q3",
+          "question": "Karşılamadığın bir gereksinimi ele almanın en iyi yolu nedir?",
+          "options": ["Varmış gibi söyleyip sonra öğrenmek", "Konuya hiç girmemek", "Başvurunu geri çekmek", "Kabul etmek, en yakın deneyimini ve açığı nasıl kapattığını göstermek"],
+          "answer": 3,
+          "explanation": "Dürüstlük ve açığı kapatmaya yönelik bir plan inandırıcıdır; blöf ise ek sorularla ortaya çıkar."
+        }
+      ]
+    },
+    {
+      "id": "cv_preparation",
+      "order": 3,
+      "title": "CV'ni Pozisyona Uyarlamak",
+      "minutes": 4,
+      "premium": true,
+      "pages": [
+        {
+          "title": "Tek CV herkese uymaz",
+          "body": "Her ilana aynı CV'yi göndermek şansını düşürür. İşe alım uzmanları ilk taramada çoğu zaman bir dakikadan az zaman harcar ve pek çok şirket anahtar kelimelere göre filtreleme yapan aday takip sistemleri (ATS) kullanır. Uyarlamak; özetini, madde işaretlerinin sırasını ve beceriler bölümünü, her pozisyon için en ilgili kanıtlar ilk sırada görünecek şekilde düzenlemek demektir.",
+          "tip": "Her şeyi içeren bir ana CV tut; her başvuru için onun bir kopyasını kısaltıp yeniden sırala."
+        },
+        {
+          "title": "İlanın dilini kullan",
+          "body": "Deneyimini doğru şekilde yansıttığı sürece iş ilanındaki terimleri birebir kullan. İlanda “paydaş yönetimi” yazıyorsa sadece “diğer ekiplerle çalıştım” demekle yetinme. Araçlar ve sertifikalar için hem tam adı hem de kısaltmayı yaz. Takip sistemlerinin her şeyi okuyabilmesi için biçimlendirmeyi sade tut: standart başlıklar kullan ve görsellerin içine metin koyma.",
+          "tip": "CV'ni düz bir metin dosyasına yapıştır; kaybolan ya da karışan her şey yazılım tarafından okunamayabilir."
+        },
+        {
+          "title": "Başarı odaklı maddeler yaz",
+          "body": "Görev tanımlarının yerine sonuçları koy. Güçlü bir madde bir eylem fiiliyle başlar, ne yaptığını anlatır ve sonucu gösterir: “Veri girişini otomatikleştirerek fatura işleme süresini %30 kısalttım.” Kesin rakamların yoksa ekip büyüklüğü, müşteri sayısı ya da yönettiğin bütçe gibi ölçek, sıklık veya kapsam bilgisi kullan. Her pozisyonun altında en ilgili maddeyi en başa koy.",
+          "tip": "Zayıf, görev tanımı gibi duran maddeleri bulmak için taslağını uygulamadaki CV değerlendirme özelliğinden geçir."
+        },
+        {
+          "title": "Mülakata hazır gel",
+          "body": "Görüşmeciler CV'ndeki her şey hakkında soru sorabilir; bu yüzden mülakattan önce gönderdiğin versiyonu birebir yeniden oku. Her maddeyi bağlamı, senin özel katkın ve sonucuyla açmaya hazır ol. Yüz yüze mülakatlara birkaç çıktı götür, video görüşmelerde ise dijital bir kopyayı açık tut. Tarihlerin ve unvanların LinkedIn profilinle uyumlu olduğundan emin ol.",
+          "tip": "Uyarladığın her CV'yi dosya adında şirket adı olacak şekilde kaydet; böylece hangisinin onlarda olduğunu hep bilirsin."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "İş ilanındaki anahtar kelimeleri neden CV'nde kullanmalısın?",
+          "options": ["Takip sistemleri ve işe alım uzmanları bu kelimeleri tarar", "CV'yi uzatır", "Beceriler bölümünü atlamanı sağlar", "İşe alım uzmanları kopyalanmış paragrafları tercih eder"],
+          "answer": 0,
+          "explanation": "Eşleşen terimler, hem yazılım filtrelerinin hem de hızlı tarama yapan insanların ilgili deneyimini bulmasına yardımcı olur."
+        },
+        {
+          "id": "q2",
+          "question": "En güçlü CV maddesi hangisidir?",
+          "options": ["Faturalardan sorumlu", "Fatura işleme görevlerinde çalıştım", "Finans ekibine her gün yardım ettim", "Veri girişini otomatikleştirerek fatura işleme süresini %30 kısalttım"],
+          "answer": 3,
+          "explanation": "Bir eylem fiiliyle başlıyor, ne yaptığını anlatıyor ve ölçülebilir bir sonuç gösteriyor."
+        },
+        {
+          "id": "q3",
+          "question": "Hangi biçimlendirme tercihi takip sistemlerinin CV'ni okumasını engelleyebilir?",
+          "options": ["Standart başlıklar", "Görsellerin içine yerleştirilmiş metin", "Basit madde işaretleri", "Net ve yaygın bir yazı tipi"],
+          "answer": 1,
+          "explanation": "Yazılımlar çoğu zaman görsellerin içindeki metni okuyamaz; bu içerik kaybolabilir."
+        }
+      ]
+    },
+    {
+      "id": "questions_to_ask",
+      "order": 4,
+      "title": "Görüşmeciye Sorulacak Sorular",
+      "minutes": 3,
+      "premium": true,
+      "pages": [
+        {
+          "title": "Soruların neden önemli?",
+          "body": "Neredeyse her mülakat “Bize sormak istediğin bir şey var mı?” sorusuyla biter. “Hayır, sanırım her şeye değindiniz” demek ilginin düşük olduğunu gösterir. İyi sorular, pozisyon üzerine ciddi şekilde düşündüğünü gösterir, bu işi isteyip istemediğine karar vermene yardım eder ve güçlü bir son izlenim bırakır. Bazıları sohbet sırasında cevaplanacağı için beş altı soru hazırla.",
+          "tip": "Sorularını defterine yaz ve cevaplandıkça işaretle."
+        },
+        {
+          "title": "Pozisyonla ilgili sorular",
+          "body": "Başarının neye benzediğini sor: “İlk 90 günde neyi başarmamı beklersiniz?” ya da “Tipik bir hafta nasıl geçiyor?” Zorlukları sor: “Bu pozisyondaki kişinin karşılaşacağı en büyük engel ne?” Bu sorular sana gerçek bilgi verir ve işi nasıl iyi yapacağını şimdiden düşündüğünü gösterir.",
+          "tip": "Verdikleri cevabın ardından, buna nasıl yaklaşacağına dair kısa bir yorum ekle."
+        },
+        {
+          "title": "Ekip ve gelişimle ilgili sorular",
+          "body": "Ekibin nasıl çalıştığını sor: “Ekip iş bölümünü nasıl yapıyor ve kararları nasıl alıyor?” Gelişimi sor: “Bu pozisyondaki kişiler genellikle nasıl ilerliyor?” Soruları görüşmeciye göre uyarla: Müstakbel yöneticine yönetim tarzını, bir ekip arkadaşına günlük iş birliğini, üst düzey bir yöneticiye ise şirketin önümüzdeki bir iki yıldaki yönünü sor.",
+          "tip": "Her görüşmeci tipi için bir soru hazır tut; böylece farklı aşamalarda kendini tekrar etmezsin."
+        },
+        {
+          "title": "Kaçınılması gereken sorular",
+          "body": "İlk aşamalarda görüşmeci açmadıkça maaş, izin ya da uzaktan çalışma imkânlarıyla başlama; bunları karşılıklı ilgi oluşana kadar sakla. Şirketin web sitesinde kolayca bulunabilecek bir şey sorma. Sohbeti bitiren evet/hayır sorularından kaçın. Güçlü bir kapanış sorusu şudur: “Geçmişimle ilgili sizi tereddüte düşüren bir şey var mı?”",
+          "tip": "Kapanış sorunun cevabını dikkatle dinle ve dile getirilen endişeyi o anda sakince ele al."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Neden sadece iki değil de beş altı soru hazırlamalısın?",
+          "options": ["Görüşmeciler tam olarak altı soru bekler", "Mülakatı uzatır", "Pozisyon hakkında konuşmaktan kaçınmanı sağlar", "Bazıları mülakat sırasında zaten cevaplanır"],
+          "answer": 3,
+          "explanation": "Fazladan sorun olması, sona geldiğinde elinde hâlâ iyi sorular kalmasını sağlar."
+        },
+        {
+          "id": "q2",
+          "question": "Müstakbel yöneticinle konuşurken en uygun soru hangisidir?",
+          "options": ["Yönetim tarzınızı nasıl tanımlarsınız?", "Şirket ne satıyor?", "Kaç gün iznim olacak?", "Ücretsiz otopark var mı?"],
+          "answer": 0,
+          "explanation": "Soruları görüşmeciye göre uyarla; bir yönetici, nasıl liderlik ettiğini en iyi kendisi anlatır."
+        },
+        {
+          "id": "q3",
+          "question": "“Geçmişimle ilgili sizi tereddüte düşüren bir şey var mı?” diye sormanın amacı nedir?",
+          "options": ["Görüşmeciyi teklif vermeye zorlamak", "Mülakatı erken bitirmek", "Hâlâ odadayken endişeleri ortaya çıkarıp ele almak", "Maaşı dolaylı yoldan sormak"],
+          "answer": 2,
+          "explanation": "Karar verilmeden önce şüphelere cevap verme şansı tanır."
+        }
+      ]
+    },
+    {
+      "id": "dress_code",
+      "order": 5,
+      "title": "Ne Giymeli?",
+      "minutes": 3,
+      "premium": true,
+      "pages": [
+        {
+          "title": "Şirkete uy, sonra bir adım öteye geç",
+          "body": "En güvenli kural, çalışanların günlük giyiminden bir kademe daha resmi giyinmektir. Ekip kot ve tişört giyiyorsa şık-rahat (smart casual) bir tarz seç. İş rahat (business casual) giyiniyorlarsa bir ceket ya da daha resmi bir kombin düşün. Şirketin kariyer sayfasına ve sosyal medya fotoğraflarına göz at ya da doğrudan işe alım uzmanına genelde ne giyildiğini sor.",
+          "tip": "İşe alım uzmanına kıyafet kuralını sormak normaldir ve sağduyulu olduğunu gösterir."
+        },
+        {
+          "title": "Uyum, rahatlık ve düzen",
+          "body": "En önemli olan fiyat değil; kıyafetlerinin temiz, ütülü ve üzerine tam oturması. Bir saat boyunca rahatça oturabileceğinden emin olmak için daha önce giydiğin bir kombin seç. Sürekli düzeltme ihtiyacı duyduğun şeylerden kaçın. Aksesuarları ve parfümü sade tut, ayakkabılarının temiz olduğundan emin ol. Kültürel ve dini kıyafetler her zaman uygundur; ölçüt düzenli görünmektir.",
+          "tip": "Görüşmecinin açısından nasıl göründüğünü kontrol etmek için kıyafetinle aynanın karşısında otur."
+        },
+        {
+          "title": "Video mülakatlar",
+          "body": "Ayağa kalkman gerekebileceği için sadece belden yukarısını değil, baştan aşağı giyin. Düz, orta tonlu renkler genellikle kamerada en iyi görünür; çok ince çizgiler ve küçük, karışık desenler titreşebilir. Arka plana karışıp kaybolmamak için kıyafetini arka planınla birlikte kamerada test et. Yüzüne düşen iyi bir ışık ve düzenli bir arka plan da kendini nasıl sunduğunun bir parçasıdır.",
+          "tip": "Işığı kontrol etmek için mülakatla aynı saatte iki dakikalık bir kamera testi yap."
+        },
+        {
+          "title": "Bir gün önceden hazırla",
+          "body": "Ayakkabıların dahil tüm kombinini bir gün önceden seç ve dene. Leke, eksik düğme ya da kırışıklık olup olmadığına bak ve henüz vaktin varken düzelt. Seyahat ediyorsan küçük bir çanta hazırla: yedek bir gömlek ya da üst, leke mendili ve bir tarak. Önceden karar vermek, o günkü stres kaynaklarından birini ortadan kaldırır.",
+          "tip": "Hazırlanırken hiçbir karar vermek zorunda kalmaman için bir gece önceden her şeyi tek bir yere hazırla."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Kıyafet konusunda en güvenli genel kural nedir?",
+          "options": ["Her zaman sahip olduğun en resmi kıyafeti giy", "Çalışanların genelde giydiğinden bir kademe daha resmi giyin", "Evde ne giyiyorsan onu giy", "Görüşmecinin profil fotoğrafını taklit et"],
+          "answer": 1,
+          "explanation": "Günlük normun bir adım üstü, yersiz kaçmadan saygılı görünmeni sağlar."
+        },
+        {
+          "id": "q2",
+          "question": "Kamerada genellikle en iyi sonuç veren kıyafet tercihi hangisidir?",
+          "options": ["Çok ince çizgiler", "Küçük, karışık desenler", "Düz, orta tonlu renkler", "Arka planınla aynı renk"],
+          "answer": 2,
+          "explanation": "Düz orta tonlar kamerada temiz görünür; ince desenler titreşebilir, aynı renkler ise seni arka plana karıştırır."
+        },
+        {
+          "id": "q3",
+          "question": "Neden daha önce giydiğin bir kombini seçmelisin?",
+          "options": ["Daha ucuzdur", "Yeni kıyafetlere izin verilmez", "Görüşmeciler yeni kıyafetleri fark eder", "Bir saat boyunca rahatça oturabileceğini bilirsin"],
+          "answer": 3,
+          "explanation": "Denenmiş bir kombin, sürpriz yaşamamanı ve mülakat boyunca sürekli bir şeyleri düzeltmek zorunda kalmamanı sağlar."
+        }
+      ]
+    },
+    {
+      "id": "interview_day_logistics",
+      "order": 6,
+      "title": "Bir Gün Önce ve Mülakat Günü",
+      "minutes": 3,
+      "premium": true,
+      "pages": [
+        {
+          "title": "Detayları teyit et",
+          "body": "Bir gün önce daveti yeniden oku: tarih, saat dilimi, adres ya da video bağlantısı, görüşmecilerin adları ve mülakatın formatı. Güzergâhını planla ve aynı saatteki yolculuk süresini kontrol et; en az 30 dakikalık bir pay ekle. Video görüşmeler için bağlantıyı, kamerayı, mikrofonu ve interneti test et; bağlantı koparsa arayabileceğin bir telefon numarasını hazırda tut.",
+          "tip": "Özellikle uzaktan çalışma pozisyonlarında davetteki saat dilimini iki kez kontrol et."
+        },
+        {
+          "title": "Çantanı hazırla ve gözden geçir",
+          "body": "Akşamdan bir çanta hazırla: CV'nin çıktıları, bina gerektiriyorsa kimliğin, bir defter ve kalem, su ve telefon şarj aleti. Ardından sınava çalışır gibi değil, kısa bir tekrar yap: ana hikâyelerin, “Bize kendinden bahset” ve “Neden bu şirket?” sorularına cevapların ve onlara soracağın sorular. İyi uyuyabilmek için erken bırak.",
+          "tip": "Bir akşam önce tek bir kısa deneme mülakatı yeterlidir; son dakikadaki yoğun çalışma yalnızca stresi artırır."
+        },
+        {
+          "title": "Doğru zamanda orada ol",
+          "body": "Yüz yüze mülakatlarda bölgeye 15–20 dakika erken var, ama resepsiyona başlangıçtan yaklaşık 10 dakika önce gir. Çok daha erken gitmek karşı tarafa baskı yaratabilir. Video mülakatlarda her şeyi önceden test etmiş olarak bir iki dakika erken katıl. Herhangi bir sebeple gecikeceksen, bunu öğrendiğin anda ve başlangıç saatinden önce işe alım uzmanına haber ver.",
+          "tip": "Evden çıkmadan önce işe alım uzmanının telefon numarasını rehberine kaydet."
+        },
+        {
+          "title": "Herkes mülakatın bir parçası",
+          "body": "Güvenlik görevlisinden resepsiyoniste kadar karşılaştığın herkese nazik davran; bazı şirketler onların izlenimlerini sorar. Telefonunu tamamen sessize al ve kaldır. Beklerken ekranda gezinmek yerine tek sayfalık notlarını gözden geçir. Görüşmecileri gülümseyerek, net bir şekilde kendini tanıtarak ve göz teması kurarak selamla; çünkü ilk dakika, geri kalanın havasını belirler.",
+          "tip": "Bekleme süresini birkaç yavaş nefes almak ve en iyi üç hikâyeni yeniden okumak için kullan."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Yüz yüze bir mülakatta resepsiyona ne zaman girmelisin?",
+          "options": ["Bir saat erken", "Başlangıçtan yaklaşık 10 dakika önce", "Tam vaktinde", "Birkaç dakika gecikmek sorun değil"],
+          "answer": 1,
+          "explanation": "Bölgeye erken var, ama karşı tarafa baskı yaratmamak için resepsiyona yaklaşık 10 dakika önce giriş yap."
+        },
+        {
+          "id": "q2",
+          "question": "Gecikeceksen ne yapmalısın?",
+          "options": ["Gidip sonunda özür dilemek", "Hiçbir şey söylemeyip fark etmemelerini ummak", "Başlangıç saatinden sonra erteleme için e-posta atmak", "Öğrendiğin anda ve başlangıç saatinden önce işe alım uzmanına haber vermek"],
+          "answer": 3,
+          "explanation": "Erken haber vermek profesyonelliktir ve şirkete plan yapması için zaman tanır."
+        },
+        {
+          "id": "q3",
+          "question": "Bir akşam önce en iyi hazırlık şekli hangisidir?",
+          "options": ["Ana hikâyeleri ve soruları kısaca gözden geçirip iyi bir uyku çekmek", "Sabaha kadar çalışmak", "Hiç hazırlık yapmamak", "CV'yi baştan yazmak"],
+          "answer": 0,
+          "explanation": "Hafif bir tekrar cevaplarını taze tutar; dinlenmek, son dakika yüklenmesinden daha önemlidir."
+        }
+      ]
+    }
+  ]
+}

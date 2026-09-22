@@ -1,0 +1,322 @@
+{
+  "id": "communication_body_language",
+  "order": 4,
+  "icon": "communication",
+  "color": "#10B981",
+  "title": "Communication & Body Language",
+  "summary": "Learn how your words, voice and body work together so interviewers remember what you said, not how nervous you looked.",
+  "topics": [
+    {
+      "id": "speaking_techniques",
+      "order": 1,
+      "title": "Speaking Clearly and Concisely",
+      "minutes": 3,
+      "premium": false,
+      "pages": [
+        {
+          "title": "Lead with the answer",
+          "body": "Interviewers remember the first sentence best, so put your main point there. If asked why you want the role, start with 'Because it combines data analysis with client work, which is what I enjoy most,' then add supporting detail. Starting with background and building slowly to the point makes the listener work hard and often lose interest before you arrive.",
+          "tip": "Before each answer, silently name the one point you want them to remember."
+        },
+        {
+          "title": "Use a simple structure",
+          "body": "Structure makes you easy to follow. For experience questions, use situation, action, result. For opinion questions, use point, reason, example, point. Signpost as you go: 'There are two reasons. First… Second…' Numbering your ideas tells the interviewer how long you will speak and helps you stay on track when nerves hit.",
+          "tip": "If you promise 'three reasons', make sure you can name all three."
+        },
+        {
+          "title": "Cut the filler",
+          "body": "Words like 'basically', 'sort of' and 'you know' dilute strong content. Replace them with a short pause; silence sounds more confident than filler. Avoid internal jargon and acronyms your interviewer may not know — say 'our customer database' instead of a system's code name. Plain, specific words make your achievements sound more credible, not less impressive.",
+          "tip": "Record one answer in a mock interview and count your filler words."
+        },
+        {
+          "title": "Know when to stop",
+          "body": "Most answers work best at one to two minutes. Long answers bury your best point and eat into time for other questions. Finish with a clear closing line that links back to the role, then stop talking. If you are unsure whether you said enough, ask: 'Would you like me to go deeper on any part of that?'",
+          "tip": "Don't restart your answer after finishing; a confident stop beats a nervous add-on."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Where should your main point usually go in an answer?",
+          "options": ["At the very end, as a conclusion", "In the first sentence", "Only if the interviewer asks for it", "In the middle, after background details"],
+          "answer": 1,
+          "explanation": "Leading with the answer makes it easy to follow and memorable."
+        },
+        {
+          "id": "q2",
+          "question": "What is a better replacement for filler words like \"basically\"?",
+          "options": ["Speaking faster", "Adding technical jargon", "A short pause", "Repeating the question"],
+          "answer": 2,
+          "explanation": "A brief silence sounds more confident than filler words."
+        },
+        {
+          "id": "q3",
+          "question": "How long should most interview answers be?",
+          "options": ["About one to two minutes", "Under ten seconds", "Five minutes or more", "As long as it takes to cover every detail"],
+          "answer": 0,
+          "explanation": "One to two minutes keeps your best point visible and leaves time for more questions."
+        }
+      ]
+    },
+    {
+      "id": "active_listening",
+      "order": 2,
+      "title": "Active Listening",
+      "minutes": 3,
+      "premium": false,
+      "pages": [
+        {
+          "title": "Listening is a skill they notice",
+          "body": "Interviewers judge how you listen as much as how you talk, because it predicts how you will work with colleagues and clients. Many weak answers come from answering the question the candidate expected rather than the one actually asked. Give the interviewer your full attention, avoid planning your reply while they are still speaking, and let them finish completely.",
+          "tip": "Never interrupt, even when you already know where the question is going."
+        },
+        {
+          "title": "Show that you are listening",
+          "body": "Signal attention with small, natural cues: nod occasionally, keep your face engaged and use brief acknowledgements such as 'I see' or 'That makes sense'. Lean slightly forward when the interviewer describes the role or team. On video, these signals need to be a little larger, because subtle movements are easy to miss on a small screen.",
+          "tip": "Keep your phone out of sight so you are not tempted to glance at it."
+        },
+        {
+          "title": "Clarify before you answer",
+          "body": "If a question is broad or unclear, ask a short clarifying question: 'Do you mean a conflict with a manager or with a peer?' Paraphrasing complex questions also buys you a few seconds to think: 'So you'd like to know how I prioritised when two deadlines clashed?' Clarifying shows care and precision; guessing risks a long answer to the wrong question.",
+          "tip": "One clarifying question is smart; asking one for every question looks like stalling."
+        },
+        {
+          "title": "Use what you hear",
+          "body": "The best candidates weave the interviewer's words back into later answers. If they mention the team is scaling quickly, connect your experience to growth: 'You mentioned rapid hiring — in my last role I onboarded six new colleagues.' At the end, refer to something specific they said when asking your questions. This proves you listened and makes the conversation feel two-way.",
+          "tip": "Jot down one or two key phrases the interviewer uses about the role."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "What is a common cause of weak answers related to listening?",
+          "options": ["Nodding too often", "Taking brief notes", "Asking about next steps", "Answering the question you expected instead of the one asked"],
+          "answer": 3,
+          "explanation": "Candidates often respond to an assumed question rather than listening to the real one."
+        },
+        {
+          "id": "q2",
+          "question": "What should you do if a question is broad or unclear?",
+          "options": ["Ask a short clarifying question", "Guess and give a long answer", "Skip it and move on", "Ask the interviewer to repeat it three times"],
+          "answer": 0,
+          "explanation": "A quick clarification ensures you answer the right question."
+        },
+        {
+          "id": "q3",
+          "question": "How can you show you listened throughout the interview?",
+          "options": ["By repeating your CV word for word", "By referring back to specific things the interviewer said", "By speaking more than the interviewer", "By agreeing with every statement"],
+          "answer": 1,
+          "explanation": "Weaving the interviewer's own points into your answers proves active listening."
+        }
+      ]
+    },
+    {
+      "id": "eye_contact",
+      "order": 3,
+      "title": "Eye Contact",
+      "minutes": 3,
+      "premium": true,
+      "pages": [
+        {
+          "title": "Why eye contact matters",
+          "body": "Steady eye contact signals confidence, honesty and interest. Too little can make you seem nervous or evasive; constant staring feels intense. Aim to hold eye contact for most of the time you are listening and a bit less while you are speaking, since looking away briefly to think is natural. Expectations vary across cultures, so adapt gently to the interviewer's style.",
+          "tip": "Mirror the interviewer's level of eye contact rather than forcing a fixed rule."
+        },
+        {
+          "title": "The few-seconds rule",
+          "body": "Hold eye contact for roughly three to five seconds at a time, then glance away briefly — to the side or down at your notes — before returning. This rhythm feels natural and avoids staring. If direct eye contact makes you uncomfortable, look at the area between the eyes or at the bridge of the nose; from a normal distance it looks the same.",
+          "tip": "Practise the rhythm in everyday conversations the week before your interview."
+        },
+        {
+          "title": "Panels and groups",
+          "body": "With several interviewers, look mainly at the person who asked the question, especially at the start and end of your answer. In the middle, move your gaze to the other panel members to include them. Ignoring quieter panellists is a common mistake; they may have a strong say in the decision. Return to the questioner as you finish.",
+          "tip": "Finish each answer by looking at the person who asked the question."
+        },
+        {
+          "title": "Eye contact on video",
+          "body": "On video, looking at the interviewer's face on screen makes you appear to look down or sideways. To create eye contact, look into the camera lens while you speak, especially for key points. Glance at the screen while listening so you can read reactions. Placing the video window just below the camera reduces the gap between the two.",
+          "tip": "Put a small sticky note next to the lens as a reminder."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "How long should you typically hold eye contact before briefly looking away?",
+          "options": ["Less than one second", "About three to five seconds", "The entire answer without breaking", "Around thirty seconds"],
+          "answer": 1,
+          "explanation": "A rhythm of three to five seconds feels natural and avoids staring."
+        },
+        {
+          "id": "q2",
+          "question": "In a panel interview, where should you look at the end of your answer?",
+          "options": ["At the most senior person", "At your notes", "At the ceiling", "At the person who asked the question"],
+          "answer": 3,
+          "explanation": "Start and finish with the questioner, and include others in the middle."
+        },
+        {
+          "id": "q3",
+          "question": "How do you create eye contact in a video interview?",
+          "options": ["Look at the interviewer's face on screen", "Look at your own video preview", "Look into the camera lens while speaking", "Close your eyes to concentrate"],
+          "answer": 2,
+          "explanation": "The lens is where the interviewer perceives your gaze."
+        }
+      ]
+    },
+    {
+      "id": "gestures",
+      "order": 4,
+      "title": "Gestures and Hands",
+      "minutes": 3,
+      "premium": true,
+      "pages": [
+        {
+          "title": "Hands help you think",
+          "body": "Natural gestures make you look relaxed and help you find words, so don't freeze your hands. Research on speech shows that gesturing supports fluency. The goal is controlled, purposeful movement: gestures that emphasise a point or show size, sequence or contrast. Random, repetitive movement distracts the interviewer from what you are saying and signals nervousness.",
+          "tip": "Let your hands move when you speak, then return them to a resting position."
+        },
+        {
+          "title": "The gesture zone",
+          "body": "Keep most gestures within the area between your chest and waist, roughly the width of your body. Movements in this zone look calm and confident. Very large gestures above the shoulders can look dramatic in a small room. Open palms facing slightly up signal honesty and openness, while pointing a finger at the interviewer can feel aggressive.",
+          "tip": "On video, keep gestures slightly higher so they stay inside the camera frame."
+        },
+        {
+          "title": "Habits to avoid",
+          "body": "Nervous habits steal attention: tapping a pen, clicking it, touching your face or hair, playing with jewellery, or crossing your arms tightly. Crossed arms can read as defensive even when you are just cold. Holding a pen you don't need invites fidgeting. Hiding your hands under the table entirely can make you seem closed or uncomfortable.",
+          "tip": "If you tend to fidget, don't hold anything you won't use."
+        },
+        {
+          "title": "A calm resting position",
+          "body": "When you are not gesturing, rest your hands loosely on the table or your lap, fingers lightly together. This neutral base makes any gesture you do use more meaningful. At the start and end, offer a firm, brief handshake if it is customary, and follow the interviewer's lead where greetings differ. Keep your hands dry and relaxed.",
+          "tip": "Check your hand habits by watching a recording of a mock interview."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Why should you avoid freezing your hands completely?",
+          "options": ["Interviewers require gestures", "Natural gestures help you speak fluently and look relaxed", "It is considered rude everywhere", "It makes answers shorter"],
+          "answer": 1,
+          "explanation": "Controlled, natural gestures support speech and look confident."
+        },
+        {
+          "id": "q2",
+          "question": "Where should most of your gestures stay?",
+          "options": ["Above your head", "Below the table, out of sight", "Between chest and waist, about body width", "Pointed towards the interviewer"],
+          "answer": 2,
+          "explanation": "The chest-to-waist zone looks calm and controlled."
+        },
+        {
+          "id": "q3",
+          "question": "Which is a nervous habit that distracts interviewers?",
+          "options": ["Clicking a pen", "Resting hands on the table", "Using open palms", "Showing sequence with fingers"],
+          "answer": 0,
+          "explanation": "Repetitive movements like pen clicking pull attention away from your answer."
+        }
+      ]
+    },
+    {
+      "id": "posture_tips",
+      "order": 5,
+      "title": "Confident Posture",
+      "minutes": 3,
+      "premium": true,
+      "pages": [
+        {
+          "title": "Posture speaks first",
+          "body": "Before you say a word, your posture tells the interviewer how you feel. Slumping suggests low energy or disinterest; sitting rigidly upright suggests anxiety. Aim for relaxed and alert: back against or near the chair back, shoulders down and open, feet flat on the floor. Good posture also helps you breathe properly, which steadies your voice.",
+          "tip": "Roll your shoulders back and down once before you walk in."
+        },
+        {
+          "title": "Sitting well",
+          "body": "Sit towards the back of the chair with a slight forward lean of your upper body; this signals engagement without looking pushy. Avoid leaning far back, which can seem too casual, or perching on the edge, which looks nervous. Keep your legs still — crossing at the ankles or feet flat both work. Don't spread your belongings across the interviewer's desk.",
+          "tip": "Lean slightly forward when the interviewer talks about the role."
+        },
+        {
+          "title": "Entering and waiting",
+          "body": "The assessment often starts in the reception area. Sit upright while waiting and avoid scrolling your phone with your head down; you may be greeted suddenly. When your name is called, stand, smile and walk at a steady pace. Carry your bag in your left hand so your right hand is free for a greeting if one is offered.",
+          "tip": "Treat everyone you meet, including reception staff, as part of the interview."
+        },
+        {
+          "title": "Posture on video",
+          "body": "On camera, frame yourself from mid-chest up with a little space above your head. Sit on a stable chair, not a sofa or bed, so you don't sink. Keep your screen at eye level so you are not looking down. Avoid swivelling or rocking in office chairs; the movement is exaggerated on camera and distracting to the viewer.",
+          "tip": "Lock the height of a swivel chair and plant both feet before joining."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Which posture best signals relaxed engagement when seated?",
+          "options": ["Leaning far back with legs stretched out", "Perching on the edge of the chair", "Sitting back in the chair with a slight forward lean", "Resting your head on your hand"],
+          "answer": 2,
+          "explanation": "A slight forward lean shows interest while staying relaxed."
+        },
+        {
+          "id": "q2",
+          "question": "When does the posture assessment often begin?",
+          "options": ["Only once you are seated in the interview room", "While you are waiting in reception", "After the first question", "At the end, during your questions"],
+          "answer": 1,
+          "explanation": "You may be observed and greeted suddenly while waiting."
+        },
+        {
+          "id": "q3",
+          "question": "What is a good way to frame yourself on video?",
+          "options": ["From mid-chest up with a little space above your head", "Face only, filling the entire screen", "Full body from a distance", "Camera looking up from below your chin"],
+          "answer": 0,
+          "explanation": "Mid-chest framing at eye level looks natural and professional."
+        }
+      ]
+    },
+    {
+      "id": "voice_control",
+      "order": 6,
+      "title": "Voice, Pace and Tone",
+      "minutes": 4,
+      "premium": true,
+      "pages": [
+        {
+          "title": "Pace: slower than you think",
+          "body": "Nerves speed most people up, and fast speech sounds anxious and is harder to follow. Aim for a comfortable, conversational pace and slow down deliberately for numbers, names and key results. Pausing after an important point gives it weight. If you notice yourself rushing, finish your sentence, take a breath and continue a little more slowly.",
+          "tip": "Take one slow breath before you begin each answer."
+        },
+        {
+          "title": "Volume and clarity",
+          "body": "Speak loudly enough to be heard easily across the table without straining. Quiet voices can be read as a lack of confidence, especially in larger rooms or panel settings. Open your mouth fully and finish the ends of your words and sentences instead of trailing off. On video, test your microphone level before the call.",
+          "tip": "Ask 'Can you hear me clearly?' at the start of any remote interview."
+        },
+        {
+          "title": "Tone and energy",
+          "body": "A flat, monotone delivery makes even strong achievements sound dull. Vary your pitch naturally and let genuine enthusiasm show when you talk about work you enjoyed. Smiling as you speak warms your tone, even on the phone. Avoid ending statements with a rising pitch that sounds like a question; it can make confident claims seem uncertain.",
+          "tip": "Say your key achievement as a statement, with your pitch going down at the end."
+        },
+        {
+          "title": "Managing nerves in your voice",
+          "body": "Anxiety tightens the throat and makes breathing shallow, so your voice may shake or rise. Before the interview, warm up by humming or reading aloud for a few minutes. Breathe slowly from your stomach rather than your chest. Keep water nearby and sip it to create a natural pause. Practising answers aloud builds control that reading silently cannot.",
+          "tip": "Use the mock interview feature to rehearse answers out loud, then listen back to your pace."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "When should you deliberately slow down?",
+          "options": ["When introducing numbers, names and key results", "Only during small talk", "Never; faster sounds more energetic", "When answering the last question"],
+          "answer": 0,
+          "explanation": "Slowing down for important details helps them land."
+        },
+        {
+          "id": "q2",
+          "question": "What effect can a rising pitch at the end of statements have?",
+          "options": ["It makes you sound more authoritative", "It makes confident claims sound uncertain", "It speeds up the interview", "It has no effect on listeners"],
+          "answer": 1,
+          "explanation": "Upward inflection makes statements sound like questions."
+        },
+        {
+          "id": "q3",
+          "question": "Which is a good way to calm a shaky voice before the interview?",
+          "options": ["Drinking several coffees", "Reading your answers silently only", "Humming or reading aloud and breathing from your stomach", "Speaking as quietly as possible"],
+          "answer": 2,
+          "explanation": "Vocal warm-ups and slow belly breathing reduce tension in the voice."
+        }
+      ]
+    }
+  ]
+}

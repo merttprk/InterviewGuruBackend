@@ -1,0 +1,270 @@
+{
+  "id": "realistic_simulations",
+  "order": 6,
+  "icon": "simulation",
+  "color": "#EC4899",
+  "title": "Pratik ve Simülasyon",
+  "summary": "Mülakatları simüle ederek, kendini kaydederek ve net bir planla gelişerek pratiği gerçek bir ilerlemeye dönüştür.",
+  "topics": [
+    {
+      "id": "mock_interview_practice",
+      "order": 1,
+      "title": "Deneme Mülakatı Nasıl Yapılır?",
+      "minutes": 3,
+      "premium": false,
+      "pages": [
+        {
+          "title": "Simülasyon neden kafanda prova yapmaktan iyidir?",
+          "body": "Kafanda kusursuz görünen cevaplar, yüksek sesle söylendiğinde çoğu zaman dağılır. Bir deneme mülakatı eksikleri ortaya çıkarır: fazla uzayan hikâyeler, hatırlayamadığın rakamlar, hiç beklemediğin sorular. Gerçekçi koşullarda pratik yapmak, asıl mülakatı da tanıdık hissettirir ve bu da heyecanı azaltır. Önemli bir mülakattan önce yapılan iki üç tam simülasyon, saatlerce sessizce okumaktan çok daha değerlidir.",
+          "tip": "Deneme mülakatlarını takvimine gerçek randevular gibi kaydet."
+        },
+        {
+          "title": "Gerçekçi olsun",
+          "body": "Gerçek formatı birebir canlandır. Asıl mülakat görüntülü olacaksa görüntülü pratik yap; yüz yüze olacaksa masaya partnerinin karşısına otur. O gün nasıl giyineceksen öyle giyin ve genellikle 30–45 dakikalık bir süre sınırına uy. Bir cevabı baştan almak için durma; gerçek mülakatta bunu yapamazsın, bu yüzden cümlenin ortasında toparlanmayı öğren.",
+          "tip": "Pratik yapacak kimse yoksa buradaki deneme mülakatı özelliğini kullan."
+        },
+        {
+          "title": "Doğru soruları seç",
+          "body": "Soru setini üç kaynaktan oluştur: sık sorulan sorular (‘Bize kendinden bahseder misin?’, ‘Neden bu pozisyon?’), iş ilanıyla örtüşen davranışsal sorular ve çekindiğin bir iki zor soru. Partnerinden daha önce görmediğin en az bir soru eklemesini iste. Bir sürprizi sakince karşılamak, ancak sürprizlerle yüzleşerek geliştirebileceğin bir beceridir.",
+          "tip": "Duraksamana neden olan soruların listesini tut ve sürekli güncelle."
+        },
+        {
+          "title": "Pratik partnerini bilgilendir",
+          "body": "Bir arkadaş, mentor ya da iş arkadaşı, onu iyi bilgilendirirsen iyi bir mülakatçı olur. Ona iş ilanını, soru listeni ve dolgu kelimeleri ya da cevap uzunluğu gibi dikkat etmesi gereken noktaları ver. Akışın gerçek bir mülakat gibi hissettirmesi için oturum boyunca rolünden çıkmamasını ve tüm geri bildirimleri sona saklamasını iste.",
+          "tip": "Partnerinden en az bir kez ‘Somut bir örnek verebilir misin?’ diye sormasını iste."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Deneme mülakatında cevapları neden baştan almamalısın?",
+          "options": ["Partnerinin zamanını boşa harcar", "Gerçek mülakatta baştan alamazsın, bu yüzden toparlanmayı çalışmalısın", "Baştan almak cevapları fazla kısaltır", "Deneme mülakatlarında süre sınırı yoktur"],
+          "answer": 1,
+          "explanation": "Gerçek mülakatlarda ikinci şans olmaz, bu yüzden cevabın ortasında toparlanmayı çalış."
+        },
+        {
+          "id": "q2",
+          "question": "Soru setin neleri içermeli?",
+          "options": ["Yalnızca zaten iyi cevapladığın soruları", "Yalnızca teknik soruları", "Sık sorulan, pozisyona özel ve birkaç zor ya da beklenmedik soruyu", "İnternetten rastgele seçilmiş soruları"],
+          "answer": 2,
+          "explanation": "Sık sorulan, işe uygun ve zor soruların karışımı seni gerçek yelpazeye hazırlar."
+        },
+        {
+          "id": "q3",
+          "question": "Pratik partnerin geri bildirimi ne zaman vermeli?",
+          "options": ["Oturumun sonunda", "Her cümleden sonra", "Yalnızca iki kez istersen", "Hiçbir zaman; dinlemek yeterli"],
+          "answer": 0,
+          "explanation": "Geri bildirimi sona saklamak simülasyonu gerçekçi tutar."
+        }
+      ]
+    },
+    {
+      "id": "recording_setup",
+      "order": 2,
+      "title": "Kendini Kaydetmek",
+      "minutes": 3,
+      "premium": false,
+      "pages": [
+        {
+          "title": "Neden kayıt yapmalısın?",
+          "body": "Kendi yüzünü göremez, kendi sesini de bir mülakatçının duyduğu gibi duyamazsın. Kayıt, hiç fark etmediğin alışkanlıkları gösterir: saçınla oynamak, her cevaptan önce gözünü kaçırmak, on iki kez ‘yani’ demek. Çoğu insan ilk izleyişte rahatsız olur ve bu çok normaldir. Bu rahatsızlık hızla geçer; kazandığın içgörüyü ise başka bir yolla elde etmek zordur.",
+          "tip": "İlk kaydını bir kez yalnızca alışmak için, sonra bir kez de analiz etmek için izle."
+        },
+        {
+          "title": "Basit bir düzenek",
+          "body": "Telefonun yeterli. Onu bir kitap yığınının ya da ucuz bir standın üzerine göz hizasında, yaklaşık bir kol boyu uzağa yerleştir ve kendini göğüsten yukarısı görünecek şekilde kadrajla. Yüzünün iyi aydınlanması için pencereye ya da bir lambaya dönük otur. Sessiz bir odada kayıt yap ve başlamadan önce sesi kontrol etmek için on saniyelik bir test çekimi yap.",
+          "tip": "Aramalar ve bildirimler bölmesin diye uçak modunu aç."
+        },
+        {
+          "title": "Neyi kaydetmeli?",
+          "body": "Kısa kliplerle başla: her kayıtta bir soruyu cevapla, en fazla iki dakika. ‘Bize kendinden bahseder misin?’ ve önemli bir davranışsal hikâye gibi kesinlikle karşılaşacağın soruları seç. Rahatladığında baştan sona tam bir deneme mülakatı kaydet. Aynı soruyu farklı günlerde kaydetmek, versiyonları karşılaştırmanı ve gerçek ilerlemeni görmeni sağlar.",
+          "tip": "Sonradan karşılaştırabilmek için her dosyayı soru ve tarihle adlandır."
+        },
+        {
+          "title": "Yalnızca ses ve ekran üzerinden pratik",
+          "body": "Telefon mülakatları için yalnızca ses kaydet, çünkü mülakatçıya ulaşan tek şey sesin. Görüntülü mülakatlar için gerçek platform üzerinden ya da dizüstü bilgisayarının kamerasıyla kayıt yap; böylece arka planın ve bakışlarının yönü dahil, mülakatçının göreceği her şeyi aynen görürsün. Kaydı gerçek formata uydurmak, geri bildirimi çok daha faydalı hale getirir.",
+          "tip": "İşleri sade tutmak için çıkarımlarını not aldıktan sonra eski kayıtları sil."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Kayıt yaparken kendini nasıl kadrajlamalısın?",
+          "options": ["Odanın öbür ucundan tüm vücut", "Yalnızca yüzüne yakın çekim", "Göğüsten yukarısı, kamera göz hizasında", "Aşağıdan, kamera masanın üzerinde"],
+          "answer": 2,
+          "explanation": "Göz hizasında, göğüsten yukarı kadraj mülakatçıların genellikle gördüğü görüntüyle örtüşür."
+        },
+        {
+          "id": "q2",
+          "question": "Kayıtlı pratiğe başlamanın iyi bir yolu nedir?",
+          "options": ["Her biri tek sorudan oluşan kısa klipler", "İlk gün iki saatlik bir oturum", "Yalnızca en zayıf cevaplarını uzun uzun kaydetmek", "Kendini tamamen hazır hissedene kadar beklemek"],
+          "answer": 0,
+          "explanation": "Tek sorudan oluşan kısa klipleri incelemek ve karşılaştırmak kolaydır."
+        },
+        {
+          "id": "q3",
+          "question": "Telefon mülakatı için nasıl pratik yapmalısın?",
+          "options": ["Sanal arka planla video kaydederek", "Yalnızca ses kaydederek", "Hiç kayıt yapmayarak", "Dışarıda yürürken kayıt yaparak"],
+          "answer": 1,
+          "explanation": "Telefondaki mülakatçıya yalnızca sesin ulaşır, bu yüzden sadece ses kaydıyla pratik formata uygundur."
+        }
+      ]
+    },
+    {
+      "id": "self_analysis",
+      "order": 3,
+      "title": "Kaydını İncelemek",
+      "minutes": 4,
+      "premium": true,
+      "pages": [
+        {
+          "title": "Ayrı turlarda incele",
+          "body": "Her şeyi aynı anda değerlendirmeye çalışmak insanı bunaltır. Bunun yerine aynı kaydı her seferinde farklı bir odakla üç kez izle. Önce içerik: soruyu cevapladın mı? Sonra ses: tempo, ses yüksekliği ve dolgu kelimeler. Son olarak da ses kapalıyken beden dili. Her tur kısadır ve birlikte, tek bir izleyişten çok daha net bir tablo sunar.",
+          "tip": "Sesi kapatmak jestleri ve yüz ifadelerini fark etmeyi çok kolaylaştırır."
+        },
+        {
+          "title": "İçeriği kontrol et",
+          "body": "Kendine sor: Asıl soruyu ilk iki cümlede cevapladım mı? Hikâyemde net bir durum, eylem ve sonuç var mıydı? Somut bir rakam ya da sonuç ekledim mi? İki dakikanın altında kaldı mı? Cevabını tek satırda yaz. Kendi cevabını tek satırda özetleyemiyorsan, muhtemelen mülakatçı da özetleyemez.",
+          "tip": "Her cevabın süresini tut; güçlü cevapların çoğu bir ile iki dakika arasındadır."
+        },
+        {
+          "title": "Sesi ve beden dilini kontrol et",
+          "body": "Tek bir cevaptaki dolgu kelimeleri say: ‘ııı’, ‘şey’, ‘yani’. Gerildiğinde hızlanıp hızlanmadığına ya da cümle sonlarında sesinin kısılıp kısılmadığına dikkat et. Ses kapalıyken gözlerini, ellerini ve duruşunu izle. Kameraya bakıyor musun? Ellerin sözlerini destekliyor mu, yoksa kıpır kıpır mı? Önce düzeltmek için en çok dikkat dağıtan tek bir alışkanlığı seç.",
+          "tip": "Dolgu kelimelerin yerine kısa, sessiz bir duraklama koy; kulağa daha özgüvenli gelir."
+        },
+        {
+          "title": "Kendine karşı adil ol",
+          "body": "Kendini değerlendirmek, dürüst ama dengeli olduğunda en iyi sonucu verir. Her kayıt için, geliştirilecek noktaları sıralamadan önce iyi giden iki şeyi yaz. Bu yalnızca motivasyonla ilgili değil: Güçlü yönlerini bilmek neyi sürdürmen gerektiğini gösterir. Bir daha hiç yaşanmayabilecek tek bir tuhaf andan çok, birkaç kayıt boyunca tekrarlanan kalıplara odaklan.",
+          "tip": "Tekrarlayan kalıpları görebilmek için notlarını tek bir yerde tut."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Bir kaydı neden ayrı turlarda incelemelisin?",
+          "options": ["Toplamda tek izleyişten daha az zaman alır", "Her seferinde tek bir alana odaklanmak daha net bir tablo sunar", "Mülakatçılar adayları bu şekilde değerlendirir", "Sevmediğin kısımları atlayabilmek için"],
+          "answer": 1,
+          "explanation": "İçerik, ses ve beden dilini tek tek değerlendirmek daha kolaydır."
+        },
+        {
+          "id": "q2",
+          "question": "Bir cevabın içeriği için faydalı bir kontrol nedir?",
+          "options": ["En az beş dakika sürüp sürmediği", "Etkileyici kelimeler kullanılıp kullanılmadığı", "Çalıştığın her işten bahsedilip bahsedilmediği", "Tek satırda özetlenip özetlenemediği"],
+          "answer": 3,
+          "explanation": "Tek satırda özetleyemiyorsan, verdiğin mesaj muhtemelen net değildi."
+        },
+        {
+          "id": "q3",
+          "question": "Geliştirilecek noktaları sıralamadan önce neyi yazmalısın?",
+          "options": ["İyi giden iki şeyi", "Ondan üzerinden genel puanını", "Tüm hataları sırasıyla", "Hiçbir şey; doğrudan düzeltmeye başla"],
+          "answer": 0,
+          "explanation": "Önce güçlü yönleri not etmek değerlendirmeyi dengeli tutar ve neyi sürdürmen gerektiğini gösterir."
+        }
+      ]
+    },
+    {
+      "id": "feedback_areas",
+      "order": 4,
+      "title": "İşe Yarar Geri Bildirim Almak",
+      "minutes": 3,
+      "premium": true,
+      "pages": [
+        {
+          "title": "Spesifik sorular sor",
+          "body": "‘Nasıldım?’ sorusu genellikle sana hiçbir şey anlatmayan kibar bir ‘Gayet iyiydi!’ cevabı getirir. Bunun yerine hedefe yönelik sorular sor: ‘Çatışma sorusuna verdiğim cevap net miydi?’, ‘Özgüvenli mi görünüyordum, yoksa ezberlemiş gibi mi?’, ‘Yarın hangi cevabımı hatırlarsın?’ Spesifik sorular insanların dürüst olmasını kolaylaştırır ve sana gerçekten kullanabileceğin bilgiler verir.",
+          "tip": "Her pratik oturumundan önce üç geri bildirim sorusu hazırla."
+        },
+        {
+          "title": "Ele alınması gereken dört alan",
+          "body": "İşe yarar bir geri bildirim dört alanı kapsar. İçerik: Örnekler ilgili ve somut muydu? Yapı: Her cevap kolay takip ediliyor muydu? Sunum: tempo, ses tonu, dolgu kelimeler ve göz teması. Genel izlenim: Seni bir sonraki aşamaya geçirirler miydi, neden? Dördünü de sormak, geri bildirimin yalnızca en bariz soruna odaklanmasını engeller.",
+          "tip": "Oturum başlamadan önce bu dört alanı partnerinle paylaş."
+        },
+        {
+          "title": "Farklı geri bildirim kaynakları seç",
+          "body": "Farklı insanlar farklı şeyleri fark eder. Bir arkadaş sunum ve özgüven konusunda iyidir. Hedeflediğin alanda çalışan biri, örneklerinin ilgili olup olmadığını değerlendirebilir. Bir mentor ya da kariyer danışmanı daha büyük kalıpları görebilir. Otomatik araçlar ise tempo ve dolgu kelimeler hakkında objektif veri ekler. İki üç kaynağı birleştirmek sana daha eksiksiz ve daha az taraflı bir bakış sunar.",
+          "tip": "CV'nin ve cevaplarının aynı hikâyeyi anlatması için CV değerlendirme özelliğini kullan."
+        },
+        {
+          "title": "Geri bildirimi iyi karşıla",
+          "body": "Kendini savunmadan dinle. Not al, anlaşılmayan bir nokta olursa örnek iste ve geri bildirim canını acıtsa bile karşındakine teşekkür et. Her şeye katılmak zorunda değilsin; birden fazla kişiden gelen yorumlara odaklan. Tekrarlanan bu noktalar genellikle zamanını en çok hak edenlerdir.",
+          "tip": "Kendini açıklamak yerine ‘Bunun nerede olduğunu gösterebilir misin?’ de."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Hangi geri bildirim sorusu en faydalıdır?",
+          "options": ["Nasıldım?", "İyi miydi?", "Beğendin mi?", "Çatışma sorusuna verdiğim cevap net miydi?"],
+          "answer": 3,
+          "explanation": "Spesifik sorular dürüst ve uygulanabilir cevaplar getirir."
+        },
+        {
+          "id": "q2",
+          "question": "Neden birden fazla geri bildirim kaynağı kullanmalısın?",
+          "options": ["Farklı insanlar farklı şeyleri fark eder", "Tek bir kaynak her zaman yanılır", "Pratiği hızlandırır", "Mülakatçılar bunu şart koşar"],
+          "answer": 0,
+          "explanation": "Kaynakları birleştirmek daha eksiksiz ve daha az taraflı bir bakış sunar."
+        },
+        {
+          "id": "q3",
+          "question": "Hangi geri bildirim noktaları en çok ilgiyi hak eder?",
+          "options": ["Katıldıkların", "En sert yorum", "Birden fazla kişinin tekrarladığı noktalar", "Yalnızca en son yorum"],
+          "answer": 2,
+          "explanation": "Tekrarlanan yorumlar genellikle düzeltmeye değer gerçek bir kalıbı yansıtır."
+        }
+      ]
+    },
+    {
+      "id": "improvement_plan",
+      "order": 5,
+      "title": "Gelişim Planı Oluşturmak",
+      "minutes": 4,
+      "premium": true,
+      "pages": [
+        {
+          "title": "Notlardan önceliklere",
+          "body": "Birkaç pratik oturumundan sonra elinde uzun bir not listesi olur. Her şeyi düzeltmeye çalışma. Notları belirsiz hikâyeler, zayıf girişler ya da gergin alışkanlıklar gibi temalar altında grupla, ardından etkilerine göre sırala. Bir mülakatçının seni nasıl gördüğünü en çok iyileştirecek iki üç değişikliği seç ve geri kalan her şeyi şimdilik bir kenara koy.",
+          "tip": "Kendine sor: Bir mülakatçı ilk hangi değişikliği fark ederdi?"
+        },
+        {
+          "title": "Somut hedefler belirle",
+          "body": "‘Daha özgüvenli ol’ gibi belirsiz hedefleri çalışmak zordur. Her önceliği gözlemleyip ölçebileceğin bir şeye dönüştür: ‘Bize kendinden bahseder misin? sorusunu 90 saniyenin altında cevapla’, ‘Cevap başına üçten az dolgu kelime’, ‘Her davranışsal hikâyeye bir rakam ekle’. Somut hedefler sana tam olarak neyi çalışacağını ve ne zaman başardığını söyler.",
+          "tip": "Her hedefi, bir yabancının kaydına bakarak kontrol edebileceği şekilde yaz."
+        },
+        {
+          "title": "Kısa ve odaklı döngülerle çalış",
+          "body": "Küçük döngülerle ilerle: bir hedefi çalış, kaydet, incele, düzelt. Günde on beş dakikalık odaklı çalışma, haftada bir yapılan üç saatlik oturumdan daha etkilidir. Hedefe ulaşana kadar aynı soruyu yeniden kaydet, sonra bir sonrakine geç. Yaklaşık her hafta, tek tek yaptığın düzeltmelerin bir arada da işe yaradığını görmek için tam bir deneme mülakatı yap.",
+          "tip": "Her şeyi birlikte test etmek için her haftanın sonunda tam bir deneme mülakatı yap."
+        },
+        {
+          "title": "İlerlemeni takip et ve uyarla",
+          "body": "Basit bir kayıt tut: tarih, soru, hedef ve sonuç. İlk ve son kayıtlarını karşılaştırmak motive edicidir ve neyin işe yaradığını gösterir. Bir hedefte bir hafta sonra hâlâ ilerleme yoksa yaklaşımını değiştir: hikâyeyi yazıya dök, sadeleştir ya da farklı bir partnerle çalış. Bir hedef alışkanlığa dönüştüğünde onun yerine bir sonraki önceliği koy.",
+          "tip": "Sonradan karşılaştırmak için en ilk kaydını referans olarak sakla."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Aynı anda kaç değişikliğe odaklanmalısın?",
+          "options": ["Listendeki her şeye", "Etkisi yüksek iki üç değişikliğe", "Ayda yalnızca bir taneye", "Gerçek mülakata kadar hiçbirine"],
+          "answer": 1,
+          "explanation": "Etkisi yüksek birkaç değişikliğe odaklanmak, gözle görülür gelişimi hızlandırır."
+        },
+        {
+          "id": "q2",
+          "question": "Hangisi somut ve ölçülebilir bir hedeftir?",
+          "options": ["Daha özgüvenli olmak", "Profesyonel görünmek", "‘Bize kendinden bahseder misin?’ sorusunu 90 saniyenin altında cevaplamak", "Bir dahaki sefere daha iyisini yapmak"],
+          "answer": 2,
+          "explanation": "Ölçülebilir bir hedef sana tam olarak neyi çalışacağını ve ne zaman başardığını söyler."
+        },
+        {
+          "id": "q3",
+          "question": "Bir hedefte bir hafta sonra ilerleme yok. Ne yapmalısın?",
+          "options": ["O hedeften vazgeçmek", "Tamamen aynı yaklaşımı tekrarlamaya devam etmek", "Gerçek mülakatı beklemek", "Hikâyeyi sadeleştirmek ya da yeni bir partnerle denemek gibi yaklaşımını değiştirmek"],
+          "answer": 3,
+          "explanation": "Bir şey işe yaramıyorsa, onu tekrarlamak yerine yöntemini değiştir."
+        }
+      ]
+    }
+  ]
+}

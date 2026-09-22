@@ -1,0 +1,374 @@
+{
+  "id": "common_questions",
+  "order": 3,
+  "icon": "questions",
+  "color": "#F59E0B",
+  "title": "Sık Sorulan Sorular",
+  "summary": "“Bize kendinden bahset” sorusundan maaş konusuna kadar, neredeyse her görüşmecinin sorduğu sorulara net ve özgüvenli cevaplar hazırla.",
+  "topics": [
+    {
+      "id": "tell_me_about_yourself",
+      "order": 1,
+      "title": "Bize Kendinden Bahset",
+      "minutes": 3,
+      "premium": false,
+      "pages": [
+        {
+          "title": "Aslında ne soruluyor?",
+          "body": "“Bize kendinden bahset” sorusu, hayat hikâyeni anlatman için sorulmaz. Görüşmeci, bu pozisyon için neden iyi bir aday olduğunu açıklayan kısa ve konuyla ilgili bir özet ister. Genellikle ilk soru olduğu için sonrasındaki her şeyin havasını belirler. 60–90 saniyeyi hedefle ve aile ya da memleket gibi kişisel detaylara değil, mesleki yolculuğuna odaklan.",
+          "tip": "İlk olarak bu cevabı hazırla; neredeyse her mülakatta bir versiyonunu kullanacaksın."
+        },
+        {
+          "title": "Bugün: şu an neredesin?",
+          "body": "Bugün–geçmiş–gelecek yapısını kullan. Bugünle başla: mevcut görevin ya da durumun ve bu iş için önemli olan bir başarın. Örneğin: “Bir yazılım şirketinde altı kişilik bir ekibi yöneten müşteri destek lideriyim. Geçen yıl ortalama yanıt süremizi bir tam günden dört saate indirdik.” Somut ol ve pozisyonla ilgili kal.",
+          "tip": "En sevdiğin başarıyı değil, iş ilanıyla en iyi örtüşen başarıyı seç."
+        },
+        {
+          "title": "Geçmiş: buraya nasıl geldin?",
+          "body": "Ardından geçmişe kısaca değin: bu pozisyonun gerektirdiği becerileri kazandıran deneyimler. Tüm geçmişini değil, bir ya da iki tanesini seç. “Ondan önce üç yıl destek uzmanı olarak çalıştım; yardım merkezimizin ilk makalelerini yazdım ve yeni gelenlerin eğitimlerini verdim.” Yeni mezunsan önceki işler yerine eğitimini, stajlarını ya da projelerini kullan.",
+          "tip": "Geçmişinde bu pozisyona götürmeyen her şeyi atla."
+        },
+        {
+          "title": "Gelecek: neden bu pozisyon?",
+          "body": "Gelecekle bitir: bundan sonra ne istediğin ve bu işin neden sana uygun olduğu. “Şimdi müşterilerle uzun vadeli çalışabileceğim müşteri başarısı alanına geçmek istiyorum; bu pozisyonun dikkatimi çekmesinin sebebi de bu.” Bu kapanış, sözü doğal şekilde karşı tarafa bırakır ve öne çıkardığın deneyimlerle ilgili ek sorulara kapı açar.",
+          "tip": "Cevabını bir deneme mülakatında kaydet ve pozisyona işaret etmeyen her şeyi çıkar."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Önerilen yapı hangi sırayı izler?",
+          "options": ["Geçmiş, gelecek, bugün", "Bugün, geçmiş, gelecek", "Gelecek, bugün, geçmiş", "Hobiler, aile, kariyer"],
+          "answer": 1,
+          "explanation": "Şu an nerede olduğunla başla, oraya nasıl geldiğini anlat, ardından nereye gitmek istediğini söyle."
+        },
+        {
+          "id": "q2",
+          "question": "Cevabının “gelecek” kısmı ne yapmalı?",
+          "options": ["Maaş beklentini belirtmeli", "Hobilerini anlatmalı", "Eğitimini tekrar etmeli", "Bundan sonra ne istediğini ve bu pozisyonun neden uygun olduğunu açıklamalı"],
+          "answer": 3,
+          "explanation": "Gelecek kısmı hedeflerini bu işe bağlar ve sözü karşı tarafa bırakır."
+        },
+        {
+          "id": "q3",
+          "question": "Hangi detay cevabında en az yer almalı?",
+          "options": ["Ailen ve memleketin", "Mevcut görevindeki ilgili bir başarı", "Önceki bir işte kazandığın beceriler", "Bu pozisyonun sana neden cazip geldiği"],
+          "answer": 0,
+          "explanation": "Soru mesleki yolculuğunla ilgili; kişisel detaylar asıl önemli olana ayırman gereken zamanı çalar."
+        }
+      ]
+    },
+    {
+      "id": "why_this_company",
+      "order": 2,
+      "title": "Neden Burada Çalışmak İstiyorsun?",
+      "minutes": 3,
+      "premium": false,
+      "pages": [
+        {
+          "title": "Bu soru neyi ölçer?",
+          "body": "“Neden burada çalışmak istiyorsun?” sorusu üç şeye bakar: Şirketi araştırıp araştırmadığına, motivasyonunun herhangi bir işe ihtiyaç duymanın ötesine geçip geçmediğine ve uzun süre kalma ihtimaline. “Harika bir şirket, kültürü de çok iyi” gibi genel bir cevap üçünde de sınıfta kalır. Cevabın, başka hiçbir işveren için söylenemeyecek somut detaylar içermeli.",
+          "tip": "Cevabın bir rakibin adıyla da anlamlı olmaya devam ediyorsa onu daha özel hale getir."
+        },
+        {
+          "title": "Üç parçalı cevap",
+          "body": "Cevabını üç bağlantı üzerine kur: şirket, pozisyon ve sen. Önce şirketle ilgili bir ürün, pazar ya da yakın zamandaki bir adım gibi somut bir şeyden bahset. İkinci olarak bunu pozisyonun içeriğiyle ilişkilendir. Üçüncü olarak da deneyimin ya da hedeflerin üzerinden bunun senin için neden önemli olduğunu göster. Her bağlantı için bir iki cümle yeterli.",
+          "tip": "Deneyiminle en iyi bağlantıyı kuran detayı seçmek için şirket araştırması notlarını kullan."
+        },
+        {
+          "title": "Bir örnek",
+          "body": "“Küçük işletmelere yönelik ödeme alanına açılmanızı takip ediyorum; bugüne kadar yeterince hizmet alamamış işletme sahipleri için ürün geliştirmeniz hoşuma gidiyor. Bu pozisyonda kullanıcı kazanım (onboarding) ekibinde yer alacağım; son iki yılımı tam olarak kayıt dönüşüm oranını artırmaya adadım. Bu işi, stratejinin merkezinde yer aldığı bir şirkette yapmaya devam etmek istiyorum.”",
+          "tip": "Her cümlenin bir bağlantıyı karşıladığına dikkat et: önce şirket, sonra pozisyon, sonra sen."
+        },
+        {
+          "title": "Kaçınılması gereken hatalar",
+          "body": "Yan haklarla başlama: Maaş, lokasyon ya da ek imkânlar senin için önemli olsa bile ana sebep olarak sunulduğunda bencilce duyulur. İçi boş iltifatlardan kaçın; “Sektörün lideri sizsiniz” hiçbir şey söylemez. Neden ayrıldığını açıklamak için mevcut işvereni eleştirme. Misyon cümlesini de ezbere tekrar etme; onu yorumla ve pratikte senin için ne ifade ettiğini göster.",
+          "tip": "Lokasyon gibi pratik sebepleri ana cevabında değil, sonraki görüşmelerde dile getir."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "“Harika bir şirket, kültürü de çok iyi” neden zayıf bir cevaptır?",
+          "options": ["Çok uzun", "Kültürden bahsediyor", "Herhangi bir işveren için söylenebilir", "Fazla spesifik"],
+          "answer": 2,
+          "explanation": "Güçlü bir cevap yalnızca bu şirket için geçerli olan detaylar içerir."
+        },
+        {
+          "id": "q2",
+          "question": "Güçlü bir cevaptaki üç bağlantı nedir?",
+          "options": ["Maaş, lokasyon ve yan haklar", "Şirket, pozisyon ve sen", "Misyon, vizyon ve değerler", "Geçmiş, bugün ve gelecek"],
+          "answer": 1,
+          "explanation": "Şirketle ilgili somut bir şeyi pozisyonla, ardından da kendi deneyiminle ya da hedeflerinle ilişkilendir."
+        },
+        {
+          "id": "q3",
+          "question": "Hangi sebeple cevabına başlamamalısın?",
+          "options": ["Şirketin takdir ettiğin yakın tarihli bir adımı", "Pozisyonun deneyimini nasıl kullandığı", "Kariyer hedeflerin", "Yan haklar paketi"],
+          "answer": 3,
+          "explanation": "Yan haklar makul bir kriter olsa da cevaba onlarla başlamak bencilce duyulur."
+        }
+      ]
+    },
+    {
+      "id": "strengths",
+      "order": 3,
+      "title": "Güçlü Yönlerin",
+      "minutes": 3,
+      "premium": true,
+      "pages": [
+        {
+          "title": "Burada önemli olan güçlü yönleri seç",
+          "body": "Sadece en çok gurur duyduklarını değil, iş ilanının açıkça değer verdiği iki üç güçlü yönü seç. Bir veri analisti doğruluğu, rakamları net şekilde açıklamayı ve merakı seçebilir. Bir satış uzmanı ise dayanıklılığı ve ilişki kurmayı seçebilir. Bir güçlü yön bu pozisyonda işe yaramıyorsa, ne kadar doğru olursa olsun cevabına da katkı sağlamaz.",
+          "tip": "Güçlü yönlerini iş ilanında işaretlediğin olmazsa olmazlarla karşılaştır."
+        },
+        {
+          "title": "Genel değil, net ol",
+          "body": "“Çalışkan”, “takım oyuncusu” ve “tutkulu” gibi ifadeleri neredeyse herkes kullandığı için pek bir ağırlıkları yoktur. Her güçlü yönünü netleştir: “İletişimim iyi” yerine “Teknik sorunları teknik olmayan müşterilere anlaşılır şekilde açıklarım” de. Tanım ne kadar dar olursa o kadar inandırıcı olur ve görüşmecinin seni o işi yaparken hayal etmesi de o kadar kolaylaşır.",
+          "tip": "Bu güçlü yön ortaya çıktığında seni gerçekte ne yaparken görürlerdi, kendine sor."
+        },
+        {
+          "title": "Bir örnekle kanıtla",
+          "body": "Kanıtı olmayan bir güçlü yön yalnızca bir görüştür. Her birinin ardından kısa bir örnek ver: durum, ne yaptığın ve sonuç. “Karmaşık süreçleri sadeleştirmekte iyiyim. Son işimde yirmi sayfalık oryantasyon rehberimizi beş adımlık bir kontrol listesine dönüştürdüm; yeni gelenler tam verimliliğe iki hafta daha hızlı ulaştı.” Rakamlar hikâyenin akılda kalmasını sağlar.",
+          "tip": "Her güçlü yön için bir örnek hazırla ve her birini bir dakikanın altında tut."
+        },
+        {
+          "title": "Özgüvenle anlat",
+          "body": "Pek çok kişi güçlü yönlerinden bahsetmek övünmek gibi geldiği için kendini olduğundan daha az gösterir. Oysa bu övünmek değil; doğrudan bir soruya gerçeklerle cevap veriyorsun. Güçlü yönünü açıkça söyle, kanıtını ver ve pozisyonla bağlantısını kur: “Bu sayede yeni destek ekibi üyelerinizi hızla işe alıştırabilirim.” Sahte alçakgönüllülükten de abartıdan da aynı ölçüde kaçın.",
+          "tip": "En güçlü yönünü ezber gibi değil, doğal duyulana kadar sesli olarak prova et."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Hangi güçlü yönlerden bahsedeceğini nasıl seçmelisin?",
+          "options": ["Pozisyonun açıkça değer verdiklerini seç", "Olabildiğince çok sırala", "Arkadaşlarının söylediklerini seç", "En popüler güçlü yönleri kullan"],
+          "answer": 0,
+          "explanation": "Bir güçlü yön, ancak bu işe özgü olarak önemliyse cevabına katkı sağlar."
+        },
+        {
+          "id": "q2",
+          "question": "“Takım oyuncusu” tek başına neden zayıf bir güçlü yöndür?",
+          "options": ["Görüşmeciler ekip çalışmasını sevmez", "Fazla teknik", "Fazla alçakgönüllü duyulur", "Neredeyse herkes bunu söylediği için pek ağırlığı yoktur"],
+          "answer": 3,
+          "explanation": "Genel etiketler seni öne çıkarmaz; net tanımlar çıkarır."
+        },
+        {
+          "id": "q3",
+          "question": "Bir güçlü yönü inandırıcı kılan nedir?",
+          "options": ["Birkaç kez tekrar etmek", "CV'nde listelemek", "Sonucu olan somut bir örnek", "Geniş tutmak"],
+          "answer": 2,
+          "explanation": "Kanıt, özellikle ölçülebilir bir sonuçla birlikte, bir iddiayı ispata dönüştürür."
+        }
+      ]
+    },
+    {
+      "id": "weaknesses",
+      "order": 4,
+      "title": "Zayıf Yönlerin",
+      "minutes": 4,
+      "premium": true,
+      "pages": [
+        {
+          "title": "Neden soruyorlar?",
+          "body": "Görüşmeciler zayıf yönlerini seni köşeye sıkıştırmak için değil, öz farkındalığını ve dürüstlüğünü ölçmek için sorar. Nerede gelişebileceğini bildiğini ve bunun için aktif olarak çaba gösterdiğini görmek isterler. “Mükemmeliyetçiyim” ya da “Çok fazla çalışıyorum” gibi cevaplar ezberlenmiş ve kaçamak duyulur; ya öz farkındalığın eksik olduğunu ya da dürüst olmadığını düşündürür.",
+          "tip": "Gerçekten aldığın geri bildirimleri düşün; samimi bir cevabın en iyi kaynağı onlardır."
+        },
+        {
+          "title": "Gerçek ama kritik olmayan bir zayıf yön seç",
+          "body": "İşin merkezinde olmayan, samimi bir şey seç. Bir yazılım geliştirici topluluk önünde konuşmaktan bahsedebilir; bir muhasebeci ise detaylara dikkatten bahsetmemeli. İş devretmek, fazladan işe hayır diyebilmek, kalabalık gruplara sunum yapmak ya da henüz tam hâkim olmadığın belirli bir araç iyi seçeneklerdir. Dürüstlüğün, güvenilirliğin ya da pozisyonun temel becerileri hakkında şüphe uyandıracak her şeyden kaçın.",
+          "tip": "Seçtiğin zayıf yönü kullanmadan önce iş ilanındaki olmazsa olmazlarla karşılaştır."
+        },
+        {
+          "title": "Gelişimini göster",
+          "body": "En önemli kısım, bu konuda ne yaptığın. Üç adım izle: zayıf yönünü söyle, işini nasıl etkilediğine dair kısa bir örnek ver, ardından attığın somut adımları ve kaydettiğin ilerlemeyi anlat. “Eskiden çok fazla iş üstlenirdim. Artık iş yükümü her hafta yöneticimle gözden geçiriyorum ve yeni talepler geldiğinde net önceliklerle itiraz edebiliyorum.”",
+          "tip": "Sadece “Üzerinde çalışıyorum” deme; belirli bir alışkanlıktan, araçtan ya da kurstan bahset."
+        },
+        {
+          "title": "Kısa tut ve geleceğe odaklan",
+          "body": "Cevabının yaklaşık %20'sini zayıf yöne, %80'ini gelişime ayır. Fazla açıklama yapma, özür dileme ve aynı anda birden fazla zayıf yön sıralama. Görüşmecinin aklında sorun değil gelişim kalsın diye cevabını kaydettiğin ilerlemeyle bitir. İkinci bir zayıf yön sorulursa, aynı yapıyı izleyen bir tane daha hazırda olsun.",
+          "tip": "Zayıf yön cevabını bir deneme mülakatında test et ve ezber değil samimi duyulduğundan emin ol."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "“Mükemmeliyetçiyim” neden genellikle zayıf bir cevaptır?",
+          "options": ["Fazla dürüst", "Ezberlenmiş ve kaçamak duyulur", "Çok uzun", "Fazla teknik"],
+          "answer": 1,
+          "explanation": "Kılık değiştirmiş güçlü yönler, öz farkındalık ya da dürüstlük eksikliğine işaret eder."
+        },
+        {
+          "id": "q2",
+          "question": "Bir muhasebecinin hangi zayıf yönden bahsetmesi riskli olur?",
+          "options": ["Kalabalık gruplar önünde konuşmak", "İş devretmek", "Detaylara dikkat", "Ek projelere hayır demek"],
+          "answer": 2,
+          "explanation": "Detaylara dikkat muhasebenin temel becerilerinden biridir; bu yüzden o pozisyon için kritik bir zayıf yöndür."
+        },
+        {
+          "id": "q3",
+          "question": "Cevabını nasıl bölmelisin?",
+          "options": ["%80 zayıf yön, %20 gelişim", "Yarı zayıf yön, yarı gelişim", "Sadece zayıf yönü anlat", "Yaklaşık %20 zayıf yön, %80 gelişim"],
+          "answer": 3,
+          "explanation": "Görüşmecinin aklında gelişimin kalması için odağı bu konuda ne yaptığına ver."
+        }
+      ]
+    },
+    {
+      "id": "star_method",
+      "order": 5,
+      "title": "STAR Yöntemi",
+      "minutes": 4,
+      "premium": true,
+      "pages": [
+        {
+          "title": "STAR ne anlama gelir?",
+          "body": "STAR, “Bana … bir durumu anlat” gibi davranışsal sorular için kullanılan bir yapıdır. Durum (Situation), Görev (Task), Eylem (Action) ve Sonuç (Result) kelimelerinin baş harflerinden oluşur. Hikâyeni odakta tutar ve bir sonuçla bitirmeni garanti eder. Bu sayfalar boyunca şu soruya eksiksiz bir örnek cevap oluşturacağız: “Sıkışık bir teslim tarihiyle başa çıktığın bir durumu anlatır mısın?”",
+          "tip": "“Bana … bir durumu anlat” kalıbını duyduğunda STAR'ı kullanma zamanı gelmiştir."
+        },
+        {
+          "title": "Durum ve Görev",
+          "body": "Durum, sahneyi bir iki cümleyle kurar: “Büyük bir müşteri lansmanına iki hafta kala baş tasarımcımız şirketten ayrıldı.” Görev, senin sorumluluğunu açıklar: “Proje koordinatörü olarak tüm lansman materyallerinin yine de zamanında teslim edilmesini sağlamam gerekiyordu.” İkisini de kısa tut; birlikte cevabının yaklaşık %20'sini oluşturmalılar.",
+          "tip": "Görüşmecinin karşılaştığın zorluğu anlaması için gerekmeyen arka plan detaylarını çıkar."
+        },
+        {
+          "title": "Eylem",
+          "body": "Eylem hikâyenin kalbidir ve cevabının yaklaşık %60'ını oluşturmalıdır. Görüşmecinin senin ne yaptığını anlaması için “biz” değil “ben” de. “Kalan işleri günlük görevlere böldüm, iki gün içinde serbest çalışan bir tasarımcıyı ekibe kattım ve sorunları erken yakalamak için her sabah 15 dakikalık bir durum toplantısı başlattım. Ayrıca hangi kalemlerin ikinci faza kayabileceği konusunda müşteriyle anlaştım.”",
+          "tip": "Eylemlerini net adımlar halinde sırala; bu, yapılandırılmış düşündüğünü gösterir."
+        },
+        {
+          "title": "Sonuç",
+          "body": "Sonuç, hikâyeyi net ve ideal olarak ölçülebilir bir çıktıyla kapatır: “Tüm temel kalemleri lansman tarihinde teslim ettik, müşteri sözleşmesini bir yıl daha uzattı ve günlük durum toplantısı ekibimizde standart bir uygulamaya dönüştü.” İlgiliyse ne öğrendiğini de ekle. Sonuç, cevabının yaklaşık %20'sini oluşturmalı; o olmadan en iyi hikâye bile yarım kalmış gibi hissettirir.",
+          "tip": "Önceden beş STAR hikâyesi yaz ve bunları bir deneme mülakatında prova et."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "STAR cevabının hangi bölümü en fazla zamanı almalı?",
+          "options": ["Durum", "Görev", "Eylem", "Sonuç"],
+          "answer": 2,
+          "explanation": "Eylem, senin gerçekte ne yaptığını gösterdiği için cevabın yaklaşık %60'ı olmalıdır."
+        },
+        {
+          "id": "q2",
+          "question": "Eylem bölümünde neden “biz” yerine “ben” demelisin?",
+          "options": ["Görüşmeci kişisel olarak ne yaptığını bilsin diye", "Çünkü ekip çalışması önemli değil", "Hikâyeyi kısaltmak için", "Çünkü “biz” demek dil bilgisi açısından yanlış"],
+          "answer": 0,
+          "explanation": "Görüşmeci seni değerlendiriyor; bu yüzden kendi katkının net olması gerekir."
+        },
+        {
+          "id": "q3",
+          "question": "Örnek cevapta hangi detay Sonuç bölümüne aittir?",
+          "options": ["Baş tasarımcı şirketten ayrıldı", "Serbest çalışan bir tasarımcı ekibe katıldı", "Günlük durum toplantıları başlatıldı", "Müşteri sözleşmesini bir yıl daha uzattı"],
+          "answer": 3,
+          "explanation": "Sözleşmenin uzatılması sonuçtur; diğerleri durum ya da eylemlerdir."
+        }
+      ]
+    },
+    {
+      "id": "teamwork_examples",
+      "order": 6,
+      "title": "Ekip Çalışması ve Çatışma Soruları",
+      "minutes": 3,
+      "premium": true,
+      "pages": [
+        {
+          "title": "Ne arıyorlar?",
+          "body": "“Bir iş arkadaşınla yaşadığın anlaşmazlığı anlat” ya da “Zor bir ekipte çalıştığın bir dönemi anlat” gibi sorular, işler yolunda gitmediğinde nasıl davrandığını ölçer. Görüşmeciler profesyonel kaldığına, dinlediğine, ortak hedefe odaklandığına ve her sorunu yöneticiye taşımadan bir çözüme ulaşabildiğine dair kanıt görmek ister.",
+          "tip": "Her mülakattan önce en az bir çatışma hikâyesi ve bir başarılı ekip hikâyesi hazırla."
+        },
+        {
+          "title": "Doğru hikâyeyi seç",
+          "body": "Kişisel bir husumet değil; öncelikler, yöntemler ya da teslim tarihleriyle ilgili gerçek, işle ilgili bir anlaşmazlık seç. Çatışma ilgi çekecek kadar anlamlı olmalı ve yapıcı bir şekilde çözülmüş olmalı. Tamamen haklı olduğun ve karşı tarafın tamamen haksız olduğu hikâyelerden kaçın; bunlar seni esnek olmayan biri gibi gösterir. En iyi hikâyeler, karşı tarafın bakış açısını anladığını gösterenlerdir.",
+          "tip": "Çalışma ilişkisinin kötüleşmediği, aksine daha iyi hale geldiği bir hikâye seç."
+        },
+        {
+          "title": "STAR ile anlat",
+          "body": "STAR'ı kullan ve eylemlerini öne çıkar. “Bir iş arkadaşımla, daha fazla test için bir sürümü ertelemek konusunda anlaşamadık. Kısa bir toplantı istedim, kaliteyle ilgili endişelerini dinledim ve müşteriye etkisiyle ilgili verilerimi paylaştım. Stabil özellikleri zamanında yayınlamaya, riskli bir özelliği ise bir hafta ertelemeye karar verdik.” Ardından sonucu söyle.",
+          "tip": "Karşı tarafın tutumunu adil bir şekilde anlat; bu, kendi eylemlerini daha inandırıcı kılar."
+        },
+        {
+          "title": "Yaygın tuzaklardan kaçın",
+          "body": "Hiç çatışma yaşamadığını asla söyleme; bu gerçekçi durmaz ya da sorunlardan kaçtığını düşündürür. Eski iş arkadaşlarını eleştirme ve gizli bilgileri paylaşma. Hikâyeyi yalnızca sorundan ibaret yapma; zamanın çoğunu sorunun nasıl çözüldüğüne ayır. Daha iyi bir çalışma ilişkisi ya da yeni bir süreç gibi olumlu bir sonuç veya çıkarılan bir dersle bitir.",
+          "tip": "İsim verme; “finans ekibinden bir arkadaşım” demek yeterli."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Bir çatışma sorusu için en uygun hikâye hangisidir?",
+          "options": ["Bir komşuyla yaşanan kişisel bir husumet", "Tamamen haklı olduğun ve karşı tarafın haksız olduğu bir durum", "Önceliklerle ilgili, yapıcı şekilde çözdüğün bir iş anlaşmazlığı", "Çözmeye çalışmadan şikâyet ettiğin bir çatışma"],
+          "answer": 2,
+          "explanation": "Yapıcı bir şekilde çözülmüş gerçek bir iş anlaşmazlığı olgunluk ve esneklik gösterir."
+        },
+        {
+          "id": "q2",
+          "question": "“Hiç çatışma yaşamadım” neden kötü bir cevaptır?",
+          "options": ["Gerçekçi durmaz ya da sorunlardan kaçtığını düşündürür", "Çok uzun", "Gizli bilgileri ortaya koyar", "İş arkadaşlarını eleştirir"],
+          "answer": 0,
+          "explanation": "İş hayatında herkes anlaşmazlık yaşar; görüşmeciler bunları nasıl ele aldığını görmek ister."
+        },
+        {
+          "id": "q3",
+          "question": "Sürüm örneğinde yapıcı yaklaşımı gösteren neydi?",
+          "options": ["Hiçbir şeyi ertelemeyi kabul etmemek", "Kararı yöneticiye bırakmak", "Her şeyi geç yayınlamak", "Endişeleri dinleyip bir orta yolda anlaşmak"],
+          "answer": 3,
+          "explanation": "Dinlemek, veri paylaşmak ve orta yolu bulmak, çatışmayı üst mercilere taşımadan çözdü."
+        }
+      ]
+    },
+    {
+      "id": "salary_negotiation",
+      "order": 7,
+      "title": "Maaş Beklentisi ve Pazarlık",
+      "minutes": 4,
+      "premium": true,
+      "pages": [
+        {
+          "title": "Piyasa değerini araştır",
+          "body": "Her mülakattan önce pozisyon, seviye ve lokasyon için tipik maaş aralığını bil. Maaş araştırmalarını, ücret belirten iş ilanlarını, meslek kuruluşlarını ve benzer pozisyonlardaki kişilerle yaptığın sohbetleri kullan. Birkaç kaynak topla ve en düşük, orta ve en yüksek noktaları not et. Sadece brüt maaşa değil; prim, bireysel emeklilik katkısı, izin ve eğitim bütçesi dahil tüm pakete bak.",
+          "tip": "En az üç bağımsız kaynak kullan; tek bir rakam yanıltıcı olabilir."
+        },
+        {
+          "title": "Aralığını belirle",
+          "body": "Kimse sormadan önce üç rakama karar ver: vazgeçme noktan (kabul edeceğin en düşük rakam), hedefin ve iddialı ama savunulabilir bir üst sınır. Teklifler genellikle aralığın alt ucuna yakın geldiği için, alt sınırı minimumuna değil hedefine yakın bir aralık paylaş. Araştırılmış görünmesi için aralığı oldukça dar, yaklaşık %10–20 genişliğinde tut.",
+          "tip": "Vazgeçme noktanı asla açıklama; o rakam sohbet için değil, senin kararın içindir."
+        },
+        {
+          "title": "“Maaş beklentin nedir?” sorusunu cevaplamak",
+          "body": "Bu soru erken sorulursa kibarca yönünü değiştirebilirsin: “Önce sorumluluklar hakkında biraz daha bilgi almak isterim. Bu pozisyon için ayrılan bütçe aralığını paylaşabilir misiniz?” Israr ederlerse araştırdığın aralığı özgüvenle söyle: “Benzer pozisyonlarla ilgili araştırmama göre 55.000 ile 62.000 arasında bir rakam bekliyorum.” İlk söylenen makul rakam tartışmanın çıpası olur; bu yüzden seninkinin sağlam temellere dayandığından emin ol. Rakamını kişisel harcamalarınla gerekçelendirme.",
+          "tip": "Aralığını bir kez, net bir şekilde söyle; sonra sus ve cevap vermelerini bekle."
+        },
+        {
+          "title": "Teklif üzerine pazarlık",
+          "body": "Teklif geldiğinde teşekkür et ve değerlendirmek için bir iki gün iste. Teklif hedefinin altındaysa heyecanını belli ederek somut bir karşı teklifle dön: “Bu pozisyon için çok heyecanlıyım. Benzer projeleri yönetme deneyimimi göz önünde bulundurursak 60.000'e daha yakın bir rakamda buluşabilir miyiz?” Temel maaş sabitse diğer kalemleri pazarlık et: başlangıç tarihi, prim, ek izin ya da eğitim.",
+          "tip": "Gerçek görüşmeden önce karşı teklifini bir deneme mülakatında sesli olarak prova et."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Paylaştığın aralığın alt sınırı nerede olmalı?",
+          "options": ["Vazgeçme noktandaki minimumda", "Hedeflediğin rakama yakın", "Esnek görünmek için minimumunun altında", "Bulduğun en yüksek maaşta"],
+          "answer": 1,
+          "explanation": "Teklifler çoğu zaman aralığının alt ucuna yakın gelir; bu yüzden alt sınır hedefine yakın olmalı."
+        },
+        {
+          "id": "q2",
+          "question": "İlk söylenen makul rakam neden bu kadar önemlidir?",
+          "options": ["Yasal olarak bağlayıcıdır", "İşverenler onu her zaman kabul eder", "Pazarlığı sona erdirir", "Tartışmanın geri kalanı için çıpa görevi görür"],
+          "answer": 3,
+          "explanation": "Sonraki teklifler ve karşı teklifler, sağlam temellere dayanan ilk rakamın etrafında şekillenir."
+        },
+        {
+          "id": "q3",
+          "question": "Temel maaş sabitse başka neyi pazarlık edebilirsin?",
+          "options": ["Başka hiçbir şeyi", "Yalnızca unvanını", "Başlangıç tarihi, prim, ek izin ya da eğitim", "Görüşmecinin takvimini"],
+          "answer": 2,
+          "explanation": "Paketin birçok parçası vardır ve temel maaş değişmese bile bunların çoğu ayarlanabilir."
+        }
+      ]
+    }
+  ]
+}

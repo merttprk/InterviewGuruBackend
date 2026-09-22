@@ -1,0 +1,345 @@
+{
+  "id": "evaluation_followup",
+  "order": 8,
+  "icon": "followup",
+  "color": "#F97316",
+  "title": "Après l'entretien",
+  "summary": "Assure un suivi professionnel, tire les leçons de chaque entretien et gère les offres en toute confiance.",
+  "topics": [
+    {
+      "id": "email_structure",
+      "order": 1,
+      "title": "Rédiger un e-mail de remerciement",
+      "minutes": 3,
+      "premium": false,
+      "pages": [
+        {
+          "title": "Pourquoi un e-mail de remerciement compte",
+          "body": "Un court e-mail de remerciement est un moyen simple et peu exigeant de te démarquer. Il montre ta courtoisie, confirme ton intérêt et t'offre une occasion de plus de rappeler au recruteur pourquoi tu corresponds au poste. Il suffit rarement à décrocher un emploi à lui seul, mais quand deux candidats sont au coude-à-coude, un message réfléchi peut laisser la meilleure impression finale.",
+          "tip": "Envoie-le dans les 24 heures, idéalement le jour même."
+        },
+        {
+          "title": "Une structure simple",
+          "body": "Limite-toi à quatre parties courtes. Un objet comme « Merci — Entretien pour le poste de coordinateur marketing ». Un remerciement pour le temps accordé, en utilisant le nom du recruteur. Une ou deux phrases reliant un sujet abordé à tes compétences. Une phrase de conclusion confirmant ton intérêt et ta disponibilité pour la suite. L'e-mail entier doit tenir sur un écran de téléphone.",
+          "tip": "Vise moins de 150 mots ; les recruteurs occupés apprécient la concision."
+        },
+        {
+          "title": "Personnalise-le",
+          "body": "Les e-mails de remerciement génériques se repèrent facilement. Mentionne un élément précis de la conversation : un projet décrit, un défi auquel l'équipe fait face ou une question qui t'a intéressé. Par exemple : « J'ai beaucoup aimé découvrir le nouveau programme d'intégration ; mon expérience dans la refonte de supports de formation pourrait y être utile. » Les détails précis montrent que tu étais à l'écoute.",
+          "tip": "Note deux points de discussion juste après l'entretien pour pouvoir les réutiliser."
+        },
+        {
+          "title": "Erreurs courantes",
+          "body": "Évite d'envoyer le même message à tous les membres du jury ; adapte au moins une phrase pour chaque personne. Vérifie les noms, l'orthographe et l'intitulé du poste. N'utilise pas l'e-mail pour revenir longuement sur une réponse faible ni pour parler salaire. Garde un ton chaleureux et professionnel, et n'envoie pas de relances répétées si tu n'as pas de réponse tout de suite.",
+          "tip": "Lis l'e-mail à voix haute une fois avant de l'envoyer pour repérer les erreurs."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Quand devrais-tu envoyer un e-mail de remerciement ?",
+          "options": [
+            "Dans les 24 heures suivant l'entretien",
+            "Au bout d'une semaine",
+            "Seulement si tu reçois une offre",
+            "Avant l'entretien"
+          ],
+          "answer": 0,
+          "explanation": "L'envoyer dans la journée permet au recruteur de bien se souvenir de toi."
+        },
+        {
+          "id": "q2",
+          "question": "Qu'est-ce qui rend un e-mail de remerciement personnel ?",
+          "options": [
+            "Utiliser un modèle long et formel",
+            "Mentionner un point précis de la conversation",
+            "Joindre à nouveau ton CV",
+            "Énumérer toutes tes qualifications"
+          ],
+          "answer": 1,
+          "explanation": "Un détail précis montre que tu as écouté et relie la conversation à tes compétences."
+        },
+        {
+          "id": "q3",
+          "question": "Comment remercier un jury de trois recruteurs ?",
+          "options": [
+            "Envoyer un e-mail identique aux trois",
+            "Remercier uniquement la personne la plus haut placée",
+            "Ne pas remercier un jury",
+            "Adapter au moins une phrase pour chaque personne"
+          ],
+          "answer": 3,
+          "explanation": "Personnaliser chaque message évite un e-mail visiblement copié-collé."
+        }
+      ]
+    },
+    {
+      "id": "email_examples",
+      "order": 2,
+      "title": "Modèles d'e-mails de suivi",
+      "minutes": 4,
+      "premium": false,
+      "pages": [
+        {
+          "title": "Modèle de remerciement",
+          "body": "Objet : Merci — Entretien pour le poste de [Intitulé du poste]. « Bonjour [Nom], merci d'avoir pris le temps de me rencontrer aujourd'hui. J'ai particulièrement apprécié notre échange sur [sujet], qui a confirmé mon intérêt pour le poste. Mon expérience en [compétence pertinente] me permettrait d'être rapidement opérationnel. N'hésitez pas à me faire savoir si vous avez besoin d'autre chose. Bien cordialement, [Ton nom]. »",
+          "tip": "Remplace chaque crochet ; un [Nom] oublié ruine la bonne impression."
+        },
+        {
+          "title": "Prendre des nouvelles de ta candidature",
+          "body": "Si la date de décision annoncée est passée, attends deux ou trois jours ouvrés, puis écris : « Bonjour [Nom], j'espère que vous allez bien. Je me permets de revenir vers vous au sujet de mon entretien du [date] pour le poste de [Intitulé du poste]. Ce poste m'intéresse toujours beaucoup et je vous serais reconnaissant de toute information sur le calendrier. Merci, [Ton nom]. » Reste bref, positif et patient.",
+          "tip": "Ne relance pas plus d'une fois par semaine pour ne pas paraître insistant."
+        },
+        {
+          "title": "Répondre à un refus",
+          "body": "Une réponse courtoise laisse la porte ouverte : « Bonjour [Nom], merci de m'avoir informé. Même si je suis déçu, j'ai beaucoup apprécié découvrir [l'équipe ou l'entreprise]. Si vous avez un moment, tout retour serait le bienvenu. J'espère que nous pourrons rester en contact pour de futures opportunités. Bien cordialement, [Ton nom]. » Beaucoup de candidats ne répondent jamais, alors ce geste se remarque.",
+          "tip": "Connecte-toi avec le recruteur sur un réseau professionnel après avoir répondu."
+        },
+        {
+          "title": "Se retirer d'un processus",
+          "body": "Si tu acceptes une autre offre ou perds ton intérêt, préviens l'entreprise rapidement : « Bonjour [Nom], merci d'avoir examiné ma candidature pour le poste de [Intitulé du poste]. J'ai décidé de retirer ma candidature, car j'ai accepté un autre poste. Je vous remercie pour votre temps et j'espère que nos chemins se recroiseront. Avec mes meilleurs vœux, [Ton nom]. » Te retirer poliment protège ta réputation.",
+          "tip": "Tu n'as pas besoin de donner des raisons détaillées ; une brève explication suffit."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "La date de décision est passée sans nouvelles. Quand devrais-tu relancer ?",
+          "options": [
+            "Immédiatement, le matin même",
+            "Après deux ou trois jours ouvrés",
+            "Jamais — il suffit d'attendre",
+            "Tous les jours jusqu'à ce qu'ils répondent"
+          ],
+          "answer": 1,
+          "explanation": "Une relance courte et patiente quelques jours plus tard est polie et efficace."
+        },
+        {
+          "id": "q2",
+          "question": "Pourquoi répondre à un e-mail de refus ?",
+          "options": [
+            "Pour leur demander de changer d'avis",
+            "Pour exprimer ta frustration",
+            "Cela laisse la porte ouverte et peut t'apporter un retour",
+            "C'est une obligation légale"
+          ],
+          "answer": 2,
+          "explanation": "Une réponse courtoise laisse une bonne impression pour de futures opportunités."
+        },
+        {
+          "id": "q3",
+          "question": "Que doit contenir un e-mail de désistement ?",
+          "options": [
+            "Une comparaison détaillée des deux offres",
+            "Rien — il suffit d'arrêter de répondre",
+            "Une demande de salaire plus élevé",
+            "Un bref remerciement et une indication claire que tu te retires"
+          ],
+          "answer": 3,
+          "explanation": "Un désistement court et poli protège ta réputation."
+        }
+      ]
+    },
+    {
+      "id": "performance_analysis",
+      "order": 3,
+      "title": "Évaluer ta prestation",
+      "minutes": 3,
+      "premium": true,
+      "pages": [
+        {
+          "title": "Fais le bilan à chaud",
+          "body": "Dans l'heure qui suit l'entretien, prends dix minutes pour noter ce dont tu te souviens : les questions posées, tes réponses, les noms des recruteurs et tout ce que tu as appris sur le poste. Les détails s'effacent vite. Ces notes t'aident à rédiger ton e-mail de remerciement, te préparent au tour suivant et te montrent ce que tu dois travailler.",
+          "tip": "Utilise l'appli de notes de ton téléphone sur le chemin du retour si tu ne peux pas t'asseoir tout de suite."
+        },
+        {
+          "title": "Trois questions simples",
+          "body": "Analyse l'entretien avec trois questions. Qu'est-ce qui s'est bien passé ? Quelles réponses étaient claires et ont suscité une réaction positive ? Qu'est-ce qui ne s'est pas bien passé ? Où as-tu hésité ou t'es-tu éparpillé ? Que ferais-je différemment ? Sois précis : « J'ai oublié de mentionner le résultat commercial dans mon histoire de leadership » est bien plus utile que « J'ai été mauvais ».",
+          "tip": "Note au moins autant de points positifs que de points négatifs."
+        },
+        {
+          "title": "Regarde l'ensemble du processus",
+          "body": "N'évalue pas seulement tes réponses. Ta préparation couvrait-elle les bons sujets ? Tes questions pour le recruteur étaient-elles pertinentes ? La logistique s'est-elle bien déroulée ? Réfléchis aussi à l'entreprise : le poste, l'équipe et la culture correspondent-ils à ce que tu recherches ? Un entretien est une évaluation réciproque, et tes impressions comptent pour ta décision.",
+          "tip": "Note ton intérêt pour le poste de 1 à 10 juste après l'entretien."
+        },
+        {
+          "title": "Évite de trop analyser",
+          "body": "Il est facile de ressasser un moment gênant pendant des jours. Rappelle-toi que les recruteurs se forment généralement une impression d'ensemble plutôt que de se focaliser sur une seule réponse, et que les candidats se jugent souvent plus sévèrement que les recruteurs. Une fois tes notes rédigées et tes axes d'amélioration choisis, passe à autre chose. Consacre ton énergie à la prochaine candidature ou séance d'entraînement.",
+          "tip": "Transforme ta réponse la plus faible en question pour ton prochain entretien d'entraînement."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Quel est le meilleur moment pour faire le bilan après un entretien ?",
+          "options": [
+            "La semaine suivante",
+            "Dans l'heure, tant que les détails sont frais",
+            "Seulement après avoir reçu le résultat",
+            "Juste avant ton prochain entretien"
+          ],
+          "answer": 1,
+          "explanation": "Les détails s'effacent vite, alors prends des notes peu après."
+        },
+        {
+          "id": "q2",
+          "question": "Quelle note d'auto-évaluation est la plus utile ?",
+          "options": [
+            "J'ai été mauvais",
+            "Ça s'est à peu près bien passé",
+            "J'ai oublié de mentionner le résultat commercial dans mon histoire de leadership",
+            "Ils ne m'ont pas apprécié"
+          ],
+          "answer": 2,
+          "explanation": "Des notes précises mènent à des améliorations précises."
+        },
+        {
+          "id": "q3",
+          "question": "En plus de tes réponses, que devrais-tu évaluer ?",
+          "options": [
+            "Si le poste, l'équipe et la culture correspondent à ce que tu recherches",
+            "La tenue du recruteur",
+            "La durée de la visite des locaux",
+            "Rien d'autre ne compte"
+          ],
+          "answer": 0,
+          "explanation": "Les entretiens sont réciproques ; ton impression de l'entreprise compte aussi."
+        }
+      ]
+    },
+    {
+      "id": "handling_offers",
+      "order": 4,
+      "title": "Gérer les offres et négocier",
+      "minutes": 4,
+      "premium": true,
+      "pages": [
+        {
+          "title": "Regarde la rémunération globale",
+          "body": "Une offre, ce n'est pas seulement le salaire de base. Prends en compte les primes, les cotisations retraite, la mutuelle et les autres assurances, les congés payés, le travail flexible ou à distance, le budget formation et les actions éventuellement proposées. Pèse aussi le poste lui-même, les perspectives d'évolution, le trajet et l'équipe. Demande l'offre complète par écrit pour pouvoir comparer les options avec précision et éviter les malentendus.",
+          "tip": "Liste chaque élément dans un tableau simple pour comparer les offres côte à côte."
+        },
+        {
+          "title": "Demande du temps",
+          "body": "Tu n'es pas obligé d'accepter sur-le-champ. Remercie chaleureusement et demande un délai : « Merci, je suis ravi de recevoir cette offre. Pourrais-je avoir jusqu'à vendredi pour en examiner les détails ? » Quelques jours à une semaine, c'est une demande courante et raisonnable. Profite de ce temps pour examiner la rémunération globale, te renseigner sur les salaires habituels pour ce poste et préparer tes questions.",
+          "tip": "Montre ton enthousiasme pour le poste même en demandant un délai."
+        },
+        {
+          "title": "Négocie poliment",
+          "body": "La négociation est courante et, menée avec respect, elle nuit rarement à une offre. Appuie ta demande sur une recherche des salaires du marché et sur la valeur que tu apportes. Sois précis et positif : « Ce poste m'enthousiasme. Compte tenu de mon expérience et des salaires habituels pour des postes similaires, un salaire de [montant] serait-il envisageable ? » Si le salaire est fixe, renseigne-toi sur d'autres éléments, comme les congés, la flexibilité ou la formation.",
+          "tip": "Avance un chiffre précis plutôt que de demander « un peu plus »."
+        },
+        {
+          "title": "Accepte ou décline avec élégance",
+          "body": "Quand tu acceptes, confirme par écrit et vérifie la date de début et les conditions essentielles. Quand tu déclines, réponds rapidement et avec courtoisie : « Merci pour cette offre et pour votre temps. Après mûre réflexion, j'ai décidé d'accepter un autre poste. J'ai vraiment apprécié de rencontrer l'équipe et j'espère que nous resterons en contact. » Décliner poliment préserve tes relations pour l'avenir.",
+          "tip": "Ne démissionne pas de ton emploi actuel avant d'avoir l'offre par écrit."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Que devrais-tu évaluer quand tu reçois une offre ?",
+          "options": [
+            "Uniquement le salaire de base",
+            "Uniquement l'intitulé du poste",
+            "La rémunération globale, y compris les avantages, la flexibilité et l'évolution",
+            "Uniquement la rapidité avec laquelle ils veulent une réponse"
+          ],
+          "answer": 2,
+          "explanation": "Les avantages, la flexibilité, l'évolution et le poste lui-même contribuent tous à la valeur d'une offre."
+        },
+        {
+          "id": "q2",
+          "question": "Un employeur te demande de te prononcer sur une offre. Quelle est une réponse raisonnable ?",
+          "options": [
+            "Accepter immédiatement sans la lire",
+            "Le remercier et demander quelques jours pour examiner les détails",
+            "La refuser pour obtenir une meilleure offre",
+            "Ignorer le message pendant deux semaines"
+          ],
+          "answer": 1,
+          "explanation": "Demander un délai court et défini est courant et raisonnable."
+        },
+        {
+          "id": "q3",
+          "question": "Le salaire est fixe. Que peux-tu encore négocier ?",
+          "options": [
+            "D'autres éléments comme les congés, la flexibilité ou la formation",
+            "Absolument rien",
+            "La décision du recruteur",
+            "Uniquement l'intitulé de ton poste"
+          ],
+          "answer": 0,
+          "explanation": "Quand le salaire ne peut pas bouger, d'autres éléments de la rémunération globale le peuvent souvent."
+        }
+      ]
+    },
+    {
+      "id": "tracking_progress",
+      "order": 5,
+      "title": "Suivre ta recherche d'emploi",
+      "minutes": 3,
+      "premium": true,
+      "pages": [
+        {
+          "title": "Pourquoi suivre ta recherche",
+          "body": "Quand tu postules à de nombreux postes, les détails se mélangent vite. Tu peux oublier quelle version de ton CV tu as envoyée, à qui tu as parlé ou quand relancer. Un tableau de suivi simple centralise tout, évite les confusions gênantes et te montre où ta recherche fonctionne et où elle bloque. Il rend aussi tes progrès visibles pendant les semaines plus calmes.",
+          "tip": "Commence le suivi dès ta toute première candidature, pas après la dixième."
+        },
+        {
+          "title": "Quoi noter",
+          "body": "Un tableur ou une appli de notes suffit. Pour chaque candidature, note l'entreprise, le poste, la date de candidature, la version du CV, la personne de contact, l'étape actuelle, la prochaine action et sa date. Ajoute une colonne de notes pour les questions d'entretien, les informations sur le salaire et tes impressions. Conserve aussi l'offre d'emploi, car les annonces sont souvent supprimées une fois le poste pourvu.",
+          "tip": "Garde la version du créateur de CV utilisée pour chaque poste afin que tes réponses correspondent à ce qu'ils ont lu."
+        },
+        {
+          "title": "Utilise des étapes et des prochaines actions",
+          "body": "Attribue une étape à chaque candidature : envoyée, présélection, entretien, dernier tour, offre ou clôturée. Chaque candidature en cours doit aussi avoir une prochaine action datée, comme « Relancer le 12 mai » ou « Préparer l'étude de cas ». Consulte ton tableau de suivi au début de chaque semaine pour ne rien oublier et faire avancer chaque opportunité.",
+          "tip": "Attribue une couleur à chaque étape pour visualiser ton pipeline d'un coup d'œil."
+        },
+        {
+          "title": "Tire des leçons de tes chiffres",
+          "body": "Au bout d'un mois, observe les tendances. Si tu envoies beaucoup de candidatures mais reçois peu de réponses, ton CV ou ton ciblage mérite peut-être d'être retravaillé. Si tu décroches des entretiens mais atteins rarement le dernier tour, concentre-toi sur l'entraînement aux entretiens. Si les derniers tours ne se transforment pas en offres, revois ta conclusion d'entretien et ton suivi. Ton tableau de suivi t'indique où concentrer tes efforts ensuite.",
+          "tip": "Calcule chaque mois la part de candidatures qui débouchent sur un entretien."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Pourquoi conserver l'offre d'emploi avec chaque candidature ?",
+          "options": [
+            "Les annonces sont souvent supprimées une fois le poste pourvu",
+            "Les employeurs te demandent de la leur renvoyer",
+            "Elle remplace ton CV",
+            "Elle est nécessaire pour calculer le salaire"
+          ],
+          "answer": 0,
+          "explanation": "Tu en auras besoin pour préparer tes entretiens, et elle risque de disparaître en ligne."
+        },
+        {
+          "id": "q2",
+          "question": "Que doit comporter chaque candidature en cours dans ton tableau de suivi ?",
+          "options": [
+            "Une photo des locaux",
+            "Une prochaine action datée",
+            "Le numéro de téléphone personnel du recruteur",
+            "Une décision finale déjà prise"
+          ],
+          "answer": 1,
+          "explanation": "Une prochaine action datée fait avancer chaque opportunité."
+        },
+        {
+          "id": "q3",
+          "question": "Tu décroches beaucoup d'entretiens mais atteins rarement le dernier tour. Sur quoi devrais-tu te concentrer ?",
+          "options": [
+            "Envoyer plus de candidatures",
+            "Changer de carrière",
+            "L'entraînement aux entretiens",
+            "Rédiger des e-mails de remerciement plus longs"
+          ],
+          "answer": 2,
+          "explanation": "Cette tendance montre que c'est à l'étape de l'entretien que tes efforts seront les plus payants."
+        }
+      ]
+    }
+  ]
+}

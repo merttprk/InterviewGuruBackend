@@ -1,0 +1,322 @@
+{
+  "id": "technical_skills",
+  "order": 5,
+  "icon": "technical",
+  "color": "#8B5CF6",
+  "title": "Fachinterviews nach Branche",
+  "summary": "Bereite dich auf die fachlichen Runden in deinem Bereich vor – von Coding- und Bewertungsfragen bis zu Case Interviews und Eignungstests.",
+  "topics": [
+    {
+      "id": "analysis_method",
+      "order": 1,
+      "title": "Jedes Fachproblem strukturiert angehen",
+      "minutes": 3,
+      "premium": false,
+      "pages": [
+        {
+          "title": "Erst klären, dann lösen",
+          "body": "Egal in welchem Bereich: Der erste Schritt ist immer derselbe – stell sicher, dass du das Problem verstanden hast. Formuliere es mit eigenen Worten, frag nach Eingaben, Rahmenbedingungen und dem erwarteten Ergebnis und bestätige deine Annahmen. Interviewer formulieren Aufgaben oft absichtlich vage, um zu sehen, ob du nachfragst. Wer sofort loslegt, löst womöglich das falsche Problem – nur eben sehr gut.",
+          "tip": "Sprich deine Annahmen laut aus: ‚Ich gehe davon aus, dass die Daten in den Arbeitsspeicher passen – ist das in Ordnung?‘"
+        },
+        {
+          "title": "In Teilschritte zerlegen",
+          "body": "Große Probleme werden handhabbar, wenn du sie in kleinere Schritte aufteilst. Skizziere deinen Plan, bevor du loslegst: ‚Zuerst berechne ich die Last, dann prüfe ich sie gegen den Grenzwert, dann dimensioniere ich das Bauteil.‘ Das zeigt strukturiertes Denken und gibt dem Interviewer die Chance, deine Richtung früh zu korrigieren. Beginne mit einem einfachen, funktionierenden Ansatz, bevor du optimierst oder Komplexität hinzufügst.",
+          "tip": "Schreib die Schritte auf, damit ihr beide ihnen folgen könnt."
+        },
+        {
+          "title": "Laut denken",
+          "body": "Interviewer bewerten deinen Denkweg, nicht nur das Endergebnis. Erzähl, was du tust und warum – auch welche Optionen du verwirfst: ‚Ich könnte hier eine Nachschlagetabelle nutzen, aber für diesen Bereich ist eine Formel einfacher.‘ Wenn du nicht weiterkommst, sag, was du schon versucht hast und wo es hakt. Wer klar kommuniziert, bekommt oft hilfreiche Hinweise.",
+          "tip": "Lange Pausen wirken auf den Interviewer noch länger – kommentiere weiter, auch wenn du unsicher bist."
+        },
+        {
+          "title": "Prüfen und reflektieren",
+          "body": "Wenn du eine Antwort hast, teste sie. Nimm ein einfaches Beispiel, einen Grenzfall oder einen schnellen Plausibilitätscheck: Stimmen die Einheiten, und ist die Größenordnung realistisch? Fasse dann deine Lösung zusammen und nenne ihre Grenzen oder wie du sie mit mehr Zeit verbessern würdest. Einen eigenen Fehler selbst zu finden, beeindruckt mehr, als nie einen zu machen.",
+          "tip": "Frag dich immer: ‚Ergibt diese Antwort in der realen Welt Sinn?‘"
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Was solltest du als Erstes tun, wenn du eine Fachaufgabe bekommst?",
+          "options": ["Sofort mit dem Rechnen beginnen", "Das Problem, die Rahmenbedingungen und Annahmen klären", "Nach der Lösung fragen", "Deinen bisherigen Job erklären"],
+          "answer": 1,
+          "explanation": "Durch Nachfragen stellst du sicher, dass du das richtige Problem löst – und genau das testen Interviewer oft."
+        },
+        {
+          "id": "q2",
+          "question": "Warum solltest du bei einer Fachfrage laut denken?",
+          "options": ["Damit die Zeit bis zum Ende des Interviews vergeht", "Interviewer bewerten nur das Endergebnis", "So können Interviewer deinen Denkweg beurteilen und Hinweise geben", "So vermeidest du Rückfragen"],
+          "answer": 2,
+          "explanation": "Bewertet wird dein Denkweg – und klare Kommunikation lädt zu hilfreichen Hinweisen ein."
+        },
+        {
+          "id": "q3",
+          "question": "Was ist ein guter letzter Schritt, nachdem du eine Antwort gefunden hast?",
+          "options": ["Sie mit einem Beispiel oder Plausibilitätscheck testen", "Kommentarlos weitermachen", "Nach einer schwierigeren Aufgabe fragen", "Alles noch einmal von vorn schreiben"],
+          "answer": 0,
+          "explanation": "Beispiele und Plausibilitätschecks decken Fehler auf und zeigen Gründlichkeit."
+        }
+      ]
+    },
+    {
+      "id": "software_engineering",
+      "order": 2,
+      "title": "Interviews in der Softwareentwicklung",
+      "minutes": 4,
+      "premium": false,
+      "pages": [
+        {
+          "title": "Die Coding-Runde",
+          "body": "Die meisten Software-Interviews beinhalten Live-Coding in einem gemeinsamen Editor oder am Whiteboard. Bewertet werden Problemlösung, Codequalität und Kommunikation. Kläre Eingaben und Grenzfälle, beschreib zuerst eine Brute-Force-Lösung und verbessere sie dann. Schreib sauberen, lesbaren Code mit aussagekräftigen Namen. Geh am Ende einen Testfall Zeile für Zeile durch und nenne die Zeit- und Speicherkomplexität.",
+          "tip": "Übe in einem einfachen Editor ohne Autovervollständigung – vielen Interview-Tools fehlt sie."
+        },
+        {
+          "title": "Datenstrukturen und Algorithmen",
+          "body": "Bestimmte Kernthemen tauchen immer wieder auf: Arrays und Strings, Hash-Maps, Stacks und Queues, verkettete Listen, Bäume, Graphen, Sortieren und Suchen sowie Rekursion. Kenne die typische Zeitkomplexität gängiger Operationen, etwa den im Schnitt konstanten Zugriff bei einer Hash-Map. Lerne, Muster wie Two Pointers, Sliding Window und Breitensuche zu erkennen, statt einzelne Aufgaben auswendig zu lernen.",
+          "tip": "Wenn eine Aufgabe wiederholte Suchvorgänge erfordert, prüfe, ob eine Hash-Map hilft."
+        },
+        {
+          "title": "Grundlagen des Systemdesigns",
+          "body": "Für mittlere und leitende Positionen solltest du mit einer Systemdesign-Runde rechnen: ‚Entwirf einen URL-Shortener.‘ Beginne mit Anforderungen und Größenordnung und skizziere dann die Hauptkomponenten – Clients, API, Services, Datenbank, Cache. Diskutiere Abwägungen wie SQL gegenüber NoSQL oder Konsistenz gegenüber Verfügbarkeit. Die eine richtige Antwort gibt es selten; Interviewer wollen begründete Entscheidungen und ein Gespür für Engpässe sehen.",
+          "tip": "Schätze zuerst die Größenordnung, etwa Anfragen pro Sekunde und Datenmenge."
+        },
+        {
+          "title": "Code-Review und Diskussion",
+          "body": "Manche Unternehmen zeigen dir bestehenden Code und bitten dich um ein Review. Achte auf Bugs, unklare Benennungen, fehlende Fehlerbehandlung, Sicherheitslücken und fehlende Tests. Gib respektvolles Feedback und erkläre, warum eine Änderung wichtig ist. Rechne auch mit Fragen zu deinen bisherigen Projekten: Erkläre deine Designentscheidungen, was schiefging und was du heute anders machen würdest.",
+          "tip": "Bereite ein Projekt vor, das du im Detail erklären kannst – inklusive seiner Abwägungen."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Was solltest du in einer Coding-Runde tun, nachdem du deine Lösung geschrieben hast?",
+          "options": ["Sie sofort kommentarlos abgeben", "Einen Testfall durchgehen und die Komplexität nennen", "Den Interviewer bitten, sie zu testen", "Sie löschen und einen neuen Ansatz beginnen"],
+          "answer": 1,
+          "explanation": "Wer seinen Code testet und die Komplexität nennt, zeigt Gründlichkeit und Verständnis."
+        },
+        {
+          "id": "q2",
+          "question": "Wie solltest du eine Systemdesign-Frage beginnen?",
+          "options": ["Eine Datenbankmarke auswählen", "Code für die API schreiben", "Anforderungen klären und die Größenordnung schätzen", "Ein detailliertes Klassendiagramm zeichnen"],
+          "answer": 2,
+          "explanation": "Anforderungen und Größenordnung prägen jede spätere Designentscheidung."
+        },
+        {
+          "id": "q3",
+          "question": "Worauf solltest du achten, wenn du Code reviewen sollst?",
+          "options": ["Nur auf Formatierung und Einrückung", "Auf den Namen des Autors", "Ob die neueste Sprachversion verwendet wird", "Auf Bugs, unklare Benennungen, Fehlerbehandlung, Sicherheitslücken und Tests"],
+          "answer": 3,
+          "explanation": "Ein gutes Review deckt Korrektheit, Verständlichkeit, Robustheit, Sicherheit und Tests ab."
+        }
+      ]
+    },
+    {
+      "id": "finance",
+      "order": 3,
+      "title": "Interviews in Finanzen und Rechnungswesen",
+      "minutes": 4,
+      "premium": true,
+      "pages": [
+        {
+          "title": "Die drei Abschlussrechnungen",
+          "body": "Rechne mit Fragen dazu, wie Gewinn- und Verlustrechnung, Bilanz und Kapitalflussrechnung zusammenhängen. Der Jahresüberschuss fließt aus der GuV an den Anfang der Kapitalflussrechnung und in die Gewinnrücklagen der Bilanz. Ein Klassiker: ‚Die Abschreibungen steigen um 10 – führ mich durch die Abschlüsse.‘ Übe das laut, bis es dir in Fleisch und Blut übergeht.",
+          "tip": "Denk daran: Am Ende deiner Erklärung muss die Bilanz ausgeglichen sein."
+        },
+        {
+          "title": "Grundlagen der Unternehmensbewertung",
+          "body": "Kenne die wichtigsten Bewertungsmethoden: Discounted Cashflow, Vergleichsunternehmen (Trading Comparables) und Vergleichstransaktionen. Erkläre den Unterschied zwischen Enterprise Value und Equity Value und warum beim DCF künftige freie Cashflows mit einem Zinssatz wie den gewichteten durchschnittlichen Kapitalkosten (WACC) abgezinst werden. Interviewern ist wichtiger, dass du verstehst, wann welche Methode eingesetzt wird, als dass du Formeln auswendig kannst.",
+          "tip": "Du solltest jede Methode einem Laien in zwei Sätzen erklären können."
+        },
+        {
+          "title": "Excel- und Modellierungstests",
+          "body": "Viele Finanzjobs beinhalten einen Excel-Test unter Zeitdruck: ein einfaches Modell aufbauen, Daten bereinigen oder Fragen zu einem Datensatz beantworten. Beherrsche Suchfunktionen, SUMMEWENNS, Pivot-Tabellen, absolute und relative Bezüge sowie einfache Diagramme. Halte Eingaben, Berechnungen und Ergebnisse klar getrennt und beschriftet. Ein aufgeräumtes, nachvollziehbares Modell schneidet besser ab als ein raffiniertes, das niemand versteht.",
+          "tip": "Lerne Tastenkürzel zum Navigieren – unter Zeitdruck sparen sie wertvolle Minuten."
+        },
+        {
+          "title": "Marktkenntnis",
+          "body": "Mögliche Fragen: ‚Erzähl mir von einem Unternehmen oder Deal, den du verfolgt hast‘ oder ‚Wohin entwickeln sich deiner Meinung nach die Zinsen?‘ Verfolge in den Wochen vor den Interviews regelmäßig die Finanznachrichten. Bereite ein Unternehmen und einen aktuellen Markttrend vor, über die du mit Zahlen und einer klaren Meinung sprechen kannst. Unsicherheit ist in Ordnung – zeig deinen Denkweg.",
+          "tip": "Bereite einen kurzen Investment-Pitch vor: das Unternehmen, deine Einschätzung und zwei stützende Gründe."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Wohin fließt der Jahresüberschuss nach der Gewinn- und Verlustrechnung?",
+          "options": ["Nur als Barmittel in die Bilanz", "An den Anfang der Kapitalflussrechnung und in die Gewinnrücklagen", "Nirgendwohin; er bleibt in der GuV", "Direkt in den Enterprise Value"],
+          "answer": 1,
+          "explanation": "Der Jahresüberschuss verbindet alle drei Abschlussrechnungen über den Cashflow und die Gewinnrücklagen."
+        },
+        {
+          "id": "q2",
+          "question": "Welche ist eine der wichtigsten Bewertungsmethoden?",
+          "options": ["Discounted Cashflow", "Lineare Personalplanung", "Doppelte Lohnbuchhaltung", "Inventurzählung"],
+          "answer": 0,
+          "explanation": "DCF, Vergleichsunternehmen und Vergleichstransaktionen sind die Kernmethoden."
+        },
+        {
+          "id": "q3",
+          "question": "Womit punktet ein Modell in einem Excel-Test?",
+          "options": ["Alle Formeln ausblenden", "Möglichst viele Funktionen verwenden", "Klar getrennte, beschriftete Eingaben, Berechnungen und Ergebnisse", "Alles in eine einzige Zelle packen"],
+          "answer": 2,
+          "explanation": "Eine aufgeräumte, nachvollziehbare Struktur zählt mehr als Raffinesse."
+        }
+      ]
+    },
+    {
+      "id": "engineering_roles",
+      "order": 4,
+      "title": "Interviews im Ingenieurwesen",
+      "minutes": 4,
+      "premium": true,
+      "pages": [
+        {
+          "title": "Grundlagen und Berechnungen",
+          "body": "Interviews im Maschinenbau, in der Elektrotechnik und im Bauingenieurwesen prüfen oft Grundprinzipien mit kurzen Rechnungen: Spannung und Dehnung, Wärmeübertragung, ohmsches Gesetz, Leistung, Balkenbelastung oder Strömung. Zeig deinen Lösungsweg klar, schreib bei jedem Schritt die Einheiten dazu und nenne deine Annahmen. Der richtige Ansatz ist wichtiger als exaktes Rechnen. Schätze vorab, damit du ein völlig danebenliegendes Ergebnis sofort erkennst.",
+          "tip": "Wiederhole in der Woche davor die Grundformeln deiner Fachrichtung."
+        },
+        {
+          "title": "Sicherheit geht vor",
+          "body": "Fragen zur Sicherheit sind häufig und werden ernst genommen. Vielleicht wirst du gefragt, wie du auf eine gefährliche Situation auf der Baustelle reagieren würdest oder was du tust, wenn ein Entwurf die Sicherheitsreserven nicht erfüllt. Zeig, dass du die Arbeit stoppen, eskalieren und Vorschriften einhalten würdest, statt unter Termindruck Abkürzungen zu nehmen. Erwähne Gefährdungsbeurteilung, Sicherheitsfaktoren und passende Schutzmaßnahmen.",
+          "tip": "Schlag nie vor, die Sicherheit zugunsten eines Zeitplans zu opfern – nicht einmal hypothetisch."
+        },
+        {
+          "title": "Normen und Vorschriften",
+          "body": "Ingenieurarbeit folgt Normen und Vorschriften, etwa nationalen Bauordnungen, elektrotechnischen Regelwerken oder internationalen ISO-Normen. Du musst sie nicht aufsagen können, solltest aber erklären, wie du sie anwendest: Entwürfe prüfen, die Einhaltung dokumentieren und auf dem neuesten Stand bleiben. Wenn du eine Norm nennst, solltest du wissen, was sie abdeckt – Nachfragen sind wahrscheinlich.",
+          "tip": "Nenne die Normen, die du in einem Projekt tatsächlich angewendet hast, und erkläre, wie."
+        },
+        {
+          "title": "Über Projekte sprechen",
+          "body": "Rechne mit detaillierten Fragen zu einem Projekt aus dem Job, einem Praktikum oder dem Studium. Erkläre das Problem, deine konkrete Rolle, wichtige Designentscheidungen, die eingesetzten Tools und die Ergebnisse – am besten mit Zahlen. Sei ehrlich, was schiefging und was du daraus gelernt hast. Bring bei Bedarf Zeichnungen oder ein Portfolio mit, aber stell sicher, dass nichts Vertrauliches dabei ist.",
+          "tip": "Mit dem CV-Check kannst du deine Projektbeschreibungen vor dem Interview schärfen."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Worauf kommt es beim Lösen einer Rechenaufgabe im Ingenieur-Interview am meisten an?",
+          "options": ["Ein klarer Lösungsweg mit Einheiten und genannten Annahmen", "Perfektes Kopfrechnen ohne Notizen", "Schneller fertig sein als der Interviewer", "Die fortgeschrittenste Formel verwenden"],
+          "answer": 0,
+          "explanation": "Lösungsweg, Einheiten und Annahmen zeigen solides ingenieurwissenschaftliches Denken."
+        },
+        {
+          "id": "q2",
+          "question": "Wie solltest du eine Frage zu einer gefährlichen Situation auf der Baustelle beantworten?",
+          "options": ["Die Aufgabe schnell beenden und es später melden", "Es ignorieren, wenn die Deadline naht", "Die Arbeit stoppen, eskalieren und Vorschriften einhalten", "Einen Kollegen bitten, es stillschweigend zu regeln"],
+          "answer": 2,
+          "explanation": "Interviewer erwarten ein klares Bekenntnis dazu, dass Sicherheit vor Deadlines geht."
+        },
+        {
+          "id": "q3",
+          "question": "Worauf solltest du achten, wenn du ein Portfolio mitbringst?",
+          "options": ["Dass es in Farbe gedruckt ist", "Dass nichts Vertrauliches enthalten ist", "Dass es mehr als fünfzig Seiten hat", "Dass es nur Arbeiten aus dem Studium zeigt"],
+          "answer": 1,
+          "explanation": "Vertrauliche Unterlagen früherer Arbeitgeber weiterzugeben, ist ein ernstes Warnsignal."
+        }
+      ]
+    },
+    {
+      "id": "case_interviews",
+      "order": 5,
+      "title": "Case Interviews meistern",
+      "minutes": 4,
+      "premium": true,
+      "pages": [
+        {
+          "title": "Was ein Case Interview ist",
+          "body": "In der Beratung und in vielen Business-Rollen sind Case Interviews üblich: Du bekommst ein Geschäftsproblem wie ‚Die Gewinne eines Händlers sind gesunken – warum?‘ und arbeitest es gemeinsam mit dem Interviewer durch. Bewertet werden strukturiertes Denken, Zahlensicherheit, unternehmerisches Gespür und Kommunikation. Cases sind entweder interviewergeführt, wobei du durch jeden Schritt geleitet wirst, oder kandidatengeführt, wobei du die Analyse selbst steuerst.",
+          "tip": "Notiere dir alle Zahlen und Fakten aus der Aufgabenstellung."
+        },
+        {
+          "title": "Eine Struktur aufbauen",
+          "body": "Nachdem du das Ziel geklärt hast, nimm dir einen Moment, um ein Framework zu entwickeln, das das Problem in klar abgegrenzte Teile zerlegt. Bei sinkenden Gewinnen teilst du in Umsatz und Kosten auf und gliederst beides weiter. Pass Frameworks an den Case an, statt eine auswendig gelernte Vorlage zu erzwingen. Stell deine Struktur klar vor, bevor du loslegst, und frag, welchen Bereich der Interviewer zuerst vertiefen möchte.",
+          "tip": "Bitte um dreißig Sekunden, um deine Gedanken zu ordnen – das ist normal und wird erwartet."
+        },
+        {
+          "title": "Schätzfragen und Marktgrößen",
+          "body": "Bei Fragen zur Marktgröße heißt es etwa: ‚Wie viele Becher Kaffee werden in einer Stadt pro Tag verkauft?‘ Zerlege das Problem in logische Schritte: Einwohnerzahl, Anteil der Kaffeetrinker, Becher pro Person und so weiter. Nenne deine Annahmen, rechne mit runden Zahlen und geh Schritt für Schritt vor. Dem Interviewer geht es um deine Logik – ein nachvollziehbarer Ansatz zählt mehr als die exakte Zahl.",
+          "tip": "Gleiche das Endergebnis mit etwas ab, das du aus dem Alltag kennst."
+        },
+        {
+          "title": "Hypothesengeleitetes Denken",
+          "body": "Starke Kandidaten bilden früh eine Hypothese und prüfen sie: ‚Ich vermute, dass steigende Kosten der Haupttreiber sind – ich schaue mir die Kostendaten an.‘ Passe deine Sicht an, wenn neue Informationen hinzukommen. Schließe mit einer klaren Empfehlung ab: deine Antwort, zwei oder drei stützende Gründe, Risiken und nächste Schritte. Sprich so, als würdest du vor dem CEO eines Kunden präsentieren.",
+          "tip": "Übe Live-Cases in einem Probeinterview, um Tempo und Struktur aufzubauen."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Wie solltest du Frameworks in einem Case Interview einsetzen?",
+          "options": ["Eine auswendig gelernte Vorlage auf jeden Case anwenden", "Auf Struktur verzichten, um kreativ zu wirken", "Ein Framework an das konkrete Problem anpassen", "Den Interviewer das Framework aufbauen lassen"],
+          "answer": 2,
+          "explanation": "Maßgeschneiderte Strukturen zeigen echtes Denken; erzwungene Vorlagen wirken mechanisch."
+        },
+        {
+          "id": "q2",
+          "question": "Worauf kommt es bei einer Frage zur Marktgröße am meisten an?",
+          "options": ["Ein logischer Ansatz mit genannten Annahmen", "Die exakte offizielle Zahl zu kennen", "Mit präzisen Nachkommastellen zu rechnen", "In unter zehn Sekunden zu antworten"],
+          "answer": 0,
+          "explanation": "Interviewer bewerten deine Logik und Annahmen, nicht die genaue Zahl."
+        },
+        {
+          "id": "q3",
+          "question": "Wie solltest du ein Case Interview abschließen?",
+          "options": ["Indem du jede berechnete Zahl zusammenfasst", "Indem du den Interviewer nach der Lösung fragst", "Indem du sagst, dass mehr Analyse nötig ist", "Mit einer klaren Empfehlung, Gründen, Risiken und nächsten Schritten"],
+          "answer": 3,
+          "explanation": "Erwartet wird eine entschlossene Empfehlung, die du so auch einem Kunden präsentieren könntest."
+        }
+      ]
+    },
+    {
+      "id": "test_types",
+      "order": 6,
+      "title": "Hausaufgaben und Eignungstests",
+      "minutes": 3,
+      "premium": true,
+      "pages": [
+        {
+          "title": "Aufgaben für zu Hause",
+          "body": "Bei Take-home-Aufgaben hast du Stunden oder Tage Zeit für eine realistische Arbeitsprobe, etwa eine kleine App, eine Analyse oder einen Bericht. Lies die Aufgabenstellung sorgfältig und liefere genau das, was verlangt ist, bevor du Extras hinzufügst. Halte dich an eine vorgeschlagene Zeitvorgabe. Füge eine kurze Notiz bei, die deinen Ansatz, deine Annahmen und mögliche Verbesserungen mit mehr Zeit erklärt.",
+          "tip": "Frag den Recruiter vor dem Start, wie die Aufgabe bewertet wird."
+        },
+        {
+          "title": "Numerisches und sprachliches Denken",
+          "body": "Numerische Tests prüfen anhand von Tabellen und Diagrammen Prozentrechnung, Verhältnisse und Dateninterpretation. Sprachliche Tests liefern einen Text und fragen, ob Aussagen wahr, falsch oder aus dem Text nicht ableitbar sind. Nutze bei sprachlichen Aufgaben nur die gegebenen Informationen, kein Vorwissen. Übungstests sind leicht zu finden, und Routine verbessert Tempo und Genauigkeit enorm.",
+          "tip": "Bei sprachlichen Tests ist ‚nicht ableitbar‘ richtig, wenn der Text die Aussage weder bestätigt noch widerlegt."
+        },
+        {
+          "title": "Persönlichkeits- und Situationstests",
+          "body": "Persönlichkeitsfragebögen erfragen, wie du dich typischerweise verhältst, und Situational Judgement Tests zeigen Arbeitsszenarien mit mehreren möglichen Reaktionen. Antworte ehrlich und konsistent – viele Tools erkennen widersprüchliche Antworten. Behalte die Anforderungen der Stelle im Blick, aber erfinde keine andere Persönlichkeit. Wähle bei Situationstests Reaktionen, die professionell und kooperativ sind und das Problem direkt angehen.",
+          "tip": "Lies vorher die Unternehmenswerte – Situationstests spiegeln sie oft wider."
+        },
+        {
+          "title": "Zeitmanagement",
+          "body": "Die meisten Eignungstests sind streng getaktet und so angelegt, dass kaum jemand alle Fragen schafft. Schau dir die Anzahl der Fragen an und teile die Zeit auf, um ein grobes Tempo festzulegen. Bleib nicht hängen: Überspring schwierige Fragen und komm zurück, wenn Zeit bleibt. Finde heraus, ob falsche Antworten Punktabzug bringen – falls nicht, beantworte jede Frage. Mach Tests an einem ruhigen Ort mit stabiler Internetverbindung.",
+          "tip": "Halte Taschenrechner und Schmierpapier bereit, wenn sie erlaubt sind."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Was solltest du einer Take-home-Aufgabe beilegen?",
+          "options": ["Eine Bitte um ein höheres Gehalt", "Eine kurze Notiz zu Ansatz, Annahmen und möglichen Verbesserungen", "Zusätzliche Features statt der geforderten", "Nichts außer dem Code oder der Datei"],
+          "answer": 1,
+          "explanation": "Wenn du deine Überlegungen erklärst, können die Prüfer deine Arbeit besser verstehen und würdigen."
+        },
+        {
+          "id": "q2",
+          "question": "Welche Informationen solltest du in einem sprachlichen Denktest nutzen?",
+          "options": ["Dein Allgemeinwissen zum Thema", "Das, was im echten Leben am wahrscheinlichsten ist", "Nur die Informationen aus dem Text", "Die Antwort, die der Arbeitgeber vermutlich bevorzugt"],
+          "answer": 2,
+          "explanation": "Bei sprachlichen Denktests werden Aussagen ausschließlich am Text gemessen."
+        },
+        {
+          "id": "q3",
+          "question": "Was solltest du tun, wenn du in einem Test unter Zeitdruck bei einer schweren Frage hängst?",
+          "options": ["Sie überspringen und später zurückkommen, wenn Zeit bleibt", "Dranbleiben, bis du sie gelöst hast", "Den Test vorzeitig beenden", "Bei allen restlichen Fragen blind raten"],
+          "answer": 0,
+          "explanation": "Durch Überspringen hältst du dein Tempo und beantwortest insgesamt mehr Fragen."
+        }
+      ]
+    }
+  ]
+}

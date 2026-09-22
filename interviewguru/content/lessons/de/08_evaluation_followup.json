@@ -1,0 +1,270 @@
+{
+  "id": "evaluation_followup",
+  "order": 8,
+  "icon": "followup",
+  "color": "#F97316",
+  "title": "Nach dem Interview",
+  "summary": "Hak professionell nach, lerne aus jedem Interview und geh selbstbewusst mit Angeboten um.",
+  "topics": [
+    {
+      "id": "email_structure",
+      "order": 1,
+      "title": "Eine Dankes-E-Mail schreiben",
+      "minutes": 3,
+      "premium": false,
+      "pages": [
+        {
+          "title": "Warum eine Dankes-E-Mail wichtig ist",
+          "body": "Eine kurze Dankes-E-Mail ist ein einfacher Weg, dich mit wenig Aufwand abzuheben. Sie zeigt Höflichkeit, bestätigt dein Interesse und gibt dir eine weitere Chance, den Interviewer daran zu erinnern, warum du zur Stelle passt. Allein bringt sie selten den Job, aber wenn zwei Kandidaten eng beieinanderliegen, kann eine durchdachte Nachricht den stärkeren letzten Eindruck hinterlassen.",
+          "tip": "Schick sie innerhalb von 24 Stunden, am besten noch am selben Tag."
+        },
+        {
+          "title": "Ein einfacher Aufbau",
+          "body": "Beschränke dich auf vier kurze Teile. Eine Betreffzeile wie ‚Vielen Dank – Vorstellungsgespräch Marketing-Koordinator‘. Ein Dank für die Zeit, mit dem Namen des Interviewers. Ein oder zwei Sätze, die ein besprochenes Thema mit deinen Fähigkeiten verknüpfen. Ein Schlusssatz, der dein Interesse und deine Verfügbarkeit für die nächsten Schritte bestätigt. Die ganze E-Mail sollte auf einen Handybildschirm passen.",
+          "tip": "Bleib unter 150 Wörtern – vielbeschäftigte Interviewer schätzen Kürze."
+        },
+        {
+          "title": "Mach sie persönlich",
+          "body": "Allgemeine Dankes-E-Mails erkennt man sofort. Greif etwas Konkretes aus dem Gespräch auf: ein Projekt, das beschrieben wurde, eine Herausforderung des Teams oder eine Frage, die dich interessiert hat. Zum Beispiel: ‚Es war spannend, von Ihrem neuen Onboarding-Programm zu hören; meine Erfahrung bei der Neugestaltung von Schulungsunterlagen könnte dabei helfen.‘ Konkrete Details zeigen, dass du zugehört hast.",
+          "tip": "Notiere dir direkt nach dem Interview zwei Gesprächspunkte, damit du sie verwenden kannst."
+        },
+        {
+          "title": "Häufige Fehler",
+          "body": "Kopiere nicht dieselbe Nachricht an alle Mitglieder eines Gremiums; pass für jede Person mindestens einen Satz an. Prüf Namen, Schreibweise und Jobtitel doppelt. Nutze die E-Mail nicht, um eine schwache Antwort ausführlich neu zu verhandeln oder nach dem Gehalt zu fragen. Bleib herzlich und professionell und schick keine wiederholten Nachfragen, wenn du nicht sofort eine Antwort bekommst.",
+          "tip": "Lies die E-Mail vor dem Absenden einmal laut vor, um Fehler zu finden."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Wann solltest du eine Dankes-E-Mail schicken?",
+          "options": ["Innerhalb von 24 Stunden nach dem Interview", "Nach einer Woche", "Nur wenn du ein Angebot bekommst", "Vor dem Interview"],
+          "answer": 0,
+          "explanation": "Wenn du sie innerhalb eines Tages schickst, bleibst du dem Interviewer frisch in Erinnerung."
+        },
+        {
+          "id": "q2",
+          "question": "Was macht eine Dankes-E-Mail persönlich?",
+          "options": ["Eine lange, förmliche Vorlage", "Ein konkreter Punkt aus dem Gespräch", "Den Lebenslauf noch einmal anhängen", "Alle deine Qualifikationen aufzählen"],
+          "answer": 1,
+          "explanation": "Ein konkretes Detail zeigt, dass du zugehört hast, und verbindet das Gespräch mit deinen Fähigkeiten."
+        },
+        {
+          "id": "q3",
+          "question": "Wie solltest du dich bei einem Gremium aus drei Interviewern bedanken?",
+          "options": ["Allen dreien dieselbe E-Mail schicken", "Nur der ranghöchsten Person danken", "Einem Gremium gar nicht danken", "Für jede Person mindestens einen Satz anpassen"],
+          "answer": 3,
+          "explanation": "Wer jede Nachricht personalisiert, vermeidet eine offensichtlich kopierte E-Mail."
+        }
+      ]
+    },
+    {
+      "id": "email_examples",
+      "order": 2,
+      "title": "Vorlagen für Follow-up-E-Mails",
+      "minutes": 4,
+      "premium": false,
+      "pages": [
+        {
+          "title": "Vorlage: Dankes-E-Mail",
+          "body": "Betreff: Vielen Dank – Vorstellungsgespräch [Jobtitel]. ‚Sehr geehrte/r [Name], vielen Dank, dass Sie sich heute Zeit für mich genommen haben. Besonders gefallen hat mir unser Austausch über [Thema], der mein Interesse an der Stelle bestätigt hat. Mit meiner Erfahrung in [relevante Fähigkeit] könnte ich schnell einen Beitrag leisten. Lassen Sie mich gern wissen, wenn Sie noch etwas benötigen. Mit freundlichen Grüßen, [Dein Name].‘",
+          "tip": "Ersetze jede Klammer – ein vergessenes [Name] macht den guten Eindruck zunichte."
+        },
+        {
+          "title": "Nach dem Stand fragen",
+          "body": "Wenn der zugesagte Entscheidungstermin verstrichen ist, warte zwei oder drei Werktage und schreib dann: ‚Sehr geehrte/r [Name], ich hoffe, es geht Ihnen gut. Ich melde mich bezüglich meines Vorstellungsgesprächs für die Stelle als [Jobtitel] am [Datum]. Ich bin weiterhin sehr an der Position interessiert und wäre dankbar für ein kurzes Update zum Zeitplan. Vielen Dank, [Dein Name].‘ Bleib kurz, positiv und geduldig.",
+          "tip": "Hak höchstens einmal pro Woche nach, damit du nicht aufdringlich wirkst."
+        },
+        {
+          "title": "Auf eine Absage antworten",
+          "body": "Eine freundliche Antwort hält die Tür offen: ‚Sehr geehrte/r [Name], vielen Dank für Ihre Rückmeldung. Auch wenn ich enttäuscht bin, habe ich mich gefreut, [Team oder Unternehmen] kennenzulernen. Wenn Sie einen Moment Zeit haben, freue ich mich über Feedback. Ich würde gern für künftige Möglichkeiten in Kontakt bleiben. Freundliche Grüße, [Dein Name].‘ Viele Kandidaten antworten gar nicht – damit fällst du positiv auf.",
+          "tip": "Vernetze dich nach deiner Antwort mit dem Interviewer in einem beruflichen Netzwerk wie LinkedIn."
+        },
+        {
+          "title": "Eine Bewerbung zurückziehen",
+          "body": "Wenn du ein anderes Angebot annimmst oder das Interesse verlierst, sag dem Unternehmen zeitnah Bescheid: ‚Sehr geehrte/r [Name], vielen Dank, dass Sie mich für die Stelle als [Jobtitel] in Betracht gezogen haben. Ich habe mich entschieden, meine Bewerbung zurückzuziehen, da ich eine andere Position angenommen habe. Ich danke Ihnen für Ihre Zeit und hoffe, dass sich unsere Wege wieder kreuzen. Beste Grüße, [Dein Name].‘ Wer höflich absagt, schützt seinen Ruf.",
+          "tip": "Du musst keine ausführlichen Gründe nennen – eine kurze Erklärung genügt."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Der Entscheidungstermin ist ohne Nachricht verstrichen. Wann solltest du nachhaken?",
+          "options": ["Sofort am selben Morgen", "Nach zwei oder drei Werktagen", "Nie – einfach abwarten", "Jeden Tag, bis sie antworten"],
+          "answer": 1,
+          "explanation": "Eine kurze, geduldige Nachfrage ein paar Tage später ist höflich und wirkungsvoll."
+        },
+        {
+          "id": "q2",
+          "question": "Warum solltest du auf eine Absage antworten?",
+          "options": ["Um sie zu bitten, ihre Entscheidung zu ändern", "Um deinem Frust Luft zu machen", "Es hält die Tür offen und bringt vielleicht Feedback", "Es ist gesetzlich vorgeschrieben"],
+          "answer": 2,
+          "explanation": "Eine freundliche Antwort hinterlässt einen guten Eindruck für künftige Möglichkeiten."
+        },
+        {
+          "id": "q3",
+          "question": "Was sollte eine E-Mail zum Rückzug der Bewerbung enthalten?",
+          "options": ["Einen ausführlichen Vergleich der beiden Angebote", "Nichts – einfach nicht mehr antworten", "Die Bitte um ein höheres Gehalt", "Einen kurzen Dank und die klare Aussage, dass du dich zurückziehst"],
+          "answer": 3,
+          "explanation": "Ein kurzer, höflicher Rückzug schützt deinen Ruf."
+        }
+      ]
+    },
+    {
+      "id": "performance_analysis",
+      "order": 3,
+      "title": "Deine Leistung bewerten",
+      "minutes": 3,
+      "premium": true,
+      "pages": [
+        {
+          "title": "Nachbereiten, solange es frisch ist",
+          "body": "Nimm dir innerhalb einer Stunde nach dem Interview zehn Minuten, um aufzuschreiben, woran du dich erinnerst: die gestellten Fragen, deine Antworten, die Namen der Interviewer und alles, was du über die Stelle erfahren hast. Details verblassen schnell. Diese Notizen helfen dir bei der Dankes-E-Mail, bereiten dich auf die nächste Runde vor und zeigen dir, was du üben solltest.",
+          "tip": "Nutze auf dem Heimweg die Notizen-App deines Handys, wenn du dich nicht sofort hinsetzen kannst."
+        },
+        {
+          "title": "Drei einfache Fragen",
+          "body": "Geh das Interview mit drei Fragen durch. Was lief gut? Welche Antworten fühlten sich klar an und kamen gut an? Was lief nicht gut? Wo hast du gezögert oder dich verzettelt? Was würde ich anders machen? Sei konkret: ‚Ich habe vergessen, das Verkaufsergebnis in meiner Führungsgeschichte zu erwähnen‘ ist viel nützlicher als ‚Ich war schlecht.‘",
+          "tip": "Schreib mindestens so viele positive wie negative Punkte auf."
+        },
+        {
+          "title": "Den ganzen Prozess betrachten",
+          "body": "Bewerte mehr als nur deine Antworten. Hat deine Vorbereitung die richtigen Themen abgedeckt? Waren deine Fragen an den Interviewer durchdacht? Lief die Organisation reibungslos? Denk auch über das Unternehmen nach: Passen Stelle, Team und Kultur zu dem, was du willst? Ein Interview ist eine gegenseitige Bewertung, und deine Eindrücke zählen für deine Entscheidung.",
+          "tip": "Bewerte dein Interesse an der Stelle direkt nach dem Interview auf einer Skala von 1 bis 10."
+        },
+        {
+          "title": "Nicht zu viel grübeln",
+          "body": "Es passiert schnell, dass man einen unangenehmen Moment tagelang im Kopf abspielt. Denk daran, dass Interviewer meist einen Gesamteindruck gewinnen, statt sich auf eine einzelne Antwort zu konzentrieren, und dass Kandidaten sich oft strenger beurteilen als die Interviewer. Sobald deine Notizen stehen und du deine nächsten Schritte gewählt hast, lass es los. Steck deine Energie in die nächste Bewerbung oder Übungssitzung.",
+          "tip": "Mach aus deiner schwächsten Antwort eine Frage für dein nächstes Probeinterview."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Wann ist der beste Zeitpunkt, ein Interview nachzubereiten?",
+          "options": ["In der nächsten Woche", "Innerhalb einer Stunde, solange die Details frisch sind", "Erst wenn du das Ergebnis kennst", "Direkt vor deinem nächsten Interview"],
+          "answer": 1,
+          "explanation": "Details verblassen schnell, also mach dir bald Notizen."
+        },
+        {
+          "id": "q2",
+          "question": "Welche Notiz zur Selbsteinschätzung ist am nützlichsten?",
+          "options": ["Ich war schlecht", "Es lief ganz okay", "Ich habe vergessen, das Verkaufsergebnis in meiner Führungsgeschichte zu erwähnen", "Sie mochten mich nicht"],
+          "answer": 2,
+          "explanation": "Konkrete Notizen weisen auf konkrete Verbesserungen hin."
+        },
+        {
+          "id": "q3",
+          "question": "Was solltest du neben deinen Antworten noch bewerten?",
+          "options": ["Ob Stelle, Team und Kultur zu dem passen, was du willst", "Die Kleidung des Interviewers", "Wie lange die Büroführung gedauert hat", "Nichts anderes ist wichtig"],
+          "answer": 0,
+          "explanation": "Interviews beruhen auf Gegenseitigkeit; auch dein Eindruck vom Unternehmen zählt."
+        }
+      ]
+    },
+    {
+      "id": "handling_offers",
+      "order": 4,
+      "title": "Mit Angeboten umgehen und verhandeln",
+      "minutes": 4,
+      "premium": true,
+      "pages": [
+        {
+          "title": "Das Gesamtpaket betrachten",
+          "body": "Ein Angebot ist mehr als das Grundgehalt. Berücksichtige Boni, Beiträge zur Altersvorsorge, Kranken- und andere Versicherungen, Urlaubstage, flexibles Arbeiten oder Homeoffice, Weiterbildungsbudgets und gegebenenfalls Unternehmensanteile. Wäge auch die Stelle selbst, Entwicklungsmöglichkeiten, den Arbeitsweg und das Team ab. Bitte um das vollständige Angebot schriftlich, damit du Optionen genau vergleichen und Missverständnisse vermeiden kannst.",
+          "tip": "Trag alle Bestandteile in eine einfache Tabelle ein, um Angebote direkt nebeneinander zu vergleichen."
+        },
+        {
+          "title": "Um Bedenkzeit bitten",
+          "body": "Du musst nicht sofort zusagen. Bedank dich herzlich und bitte um Bedenkzeit: ‚Vielen Dank, ich freue mich sehr über dieses Angebot. Könnte ich mir bis Freitag Zeit nehmen, um die Details zu prüfen?‘ Ein paar Tage bis eine Woche sind eine übliche, angemessene Bitte. Nutze die Zeit, um das Paket zu prüfen, die übliche Vergütung für die Stelle zu recherchieren und Fragen vorzubereiten.",
+          "tip": "Zeig Begeisterung für die Stelle, auch während du um Bedenkzeit bittest."
+        },
+        {
+          "title": "Höflich verhandeln",
+          "body": "Verhandeln ist üblich und schadet einem Angebot selten, wenn du respektvoll bleibst. Stütze deine Forderung auf Recherchen zu marktüblichen Gehältern und auf den Mehrwert, den du mitbringst. Sei konkret und positiv: ‚Ich freue mich sehr auf die Stelle. Angesichts meiner Erfahrung und der üblichen Vergütung für vergleichbare Positionen – wäre ein Gehalt von [Betrag] möglich?‘ Wenn das Gehalt feststeht, frag nach anderen Bestandteilen wie Urlaub, Flexibilität oder Weiterbildung.",
+          "tip": "Nenne eine konkrete Zahl, statt um ‚ein bisschen mehr‘ zu bitten."
+        },
+        {
+          "title": "Souverän zu- oder absagen",
+          "body": "Wenn du zusagst, bestätige es schriftlich und prüfe das Startdatum und die wichtigsten Konditionen. Wenn du absagst, antworte zeitnah und höflich: ‚Vielen Dank für das Angebot und Ihre Zeit. Nach reiflicher Überlegung habe ich mich entschieden, eine andere Position anzunehmen. Ich habe mich sehr gefreut, das Team kennenzulernen, und hoffe, dass wir in Kontakt bleiben.‘ Eine höfliche Absage erhält Beziehungen für die Zukunft.",
+          "tip": "Kündige deinen aktuellen Job erst, wenn du das Angebot schriftlich hast."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Was solltest du bewerten, wenn du ein Angebot erhältst?",
+          "options": ["Nur das Grundgehalt", "Nur den Jobtitel", "Das Gesamtpaket inklusive Zusatzleistungen, Flexibilität und Entwicklung", "Nur, wie schnell sie eine Antwort wollen"],
+          "answer": 2,
+          "explanation": "Zusatzleistungen, Flexibilität, Entwicklungsmöglichkeiten und die Stelle selbst bestimmen den Wert eines Angebots mit."
+        },
+        {
+          "id": "q2",
+          "question": "Ein Arbeitgeber bittet dich, dich zu einem Angebot zu entscheiden. Was ist eine angemessene Reaktion?",
+          "options": ["Sofort zusagen, ohne es zu lesen", "Dich bedanken und um ein paar Tage Zeit bitten, um die Details zu prüfen", "Es ablehnen, um ein besseres Angebot zu bekommen", "Die Nachricht zwei Wochen lang ignorieren"],
+          "answer": 1,
+          "explanation": "Um eine kurze, klar begrenzte Bedenkzeit zu bitten, ist üblich und angemessen."
+        },
+        {
+          "id": "q3",
+          "question": "Das Gehalt steht fest. Worüber kannst du trotzdem verhandeln?",
+          "options": ["Über andere Bestandteile wie Urlaub, Flexibilität oder Weiterbildung", "Über gar nichts", "Über die Entscheidung des Interviewers", "Nur über deinen Jobtitel"],
+          "answer": 0,
+          "explanation": "Wenn sich beim Gehalt nichts bewegt, lassen sich oft andere Teile des Pakets anpassen."
+        }
+      ]
+    },
+    {
+      "id": "tracking_progress",
+      "order": 5,
+      "title": "Deine Jobsuche im Blick behalten",
+      "minutes": 3,
+      "premium": true,
+      "pages": [
+        {
+          "title": "Warum du deine Suche dokumentieren solltest",
+          "body": "Wenn du dich auf viele Stellen bewirbst, verschwimmen die Details schnell. Vielleicht vergisst du, welche Lebenslaufversion du geschickt hast, mit wem du gesprochen hast oder wann du nachhaken wolltest. Eine einfache Übersicht hält alles an einem Ort, verhindert peinliche Verwechslungen und zeigt dir, wo deine Suche funktioniert und wo sie stockt. Außerdem macht sie Fortschritte auch in zähen Wochen sichtbar.",
+          "tip": "Beginne mit der Dokumentation bei deiner allerersten Bewerbung, nicht erst nach der zehnten."
+        },
+        {
+          "title": "Was du festhalten solltest",
+          "body": "Eine Tabelle oder Notizen-App reicht völlig. Notiere für jede Bewerbung Unternehmen, Stelle, Bewerbungsdatum, Lebenslaufversion, Ansprechperson, aktuellen Stand, nächsten Schritt und dessen Datum. Ergänze eine Spalte für Notizen zu Interviewfragen, Gehaltsinfos und Eindrücken. Speichere auch die Stellenausschreibung, denn Anzeigen werden oft entfernt, sobald die Stelle besetzt ist.",
+          "tip": "Heb die CV-Builder-Version auf, die du für jede Stelle verwendet hast, damit deine Antworten zu dem passen, was sie gelesen haben."
+        },
+        {
+          "title": "Mit Phasen und nächsten Schritten arbeiten",
+          "body": "Ordne jeder Bewerbung eine Phase zu: beworben, Vorauswahl, Interview, finale Runde, Angebot oder abgeschlossen. Jede offene Bewerbung sollte außerdem einen nächsten Schritt mit Datum haben, etwa ‚Am 12. Mai nachhaken‘ oder ‚Fallstudie vorbereiten‘. Geh deine Übersicht zu Beginn jeder Woche durch, damit nichts vergessen wird und jede Chance in Bewegung bleibt.",
+          "tip": "Markiere die Phasen farbig, damit du deine Pipeline auf einen Blick siehst."
+        },
+        {
+          "title": "Aus deinen Zahlen lernen",
+          "body": "Schau dir nach einem Monat die Muster an. Wenn du viele Bewerbungen verschickst, aber wenige Antworten bekommst, brauchen dein Lebenslauf oder deine Stellenauswahl vielleicht Arbeit. Wenn du zu Interviews eingeladen wirst, aber selten die finale Runde erreichst, konzentriere dich aufs Interviewtraining. Wenn aus finalen Runden keine Angebote werden, überprüfe deinen Gesprächsabschluss und dein Follow-up. Deine Übersicht zeigt dir, wo du als Nächstes ansetzen solltest.",
+          "tip": "Berechne jeden Monat den Anteil der Bewerbungen, die zu einem Interview führen."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Warum solltest du zu jeder Bewerbung die Stellenausschreibung speichern?",
+          "options": ["Anzeigen werden oft entfernt, sobald die Stelle besetzt ist", "Arbeitgeber bitten dich, sie zurückzuschicken", "Sie ersetzt deinen Lebenslauf", "Sie wird zur Gehaltsberechnung benötigt"],
+          "answer": 0,
+          "explanation": "Du brauchst sie zur Interviewvorbereitung, und online verschwindet sie womöglich."
+        },
+        {
+          "id": "q2",
+          "question": "Was sollte jede offene Bewerbung in deiner Übersicht haben?",
+          "options": ["Ein Foto vom Büro", "Einen nächsten Schritt mit Datum", "Die private Telefonnummer des Interviewers", "Eine bereits getroffene endgültige Entscheidung"],
+          "answer": 1,
+          "explanation": "Ein nächster Schritt mit Datum hält jede Chance in Bewegung."
+        },
+        {
+          "id": "q3",
+          "question": "Du hast viele Interviews, erreichst aber selten die finale Runde. Worauf solltest du dich konzentrieren?",
+          "options": ["Mehr Bewerbungen verschicken", "Den Beruf wechseln", "Interviewtraining", "Längere Dankes-E-Mails schreiben"],
+          "answer": 2,
+          "explanation": "Das Muster zeigt, dass sich Einsatz in der Interviewphase am meisten auszahlt."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,374 @@
+{
+  "id": "common_questions",
+  "order": 3,
+  "icon": "questions",
+  "color": "#F59E0B",
+  "title": "Pertanyaan Umum",
+  "summary": "Susun jawaban yang jelas dan percaya diri untuk pertanyaan yang hampir selalu diajukan pewawancara, dari 'Ceritakan tentang dirimu' hingga soal gaji.",
+  "topics": [
+    {
+      "id": "tell_me_about_yourself",
+      "order": 1,
+      "title": "Ceritakan tentang Dirimu",
+      "minutes": 3,
+      "premium": false,
+      "pages": [
+        {
+          "title": "Apa yang sebenarnya ditanyakan",
+          "body": "'Ceritakan tentang dirimu' bukan permintaan untuk menceritakan kisah hidupmu. Pewawancara ingin gambaran singkat dan relevan yang menjelaskan kenapa kamu kandidat yang cocok untuk posisi ini. Pertanyaan ini sering muncul pertama, jadi ia menentukan suasana untuk semua yang menyusul. Targetkan 60–90 detik dan fokus pada perjalanan profesionalmu, bukan detail pribadi seperti keluarga atau kampung halaman.",
+          "tip": "Siapkan jawaban ini lebih dulu; kamu akan memakai versinya di hampir setiap wawancara."
+        },
+        {
+          "title": "Masa kini: posisimu sekarang",
+          "body": "Gunakan struktur masa kini–masa lalu–masa depan. Mulailah dari masa kini: peran atau situasimu saat ini dan satu pencapaian yang penting untuk pekerjaan ini. Contohnya: 'Saya customer support lead di sebuah perusahaan software dan memimpin tim berisi enam orang. Tahun lalu kami memangkas rata-rata waktu respons dari satu hari penuh menjadi empat jam.' Buat tetap konkret dan relevan dengan posisinya.",
+          "tip": "Pilih pencapaian yang paling cocok dengan deskripsi lowongan, bukan yang paling kamu sukai."
+        },
+        {
+          "title": "Masa lalu: bagaimana kamu sampai di sini",
+          "body": "Berikutnya, bahas masa lalu secara singkat: pengalaman yang membentuk keterampilan yang dibutuhkan posisi ini. Pilih satu atau dua saja, bukan seluruh riwayatmu. 'Sebelumnya, saya tiga tahun menjadi support agent, di mana saya menulis artikel pusat bantuan pertama kami dan melatih karyawan baru.' Kalau kamu baru lulus, gunakan studi, magang, atau proyekmu sebagai ganti pekerjaan sebelumnya.",
+          "tip": "Lewati apa pun dari masa lalumu yang tidak mengarah ke posisi ini."
+        },
+        {
+          "title": "Masa depan: kenapa posisi ini",
+          "body": "Tutup dengan masa depan: apa yang kamu inginkan selanjutnya dan kenapa pekerjaan ini cocok. 'Sekarang saya ingin beralih ke customer success, di mana saya bisa bekerja dengan klien dalam jangka panjang, dan itulah kenapa posisi ini menarik perhatian saya.' Penutup ini mengembalikan percakapan secara alami dan mengundang pertanyaan lanjutan tentang pengalaman yang kamu pilih untuk ditonjolkan.",
+          "tip": "Rekam jawabanmu di simulasi wawancara dan buang apa pun yang tidak mengarah ke posisi ini."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Urutan apa yang diikuti struktur yang disarankan?",
+          "options": ["Masa lalu, masa depan, masa kini", "Masa kini, masa lalu, masa depan", "Masa depan, masa kini, masa lalu", "Hobi, keluarga, karier"],
+          "answer": 1,
+          "explanation": "Mulailah dari posisimu sekarang, jelaskan bagaimana kamu sampai di sana, lalu sampaikan ke mana kamu ingin melangkah."
+        },
+        {
+          "id": "q2",
+          "question": "Apa fungsi bagian 'masa depan' dalam jawabanmu?",
+          "options": ["Menyebutkan ekspektasi gaji", "Menceritakan hobimu", "Mengulang riwayat pendidikan", "Menjelaskan apa yang kamu inginkan selanjutnya dan kenapa posisi ini cocok"],
+          "answer": 3,
+          "explanation": "Bagian masa depan menghubungkan tujuanmu dengan pekerjaan ini dan mengembalikan percakapan ke pewawancara."
+        },
+        {
+          "id": "q3",
+          "question": "Detail mana yang paling tidak pantas ada dalam jawabanmu?",
+          "options": ["Keluarga dan kampung halamanmu", "Pencapaian relevan di peranmu saat ini", "Keterampilan dari pekerjaan sebelumnya", "Alasan posisi ini menarik bagimu"],
+          "answer": 0,
+          "explanation": "Pertanyaan ini tentang perjalanan profesionalmu, jadi detail pribadi menyita waktu dari hal yang penting."
+        }
+      ]
+    },
+    {
+      "id": "why_this_company",
+      "order": 2,
+      "title": "Kenapa Kamu Ingin Bekerja di Sini?",
+      "minutes": 3,
+      "premium": false,
+      "pages": [
+        {
+          "title": "Apa yang diuji pertanyaan ini",
+          "body": "'Kenapa kamu ingin bekerja di sini?' memeriksa tiga hal: apakah kamu sudah meriset perusahaan, apakah motivasimu lebih dari sekadar butuh pekerjaan apa saja, dan apakah kamu kemungkinan akan bertahan. Jawaban umum seperti 'Perusahaannya bagus dengan budaya yang bagus' gagal di ketiganya. Jawabanmu butuh detail spesifik yang tidak bisa diucapkan tentang pemberi kerja lain.",
+          "tip": "Kalau jawabanmu masih masuk akal saat nama pesaing dimasukkan, buat lebih spesifik."
+        },
+        {
+          "title": "Jawaban tiga bagian",
+          "body": "Bangun jawabanmu dari tiga mata rantai: perusahaan, posisi, dan dirimu. Pertama, sebutkan sesuatu yang spesifik tentang perusahaan, seperti produk, pasar, atau langkah terbaru mereka. Kedua, hubungkan dengan isi pekerjaan di posisi itu. Ketiga, tunjukkan kenapa hal itu penting bagimu, dengan memakai pengalaman atau tujuanmu. Satu atau dua kalimat per mata rantai sudah cukup.",
+          "tip": "Gunakan catatan riset perusahaanmu untuk memilih satu detail yang paling terhubung dengan pengalamanmu."
+        },
+        {
+          "title": "Contoh",
+          "body": "'Saya mengikuti langkah kalian masuk ke pembayaran untuk usaha kecil, dan saya suka kalian membangun produk untuk pemilik usaha yang selama ini kurang terlayani. Posisi ini akan menempatkan saya di tim onboarding, persis di bidang yang dua tahun terakhir saya tekuni untuk meningkatkan konversi pendaftaran. Saya ingin terus melakukan pekerjaan itu di perusahaan yang menjadikannya inti strategi.'",
+          "tip": "Perhatikan bagaimana setiap kalimat mencakup satu mata rantai: perusahaan, posisi, lalu dirimu."
+        },
+        {
+          "title": "Kesalahan yang harus dihindari",
+          "body": "Jangan membuka dengan fasilitas: gaji, lokasi, atau tunjangan terdengar egois sebagai alasan utama, meski hal itu penting bagimu. Jangan memuji tanpa isi; 'Kalian pemimpin industri' tidak mengatakan apa-apa. Jangan mengkritik perusahaan tempatmu bekerja sekarang untuk menjelaskan kenapa kamu pindah. Dan jangan membacakan ulang pernyataan misi; tafsirkan dan tunjukkan artinya bagimu dalam praktik.",
+          "tip": "Simpan alasan praktis seperti lokasi untuk percakapan berikutnya, bukan sebagai jawaban utamamu."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Kenapa 'Perusahaannya bagus dengan budaya yang bagus' gagal sebagai jawaban?",
+          "options": ["Terlalu panjang", "Menyebut budaya", "Bisa diucapkan tentang pemberi kerja mana pun", "Terlalu spesifik"],
+          "answer": 2,
+          "explanation": "Jawaban yang kuat berisi detail yang hanya berlaku untuk perusahaan ini."
+        },
+        {
+          "id": "q2",
+          "question": "Apa tiga mata rantai dalam jawaban yang kuat?",
+          "options": ["Gaji, lokasi, dan tunjangan", "Perusahaan, posisi, dan dirimu", "Misi, visi, dan nilai", "Masa lalu, masa kini, dan masa depan"],
+          "answer": 1,
+          "explanation": "Hubungkan sesuatu yang spesifik tentang perusahaan dengan posisinya, lalu dengan pengalaman atau tujuanmu sendiri."
+        },
+        {
+          "id": "q3",
+          "question": "Alasan mana yang tidak boleh membuka jawabanmu?",
+          "options": ["Langkah terbaru perusahaan yang kamu kagumi", "Cara posisi ini memanfaatkan pengalamanmu", "Tujuan kariermu", "Paket tunjangan"],
+          "answer": 3,
+          "explanation": "Membuka dengan fasilitas terdengar egois, meski tunjangan memang pertimbangan yang wajar."
+        }
+      ]
+    },
+    {
+      "id": "strengths",
+      "order": 3,
+      "title": "Kelebihanmu",
+      "minutes": 3,
+      "premium": true,
+      "pages": [
+        {
+          "title": "Pilih kelebihan yang relevan di sini",
+          "body": "Pilih dua atau tiga kelebihan yang jelas dihargai dalam deskripsi lowongan, bukan sekadar yang paling kamu banggakan. Seorang data analyst mungkin memilih ketelitian, kemampuan menjelaskan angka dengan jelas, dan rasa ingin tahu. Seorang sales mungkin memilih ketangguhan dan kemampuan membangun hubungan. Kalau sebuah kelebihan tidak membantu di posisi ini, ia juga tidak akan membantu jawabanmu, sebenar apa pun itu.",
+          "tip": "Cocokkan kelebihanmu dengan syarat wajib yang kamu tandai di deskripsi lowongan."
+        },
+        {
+          "title": "Spesifik, bukan umum",
+          "body": "'Pekerja keras', 'team player', dan 'penuh semangat' diklaim hampir semua orang, jadi bobotnya kecil. Buat setiap kelebihan jadi presisi: alih-alih 'komunikator yang baik', katakan 'Saya menjelaskan masalah teknis dengan jelas kepada klien non-teknis'. Semakin sempit deskripsinya, semakin meyakinkan kedengarannya dan semakin mudah pewawancara membayangkan kamu menjalankan pekerjaan itu.",
+          "tip": "Tanyakan pada dirimu apa yang benar-benar akan terlihat kamu lakukan saat kelebihan ini sedang ditunjukkan."
+        },
+        {
+          "title": "Buktikan dengan contoh",
+          "body": "Kelebihan tanpa bukti hanyalah opini. Ikuti setiap kelebihan dengan contoh singkat: situasinya, apa yang kamu lakukan, dan hasilnya. 'Saya pandai menyederhanakan proses yang rumit. Di pekerjaan terakhir, saya menulis ulang panduan onboarding dua puluh halaman menjadi checklist lima langkah, dan karyawan baru mencapai produktivitas penuh dua minggu lebih cepat.' Angka membuat cerita lebih melekat.",
+          "tip": "Siapkan satu contoh untuk setiap kelebihan dan jaga masing-masing di bawah satu menit."
+        },
+        {
+          "title": "Sampaikan dengan percaya diri",
+          "body": "Banyak orang merendahkan diri karena membicarakan kelebihan terasa seperti menyombongkan diri. Padahal tidak; kamu sedang menjawab pertanyaan langsung dengan fakta. Sebutkan kelebihannya secara lugas, berikan buktinya, dan hubungkan dengan posisinya: 'Karena itulah saya bisa membuat tim support baru kalian cepat siap bekerja.' Hindari kerendahan hati yang palsu maupun melebih-lebihkan.",
+          "tip": "Latih kelebihan utamamu dengan suara keras sampai terdengar alami, bukan hafalan."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Bagaimana cara memilih kelebihan yang akan disebutkan?",
+          "options": ["Pilih yang jelas dihargai untuk posisi itu", "Sebutkan sebanyak mungkin", "Pilih yang sering disebut teman-temanmu", "Gunakan kelebihan yang paling populer"],
+          "answer": 0,
+          "explanation": "Sebuah kelebihan hanya membantu jawabanmu jika penting untuk pekerjaan spesifik ini."
+        },
+        {
+          "id": "q2",
+          "question": "Kenapa 'team player' lemah jika disebut begitu saja?",
+          "options": ["Pewawancara tidak suka kerja tim", "Terlalu teknis", "Terdengar terlalu rendah hati", "Hampir semua orang mengklaimnya, jadi bobotnya kecil"],
+          "answer": 3,
+          "explanation": "Label umum tidak membuatmu menonjol; deskripsi yang presisi yang membuatmu menonjol."
+        },
+        {
+          "id": "q3",
+          "question": "Apa yang membuat sebuah kelebihan meyakinkan?",
+          "options": ["Mengulanginya beberapa kali", "Mencantumkannya di CV", "Contoh spesifik beserta hasilnya", "Membuatnya tetap luas"],
+          "answer": 2,
+          "explanation": "Bukti mengubah klaim menjadi fakta, terutama dengan hasil yang terukur."
+        }
+      ]
+    },
+    {
+      "id": "weaknesses",
+      "order": 4,
+      "title": "Kelemahanmu",
+      "minutes": 4,
+      "premium": true,
+      "pages": [
+        {
+          "title": "Kenapa mereka bertanya",
+          "body": "Pewawancara bertanya soal kelemahan untuk menguji kesadaran diri dan kejujuran, bukan untuk menjebakmu. Mereka ingin melihat bahwa kamu tahu di mana kamu bisa berkembang dan aktif memperbaikinya. Jawaban seperti 'Saya perfeksionis' atau 'Saya bekerja terlalu keras' terdengar dihafal dan mengelak, serta mengisyaratkan kamu kurang sadar diri atau tidak jujur.",
+          "tip": "Ingat masukan yang benar-benar pernah kamu terima; itulah sumber terbaik untuk jawaban yang tulus."
+        },
+        {
+          "title": "Pilih kelemahan nyata yang tidak krusial",
+          "body": "Pilih sesuatu yang tulus dan bukan inti dari pekerjaan itu. Seorang software developer bisa menyebut berbicara di depan umum; seorang akuntan sebaiknya tidak menyebut ketelitian. Pilihan yang baik antara lain mendelegasikan tugas, menolak pekerjaan tambahan, presentasi di depan kelompok besar, atau tool tertentu yang belum kamu kuasai. Hindari apa pun yang menimbulkan keraguan soal integritas, keandalan, atau keterampilan inti posisi itu.",
+          "tip": "Cocokkan kelemahan pilihanmu dengan syarat wajib di deskripsi lowongan sebelum memakainya."
+        },
+        {
+          "title": "Tunjukkan perbaikannya",
+          "body": "Bagian terpenting adalah apa yang kamu lakukan untuk mengatasinya. Gunakan tiga langkah: sebutkan kelemahannya, beri contoh singkat bagaimana hal itu memengaruhi pekerjaanmu, lalu jelaskan tindakan konkret dan kemajuannya. 'Dulu saya sering mengambil terlalu banyak pekerjaan. Sekarang saya meninjau beban kerja setiap minggu bersama manajer, dan saya menolak dengan prioritas yang jelas saat ada permintaan baru.'",
+          "tip": "Sebutkan kebiasaan, tool, atau kursus yang spesifik, bukan sekadar 'Saya sedang memperbaikinya'."
+        },
+        {
+          "title": "Singkat dan berorientasi ke depan",
+          "body": "Habiskan sekitar 20% jawabanmu untuk kelemahannya dan 80% untuk perbaikannya. Jangan menjelaskan berlebihan atau meminta maaf, dan jangan menyebut beberapa kelemahan sekaligus. Akhiri dengan kemajuan yang sudah kamu capai agar pewawancara mengingat pertumbuhanmu, bukan masalahnya. Kalau diminta kelemahan kedua, siapkan satu lagi dengan struktur yang sama.",
+          "tip": "Uji jawaban kelemahanmu di simulasi wawancara untuk memastikan terdengar jujur, bukan seperti naskah."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Kenapa 'Saya perfeksionis' biasanya jawaban yang lemah?",
+          "options": ["Terlalu jujur", "Terdengar dihafal dan mengelak", "Terlalu panjang", "Terlalu teknis"],
+          "answer": 1,
+          "explanation": "Kelebihan yang disamarkan sebagai kelemahan mengisyaratkan kurangnya kesadaran diri atau kejujuran."
+        },
+        {
+          "id": "q2",
+          "question": "Kelemahan mana yang berisiko disebut oleh seorang akuntan?",
+          "options": ["Berbicara di depan kelompok besar", "Mendelegasikan pekerjaan", "Ketelitian", "Menolak proyek tambahan"],
+          "answer": 2,
+          "explanation": "Ketelitian adalah keterampilan inti akuntansi, jadi itu kelemahan yang krusial untuk posisi tersebut."
+        },
+        {
+          "id": "q3",
+          "question": "Bagaimana sebaiknya kamu membagi jawabanmu?",
+          "options": ["80% kelemahan, 20% perbaikan", "Setengah kelemahan, setengah perbaikan", "Hanya menjelaskan kelemahannya", "Sekitar 20% kelemahan, 80% perbaikan"],
+          "answer": 3,
+          "explanation": "Fokuskan pada apa yang kamu lakukan untuk mengatasinya agar pewawancara mengingat pertumbuhanmu."
+        }
+      ]
+    },
+    {
+      "id": "star_method",
+      "order": 5,
+      "title": "Metode STAR",
+      "minutes": 4,
+      "premium": true,
+      "pages": [
+        {
+          "title": "Kepanjangan STAR",
+          "body": "STAR adalah struktur untuk pertanyaan perilaku seperti 'Ceritakan saat kamu...'. Kepanjangannya Situation (situasi), Task (tugas), Action (tindakan), dan Result (hasil). Struktur ini menjaga ceritamu tetap fokus dan memastikan kamu menutupnya dengan hasil. Di halaman-halaman ini kita akan membangun satu contoh lengkap untuk menjawab pertanyaan: 'Ceritakan saat kamu menghadapi tenggat yang ketat.'",
+          "tip": "Saat kamu mendengar 'Ceritakan saat kamu...', itulah tanda untuk memakai STAR."
+        },
+        {
+          "title": "Situation dan Task",
+          "body": "Situation menggambarkan latar dalam satu atau dua kalimat: 'Dua minggu sebelum peluncuran untuk klien besar, lead designer kami keluar dari perusahaan.' Task menjelaskan tanggung jawabmu: 'Sebagai project coordinator, saya harus memastikan semua materi peluncuran tetap selesai tepat waktu.' Buat keduanya singkat; bersama-sama porsinya sekitar 20% dari jawabanmu.",
+          "tip": "Buang detail latar yang tidak dibutuhkan pewawancara untuk memahami tantanganmu."
+        },
+        {
+          "title": "Action",
+          "body": "Action adalah inti cerita dan sebaiknya mengambil sekitar 60% jawabanmu. Katakan 'saya', bukan 'kami', agar pewawancara tahu apa yang kamu lakukan. 'Saya memecah sisa pekerjaan menjadi tugas harian, mendatangkan desainer freelance dalam dua hari, dan mengadakan check-in 15 menit setiap pagi untuk menangkap masalah lebih awal. Saya juga menyepakati dengan klien item mana yang bisa dipindah ke fase kedua.'",
+          "tip": "Uraikan tindakanmu sebagai langkah-langkah yang jelas; itu menunjukkan cara berpikir yang terstruktur."
+        },
+        {
+          "title": "Result",
+          "body": "Result menutup cerita dengan hasil yang jelas, idealnya terukur: 'Kami menyelesaikan semua item inti pada tanggal peluncuran, klien memperpanjang kontrak setahun lagi, dan check-in harian menjadi praktik standar di tim kami.' Tambahkan pelajaran yang kamu dapat jika relevan. Result sebaiknya mengambil sekitar 20% jawabanmu; tanpanya, cerita sehebat apa pun terasa belum selesai.",
+          "tip": "Tulis lima cerita STAR sebelumnya dan latih di simulasi wawancara."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Bagian mana dari jawaban STAR yang sebaiknya paling lama?",
+          "options": ["Situation", "Task", "Action", "Result"],
+          "answer": 2,
+          "explanation": "Action sebaiknya sekitar 60% jawaban karena menunjukkan apa yang benar-benar kamu lakukan."
+        },
+        {
+          "id": "q2",
+          "question": "Kenapa kamu sebaiknya berkata 'saya' dan bukan 'kami' di bagian Action?",
+          "options": ["Agar pewawancara tahu apa yang kamu lakukan secara pribadi", "Karena kerja tim tidak penting", "Agar ceritanya lebih singkat", "Karena 'kami' salah secara tata bahasa"],
+          "answer": 0,
+          "explanation": "Pewawancara sedang menilai dirimu, jadi kontribusimu sendiri harus jelas."
+        },
+        {
+          "id": "q3",
+          "question": "Dalam contoh tadi, detail mana yang termasuk Result?",
+          "options": ["Lead designer keluar dari perusahaan", "Desainer freelance didatangkan", "Check-in harian diadakan", "Klien memperpanjang kontrak setahun lagi"],
+          "answer": 3,
+          "explanation": "Perpanjangan kontrak adalah hasilnya; item lainnya adalah situasi atau tindakan."
+        }
+      ]
+    },
+    {
+      "id": "teamwork_examples",
+      "order": 6,
+      "title": "Pertanyaan tentang Kerja Tim dan Konflik",
+      "minutes": 3,
+      "premium": true,
+      "pages": [
+        {
+          "title": "Apa yang mereka cari",
+          "body": "Pertanyaan seperti 'Ceritakan perselisihanmu dengan rekan kerja' atau 'Jelaskan saat kamu bekerja di tim yang sulit' menguji bagaimana kamu bersikap saat keadaan tidak mulus. Pewawancara ingin bukti bahwa kamu tetap profesional, mau mendengarkan, fokus pada tujuan bersama, dan bisa mencapai solusi tanpa membawa setiap masalah ke manajer.",
+          "tip": "Siapkan setidaknya satu cerita konflik dan satu cerita tim yang sukses sebelum wawancara apa pun."
+        },
+        {
+          "title": "Pilih cerita yang tepat",
+          "body": "Pilih perselisihan nyata terkait pekerjaan tentang prioritas, metode, atau tenggat, bukan permusuhan pribadi. Konfliknya harus cukup berarti agar menarik dan diselesaikan secara konstruktif. Hindari cerita di mana kamu sepenuhnya benar dan orang lain sepenuhnya salah; cerita seperti itu membuatmu terlihat kaku. Cerita terbaik menunjukkan bahwa kamu memahami sudut pandang pihak lain.",
+          "tip": "Pilih cerita di mana hubungan kerja akhirnya jadi lebih baik, bukan lebih buruk."
+        },
+        {
+          "title": "Ceritakan dengan STAR",
+          "body": "Gunakan STAR dan tekankan tindakanmu. 'Saya dan seorang rekan tidak sepakat apakah rilis perlu ditunda untuk pengujian tambahan. Saya meminta rapat singkat, mendengarkan kekhawatirannya soal kualitas, dan membagikan data saya tentang dampak ke pelanggan. Kami sepakat merilis fitur yang stabil tepat waktu dan menunda satu fitur berisiko selama seminggu.' Lalu sampaikan hasilnya.",
+          "tip": "Gambarkan posisi pihak lain secara adil; itu membuat tindakanmu sendiri lebih kredibel."
+        },
+        {
+          "title": "Hindari jebakan umum",
+          "body": "Jangan pernah bilang kamu tidak pernah mengalami konflik; itu terdengar tidak realistis atau mengisyaratkan kamu menghindari masalah. Jangan mengkritik mantan rekan kerja atau membuka detail rahasia. Jangan membuat cerita hanya tentang masalahnya; habiskan sebagian besar waktu untuk bagaimana masalah itu diselesaikan. Akhiri dengan hasil atau pelajaran positif, seperti hubungan kerja yang lebih baik atau proses baru.",
+          "tip": "Jangan sebut nama; 'seorang rekan di bagian keuangan' sudah cukup detail."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Cerita mana yang paling cocok untuk pertanyaan tentang konflik?",
+          "options": ["Permusuhan pribadi dengan tetangga", "Saat kamu sepenuhnya benar dan orang lain salah", "Perselisihan kerja soal prioritas yang kamu selesaikan secara konstruktif", "Konflik yang kamu laporkan tanpa mencoba menyelesaikannya"],
+          "answer": 2,
+          "explanation": "Perselisihan kerja nyata dengan penyelesaian konstruktif menunjukkan kedewasaan dan fleksibilitas."
+        },
+        {
+          "id": "q2",
+          "question": "Kenapa 'Saya tidak pernah mengalami konflik' adalah jawaban yang buruk?",
+          "options": ["Terdengar tidak realistis atau mengisyaratkan kamu menghindari masalah", "Terlalu panjang", "Membuka detail rahasia", "Mengkritik rekan kerja"],
+          "answer": 0,
+          "explanation": "Semua orang pernah berselisih di tempat kerja; pewawancara ingin melihat cara kamu menanganinya."
+        },
+        {
+          "id": "q3",
+          "question": "Dalam contoh rilis tadi, apa yang menunjukkan pendekatan konstruktif?",
+          "options": ["Menolak menunda apa pun", "Meminta manajer memutuskan", "Merilis semuanya terlambat", "Mendengarkan kekhawatiran dan menyepakati kompromi"],
+          "answer": 3,
+          "explanation": "Mendengarkan, membagikan data, dan mencari jalan tengah menyelesaikan konflik tanpa eskalasi."
+        }
+      ]
+    },
+    {
+      "id": "salary_negotiation",
+      "order": 7,
+      "title": "Ekspektasi Gaji dan Negosiasi",
+      "minutes": 4,
+      "premium": true,
+      "pages": [
+        {
+          "title": "Riset nilai pasarmu",
+          "body": "Sebelum wawancara apa pun, ketahui kisaran gaji umum untuk posisi, level, dan lokasinya. Gunakan survei gaji, lowongan yang mencantumkan gaji, asosiasi profesi, dan obrolan dengan orang di posisi serupa. Kumpulkan beberapa sumber dan catat titik rendah, tengah, dan tingginya. Pertimbangkan paket lengkapnya, termasuk bonus, iuran pensiun, cuti, dan anggaran pengembangan diri, bukan hanya gaji pokok.",
+          "tip": "Gunakan setidaknya tiga sumber independen; satu angka saja bisa menyesatkan."
+        },
+        {
+          "title": "Tentukan kisaranmu",
+          "body": "Tetapkan tiga angka sebelum ada yang bertanya: batas minimummu (angka terendah yang mau kamu terima), targetmu, dan angka tertinggi yang ambisius tapi bisa dipertanggungjawabkan. Sampaikan kisaran yang batas bawahnya dekat dengan targetmu, bukan dengan minimummu, karena tawaran cenderung jatuh di ujung bawah. Jaga kisarannya cukup sempit, sekitar 10–20%, agar terdengar berdasarkan riset.",
+          "tip": "Jangan pernah membuka batas minimummu; angka itu untuk keputusanmu, bukan untuk percakapan."
+        },
+        {
+          "title": "Menjawab 'Berapa ekspektasi gajimu?'",
+          "body": "Kalau ditanya di awal, kamu bisa mengalihkannya dengan sopan: 'Saya ingin tahu lebih banyak tentang tanggung jawabnya dulu. Boleh saya tahu kisaran anggaran untuk posisi ini?' Kalau terus didesak, sampaikan kisaran hasil risetmu dengan percaya diri: 'Berdasarkan riset saya untuk posisi serupa, saya mengharapkan 55.000 hingga 62.000.' Angka kredibel pertama menjadi jangkar diskusi, jadi pastikan angkamu punya dasar kuat. Jangan membenarkannya dengan pengeluaran pribadi.",
+          "tip": "Sebutkan kisaranmu sekali dengan jelas, lalu berhenti bicara dan biarkan mereka merespons."
+        },
+        {
+          "title": "Menegosiasikan tawaran",
+          "body": "Saat tawaran datang, ucapkan terima kasih dan minta waktu satu atau dua hari untuk meninjaunya. Kalau di bawah targetmu, tanggapi dengan antusias plus tawaran balik yang spesifik: 'Saya sangat antusias dengan posisi ini. Mengingat pengalaman saya memimpin proyek serupa, apakah kita bisa mendekati 60.000?' Kalau gaji pokok sudah tetap, negosiasikan hal lain: tanggal mulai, bonus, cuti tambahan, atau pelatihan.",
+          "tip": "Latih tawaran balikmu dengan suara keras di simulasi wawancara sebelum panggilan yang sebenarnya."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Di mana sebaiknya batas bawah kisaran yang kamu sampaikan?",
+          "options": ["Di batas minimummu", "Dekat dengan angka targetmu", "Di bawah minimummu agar terlihat fleksibel", "Di gaji tertinggi yang kamu temukan"],
+          "answer": 1,
+          "explanation": "Tawaran sering jatuh di dekat batas bawah kisaranmu, jadi batas itu harus dekat dengan targetmu."
+        },
+        {
+          "id": "q2",
+          "question": "Kenapa angka kredibel pertama begitu penting?",
+          "options": ["Mengikat secara hukum", "Pemberi kerja selalu menerimanya", "Mengakhiri negosiasi", "Menjadi jangkar untuk sisa diskusi"],
+          "answer": 3,
+          "explanation": "Tawaran dan tawaran balik berikutnya cenderung bergerak di sekitar angka pertama yang punya dasar kuat."
+        },
+        {
+          "id": "q3",
+          "question": "Kalau gaji pokok sudah tetap, apa yang masih bisa kamu negosiasikan?",
+          "options": ["Tidak ada lagi", "Hanya jabatanmu", "Tanggal mulai, bonus, cuti tambahan, atau pelatihan", "Jadwal pewawancara"],
+          "answer": 2,
+          "explanation": "Paket lengkap terdiri dari beberapa bagian, dan banyak yang bisa disesuaikan meski gaji pokok tidak bisa."
+        }
+      ]
+    }
+  ]
+}

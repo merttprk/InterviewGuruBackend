@@ -1,0 +1,322 @@
+{
+  "id": "communication_body_language",
+  "order": 4,
+  "icon": "communication",
+  "color": "#10B981",
+  "title": "İletişim ve Beden Dili",
+  "summary": "Sözlerinin, sesinin ve bedeninin birlikte nasıl çalıştığını öğren; görüşmeciler ne kadar gergin göründüğünü değil, ne söylediğini hatırlasın.",
+  "topics": [
+    {
+      "id": "speaking_techniques",
+      "order": 1,
+      "title": "Net ve Öz Konuşmak",
+      "minutes": 3,
+      "premium": false,
+      "pages": [
+        {
+          "title": "Cevapla başla",
+          "body": "Görüşmeciler en iyi ilk cümleyi hatırlar; bu yüzden ana fikrini oraya koy. Bu pozisyonu neden istediğin sorulduğunda “Çünkü veri analizini müşteri çalışmasıyla birleştiriyor ve en çok keyif aldığım şey bu” diye başla, ardından destekleyici detayları ekle. Arka planla başlayıp yavaş yavaş asıl konuya gelmek, dinleyiciyi yorar ve çoğu zaman sen sadede gelmeden ilgisini kaybetmesine yol açar.",
+          "tip": "Her cevaptan önce, akıllarında kalmasını istediğin tek noktayı içinden söyle."
+        },
+        {
+          "title": "Basit bir yapı kullan",
+          "body": "Yapı, seni takip etmeyi kolaylaştırır. Deneyim sorularında durum, eylem, sonuç sırasını kullan. Görüş sorularında ise ana fikir, gerekçe, örnek ve yeniden ana fikir sırasını izle. İlerlerken yol göster: “İki sebebi var. Birincisi… İkincisi…” Fikirlerini numaralandırmak, görüşmeciye ne kadar konuşacağını gösterir ve heyecanlandığında rotadan çıkmamanı sağlar.",
+          "tip": "“Üç sebep” dediysen üçünü de sayabileceğinden emin ol."
+        },
+        {
+          "title": "Dolgu kelimelerini at",
+          "body": "“Yani”, “şey”, “işte” ve “aslında” gibi kelimeler güçlü içeriği sulandırır. Bunların yerine kısa bir duraklama kullan; sessizlik, dolgu kelimelerinden daha özgüvenli duyulur. Görüşmecinin bilmeyebileceği şirket içi jargon ve kısaltmalardan kaçın; bir sistemin kod adı yerine “müşteri veritabanımız” de. Sade ve net kelimeler, başarılarını daha az etkileyici değil, daha inandırıcı kılar.",
+          "tip": "Bir deneme mülakatında tek bir cevabını kaydet ve dolgu kelimelerini say."
+        },
+        {
+          "title": "Ne zaman duracağını bil",
+          "body": "Çoğu cevap bir ila iki dakikada en iyi sonucu verir. Uzun cevaplar en güçlü noktanı gölgeler ve diğer sorulara kalan zamanı yer. Pozisyonla bağlantı kuran net bir kapanış cümlesiyle bitir, sonra sus. Yeterince anlatıp anlatmadığından emin değilsen sor: “Herhangi bir kısmı daha ayrıntılı anlatmamı ister misiniz?”",
+          "tip": "Bitirdikten sonra cevabına yeniden başlama; özgüvenli bir duruş, gergin bir eklemeden iyidir."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Ana fikrin cevabında genellikle nerede yer almalı?",
+          "options": ["En sonda, sonuç olarak", "İlk cümlede", "Yalnızca görüşmeci isterse", "Ortada, arka plan detaylarından sonra"],
+          "answer": 1,
+          "explanation": "Cevapla başlamak, anlattığını takip etmeyi kolaylaştırır ve akılda kalmasını sağlar."
+        },
+        {
+          "id": "q2",
+          "question": "“Aslında” gibi dolgu kelimelerinin yerine ne kullanmak daha iyidir?",
+          "options": ["Daha hızlı konuşmak", "Teknik jargon eklemek", "Kısa bir duraklama", "Soruyu tekrar etmek"],
+          "answer": 2,
+          "explanation": "Kısa bir sessizlik, dolgu kelimelerinden daha özgüvenli duyulur."
+        },
+        {
+          "id": "q3",
+          "question": "Mülakat cevaplarının çoğu ne kadar sürmeli?",
+          "options": ["Yaklaşık bir ila iki dakika", "On saniyeden az", "Beş dakika ya da daha fazla", "Her detaya değinecek kadar uzun"],
+          "answer": 0,
+          "explanation": "Bir ila iki dakika, en güçlü noktanı görünür tutar ve başka sorulara zaman bırakır."
+        }
+      ]
+    },
+    {
+      "id": "active_listening",
+      "order": 2,
+      "title": "Aktif Dinleme",
+      "minutes": 3,
+      "premium": false,
+      "pages": [
+        {
+          "title": "Dinlemek, fark edilen bir beceridir",
+          "body": "Görüşmeciler nasıl dinlediğini en az nasıl konuştuğun kadar değerlendirir; çünkü bu, iş arkadaşların ve müşterilerle nasıl çalışacağına dair ipucu verir. Pek çok zayıf cevap, adayın gerçekten sorulan soruya değil, beklediği soruya cevap vermesinden kaynaklanır. Görüşmeciye tüm dikkatini ver, o hâlâ konuşurken cevabını planlamaktan kaçın ve sözünü tamamen bitirmesine izin ver.",
+          "tip": "Sorunun nereye gittiğini tahmin etsen bile asla sözünü kesme."
+        },
+        {
+          "title": "Dinlediğini göster",
+          "body": "Dikkatini küçük ve doğal işaretlerle belli et: Arada bir başını salla, yüz ifadeni ilgili tut ve “Anlıyorum” ya da “Çok mantıklı” gibi kısa onaylar kullan. Görüşmeci pozisyonu ya da ekibi anlatırken hafifçe öne eğil. Videoda bu işaretlerin biraz daha belirgin olması gerekir; çünkü küçük bir ekranda ince hareketler kolayca gözden kaçar.",
+          "tip": "Göz atma isteğine kapılmamak için telefonunu görünmeyecek bir yerde tut."
+        },
+        {
+          "title": "Cevaplamadan önce netleştir",
+          "body": "Bir soru geniş ya da belirsizse kısa, netleştirici bir soru sor: “Bir yöneticiyle mi, yoksa bir ekip arkadaşıyla yaşanan bir çatışmayı mı kastediyorsunuz?” Karmaşık soruları kendi cümlelerinle yeniden ifade etmek de sana düşünmek için birkaç saniye kazandırır: “Yani iki teslim tarihi çakıştığında nasıl önceliklendirme yaptığımı merak ediyorsunuz, değil mi?” Netleştirmek özen ve titizlik gösterir; tahmin yürütmek ise yanlış soruya uzun bir cevap verme riski taşır.",
+          "tip": "Bir netleştirici soru akıllıcadır; her soruda bunu yapmak ise zaman kazanmaya çalışıyormuşsun gibi görünür."
+        },
+        {
+          "title": "Duyduklarını kullan",
+          "body": "En iyi adaylar görüşmecinin sözlerini sonraki cevaplarına ustaca yerleştirir. Ekibin hızla büyüdüğünden bahsederlerse deneyimini büyümeyle ilişkilendir: “Hızlı işe alımlardan bahsettiniz; son işimde altı yeni çalışanın işe uyum sürecini yürüttüm.” Sonunda sorularını sorarken onların söylediği belirli bir şeye atıfta bulun. Bu, dinlediğini kanıtlar ve sohbetin karşılıklı olduğunu hissettirir.",
+          "tip": "Görüşmecinin pozisyonla ilgili kullandığı bir iki önemli ifadeyi not al."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Dinlemeyle ilgili zayıf cevapların yaygın bir sebebi nedir?",
+          "options": ["Çok sık baş sallamak", "Kısa notlar almak", "Sonraki adımları sormak", "Sorulan soru yerine beklediğin soruya cevap vermek"],
+          "answer": 3,
+          "explanation": "Adaylar çoğu zaman gerçek soruyu dinlemek yerine varsaydıkları bir soruya cevap verir."
+        },
+        {
+          "id": "q2",
+          "question": "Bir soru geniş ya da belirsizse ne yapmalısın?",
+          "options": ["Kısa, netleştirici bir soru sormalısın", "Tahmin edip uzun bir cevap vermelisin", "Geçip devam etmelisin", "Görüşmeciden soruyu üç kez tekrarlamasını istemelisin"],
+          "answer": 0,
+          "explanation": "Hızlı bir netleştirme, doğru soruya cevap vermeni sağlar."
+        },
+        {
+          "id": "q3",
+          "question": "Mülakat boyunca dinlediğini nasıl gösterebilirsin?",
+          "options": ["CV'ni kelimesi kelimesine tekrar ederek", "Görüşmecinin söylediği belirli şeylere geri dönerek", "Görüşmeciden daha fazla konuşarak", "Her söylenene katılarak"],
+          "answer": 1,
+          "explanation": "Görüşmecinin kendi söylediklerini cevaplarına yerleştirmek, aktif dinlediğini kanıtlar."
+        }
+      ]
+    },
+    {
+      "id": "eye_contact",
+      "order": 3,
+      "title": "Göz Teması",
+      "minutes": 3,
+      "premium": true,
+      "pages": [
+        {
+          "title": "Göz teması neden önemli?",
+          "body": "Sabit bir göz teması özgüven, dürüstlük ve ilgi sinyali verir. Çok az göz teması seni gergin ya da kaçamak gösterebilir; sürekli dik dik bakmak ise rahatsız edici gelir. Dinlerken zamanın büyük kısmında, konuşurken ise biraz daha az göz teması kurmayı hedefle; düşünmek için kısa süreliğine başka yere bakmak doğaldır. Beklentiler kültürden kültüre değişir, bu yüzden görüşmecinin tarzına nazikçe uyum sağla.",
+          "tip": "Katı bir kurala uymaya zorlamak yerine görüşmecinin göz teması düzeyine ayak uydur."
+        },
+        {
+          "title": "Birkaç saniye kuralı",
+          "body": "Göz temasını her seferinde yaklaşık üç ila beş saniye sürdür, ardından geri dönmeden önce kısa bir an yana ya da aşağıya, notlarına bak. Bu ritim doğal hissettirir ve dik dik bakmanı önler. Doğrudan göz teması seni rahatsız ediyorsa iki göz arasındaki bölgeye ya da burun köküne bak; normal bir mesafeden aynı görünür.",
+          "tip": "Mülakattan önceki hafta bu ritmi günlük sohbetlerinde dene."
+        },
+        {
+          "title": "Paneller ve gruplar",
+          "body": "Birden fazla görüşmeci varsa, özellikle cevabının başında ve sonunda ağırlıklı olarak soruyu soran kişiye bak. Ortada ise bakışlarını diğer panel üyelerine çevirerek onları da dahil et. Sessiz kalan panel üyelerini göz ardı etmek yaygın bir hatadır; karar üzerinde güçlü bir söz hakları olabilir. Bitirirken yeniden soruyu sorana dön.",
+          "tip": "Her cevabını soruyu soran kişiye bakarak bitir."
+        },
+        {
+          "title": "Videoda göz teması",
+          "body": "Videoda ekrandaki görüşmecinin yüzüne bakmak, aşağıya ya da yana bakıyormuşsun gibi görünmene neden olur. Göz teması kurmak için konuşurken, özellikle önemli noktalarda kamera merceğine bak. Tepkileri okuyabilmek için dinlerken ekrana göz at. Görüntü penceresini kameranın hemen altına yerleştirmek, ikisi arasındaki farkı azaltır.",
+          "tip": "Hatırlatıcı olarak merceğin yanına küçük bir yapışkan not koy."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Kısa bir an başka yere bakmadan önce göz temasını genellikle ne kadar sürdürmelisin?",
+          "options": ["Bir saniyeden az", "Yaklaşık üç ila beş saniye", "Hiç ara vermeden tüm cevap boyunca", "Yaklaşık otuz saniye"],
+          "answer": 1,
+          "explanation": "Üç ila beş saniyelik bir ritim doğal hissettirir ve dik dik bakmanı önler."
+        },
+        {
+          "id": "q2",
+          "question": "Panel mülakatında cevabının sonunda nereye bakmalısın?",
+          "options": ["En kıdemli kişiye", "Notlarına", "Tavana", "Soruyu soran kişiye"],
+          "answer": 3,
+          "explanation": "Soruyu sorana bakarak başla ve bitir, ortada diğerlerini de dahil et."
+        },
+        {
+          "id": "q3",
+          "question": "Video mülakatta göz temasını nasıl kurarsın?",
+          "options": ["Ekrandaki görüşmecinin yüzüne bakarak", "Kendi görüntü önizlemene bakarak", "Konuşurken kamera merceğine bakarak", "Odaklanmak için gözlerini kapatarak"],
+          "answer": 2,
+          "explanation": "Görüşmeci bakışını merceğe baktığında seninle göz göze gelmiş gibi algılar."
+        }
+      ]
+    },
+    {
+      "id": "gestures",
+      "order": 4,
+      "title": "Jestler ve Eller",
+      "minutes": 3,
+      "premium": true,
+      "pages": [
+        {
+          "title": "Eller düşünmene yardım eder",
+          "body": "Doğal jestler rahat görünmeni sağlar ve kelimeleri bulmana yardımcı olur; bu yüzden ellerini dondurma. Konuşma üzerine yapılan araştırmalar, jest yapmanın akıcılığı desteklediğini gösteriyor. Amaç kontrollü ve amaca yönelik hareketlerdir: Bir noktayı vurgulayan ya da büyüklüğü, sırayı veya karşıtlığı gösteren jestler. Rastgele, tekrarlayan hareketler görüşmecinin dikkatini söylediklerinden uzaklaştırır ve gerginlik sinyali verir.",
+          "tip": "Konuşurken ellerinin hareket etmesine izin ver, sonra onları dinlenme pozisyonuna geri getir."
+        },
+        {
+          "title": "Jest alanı",
+          "body": "Jestlerinin çoğunu göğsünle belin arasındaki, yaklaşık vücut genişliğindeki alanda tut. Bu alandaki hareketler sakin ve özgüvenli görünür. Omuz hizasının üstündeki çok büyük jestler küçük bir odada abartılı görünebilir. Hafifçe yukarı bakan açık avuçlar dürüstlük ve açıklık sinyali verirken, görüşmeciyi parmakla işaret etmek saldırgan algılanabilir.",
+          "tip": "Videoda jestlerini kamera kadrajında kalacak şekilde biraz daha yukarıda tut."
+        },
+        {
+          "title": "Kaçınılması gereken alışkanlıklar",
+          "body": "Gergin alışkanlıklar dikkati çalar: kalemle masaya vurmak, kalemin ucunu çıt çıt açıp kapamak, yüzüne ya da saçına dokunmak, takılarınla oynamak veya kollarını sıkıca kavuşturmak. Sadece üşüdüğün için bile olsa kavuşturulmuş kollar savunmacı bir tavır gibi okunabilir. İhtiyacın olmayan bir kalemi elinde tutmak kıpırdanmaya davetiye çıkarır. Ellerini tamamen masanın altına saklamak da seni kapalı ya da rahatsız gösterebilir.",
+          "tip": "Kıpır kıpır bir yapın varsa kullanmayacağın hiçbir şeyi elinde tutma."
+        },
+        {
+          "title": "Sakin bir dinlenme pozisyonu",
+          "body": "Jest yapmadığında ellerini masanın üzerinde ya da kucağında, parmakların hafifçe birbirine değecek şekilde rahatça tut. Bu nötr başlangıç noktası, yaptığın her jesti daha anlamlı kılar. Alışılmış bir uygulamaysa başta ve sonda sıkı ve kısa bir tokalaşma yap; selamlaşma biçimlerinin farklı olduğu durumlarda görüşmecinin yönlendirmesini takip et. Ellerini kuru ve rahat tut.",
+          "tip": "El alışkanlıklarını görmek için bir deneme mülakatı kaydını izle."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Ellerini tamamen dondurmaktan neden kaçınmalısın?",
+          "options": ["Görüşmeciler jest yapmanı şart koşar", "Doğal jestler akıcı konuşmana ve rahat görünmene yardımcı olur", "Her yerde kaba kabul edilir", "Cevapları kısaltır"],
+          "answer": 1,
+          "explanation": "Kontrollü, doğal jestler konuşmayı destekler ve özgüvenli görünür."
+        },
+        {
+          "id": "q2",
+          "question": "Jestlerinin çoğu nerede kalmalı?",
+          "options": ["Başının üstünde", "Masanın altında, görünmeyecek bir yerde", "Göğüsle bel arasında, yaklaşık vücut genişliğinde", "Görüşmeciye doğru yönelmiş şekilde"],
+          "answer": 2,
+          "explanation": "Göğüsten bele kadar olan alan sakin ve kontrollü görünür."
+        },
+        {
+          "id": "q3",
+          "question": "Görüşmecinin dikkatini dağıtan gergin bir alışkanlık hangisidir?",
+          "options": ["Kalemi çıt çıt açıp kapamak", "Ellerini masanın üzerinde dinlendirmek", "Açık avuçlar kullanmak", "Sırayı parmaklarla göstermek"],
+          "answer": 0,
+          "explanation": "Kalemle oynamak gibi tekrarlayan hareketler dikkati cevabından uzaklaştırır."
+        }
+      ]
+    },
+    {
+      "id": "posture_tips",
+      "order": 5,
+      "title": "Özgüvenli Duruş",
+      "minutes": 3,
+      "premium": true,
+      "pages": [
+        {
+          "title": "Önce duruşun konuşur",
+          "body": "Daha tek kelime etmeden duruşun görüşmeciye nasıl hissettiğini anlatır. Kamburlaşmak düşük enerji ya da ilgisizlik izlenimi verir; kaskatı dik oturmak ise kaygıyı ele verir. Rahat ve dikkatli görünmeyi hedefle: sırtın sandalyenin arkalığına dayalı ya da ona yakın, omuzların aşağıda ve açık, ayakların yere düz basıyor olsun. İyi bir duruş doğru nefes almana da yardımcı olur, bu da sesini dengeler.",
+          "tip": "İçeri girmeden önce omuzlarını bir kez geriye ve aşağıya doğru çevir."
+        },
+        {
+          "title": "Doğru oturmak",
+          "body": "Sandalyenin arka kısmına otur ve üst bedenini hafifçe öne doğru eğ; bu, ısrarcı görünmeden ilgili olduğunu gösterir. Fazla laubali görünebileceği için çok geriye yaslanmaktan, gergin görüneceği için de sandalyenin ucuna ilişmekten kaçın. Bacaklarını sabit tut; ayak bileklerini çaprazlamak da ayaklarını yere düz basmak da uygundur. Eşyalarını görüşmecinin masasına yayma.",
+          "tip": "Görüşmeci pozisyondan bahsederken hafifçe öne eğil."
+        },
+        {
+          "title": "İçeri girerken ve beklerken",
+          "body": "Değerlendirme çoğu zaman resepsiyon alanında başlar. Beklerken dik otur ve başın önde telefonda gezinmekten kaçın; her an karşılanabilirsin. Adın söylendiğinde ayağa kalk, gülümse ve sakin bir tempoyla yürü. Olası bir tokalaşma için sağ elin boşta kalsın diye çantanı sol elinde taşı.",
+          "tip": "Resepsiyon görevlileri dahil karşılaştığın herkesi mülakatın bir parçası olarak gör."
+        },
+        {
+          "title": "Videoda duruş",
+          "body": "Kamerada kendini göğsünün ortasından yukarısı görünecek ve başının üstünde biraz boşluk kalacak şekilde kadrajla. İçine gömülmemek için kanepe ya da yatak yerine sağlam bir sandalyede otur. Aşağıya bakmamak için ekranını göz hizasında tut. Döner ofis sandalyelerinde sağa sola dönmekten ya da sallanmaktan kaçın; bu hareket kamerada abartılı görünür ve izleyenin dikkatini dağıtır.",
+          "tip": "Görüşmeye katılmadan önce döner sandalyenin yüksekliğini sabitle ve iki ayağını da yere bas."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Otururken rahat ama ilgili olduğunu en iyi hangi duruş gösterir?",
+          "options": ["Bacakları uzatıp çok geriye yaslanmak", "Sandalyenin ucuna ilişmek", "Sandalyenin arkasına oturup hafifçe öne eğilmek", "Başını eline dayamak"],
+          "answer": 2,
+          "explanation": "Hafifçe öne eğilmek, rahatlığını korurken ilgini gösterir."
+        },
+        {
+          "id": "q2",
+          "question": "Duruş değerlendirmesi çoğu zaman ne zaman başlar?",
+          "options": ["Yalnızca mülakat odasında oturduğunda", "Resepsiyonda beklerken", "İlk sorudan sonra", "Sonda, sen soru sorarken"],
+          "answer": 1,
+          "explanation": "Beklerken gözlemlenebilir ve her an karşılanabilirsin."
+        },
+        {
+          "id": "q3",
+          "question": "Videoda kendini kadrajlamanın iyi bir yolu hangisidir?",
+          "options": ["Göğsün ortasından yukarısı, başının üstünde biraz boşlukla", "Tüm ekranı dolduracak şekilde yalnızca yüz", "Uzaktan tüm vücut", "Çenenin altından yukarı bakan kamera"],
+          "answer": 0,
+          "explanation": "Göz hizasında, göğüs ortasından başlayan bir kadraj doğal ve profesyonel görünür."
+        }
+      ]
+    },
+    {
+      "id": "voice_control",
+      "order": 6,
+      "title": "Ses, Tempo ve Ton",
+      "minutes": 4,
+      "premium": true,
+      "pages": [
+        {
+          "title": "Tempo: sandığından daha yavaş",
+          "body": "Heyecan çoğu insanı hızlandırır; hızlı konuşmak ise kaygılı duyulur ve takip etmesi zordur. Rahat, sohbet havasında bir tempo hedefle ve rakamlar, isimler ve önemli sonuçlar söz konusu olduğunda bilinçli olarak yavaşla. Önemli bir noktadan sonra duraklamak ona ağırlık katar. Acele ettiğini fark edersen cümleni bitir, bir nefes al ve biraz daha yavaş devam et.",
+          "tip": "Her cevaba başlamadan önce bir kez yavaşça nefes al."
+        },
+        {
+          "title": "Ses yüksekliği ve anlaşılırlık",
+          "body": "Kendini zorlamadan, masanın karşı tarafından rahatça duyulacak kadar yüksek sesle konuş. Kısık bir ses, özellikle büyük odalarda ya da panel ortamlarında özgüven eksikliği olarak algılanabilir. Ağzını tam aç ve sesini alçaltıp kaybetmek yerine kelimelerinin ve cümlelerinin sonunu net şekilde tamamla. Videoda görüşmeden önce mikrofon seviyeni test et.",
+          "tip": "Uzaktan yapılan her mülakatın başında “Sesim net geliyor mu?” diye sor."
+        },
+        {
+          "title": "Ton ve enerji",
+          "body": "Düz ve monoton bir anlatım, en güçlü başarıları bile sıkıcı gösterir. Ses tonunu doğal şekilde değiştir ve keyif aldığın işlerden bahsederken içten gelen heyecanının görünmesine izin ver. Konuşurken gülümsemek, telefonda bile tonunu sıcaklaştırır. Cümlelerini soru sorar gibi yükselen bir tonla bitirmekten kaçın; bu, özgüvenli iddiaları belirsiz gösterebilir.",
+          "tip": "En önemli başarını, sonunda sesin alçalacak şekilde bir tespit gibi söyle."
+        },
+        {
+          "title": "Sesindeki heyecanı yönetmek",
+          "body": "Kaygı boğazı sıkar ve nefesi yüzeyselleştirir; bu yüzden sesin titreyebilir ya da incelebilir. Mülakattan önce birkaç dakika mırıldanarak ya da sesli okuyarak ısın. Göğsünden değil, karnından yavaş nefes al. Yanında su bulundur ve doğal bir duraklama yaratmak için bir yudum iç. Cevaplarını sesli olarak prova etmek, içinden okumanın sağlayamayacağı bir kontrol kazandırır.",
+          "tip": "Cevaplarını sesli olarak prova etmek için deneme mülakatı özelliğini kullan, sonra kaydı dinleyip temponu kontrol et."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Ne zaman bilinçli olarak yavaşlamalısın?",
+          "options": ["Rakamları, isimleri ve önemli sonuçları aktarırken", "Yalnızca sohbet havasındaki konuşmalarda", "Asla; hızlı konuşmak daha enerjik duyulur", "Son soruyu cevaplarken"],
+          "answer": 0,
+          "explanation": "Önemli detaylarda yavaşlamak, akılda kalmalarını sağlar."
+        },
+        {
+          "id": "q2",
+          "question": "Cümle sonlarında yükselen bir tonun nasıl bir etkisi olabilir?",
+          "options": ["Daha otoriter duyulmanı sağlar", "Özgüvenli iddiaları belirsiz gösterir", "Mülakatı hızlandırır", "Dinleyenler üzerinde hiçbir etkisi yoktur"],
+          "answer": 1,
+          "explanation": "Yükselen tonlama, tespitleri soru gibi duyurur."
+        },
+        {
+          "id": "q3",
+          "question": "Mülakattan önce titreyen bir sesi sakinleştirmenin iyi bir yolu hangisidir?",
+          "options": ["Birkaç kahve içmek", "Cevaplarını yalnızca içinden okumak", "Mırıldanmak ya da sesli okumak ve karından nefes almak", "Olabildiğince kısık sesle konuşmak"],
+          "answer": 2,
+          "explanation": "Ses ısınma egzersizleri ve yavaş karın nefesi, sesteki gerginliği azaltır."
+        }
+      ]
+    }
+  ]
+}

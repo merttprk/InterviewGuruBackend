@@ -1,0 +1,322 @@
+{
+  "id": "interview_types",
+  "order": 1,
+  "icon": "interview",
+  "color": "#4F46E5",
+  "title": "Mülakat Türleri",
+  "summary": "Kısa telefon görüşmelerinden panel mülakatlarına kadar her formatta seni neyin beklediğini öğren.",
+  "topics": [
+    {
+      "id": "phone_interview",
+      "order": 1,
+      "title": "Telefon Mülakatı",
+      "minutes": 3,
+      "premium": false,
+      "pages": [
+        {
+          "title": "Telefon görüşmesi ne işe yarar?",
+          "body": "Telefon mülakatı genellikle ilk elemedir. Bir işe alım uzmanı ya da yönetici 15–30 dakika içinde üç şeye bakar: Deneyimin pozisyonla örtüşüyor mu, maaş ve lokasyon beklentilerin gerçekçi mi, kendini net ifade edebiliyor musun? Nadiren derine iner; asıl amacı kimin bir sonraki aşamaya geçeceğine karar vermektir.",
+          "tip": "Bunu gerçek bir mülakat gibi ciddiye al. Pek çok aday rahat davrandığı için süreci tam bu aşamada kaybeder."
+        },
+        {
+          "title": "Ortamını hazırla",
+          "body": "Sessiz bir oda seç, görüşmeden önce telefonunu şarj et ve çekim gücünü kontrol et. CV'n, iş ilanı ve başarılarının kısa bir listesi önünde dursun; karşı taraf notlarını göremez, o yüzden bunlardan faydalan. Yanında su bulundur ve bilgisayarındaki bildirimleri kapat.",
+          "tip": "Konuşurken ayağa kalk ya da dik otur; sesin daha enerjik çıkar."
+        },
+        {
+          "title": "Sesin, beden dilindir",
+          "body": "Görsel ipuçları olmadığında mesajını ses tonun ve konuşma hızın taşır. Konuşurken gülümse; bu sesine yansır. Sessizliği “ııı” diye doldurmak yerine cevap vermeden önce kısa bir an dur. Cevaplarını yaklaşık 60–90 saniyede tut ve karşı tarafı yokla: “Bu proje hakkında biraz daha detay vermemi ister misiniz?”",
+          "tip": "Telefonunla bir soruya verdiğin cevabı kaydet ve bir kez dinle."
+        },
+        {
+          "title": "Görüşmeyi iyi kapat",
+          "body": "Sona doğru pozisyon ve sonraki adımlarla ilgili bir iki soru sor: “Sürecin geri kalanı nasıl ilerleyecek?” Görüşmeciye adıyla teşekkür et. Birkaç saat içinde ilgini yineleyen ve pozisyona neden uygun olduğunu tek bir gerekçeyle hatırlatan kısa bir e-posta gönder.",
+          "tip": "Görüşme sırasında görüşmecinin adını ve önemli noktaları not al."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Telefon görüşmesinin temel amacı nedir?",
+          "options": ["Nihai maaşı pazarlık etmek", "Adayları temel uygunluk ve iletişim becerisine göre elemek", "İleri düzey teknik becerileri test etmek", "Tüm ekiple tanışmak"],
+          "answer": 1,
+          "explanation": "Telefon görüşmeleri ilk elemedir: temel uygunluk, beklentiler ve iletişim becerisi."
+        },
+        {
+          "id": "q2",
+          "question": "Telefon mülakatının gerçek bir avantajı hangisidir?",
+          "options": ["Notlarını önünde tutabilirsin", "Hazırlık yapmana gerek kalmaz", "Beden dili hiç önemli değildir", "Dışarıda yürürken cevap verebilirsin"],
+          "answer": 0,
+          "explanation": "Görüşmeci seni göremez; bu yüzden CV'n ve notların hemen önünde durabilir."
+        },
+        {
+          "id": "q3",
+          "question": "Telefonda tipik bir cevap ne kadar sürmeli?",
+          "options": ["10 saniye", "Yaklaşık 60–90 saniye", "En az 5 dakika", "Olabildiğince uzun"],
+          "answer": 1,
+          "explanation": "Kısa ve yapılandırılmış cevaplar dinleyicinin ilgisini canlı tutar; isterse daha fazla detay vermeyi teklif et."
+        }
+      ]
+    },
+    {
+      "id": "video_interview",
+      "order": 2,
+      "title": "Video Mülakat",
+      "minutes": 3,
+      "premium": false,
+      "pages": [
+        {
+          "title": "İki tür video mülakat",
+          "body": "Canlı video mülakatlar Zoom, Teams ya da Google Meet üzerinden gerçek bir kişiyle yapılır. Tek yönlü (kayıtlı) mülakatlarda ise sana bir soru gösterilir ve cevabını kaydetmen için belirli bir süre verilir; genellikle tek bir tekrar hakkın olur ya da hiç olmaz. İkisi de yüz yüze mülakat gibi değerlendirilir, ama teknik sorunlar senin sorumluluğundadır.",
+          "tip": "Hangi platformun kullanılacağını sor ve bir gün önceden kur."
+        },
+        {
+          "title": "Kamera, ışık ve ses",
+          "body": "Kamerayı göz hizasına yerleştir; gerekirse laptopun altına birkaç kitap koy. Işık arkandan değil, yüzüne gelsin; pencereye ya da bir lambaya dönük otur. Yankıyı önlemek için mikrofonlu kulaklık kullan. Sade ve düzenli bir arka plan, saçlarının etrafında titreyen sanal bir arka plandan her zaman iyidir.",
+          "tip": "Bir arkadaşınla deneme görüşmesi yap ve nasıl göründüğünü, sesinin nasıl geldiğini sor."
+        },
+        {
+          "title": "Kameraya bakmak",
+          "body": "Videoda göz teması, ekrandaki görüşmecinin yüzüne değil, kamera merceğine bakmak demektir. Aradaki farkı azaltmak için görüntü penceresini kameraya yakın taşı. Başını sallamak ve tepki vermek konusunda yüz yüzeye göre biraz daha belirgin ol; ince sinyaller videoda kaybolur.",
+          "tip": "Oraya bakmayı hatırlaman için merceğin yanına küçük bir çıkartma yapıştır."
+        },
+        {
+          "title": "Bir şeyler ters gittiğinde",
+          "body": "Bağlantı koparsa hemen yeniden katıl ve sakince şunu söyle: “Kusura bakmayın, bağlantım koptu. Son soruyu tekrar edebilir misiniz?” Yedek olarak görüşmecinin telefon numarasını ya da e-posta adresini hazırda tut. Teknik bir aksaklık karşısında sakin kalmak başlı başına olumlu bir sinyaldir.",
+          "tip": "Bant genişliğinden tasarruf etmek için diğer uygulamaları kapat ve bulut yedeklemelerini duraklat."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Video mülakatta göz teması kurmak için nereye bakmalısın?",
+          "options": ["Ekrandaki görüşmecinin gözlerine", "Kendi görüntüne", "Kamera merceğine", "Notlarına"],
+          "answer": 2,
+          "explanation": "Karşı tarafa göz teması olarak yansıyan şey merceğe bakmandır."
+        },
+        {
+          "id": "q2",
+          "question": "En iyi ışık düzeni hangisidir?",
+          "options": ["Arkanda parlak bir pencere", "Önünden gelip yüzüne düşen ışık", "Ekran parlasın diye karanlık bir oda", "Yalnızca tavan ışığı"],
+          "answer": 1,
+          "explanation": "Önden gelen ışık yüzünün görünmesini sağlar; arkadan gelen ışık seni bir siluete dönüştürür."
+        },
+        {
+          "id": "q3",
+          "question": "Cevap verirken bağlantın koptu. Ne yapmalısın?",
+          "options": ["Seni aramalarını bekle", "Hemen yeniden katıl ve sakince soruyu tekrarlamalarını rica et", "Mülakatı sonlandır", "Sonra özür dileyen bir e-posta gönder"],
+          "answer": 1,
+          "explanation": "Sakince yeniden katılmak, sorunlarla iyi başa çıktığını gösterir."
+        }
+      ]
+    },
+    {
+      "id": "face_to_face_interview",
+      "order": 3,
+      "title": "Yüz Yüze Mülakat",
+      "minutes": 3,
+      "premium": false,
+      "pages": [
+        {
+          "title": "Mülakat kapıda başlar",
+          "body": "Yüz yüze mülakat, binaya adım attığın anda başlar. Resepsiyon görevlilerine ve asansörde karşılaştığın kişilere senin hakkındaki izlenimleri sıkça sorulur. 30 değil, 10 dakika erken git ve herkese karşı nazik ol. Bekleme süresini nefesini sakinleştirmek ve üç ana hikâyeni gözden geçirmek için kullan.",
+          "tip": "Güzergâhını bir gün önceden planla ve trafik için pay bırak."
+        },
+        {
+          "title": "İlk izlenim",
+          "body": "Sıkı (ama ezmeyen) bir tokalaşma, göz teması ve içten bir gülümseme ilk saniyelerde havayı belirler. Oturman için yer gösterilmesini bekle. Çantanı masaya değil yere koy; telefonunu sessize al ve görünmeyecek bir yerde tut.",
+          "tip": "Selamlaşırken görüşmecinin adını kullan: “Tanıştığımıza memnun oldum, Sara Hanım.”"
+        },
+        {
+          "title": "Ortamı okumak",
+          "body": "Yüz yüze görüşmede anlık geri bildirim alırsın. Görüşmeci öne doğru eğiliyorsa doğru yoldasın; saate ya da notlarına göz atıyorsa cevabını toparla. Onun enerjisine ve resmiyet düzeyine hafifçe ayak uydur; bu, aranızda bağ kurar.",
+          "tip": "Hazırladığın soruların olduğu bir defter getir; kısa notlar almak ilgili olduğunu gösterir."
+        },
+        {
+          "title": "Şirketi de gözlemle",
+          "body": "Ofis ziyareti, şirket kültürünü değerlendirme fırsatındır. İnsanlar birbiriyle nasıl konuşuyor? Ortam sakin mi, gergin mi? İşlerinden keyif alıyor gibiler mi? Unutma, orada çalışmak isteyip istemediğine sen de karar veriyorsun.",
+          "tip": "Teklif edilmezse ekibin oturduğu alanı görmek istediğini söyle."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Yüz yüze bir mülakata ne zaman varmalısın?",
+          "options": ["Tam vaktinde", "Yaklaşık 10 dakika erken", "45 dakika erken", "Birkaç dakika gecikmek sorun değil"],
+          "answer": 1,
+          "explanation": "On dakika erken gitmek, karşı tarafa baskı yaratmadan saygı gösterir."
+        },
+        {
+          "id": "q2",
+          "question": "Resepsiyon görevlisine neden nazik davranmalısın?",
+          "options": ["Hiç fark etmez", "Onun izlenimi işe alım ekibiyle paylaşılabilir", "İşe alım kararını o verir", "Daha iyi bir park yeri almak için"],
+          "answer": 1,
+          "explanation": "Pek çok şirket, adayların nasıl davrandığını resepsiyon ekibine sorar."
+        },
+        {
+          "id": "q3",
+          "question": "Sen konuşurken görüşmeci sürekli saate bakıyor. Ne yapmalısın?",
+          "options": ["Daha hızlı konuş", "Cevabını kısaca toparla", "Sıkılıp sıkılmadığını sor", "Görmezden gel"],
+          "answer": 1,
+          "explanation": "Bu, sözünü bağlaman için bir işarettir; isterse daha fazla detay vermeyi teklif edebilirsin."
+        }
+      ]
+    },
+    {
+      "id": "group_interview",
+      "order": 4,
+      "title": "Grup Mülakatı",
+      "minutes": 3,
+      "premium": true,
+      "pages": [
+        {
+          "title": "Değerlendiriciler neye bakar?",
+          "body": "Grup mülakatlarında ve değerlendirme merkezlerinde birkaç aday bir görev üzerinde birlikte çalışırken değerlendiriciler onları gözlemler. En yüksek sesle konuşanı aramazlar. Nasıl dinlediğine, başkalarının fikirlerini nasıl geliştirdiğine, grubu nasıl odakta tuttuğuna ve sonuca nasıl katkı verdiğine bakarlar.",
+          "tip": "Katkının kalitesi, konuşmanın miktarından daha önemlidir."
+        },
+        {
+          "title": "Üstlenebileceğin faydalı roller",
+          "body": "Baskın olmadan değer katabilirsin: Tartışmayı özetle (“Şu ana kadar A ve B konusunda hemfikiriz”), zamanı yönet (“10 dakikamız kaldı, karar verelim mi?”) ya da sessiz kalanları dahil et (“Ali, sen ne düşünüyorsun?”). Değerlendiricilerin not aldığı davranışlar tam olarak bunlardır.",
+          "tip": "Zaman tutmayı üstlenmek kolay ve göze çarpan bir katkıdır."
+        },
+        {
+          "title": "Rekabet etme, iş birliği yap",
+          "body": "Diğer adaylara iş arkadaşın gibi davran. Onları eleştirmek ya da sözlerini kesmek sana geri döner. Katılmadığında önce kabul et: “Maliyet konusunda haklısın; benim gördüğüm bir risk de şu…” Net bir karara varan gruplar, her üyesini daha iyi gösterir.",
+          "tip": "İsimleri kullan; tanışma sırasında aklında tut."
+        },
+        {
+          "title": "Vaka çalışmaları ve sunumlar",
+          "body": "Pek çok grup oturumu kısa bir sunumla biter. Kimin hangi bölümü sunacağına erkenden karar verin. Yapıyı basit tut: problem, seçenekler, öneri, sonraki adımlar. Sunumu sen yapıyorsan ekibe pay ver: “Biz … kararına vardık.”",
+          "tip": "Vakadaki önemli rakamları grubun görebileceği şekilde kâğıda yaz."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Değerlendiriciler grup mülakatında en çok neye değer verir?",
+          "options": ["En çok konuşmaya", "Dinlemeye ve başkalarının fikirlerini geliştirmeye", "Her tartışmayı kazanmaya", "Hata yapmamak için sessiz kalmaya"],
+          "answer": 1,
+          "explanation": "Puanladıkları şey iş birliği ve yapıcı katkıdır."
+        },
+        {
+          "id": "q2",
+          "question": "Baskın olmadan katkı vermenin iyi bir yolu hangisidir?",
+          "options": ["Fikrini ilk sen söylemek için sözü kesmek", "İlerlemeyi özetlemek ve zamanı yönetmek", "Zayıf fikirleri eleştirmek", "Tek başına sunum yapmak"],
+          "answer": 1,
+          "explanation": "Özetlemek ve zamanı tutmak gruba yardımcı olur ve çok göze çarpar."
+        },
+        {
+          "id": "q3",
+          "question": "Başka bir adayla aynı fikirde olmadığında ne yapmalısın?",
+          "options": ["Yanıldığını söyle", "Önce haklı olduğu noktayı kabul et, sonra kendi endişeni ekle", "Fikrini görmezden gel", "Kararı değerlendiriciye bırak"],
+          "answer": 1,
+          "explanation": "Önce kabul etmek, tartışmayı yapıcı tutar."
+        }
+      ]
+    },
+    {
+      "id": "technical_interview",
+      "order": 5,
+      "title": "Teknik Mülakat",
+      "minutes": 4,
+      "premium": true,
+      "pages": [
+        {
+          "title": "Neler test ediliyor?",
+          "body": "Teknik mülakatlar işi gerçekten yapıp yapamayacağını ölçer: kodlama, finansal modelleme, tasarım, mühendislik hesapları ya da alan bilgisi. Görüşmeciler düşünme sürecine en az sonuç kadar önem verir. Küçük bir hata içeren net bir yaklaşım, çoğu zaman sessizce verilmiş doğru bir cevaptan daha yüksek puan alır.",
+          "tip": "İlk dakikadan itibaren sesli düşün."
+        },
+        {
+          "title": "Güvenilir bir problem çözme rutini",
+          "body": "1) Problemi kendi cümlelerinle tekrar et ve netleştirici sorular sor. 2) Basit bir örnek üzerinden ilerle. 3) Önce temel bir çözüm anlat, sonra onu geliştir. 4) Adım adım uygula ya da hesapla. 5) Uç bir durumla test et. Bu rutin, cevabı hemen bilmediğinde bile sakin kalmanı sağlar.",
+          "tip": "Kısıtları sor: veri büyüklüğü, teslim tarihleri, bütçe, doğruluk."
+        },
+        {
+          "title": "Takıldığında",
+          "body": "Ne bildiğini ve nerede takıldığını söyle: “Sıralı bir liste için çözebiliyorum; tekrar eden değerleri nasıl ele alacağımı düşünüyorum.” Görüşmeciler çoğu zaman ipucu verir; bunları kullan ve teşekkür et. Bilmediğin bir konuda asla blöf yapma; nasıl öğreneceğini anlat.",
+          "tip": "20 saniyeden uzun bir sessizlik uzun hissettirir; düşüncelerini anlatmaya devam et."
+        },
+        {
+          "title": "Nasıl hazırlanmalı?",
+          "body": "İş ilanında belirtilen temel konuları gözden geçir ve süreli problemlerle pratik yap. Kendi projelerini yeniden incele: Verdiğin her kararı açıklayabilmelisin. Sistem ya da vaka sorularında detaylara dalmadan önce yapıyı kâğıda çizmeyi alıştırma haline getir.",
+          "tip": "Pratik yapmak için uygulamadaki deneme mülakatı özelliğini “Teknik” türüyle kullan."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Teknik mülakatta cevabın dışında en önemli şey nedir?",
+          "options": ["Yalnızca hız", "Düşünme sürecin", "En yeni araçları kullanmak", "Ezberlenmiş tanımlar"],
+          "answer": 1,
+          "explanation": "Görüşmeciler nasıl akıl yürüttüğünü, nasıl iletişim kurduğunu ve sorunları nasıl ele aldığını değerlendirir."
+        },
+        {
+          "id": "q2",
+          "question": "Bir problemle karşılaştığında ilk ne yapmalısın?",
+          "options": ["Hemen kod yazmaya başla", "Problemi yeniden ifade et ve netleştirici sorular sor", "Bunu daha önce gördüğünü söyle", "Cevabı iste"],
+          "answer": 1,
+          "explanation": "Önce netleştirmek, yanlış problemi çözmeni engeller."
+        },
+        {
+          "id": "q3",
+          "question": "Sorulan bir kavramı bilmiyorsun. En iyi yaklaşım hangisi?",
+          "options": ["Kendinden emin bir tahminde bulun", "Bilmediğini kabul et ve nasıl öğreneceğini açıkla", "Konuyu değiştir", "Sessiz kal"],
+          "answer": 1,
+          "explanation": "Dürüstlük ve öğrenmeye açık bir yaklaşım takdir görür; blöf ise kolayca anlaşılır."
+        }
+      ]
+    },
+    {
+      "id": "panel_interview",
+      "order": 6,
+      "title": "Panel Mülakatı",
+      "minutes": 3,
+      "premium": true,
+      "pages": [
+        {
+          "title": "Birden fazla görüşmeci, tek karar",
+          "body": "Panel mülakatında üç ila beş kişi (örneğin bir yönetici, müstakbel bir ekip arkadaşın ve İK'dan biri) seninle birlikte görüşür. Her biri genellikle farklı bir alana odaklanır. Nihai karar ortak verildiği için yalnızca en kıdemli kişiyi değil, odadaki herkesi etkilemen gerekir.",
+          "tip": "Panel üyelerinin adlarını ve görevlerini önceden işe alım uzmanına sor."
+        },
+        {
+          "title": "Nereye bakmalı?",
+          "body": "Cevabına soruyu soran kişiye bakarak başla, devam ederken bakışlarınla diğerlerini de dahil et ve sonunda yeniden soruyu sorana dön. Bu, herkesin ilgisini canlı tutar ve özgüvenini gösterir.",
+          "tip": "İsimleri oturma sırasına göre defterine yaz."
+        },
+        {
+          "title": "Cevaplarını her role göre uyarla",
+          "body": "Teknik lider derinlik ister, İK değerleri ve ekip çalışmasını, yönetici ise sonuçları. Bir soru belirli bir kişiden geldiğinde, hikâyenin o kişinin rolü için önemli olan kısmını öne çıkar.",
+          "tip": "Her panel üyesinin muhtemel ilgi alanı için güçlü bir hikâye hazırla."
+        },
+        {
+          "title": "Tutarlı kal",
+          "body": "Paneller tutarlılığını test etmek için bazen benzer soruları farklı şekillerde sorar. Hikâyelerin ve rakamların birebir aynı kalsın. Sonunda her üyeye teşekkür et ve mümkünse görüşmeden bir detaya değinen kısa bir takip e-postası gönder.",
+          "tip": "Sessiz panel üyelerini göz ardı etme; çoğu zaman güçlü bir etkileri vardır."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Panelde bir soruyu cevaplarken kime hitap etmelisin?",
+          "options": ["Yalnızca en kıdemli kişiye", "Yalnızca soruyu soran kişiye", "Soruyu sorandan başla, herkesi dahil et, yine soruyu soranla bitir", "Notlarına bak"],
+          "answer": 2,
+          "explanation": "Bu yöntem, soruyu sorana saygı gösterirken tüm panelin ilgisini canlı tutar."
+        },
+        {
+          "id": "q2",
+          "question": "Panel üyeleri için neden farklı vurgular hazırlamalısın?",
+          "options": ["Her rol farklı şeylere önem verir", "Kafalarını karıştırmak için", "Paneller uzun cevapları sever", "Gerekli değildir"],
+          "answer": 0,
+          "explanation": "Teknik, İK ve yönetim tarafındaki görüşmeciler farklı kanıtlar arar."
+        },
+        {
+          "id": "q3",
+          "question": "Panel, daha önce sorduğuna benzer bir soru soruyor. Ne yapmalısın?",
+          "options": ["Tamamen yeni bir hikâye anlat", "Daha önce verdiğin bilgilerle tutarlı kal", "Kendilerini tekrar ettiklerini belirt", "Soruyu geç"],
+          "answer": 1,
+          "explanation": "Paneller tutarlılığı kontrol eder; çelişkiler güveni zedeler."
+        }
+      ]
+    }
+  ]
+}

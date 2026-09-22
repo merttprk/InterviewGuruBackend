@@ -1,0 +1,345 @@
+{
+  "id": "realistic_simulations",
+  "order": 6,
+  "icon": "simulation",
+  "color": "#EC4899",
+  "title": "Entraînement et simulation",
+  "summary": "Transforme l'entraînement en vrais progrès en simulant des entretiens, en te filmant et en t'améliorant grâce à un plan clair.",
+  "topics": [
+    {
+      "id": "mock_interview_practice",
+      "order": 1,
+      "title": "Comment mener un entretien d'entraînement",
+      "minutes": 3,
+      "premium": false,
+      "pages": [
+        {
+          "title": "Pourquoi simuler vaut mieux que répéter dans ta tête",
+          "body": "Les réponses qui semblent parfaites dans ta tête s'effondrent souvent quand tu les dis à voix haute. Un entretien d'entraînement révèle les failles : des histoires trop longues, des chiffres que tu oublies, des questions que tu n'avais pas prévues. S'entraîner dans des conditions réalistes rend aussi le véritable entretien plus familier, ce qui réduit le stress. Deux ou trois simulations complètes avant un entretien important valent mieux que des heures de lecture silencieuse.",
+          "tip": "Planifie tes entretiens d'entraînement dans ton agenda comme de vrais rendez-vous."
+        },
+        {
+          "title": "Rends-le réaliste",
+          "body": "Reproduis le format réel. Si l'entretien se fait en visio, entraîne-toi en visio ; s'il est en présentiel, assieds-toi à une table face à ton partenaire. Habille-toi comme le jour J et respecte une durée limite, généralement 30–45 minutes. Ne t'arrête pas pour recommencer une réponse : en entretien réel, c'est impossible, alors apprends plutôt à te rattraper en cours de phrase.",
+          "tip": "Utilise la fonction d'entretien d'entraînement de l'appli quand tu n'as pas de partenaire disponible."
+        },
+        {
+          "title": "Choisis les bonnes questions",
+          "body": "Constitue ta liste de questions à partir de trois sources : les questions classiques (« Parle-moi de toi », « Pourquoi ce poste ? »), des questions comportementales liées à l'offre d'emploi, et une ou deux questions difficiles que tu redoutes. Demande à ton partenaire d'ajouter au moins une question que tu n'as jamais vue. Gérer une surprise avec calme est une compétence qui ne s'acquiert qu'en affrontant des surprises.",
+          "tip": "Tiens à jour une liste des questions qui t'ont fait hésiter."
+        },
+        {
+          "title": "Briefe ton partenaire d'entraînement",
+          "body": "Un ami, un mentor ou un collègue peut faire un bon recruteur si tu le briefes bien. Donne-lui l'offre d'emploi, ta liste de questions et les points à surveiller, comme les mots de remplissage ou la longueur des réponses. Demande-lui de rester dans son rôle pendant la séance et de garder tous ses retours pour la fin, afin que le déroulé ressemble à un vrai entretien.",
+          "tip": "Demande à ton partenaire de relancer au moins une fois avec « Peux-tu me donner un exemple précis ? »."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Pourquoi éviter de recommencer tes réponses pendant un entretien d'entraînement ?",
+          "options": [
+            "Cela fait perdre du temps à ton partenaire",
+            "On ne peut pas recommencer en entretien réel, donc il faut s'entraîner à se rattraper",
+            "Recommencer rend les réponses trop courtes",
+            "Les entretiens d'entraînement n'ont pas de limite de temps"
+          ],
+          "answer": 1,
+          "explanation": "Les vrais entretiens ne permettent pas de recommencer, alors entraîne-toi à te rattraper en cours de réponse."
+        },
+        {
+          "id": "q2",
+          "question": "Que doit contenir ta liste de questions ?",
+          "options": [
+            "Uniquement des questions auxquelles tu réponds déjà bien",
+            "Uniquement des questions techniques",
+            "Des questions classiques, propres au poste et quelques-unes difficiles ou inattendues",
+            "Des questions choisies au hasard sur internet"
+          ],
+          "answer": 2,
+          "explanation": "Un mélange de questions classiques, adaptées au poste et difficiles te prépare à tout l'éventail réel."
+        },
+        {
+          "id": "q3",
+          "question": "Quand ton partenaire d'entraînement doit-il te faire ses retours ?",
+          "options": [
+            "À la fin de la séance",
+            "Après chaque phrase",
+            "Seulement si tu le demandes deux fois",
+            "Jamais : écouter suffit"
+          ],
+          "answer": 0,
+          "explanation": "Garder les retours pour la fin préserve le réalisme de la simulation."
+        }
+      ]
+    },
+    {
+      "id": "recording_setup",
+      "order": 2,
+      "title": "Te filmer",
+      "minutes": 3,
+      "premium": false,
+      "pages": [
+        {
+          "title": "Pourquoi s'enregistrer",
+          "body": "Tu ne peux pas voir ton visage ni entendre ta voix comme le fait un recruteur. Un enregistrement révèle des habitudes que tu ne remarques jamais : te toucher les cheveux, détourner le regard avant chaque réponse, dire « en fait » douze fois. La plupart des gens trouvent le premier visionnage gênant, et c'est normal. Cette gêne disparaît vite, et ce que tu en retires est difficile à obtenir autrement.",
+          "tip": "Regarde ton premier enregistrement une fois juste pour t'y habituer, puis une seconde fois pour l'analyser."
+        },
+        {
+          "title": "Une installation simple",
+          "body": "Ton téléphone suffit. Place-le à hauteur des yeux sur une pile de livres ou un support bon marché, à environ une longueur de bras, en te cadrant à partir de la poitrine. Assieds-toi face à une fenêtre ou une lampe pour que ton visage soit bien éclairé. Enregistre dans une pièce calme et fais un test de dix secondes pour vérifier le son avant de commencer.",
+          "tip": "Active le mode avion pour que les appels et les notifications ne t'interrompent pas."
+        },
+        {
+          "title": "Quoi enregistrer",
+          "body": "Commence par de courtes vidéos : une question par enregistrement, deux minutes maximum. Choisis des questions qu'on te posera à coup sûr, comme « Parle-moi de toi » et une histoire comportementale clé. Une fois à l'aise, enregistre un entretien d'entraînement complet du début à la fin. Enregistrer la même question à des jours différents te permet de comparer les versions et de constater de vrais progrès.",
+          "tip": "Nomme chaque fichier avec la question et la date pour pouvoir comparer plus tard."
+        },
+        {
+          "title": "S'entraîner en audio seul ou à l'écran",
+          "body": "Pour les entretiens téléphoniques, enregistre uniquement le son, puisque ta voix est tout ce que le recruteur perçoit. Pour les entretiens en visio, enregistre-toi via la plateforme réelle ou avec la caméra de ton ordinateur, pour voir exactement ce que verra le recruteur, y compris ton arrière-plan et la direction de ton regard. Adapter l'enregistrement au format réel rend les retours bien plus utiles.",
+          "tip": "Supprime les anciens enregistrements une fois tes enseignements notés, pour rester organisé."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Comment te cadrer quand tu t'enregistres ?",
+          "options": [
+            "En pied, depuis l'autre bout de la pièce",
+            "En gros plan sur ton visage uniquement",
+            "À partir de la poitrine, caméra à hauteur des yeux",
+            "En contre-plongée, caméra posée sur la table"
+          ],
+          "answer": 2,
+          "explanation": "Un cadrage à partir de la poitrine, à hauteur des yeux, correspond à ce que voient généralement les recruteurs."
+        },
+        {
+          "id": "q2",
+          "question": "Quelle est une bonne façon de commencer à t'entraîner en t'enregistrant ?",
+          "options": [
+            "De courtes vidéos d'une question chacune",
+            "Une séance de deux heures dès le premier jour",
+            "Enregistrer longuement uniquement tes réponses les plus faibles",
+            "Attendre de te sentir parfaitement sûr de toi"
+          ],
+          "answer": 0,
+          "explanation": "Les courtes vidéos d'une seule question sont faciles à revoir et à comparer."
+        },
+        {
+          "id": "q3",
+          "question": "Comment t'entraîner pour un entretien téléphonique ?",
+          "options": [
+            "Enregistrer une vidéo avec un arrière-plan virtuel",
+            "Enregistrer uniquement le son",
+            "Ne rien enregistrer du tout",
+            "T'enregistrer en marchant dehors"
+          ],
+          "answer": 1,
+          "explanation": "Ta voix est tout ce que perçoit un recruteur au téléphone, donc s'entraîner en audio seul correspond au format."
+        }
+      ]
+    },
+    {
+      "id": "self_analysis",
+      "order": 3,
+      "title": "Analyser ton enregistrement",
+      "minutes": 4,
+      "premium": true,
+      "pages": [
+        {
+          "title": "Analyse en plusieurs passages",
+          "body": "Essayer de tout évaluer en même temps est décourageant. Regarde plutôt le même enregistrement trois fois, avec un angle différent à chaque fois. D'abord, le contenu : as-tu répondu à la question ? Ensuite, la voix : rythme, volume et mots de remplissage. Enfin, le langage corporel, son coupé. Chaque passage est court, et ensemble ils te donnent une vision bien plus claire qu'un seul visionnage.",
+          "tip": "Couper le son rend les gestes et les expressions du visage beaucoup plus faciles à repérer."
+        },
+        {
+          "title": "Vérifie le contenu",
+          "body": "Demande-toi : ai-je répondu à la vraie question dans les deux premières phrases ? Mon histoire avait-elle une situation, une action et un résultat clairs ? Ai-je donné un chiffre ou un résultat précis ? Ai-je tenu en moins de deux minutes ? Résume ta réponse en une ligne. Si tu ne peux pas résumer ta propre réponse en une ligne, le recruteur n'y arriverait probablement pas non plus.",
+          "tip": "Chronomètre chaque réponse ; la plupart des bonnes réponses durent entre une et deux minutes."
+        },
+        {
+          "title": "Vérifie ta voix et ton langage corporel",
+          "body": "Compte tes mots de remplissage dans une réponse : « euh », « genre », « tu vois ». Remarque si tu accélères quand tu es stressé ou si ta voix s'éteint en fin de phrase. Son coupé, observe tes yeux, tes mains et ta posture. Regardes-tu la caméra ? Tes mains accompagnent-elles tes paroles ou s'agitent-elles ? Choisis l'habitude la plus gênante et corrige-la en premier.",
+          "tip": "Remplace les mots de remplissage par une courte pause silencieuse ; tu paraîtras plus assuré."
+        },
+        {
+          "title": "Sois juste envers toi-même",
+          "body": "L'auto-évaluation fonctionne mieux quand elle est honnête mais équilibrée. Pour chaque enregistrement, note deux points positifs avant de lister ce qu'il faut améliorer. Ce n'est pas qu'une question de moral : connaître tes points forts t'indique ce que tu dois continuer à faire. Concentre-toi sur les tendances observées sur plusieurs enregistrements plutôt que sur un moment maladroit qui ne se reproduira peut-être jamais.",
+          "tip": "Garde tes notes au même endroit pour repérer les tendances récurrentes."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Pourquoi analyser un enregistrement en plusieurs passages ?",
+          "options": [
+            "Cela prend moins de temps au total qu'un seul visionnage",
+            "Se concentrer sur un aspect à la fois donne une vision plus claire",
+            "Les recruteurs évaluent les candidats de cette façon",
+            "Pour pouvoir sauter les passages qui te déplaisent"
+          ],
+          "answer": 1,
+          "explanation": "Le contenu, la voix et le langage corporel sont plus faciles à évaluer un par un."
+        },
+        {
+          "id": "q2",
+          "question": "Quelle vérification est utile pour le contenu d'une réponse ?",
+          "options": [
+            "Si elle a duré au moins cinq minutes",
+            "Si elle contenait un vocabulaire impressionnant",
+            "Si elle mentionnait tous les postes que tu as occupés",
+            "Si tu peux la résumer en une ligne"
+          ],
+          "answer": 3,
+          "explanation": "Si tu ne peux pas la résumer en une ligne, le message n'était probablement pas clair."
+        },
+        {
+          "id": "q3",
+          "question": "Que dois-tu noter avant de lister les améliorations ?",
+          "options": [
+            "Deux points positifs",
+            "Ta note globale sur dix",
+            "Toutes tes erreurs dans l'ordre",
+            "Rien : commence directement à corriger"
+          ],
+          "answer": 0,
+          "explanation": "Noter d'abord tes points forts garde l'analyse équilibrée et montre ce que tu dois continuer à faire."
+        }
+      ]
+    },
+    {
+      "id": "feedback_areas",
+      "order": 4,
+      "title": "Obtenir des retours utiles",
+      "minutes": 3,
+      "premium": true,
+      "pages": [
+        {
+          "title": "Pose des questions précises",
+          "body": "« Alors, c'était comment ? » obtient généralement un « Bien ! » poli qui ne t'apprend rien. Pose plutôt des questions ciblées : « Ma réponse à la question sur le conflit était-elle claire ? », « Est-ce que je paraissais sûr de moi ou récité ? », « De quelle réponse te souviendrais-tu demain ? ». Les questions précises aident les gens à être honnêtes et te donnent des informations vraiment exploitables.",
+          "tip": "Prépare trois questions de feedback avant chaque séance d'entraînement."
+        },
+        {
+          "title": "Les quatre domaines à couvrir",
+          "body": "Des retours utiles couvrent quatre domaines. Le contenu : les exemples étaient-ils pertinents et concrets ? La structure : chaque réponse était-elle facile à suivre ? L'expression : rythme, ton, mots de remplissage et contact visuel. L'impression générale : te feraient-ils passer au tour suivant, et pourquoi ? Aborder les quatre évite que les retours se limitent au problème le plus évident.",
+          "tip": "Présente les quatre domaines à ton partenaire avant le début de la séance."
+        },
+        {
+          "title": "Diversifie tes sources de retours",
+          "body": "Chacun remarque des choses différentes. Un ami est utile pour l'expression et l'assurance. Quelqu'un qui travaille dans ton secteur cible peut juger la pertinence de tes exemples. Un mentor ou un conseiller d'orientation peut repérer des tendances plus larges. Les outils automatisés apportent des données objectives sur le rythme et les mots de remplissage. Combiner deux ou trois sources te donne une vision plus complète et moins biaisée.",
+          "tip": "Utilise la fonction d'analyse de CV pour que ton CV et tes réponses racontent la même histoire."
+        },
+        {
+          "title": "Bien recevoir les retours",
+          "body": "Écoute sans te justifier. Prends des notes, demande un exemple si un point n'est pas clair et remercie la personne, même quand le retour pique. Tu n'es pas obligé d'être d'accord avec tout ; repère les commentaires qui reviennent chez plusieurs personnes. Ces points récurrents sont généralement ceux qui méritent le plus ton temps.",
+          "tip": "Dis « Peux-tu me montrer à quel moment c'est arrivé ? » plutôt que de te justifier."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Quelle question de feedback est la plus utile ?",
+          "options": [
+            "Alors, c'était comment ?",
+            "C'était correct ?",
+            "Ça t'a plu ?",
+            "Ma réponse à la question sur le conflit était-elle claire ?"
+          ],
+          "answer": 3,
+          "explanation": "Les questions précises obtiennent des réponses honnêtes et exploitables."
+        },
+        {
+          "id": "q2",
+          "question": "Pourquoi faire appel à plusieurs sources de retours ?",
+          "options": [
+            "Chacun remarque des choses différentes",
+            "Une source a toujours tort",
+            "Cela accélère l'entraînement",
+            "Les recruteurs l'exigent"
+          ],
+          "answer": 0,
+          "explanation": "Combiner les sources donne une vision plus complète et moins biaisée."
+        },
+        {
+          "id": "q3",
+          "question": "Quels retours méritent le plus d'attention ?",
+          "options": [
+            "Ceux avec lesquels tu es d'accord",
+            "Le commentaire le plus sévère",
+            "Les points soulevés par plusieurs personnes",
+            "Uniquement le commentaire le plus récent"
+          ],
+          "answer": 2,
+          "explanation": "Les commentaires récurrents reflètent généralement une vraie tendance qui vaut la peine d'être corrigée."
+        }
+      ]
+    },
+    {
+      "id": "improvement_plan",
+      "order": 5,
+      "title": "Construire un plan de progression",
+      "minutes": 4,
+      "premium": true,
+      "pages": [
+        {
+          "title": "Des notes aux priorités",
+          "body": "Après quelques séances d'entraînement, tu auras une longue liste de notes. N'essaie pas de tout corriger. Regroupe les notes par thèmes, comme des histoires peu claires, des débuts de réponse faibles ou des tics nerveux, puis classe-les selon leur impact. Choisis les deux ou trois changements qui amélioreraient le plus l'image que tu renvoies au recruteur, et mets le reste de côté pour l'instant.",
+          "tip": "Demande-toi : quel changement un recruteur remarquerait-il en premier ?"
+        },
+        {
+          "title": "Fixe-toi des objectifs concrets",
+          "body": "Les objectifs vagues comme « être plus sûr de moi » sont difficiles à travailler. Transforme chaque priorité en quelque chose d'observable et de mesurable : « Répondre à \"Parle-moi de toi\" en moins de 90 secondes », « Moins de trois mots de remplissage par réponse », « Inclure un chiffre dans chaque histoire comportementale ». Des objectifs concrets te disent exactement quoi travailler et quand tu as réussi.",
+          "tip": "Formule chaque objectif de façon qu'un inconnu puisse le vérifier sur ton enregistrement."
+        },
+        {
+          "title": "Entraîne-toi par cycles courts et ciblés",
+          "body": "Travaille par petits cycles : entraîne-toi sur un objectif, enregistre-toi, analyse, ajuste. Quinze minutes de concentration par jour valent mieux qu'une séance de trois heures une fois par semaine. Réenregistre la même question jusqu'à atteindre l'objectif, puis passe au suivant. Environ chaque semaine, fais un entretien d'entraînement complet pour vérifier que les améliorations tiennent ensemble.",
+          "tip": "Fais un entretien d'entraînement complet à la fin de chaque semaine pour tout tester ensemble."
+        },
+        {
+          "title": "Suis tes progrès et ajuste",
+          "body": "Tiens un journal simple : date, question, objectif et résultat. Comparer ton premier et ton dernier enregistrement est motivant et montre ce qui fonctionne. Si un objectif ne progresse pas au bout d'une semaine, change d'approche : rédige l'histoire, simplifie-la ou entraîne-toi avec un autre partenaire. Quand un objectif devient une habitude, remplace-le par la priorité suivante.",
+          "tip": "Garde ton tout premier enregistrement comme point de référence pour comparer plus tard."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Sur combien de changements te concentrer à la fois ?",
+          "options": [
+            "Sur tout ce qui figure sur ta liste",
+            "Sur deux ou trois changements à fort impact",
+            "Sur un seul par mois",
+            "Sur aucun avant le vrai entretien"
+          ],
+          "answer": 1,
+          "explanation": "Se concentrer sur quelques changements à fort impact produit plus vite des progrès visibles."
+        },
+        {
+          "id": "q2",
+          "question": "Lequel est un objectif concret et mesurable ?",
+          "options": [
+            "Être plus sûr de moi",
+            "Paraître professionnel",
+            "Répondre à « Parle-moi de toi » en moins de 90 secondes",
+            "Faire mieux la prochaine fois"
+          ],
+          "answer": 2,
+          "explanation": "Un objectif mesurable te dit exactement quoi travailler et quand tu as réussi."
+        },
+        {
+          "id": "q3",
+          "question": "Un objectif ne progresse pas au bout d'une semaine. Que dois-tu faire ?",
+          "options": [
+            "L'abandonner",
+            "Continuer à répéter exactement la même approche",
+            "Attendre le vrai entretien",
+            "Changer d'approche, par exemple en simplifiant l'histoire ou en essayant un nouveau partenaire"
+          ],
+          "answer": 3,
+          "explanation": "Si quelque chose ne fonctionne pas, adapte ta méthode plutôt que de la répéter."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,270 @@
+{
+  "id": "realistic_simulations",
+  "order": 6,
+  "icon": "simulation",
+  "color": "#EC4899",
+  "title": "Prática e simulação",
+  "summary": "Transforme a prática em progresso real simulando entrevistas, gravando a si mesmo e evoluindo com um plano claro.",
+  "topics": [
+    {
+      "id": "mock_interview_practice",
+      "order": 1,
+      "title": "Como fazer uma entrevista simulada",
+      "minutes": 3,
+      "premium": false,
+      "pages": [
+        {
+          "title": "Por que simular vale mais do que ensaiar de cabeça",
+          "body": "Respostas que parecem perfeitas na sua cabeça muitas vezes desmoronam quando ditas em voz alta. Uma entrevista simulada revela as falhas: histórias longas demais, números de que você não se lembra, perguntas que você nunca esperava. Praticar em condições realistas também faz a entrevista de verdade parecer familiar, o que reduz o nervosismo. Duas ou três simulações completas antes de uma entrevista importante valem mais do que horas de leitura silenciosa.",
+          "tip": "Marque suas entrevistas simuladas na agenda como se fossem compromissos reais."
+        },
+        {
+          "title": "Deixe tudo realista",
+          "body": "Reproduza o formato real. Se a entrevista for por vídeo, pratique por vídeo; se for presencial, sente-se a uma mesa de frente para o seu parceiro. Vista-se como no dia e respeite um limite de tempo, normalmente de 30 a 45 minutos. Não pare para recomeçar uma resposta — numa entrevista de verdade você não pode, então aprenda a se recuperar no meio da frase.",
+          "tip": "Use o recurso de entrevista simulada daqui quando não houver um parceiro de prática disponível."
+        },
+        {
+          "title": "Escolha as perguntas certas",
+          "body": "Monte um conjunto de perguntas a partir de três fontes: perguntas comuns ('Fale sobre você', 'Por que esta vaga?'), perguntas comportamentais alinhadas à descrição da vaga e uma ou duas perguntas difíceis que você teme. Peça ao seu parceiro que acrescente pelo menos uma pergunta que você ainda não viu. Lidar com calma com uma surpresa é uma habilidade que só se treina enfrentando surpresas.",
+          "tip": "Mantenha uma lista atualizada das perguntas que fizeram você hesitar."
+        },
+        {
+          "title": "Oriente seu parceiro de prática",
+          "body": "Um amigo, mentor ou colega pode ser um bom entrevistador se você o orientar. Entregue a descrição da vaga, a sua lista de perguntas e o que ele deve observar, como vícios de linguagem ou a duração das respostas. Peça que ele permaneça no papel durante a sessão e guarde todo o feedback para o final, para que o ritmo pareça o de uma entrevista real.",
+          "tip": "Peça ao seu parceiro que pergunte 'Você pode dar um exemplo específico?' pelo menos uma vez."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Por que você deve evitar recomeçar respostas durante uma entrevista simulada?",
+          "options": ["Porque isso desperdiça o tempo do seu parceiro", "Porque você não pode recomeçar numa entrevista real, então deve praticar a recuperação", "Porque recomeçar deixa as respostas curtas demais", "Porque entrevistas simuladas não têm limite de tempo"],
+          "answer": 1,
+          "explanation": "Entrevistas reais não permitem refazer respostas, então pratique se recuperar no meio delas."
+        },
+        {
+          "id": "q2",
+          "question": "O que o seu conjunto de perguntas deve incluir?",
+          "options": ["Apenas perguntas que você já responde bem", "Apenas perguntas técnicas", "Perguntas comuns, específicas da vaga e algumas difíceis ou inesperadas", "Perguntas escolhidas aleatoriamente na internet"],
+          "answer": 2,
+          "explanation": "Uma mistura de perguntas comuns, alinhadas à vaga e difíceis prepara você para toda a variedade real."
+        },
+        {
+          "id": "q3",
+          "question": "Quando o seu parceiro de prática deve dar feedback?",
+          "options": ["No final da sessão", "Depois de cada frase", "Só se você pedir duas vezes", "Nunca — basta ouvir"],
+          "answer": 0,
+          "explanation": "Guardar o feedback para o final mantém a simulação realista."
+        }
+      ]
+    },
+    {
+      "id": "recording_setup",
+      "order": 2,
+      "title": "Gravando a si mesmo",
+      "minutes": 3,
+      "premium": false,
+      "pages": [
+        {
+          "title": "Por que gravar",
+          "body": "Você não consegue ver o próprio rosto nem ouvir a própria voz como o entrevistador. Uma gravação mostra hábitos que você nunca percebe: mexer no cabelo, desviar o olhar antes de cada resposta, dizer 'basicamente' doze vezes. A maioria das pessoas acha a primeira vez desconfortável, e isso é normal. O desconforto passa rápido, e a percepção que você ganha é difícil de obter de outra forma.",
+          "tip": "Assista à sua primeira gravação uma vez só para se acostumar e depois outra vez para analisar."
+        },
+        {
+          "title": "Uma configuração simples",
+          "body": "Seu celular é suficiente. Coloque-o na altura dos olhos sobre uma pilha de livros ou um suporte barato, a mais ou menos um braço de distância, enquadrando você do peito para cima. Sente-se de frente para uma janela ou luminária para que seu rosto fique bem iluminado. Grave em um cômodo silencioso e faça um teste de dez segundos para conferir o som antes de começar.",
+          "tip": "Ative o modo avião para que ligações e notificações não interrompam você."
+        },
+        {
+          "title": "O que gravar",
+          "body": "Comece com vídeos curtos: uma pergunta por gravação, no máximo dois minutos. Escolha perguntas que você certamente vai enfrentar, como 'Fale sobre você' e uma história comportamental importante. Quando se sentir à vontade, grave uma entrevista simulada completa do início ao fim. Gravar a mesma pergunta em dias diferentes permite comparar versões e ver um progresso real.",
+          "tip": "Nomeie cada arquivo com a pergunta e a data para poder comparar depois."
+        },
+        {
+          "title": "Prática só com áudio e pela tela",
+          "body": "Para entrevistas por telefone, grave apenas o áudio, já que sua voz é tudo o que o entrevistador recebe. Para entrevistas por vídeo, grave pela própria plataforma ou pela câmera do notebook, para ver exatamente o que o entrevistador verá, incluindo o fundo e para onde seus olhos apontam. Alinhar a gravação ao formato real torna o feedback muito mais útil.",
+          "tip": "Apague as gravações antigas depois de anotar suas conclusões, para manter tudo simples."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Como você deve se enquadrar ao gravar?",
+          "options": ["De corpo inteiro, do outro lado do cômodo", "Só o rosto, em close", "Do peito para cima, com a câmera na altura dos olhos", "De baixo para cima, com a câmera sobre a mesa"],
+          "answer": 2,
+          "explanation": "O enquadramento do peito para cima, na altura dos olhos, corresponde ao que o entrevistador costuma ver."
+        },
+        {
+          "id": "q2",
+          "question": "Qual é uma boa forma de começar a praticar com gravações?",
+          "options": ["Vídeos curtos com uma pergunta cada", "Uma sessão de duas horas no primeiro dia", "Gravar longamente apenas suas respostas mais fracas", "Esperar até se sentir totalmente confiante"],
+          "answer": 0,
+          "explanation": "Vídeos curtos com uma única pergunta são fáceis de revisar e comparar."
+        },
+        {
+          "id": "q3",
+          "question": "Como você deve praticar para uma entrevista por telefone?",
+          "options": ["Gravar vídeo com fundo virtual", "Gravar apenas o áudio", "Não gravar nada", "Gravar enquanto caminha na rua"],
+          "answer": 1,
+          "explanation": "Sua voz é tudo o que o entrevistador recebe por telefone, então praticar só com áudio corresponde ao formato."
+        }
+      ]
+    },
+    {
+      "id": "self_analysis",
+      "order": 3,
+      "title": "Revisando sua gravação",
+      "minutes": 4,
+      "premium": true,
+      "pages": [
+        {
+          "title": "Revise em etapas separadas",
+          "body": "Tentar avaliar tudo de uma vez é esmagador. Em vez disso, assista à mesma gravação três vezes, com um foco diferente em cada uma. Primeiro, o conteúdo: você respondeu à pergunta? Segundo, a voz: ritmo, volume e vícios de linguagem. Terceiro, a linguagem corporal, com o som desligado. Cada etapa é curta e, juntas, elas oferecem uma visão muito mais clara do que uma única exibição.",
+          "tip": "Desligar o som torna gestos e expressões faciais muito mais fáceis de perceber."
+        },
+        {
+          "title": "Avalie o conteúdo",
+          "body": "Pergunte a si mesmo: respondi à pergunta de fato nas duas primeiras frases? Minha história teve uma situação, uma ação e um resultado claros? Incluí um número ou resultado específico? Durou menos de dois minutos? Escreva a resposta em uma linha. Se você não consegue resumir a própria resposta em uma linha, provavelmente o entrevistador também não conseguiria.",
+          "tip": "Cronometre cada resposta; a maioria das boas respostas fica entre um e dois minutos."
+        },
+        {
+          "title": "Avalie a voz e a linguagem corporal",
+          "body": "Conte os vícios de linguagem em uma resposta — 'é...', 'tipo', 'né'. Repare se você acelera quando está nervoso ou se a voz some no fim das frases. Com o som desligado, observe seus olhos, suas mãos e sua postura. Você está olhando para a câmera? Suas mãos reforçam o que você diz ou ficam inquietas? Escolha o hábito que mais distrai e corrija-o primeiro.",
+          "tip": "Troque os vícios de linguagem por uma pausa curta e silenciosa; soa mais confiante."
+        },
+        {
+          "title": "Seja justo consigo mesmo",
+          "body": "A autoavaliação funciona melhor quando é honesta, mas equilibrada. Para cada gravação, anote duas coisas que foram bem antes de listar o que melhorar. Não é só uma questão de ânimo: conhecer seus pontos fortes mostra o que você deve continuar fazendo. Concentre-se em padrões ao longo de várias gravações, e não em um momento constrangedor que talvez nunca se repita.",
+          "tip": "Guarde suas anotações em um só lugar para identificar padrões recorrentes."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Por que revisar uma gravação em etapas separadas?",
+          "options": ["Porque leva menos tempo no total do que uma única exibição", "Porque focar em uma área de cada vez dá uma visão mais clara", "Porque os entrevistadores avaliam candidatos dessa forma", "Para poder pular as partes de que você não gosta"],
+          "answer": 1,
+          "explanation": "Conteúdo, voz e linguagem corporal são mais fáceis de avaliar um de cada vez."
+        },
+        {
+          "id": "q2",
+          "question": "Qual é uma verificação útil para o conteúdo de uma resposta?",
+          "options": ["Se ela durou pelo menos cinco minutos", "Se usou um vocabulário impressionante", "Se mencionou todos os empregos que você já teve", "Se você consegue resumi-la em uma linha"],
+          "answer": 3,
+          "explanation": "Se você não consegue resumi-la em uma linha, a mensagem provavelmente não ficou clara."
+        },
+        {
+          "id": "q3",
+          "question": "O que você deve anotar antes de listar as melhorias?",
+          "options": ["Duas coisas que foram bem", "Sua nota geral de zero a dez", "Todos os erros, em ordem", "Nada — é só começar a corrigir"],
+          "answer": 0,
+          "explanation": "Anotar primeiro os pontos fortes mantém a revisão equilibrada e mostra o que continuar fazendo."
+        }
+      ]
+    },
+    {
+      "id": "feedback_areas",
+      "order": 4,
+      "title": "Como obter feedback útil",
+      "minutes": 3,
+      "premium": true,
+      "pages": [
+        {
+          "title": "Faça perguntas específicas",
+          "body": "'Como eu me saí?' costuma render um educado 'Foi bem!' que não diz nada. Em vez disso, faça perguntas direcionadas: 'Minha resposta sobre conflito ficou clara?', 'Pareci confiante ou ensaiado?', 'De qual resposta você se lembraria amanhã?' Perguntas específicas facilitam a honestidade das pessoas e trazem informações que você realmente consegue usar.",
+          "tip": "Prepare três perguntas de feedback antes de cada sessão de prática."
+        },
+        {
+          "title": "As quatro áreas a cobrir",
+          "body": "Um feedback útil cobre quatro áreas. Conteúdo: os exemplos foram relevantes e concretos? Estrutura: cada resposta foi fácil de acompanhar? Apresentação: ritmo, tom, vícios de linguagem e contato visual. Impressão geral: a pessoa levaria você para a próxima etapa, e por quê? Perguntar sobre as quatro evita que o feedback se concentre só no problema mais óbvio.",
+          "tip": "Compartilhe as quatro áreas com seu parceiro antes de a sessão começar."
+        },
+        {
+          "title": "Busque fontes de feedback variadas",
+          "body": "Pessoas diferentes percebem coisas diferentes. Um amigo é ótimo para avaliar a apresentação e a confiança. Alguém que trabalha na área que você deseja pode julgar se seus exemplos são relevantes. Um mentor ou orientador de carreira consegue identificar padrões maiores. Ferramentas automáticas acrescentam dados objetivos sobre ritmo e vícios de linguagem. Combinar duas ou três fontes dá a você uma visão mais completa e menos enviesada.",
+          "tip": "Use o recurso de análise de CV para que seu CV e suas respostas contem a mesma história."
+        },
+        {
+          "title": "Receba bem o feedback",
+          "body": "Ouça sem se defender. Faça anotações, peça um exemplo se algum ponto não estiver claro e agradeça, mesmo quando o feedback doer. Você não precisa concordar com tudo; procure os comentários que aparecem em mais de uma pessoa. Esses pontos repetidos costumam ser os que mais merecem o seu tempo.",
+          "tip": "Diga 'Pode me mostrar onde isso aconteceu?' em vez de se justificar."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Qual pergunta de feedback é a mais útil?",
+          "options": ["Como eu me saí?", "Foi tudo bem?", "Você gostou?", "Minha resposta sobre conflito ficou clara?"],
+          "answer": 3,
+          "explanation": "Perguntas específicas geram respostas honestas e práticas."
+        },
+        {
+          "id": "q2",
+          "question": "Por que usar mais de uma fonte de feedback?",
+          "options": ["Porque pessoas diferentes percebem coisas diferentes", "Porque uma fonte está sempre errada", "Porque isso torna a prática mais rápida", "Porque os entrevistadores exigem"],
+          "answer": 0,
+          "explanation": "Combinar fontes dá uma visão mais completa e menos enviesada."
+        },
+        {
+          "id": "q3",
+          "question": "Quais pontos de feedback merecem mais atenção?",
+          "options": ["Os que você concorda", "O comentário mais duro", "Os pontos repetidos por mais de uma pessoa", "Apenas o comentário mais recente"],
+          "answer": 2,
+          "explanation": "Comentários repetidos geralmente refletem um padrão real que vale a pena corrigir."
+        }
+      ]
+    },
+    {
+      "id": "improvement_plan",
+      "order": 5,
+      "title": "Como montar um plano de melhoria",
+      "minutes": 4,
+      "premium": true,
+      "pages": [
+        {
+          "title": "Das anotações às prioridades",
+          "body": "Depois de algumas sessões de prática, você terá uma longa lista de anotações. Não tente corrigir tudo. Agrupe as anotações em temas, como histórias confusas, aberturas fracas ou hábitos de nervosismo, e ordene-os por impacto. Escolha as duas ou três mudanças que mais melhorariam a forma como o entrevistador vê você e deixe o resto de lado por enquanto.",
+          "tip": "Pergunte a si mesmo: qual mudança o entrevistador notaria primeiro?"
+        },
+        {
+          "title": "Defina metas concretas",
+          "body": "Metas vagas como 'ser mais confiante' são difíceis de praticar. Transforme cada prioridade em algo que você possa observar e medir: 'Responder \"Fale sobre você\" em menos de 90 segundos', 'Menos de três vícios de linguagem por resposta', 'Incluir um número em toda história comportamental'. Metas concretas dizem exatamente o que praticar e quando você conseguiu.",
+          "tip": "Escreva cada meta como algo que um desconhecido conseguiria verificar na sua gravação."
+        },
+        {
+          "title": "Pratique em ciclos curtos e focados",
+          "body": "Trabalhe em ciclos pequenos: pratique uma meta, grave, revise, ajuste. Quinze minutos focados por dia valem mais do que uma sessão de três horas uma vez por semana. Grave a mesma pergunta de novo até atingir a meta e, então, passe para a próxima. Mais ou menos uma vez por semana, faça uma entrevista simulada completa para confirmar que as correções funcionam juntas.",
+          "tip": "Faça uma entrevista simulada completa no fim de cada semana para testar tudo em conjunto."
+        },
+        {
+          "title": "Acompanhe o progresso e ajuste",
+          "body": "Mantenha um registro simples: data, pergunta, meta e resultado. Comparar sua primeira gravação com a mais recente é motivador e mostra o que está funcionando. Se uma meta não evoluir depois de uma semana, mude a abordagem — escreva a história, simplifique-a ou pratique com outro parceiro. Quando uma meta virar hábito, substitua-a pela próxima prioridade.",
+          "tip": "Guarde sua primeira gravação como referência para comparar mais tarde."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Em quantas mudanças você deve se concentrar ao mesmo tempo?",
+          "options": ["Em tudo o que está na sua lista", "Em duas ou três mudanças de alto impacto", "Em apenas uma por mês", "Em nenhuma até a entrevista real"],
+          "answer": 1,
+          "explanation": "Focar em poucas mudanças de alto impacto gera melhorias visíveis mais rápido."
+        },
+        {
+          "id": "q2",
+          "question": "Qual destas é uma meta concreta e mensurável?",
+          "options": ["Ser mais confiante", "Parecer profissional", "Responder 'Fale sobre você' em menos de 90 segundos", "Ir melhor da próxima vez"],
+          "answer": 2,
+          "explanation": "Uma meta mensurável diz exatamente o que praticar e quando você conseguiu."
+        },
+        {
+          "id": "q3",
+          "question": "Uma meta não evoluiu depois de uma semana. O que você deve fazer?",
+          "options": ["Desistir dela", "Continuar repetindo exatamente a mesma abordagem", "Esperar a entrevista real", "Mudar a abordagem, por exemplo simplificando a história ou tentando outro parceiro"],
+          "answer": 3,
+          "explanation": "Se algo não está funcionando, ajuste o método em vez de repeti-lo."
+        }
+      ]
+    }
+  ]
+}

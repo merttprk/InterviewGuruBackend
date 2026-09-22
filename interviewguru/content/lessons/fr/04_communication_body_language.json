@@ -1,0 +1,412 @@
+{
+  "id": "communication_body_language",
+  "order": 4,
+  "icon": "communication",
+  "color": "#10B981",
+  "title": "Communication et langage corporel",
+  "summary": "Découvre comment tes mots, ta voix et ton corps fonctionnent ensemble pour que les recruteurs retiennent ce que tu as dit, et non ton air nerveux.",
+  "topics": [
+    {
+      "id": "speaking_techniques",
+      "order": 1,
+      "title": "Parler de façon claire et concise",
+      "minutes": 3,
+      "premium": false,
+      "pages": [
+        {
+          "title": "Commence par la réponse",
+          "body": "Les recruteurs retiennent mieux la première phrase, alors places-y ton idée principale. Si on te demande pourquoi tu veux ce poste, commence par « Parce qu'il associe l'analyse de données et le travail avec les clients, ce que j'aime le plus », puis ajoute les détails qui l'étayent. Commencer par le contexte et arriver lentement à l'essentiel oblige ton interlocuteur à faire des efforts, et il décroche souvent avant que tu y arrives.",
+          "tip": "Avant chaque réponse, formule mentalement l'idée que tu veux qu'on retienne."
+        },
+        {
+          "title": "Utilise une structure simple",
+          "body": "Une structure te rend facile à suivre. Pour les questions sur ton expérience, utilise situation, action, résultat. Pour les questions d'opinion, utilise idée, raison, exemple, idée. Balise ton discours au fur et à mesure : « Il y a deux raisons. D'abord… Ensuite… » Numéroter tes idées indique au recruteur combien de temps tu vas parler et t'aide à garder le fil quand le stress monte.",
+          "tip": "Si tu annonces « trois raisons », assure-toi de pouvoir citer les trois."
+        },
+        {
+          "title": "Supprime les tics de langage",
+          "body": "Des mots comme « en fait », « genre » ou « tu vois » diluent un bon contenu. Remplace-les par une courte pause : le silence paraît plus assuré que les tics de langage. Évite le jargon interne et les sigles que ton interlocuteur ne connaît peut-être pas : dis « notre base de données clients » plutôt que le nom de code d'un système. Des mots simples et précis rendent tes réussites plus crédibles, pas moins impressionnantes.",
+          "tip": "Enregistre une réponse lors d'un entretien d'entraînement et compte tes tics de langage."
+        },
+        {
+          "title": "Savoir s'arrêter",
+          "body": "La plupart des réponses fonctionnent mieux en une à deux minutes. Les réponses longues noient ta meilleure idée et empiètent sur le temps des autres questions. Termine par une phrase de conclusion claire qui te ramène au poste, puis arrête de parler. Si tu ne sais pas si tu en as dit assez, demande : « Souhaitez-vous que je développe un point en particulier ? »",
+          "tip": "Ne relance pas ta réponse une fois terminée : un arrêt assuré vaut mieux qu'un ajout nerveux."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Où placer généralement ton idée principale dans une réponse ?",
+          "options": [
+            "Tout à la fin, en conclusion",
+            "Dans la première phrase",
+            "Seulement si le recruteur la demande",
+            "Au milieu, après les détails de contexte"
+          ],
+          "answer": 1,
+          "explanation": "Commencer par la réponse la rend facile à suivre et à retenir."
+        },
+        {
+          "id": "q2",
+          "question": "Par quoi vaut-il mieux remplacer des tics de langage comme « en fait » ?",
+          "options": [
+            "Parler plus vite",
+            "Ajouter du jargon technique",
+            "Une courte pause",
+            "Répéter la question"
+          ],
+          "answer": 2,
+          "explanation": "Un bref silence paraît plus assuré que des tics de langage."
+        },
+        {
+          "id": "q3",
+          "question": "Combien de temps doivent durer la plupart des réponses en entretien ?",
+          "options": [
+            "Environ une à deux minutes",
+            "Moins de dix secondes",
+            "Cinq minutes ou plus",
+            "Le temps nécessaire pour couvrir chaque détail"
+          ],
+          "answer": 0,
+          "explanation": "Une à deux minutes gardent ta meilleure idée bien visible et laissent du temps pour d'autres questions."
+        }
+      ]
+    },
+    {
+      "id": "active_listening",
+      "order": 2,
+      "title": "L'écoute active",
+      "minutes": 3,
+      "premium": false,
+      "pages": [
+        {
+          "title": "Écouter est une compétence qui se remarque",
+          "body": "Les recruteurs jugent ta façon d'écouter autant que ta façon de parler, car elle laisse présager comment tu travailleras avec tes collègues et tes clients. Beaucoup de réponses faibles viennent du fait que le candidat répond à la question qu'il attendait plutôt qu'à celle qui lui a réellement été posée. Accorde toute ton attention au recruteur, évite de préparer ta réponse pendant qu'il parle encore et laisse-le terminer complètement.",
+          "tip": "N'interromps jamais, même si tu sais déjà où la question veut en venir."
+        },
+        {
+          "title": "Montre que tu écoutes",
+          "body": "Manifeste ton attention par de petits signaux naturels : hoche la tête de temps en temps, garde un visage attentif et utilise de brèves marques d'approbation comme « Je vois » ou « C'est logique ». Penche-toi légèrement en avant quand le recruteur décrit le poste ou l'équipe. En visio, ces signaux doivent être un peu plus marqués, car les mouvements subtils passent facilement inaperçus sur un petit écran.",
+          "tip": "Range ton téléphone hors de vue pour ne pas être tenté d'y jeter un œil."
+        },
+        {
+          "title": "Clarifie avant de répondre",
+          "body": "Si une question est large ou floue, pose une courte question de clarification : « Parlez-vous d'un conflit avec un manager ou avec un collègue ? » Reformuler les questions complexes te donne aussi quelques secondes pour réfléchir : « Vous aimeriez donc savoir comment j'ai établi mes priorités quand deux échéances se sont chevauchées ? » Clarifier montre de l'attention et de la précision ; deviner, c'est risquer une longue réponse à la mauvaise question.",
+          "tip": "Une question de clarification, c'est malin ; en poser une à chaque question donne l'impression de gagner du temps."
+        },
+        {
+          "title": "Utilise ce que tu entends",
+          "body": "Les meilleurs candidats réutilisent les mots du recruteur dans leurs réponses suivantes. S'il mentionne que l'équipe grandit vite, relie ton expérience à la croissance : « Vous avez parlé de recrutements rapides ; dans mon dernier poste, j'ai intégré six nouveaux collègues. » À la fin, fais référence à quelque chose de précis qu'il a dit en posant tes questions. Cela prouve que tu as écouté et rend l'échange plus équilibré.",
+          "tip": "Note une ou deux expressions clés que le recruteur utilise à propos du poste."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Quelle est une cause fréquente de réponses faibles liée à l'écoute ?",
+          "options": [
+            "Hocher la tête trop souvent",
+            "Prendre de brèves notes",
+            "Demander quelles sont les prochaines étapes",
+            "Répondre à la question que tu attendais au lieu de celle qui a été posée"
+          ],
+          "answer": 3,
+          "explanation": "Les candidats répondent souvent à une question supposée au lieu d'écouter la vraie."
+        },
+        {
+          "id": "q2",
+          "question": "Que faire si une question est large ou floue ?",
+          "options": [
+            "Poser une courte question de clarification",
+            "Deviner et donner une longue réponse",
+            "La passer et continuer",
+            "Demander au recruteur de la répéter trois fois"
+          ],
+          "answer": 0,
+          "explanation": "Une clarification rapide garantit que tu réponds à la bonne question."
+        },
+        {
+          "id": "q3",
+          "question": "Comment montrer que tu as écouté tout au long de l'entretien ?",
+          "options": [
+            "En récitant ton CV mot pour mot",
+            "En faisant référence à des choses précises que le recruteur a dites",
+            "En parlant plus que le recruteur",
+            "En approuvant chacune de ses affirmations"
+          ],
+          "answer": 1,
+          "explanation": "Intégrer les propos du recruteur dans tes réponses prouve une écoute active."
+        }
+      ]
+    },
+    {
+      "id": "eye_contact",
+      "order": 3,
+      "title": "Le contact visuel",
+      "minutes": 3,
+      "premium": true,
+      "pages": [
+        {
+          "title": "Pourquoi le contact visuel compte",
+          "body": "Un contact visuel régulier traduit de l'assurance, de l'honnêteté et de l'intérêt. Trop peu peut te faire paraître nerveux ou fuyant ; un regard fixe permanent met mal à l'aise. Essaie de maintenir le contact visuel la plupart du temps quand tu écoutes, et un peu moins quand tu parles, car détourner brièvement le regard pour réfléchir est naturel. Les attentes varient selon les cultures, alors adapte-toi en douceur au style de ton interlocuteur.",
+          "tip": "Aligne-toi sur le niveau de contact visuel du recruteur plutôt que d'imposer une règle fixe."
+        },
+        {
+          "title": "La règle des quelques secondes",
+          "body": "Maintiens le contact visuel environ trois à cinq secondes à la fois, puis détourne brièvement le regard (sur le côté ou vers tes notes) avant d'y revenir. Ce rythme paraît naturel et évite de fixer. Si le contact visuel direct te met mal à l'aise, regarde la zone entre les yeux ou la racine du nez : à distance normale, cela revient au même.",
+          "tip": "Entraîne-toi à ce rythme dans tes conversations de tous les jours la semaine précédant ton entretien."
+        },
+        {
+          "title": "Jurys et groupes",
+          "body": "Face à plusieurs recruteurs, regarde surtout la personne qui a posé la question, en particulier au début et à la fin de ta réponse. Au milieu, porte ton regard sur les autres membres du jury pour les inclure. Ignorer les membres les plus silencieux est une erreur fréquente : ils peuvent peser lourd dans la décision. Reviens vers la personne qui t'a interrogé en terminant.",
+          "tip": "Termine chaque réponse en regardant la personne qui a posé la question."
+        },
+        {
+          "title": "Le contact visuel en visio",
+          "body": "En visio, regarder le visage du recruteur à l'écran donne l'impression que tu regardes vers le bas ou sur le côté. Pour créer un contact visuel, regarde l'objectif de la caméra quand tu parles, surtout pour les points clés. Jette un œil à l'écran pendant que tu écoutes pour percevoir ses réactions. Placer la fenêtre vidéo juste sous la caméra réduit l'écart entre les deux.",
+          "tip": "Colle un petit post-it à côté de l'objectif pour t'en souvenir."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Combien de temps maintenir généralement le contact visuel avant de détourner brièvement le regard ?",
+          "options": [
+            "Moins d'une seconde",
+            "Environ trois à cinq secondes",
+            "Toute la réponse sans interruption",
+            "Une trentaine de secondes"
+          ],
+          "answer": 1,
+          "explanation": "Un rythme de trois à cinq secondes paraît naturel et évite de fixer."
+        },
+        {
+          "id": "q2",
+          "question": "Lors d'un entretien avec un jury, qui regarder à la fin de ta réponse ?",
+          "options": [
+            "La personne la plus haut placée",
+            "Tes notes",
+            "Le plafond",
+            "La personne qui a posé la question"
+          ],
+          "answer": 3,
+          "explanation": "Commence et termine avec la personne qui t'a interrogé, et inclus les autres au milieu."
+        },
+        {
+          "id": "q3",
+          "question": "Comment créer un contact visuel lors d'un entretien en visio ?",
+          "options": [
+            "Regarder le visage du recruteur à l'écran",
+            "Regarder ton propre retour vidéo",
+            "Regarder l'objectif de la caméra quand tu parles",
+            "Fermer les yeux pour te concentrer"
+          ],
+          "answer": 2,
+          "explanation": "C'est par l'objectif que le recruteur perçoit ton regard."
+        }
+      ]
+    },
+    {
+      "id": "gestures",
+      "order": 4,
+      "title": "Les gestes et les mains",
+      "minutes": 3,
+      "premium": true,
+      "pages": [
+        {
+          "title": "Les mains t'aident à réfléchir",
+          "body": "Des gestes naturels te donnent l'air détendu et t'aident à trouver tes mots, alors ne fige pas tes mains. Les recherches sur la parole montrent que gesticuler favorise la fluidité. L'objectif est un mouvement maîtrisé et intentionnel : des gestes qui soulignent une idée ou montrent une taille, une séquence ou un contraste. Les mouvements aléatoires et répétitifs détournent l'attention du recruteur de ce que tu dis et trahissent la nervosité.",
+          "tip": "Laisse tes mains bouger quand tu parles, puis ramène-les en position de repos."
+        },
+        {
+          "title": "La zone des gestes",
+          "body": "Garde la plupart de tes gestes dans la zone située entre la poitrine et la taille, à peu près de la largeur de ton corps. Les mouvements dans cette zone paraissent calmes et assurés. De très grands gestes au-dessus des épaules peuvent sembler théâtraux dans une petite pièce. Les paumes ouvertes légèrement tournées vers le haut traduisent l'honnêteté et l'ouverture, tandis que pointer le doigt vers le recruteur peut paraître agressif.",
+          "tip": "En visio, fais tes gestes un peu plus haut pour qu'ils restent dans le cadre de la caméra."
+        },
+        {
+          "title": "Les habitudes à éviter",
+          "body": "Les tics nerveux captent l'attention : tapoter avec un stylo, le faire cliquer, te toucher le visage ou les cheveux, jouer avec tes bijoux ou croiser les bras fermement. Les bras croisés peuvent être perçus comme une attitude défensive, même si tu as simplement froid. Tenir un stylo dont tu n'as pas besoin incite à le tripoter. Cacher complètement tes mains sous la table peut te faire paraître fermé ou mal à l'aise.",
+          "tip": "Si tu as tendance à gigoter, ne tiens rien que tu n'utiliseras pas."
+        },
+        {
+          "title": "Une position de repos calme",
+          "body": "Quand tu ne gesticules pas, pose tes mains sans crispation sur la table ou sur tes genoux, les doigts légèrement joints. Cette base neutre donne plus de sens aux gestes que tu fais. Au début et à la fin, propose une poignée de main ferme et brève si c'est l'usage, et suis l'exemple du recruteur lorsque les façons de saluer diffèrent. Garde les mains sèches et détendues.",
+          "tip": "Vérifie tes habitudes gestuelles en regardant l'enregistrement d'un entretien d'entraînement."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Pourquoi éviter de figer complètement tes mains ?",
+          "options": [
+            "Les recruteurs exigent des gestes",
+            "Les gestes naturels t'aident à parler avec aisance et à paraître détendu",
+            "C'est considéré comme impoli partout",
+            "Cela raccourcit les réponses"
+          ],
+          "answer": 1,
+          "explanation": "Des gestes naturels et maîtrisés soutiennent la parole et donnent une impression d'assurance."
+        },
+        {
+          "id": "q2",
+          "question": "Où doivent rester la plupart de tes gestes ?",
+          "options": [
+            "Au-dessus de ta tête",
+            "Sous la table, hors de vue",
+            "Entre la poitrine et la taille, à peu près de la largeur du corps",
+            "Pointés vers le recruteur"
+          ],
+          "answer": 2,
+          "explanation": "La zone entre la poitrine et la taille paraît calme et maîtrisée."
+        },
+        {
+          "id": "q3",
+          "question": "Quelle habitude nerveuse distrait les recruteurs ?",
+          "options": [
+            "Faire cliquer un stylo",
+            "Poser les mains sur la table",
+            "Montrer les paumes ouvertes",
+            "Indiquer une séquence avec les doigts"
+          ],
+          "answer": 0,
+          "explanation": "Les mouvements répétitifs, comme faire cliquer un stylo, détournent l'attention de ta réponse."
+        }
+      ]
+    },
+    {
+      "id": "posture_tips",
+      "order": 5,
+      "title": "Une posture assurée",
+      "minutes": 3,
+      "premium": true,
+      "pages": [
+        {
+          "title": "La posture parle en premier",
+          "body": "Avant même que tu dises un mot, ta posture indique au recruteur comment tu te sens. Être avachi suggère un manque d'énergie ou d'intérêt ; se tenir raide comme un piquet trahit l'anxiété. Vise une posture détendue et attentive : le dos contre le dossier ou tout près, les épaules basses et ouvertes, les pieds à plat sur le sol. Une bonne posture t'aide aussi à bien respirer, ce qui stabilise ta voix.",
+          "tip": "Fais rouler tes épaules vers l'arrière et vers le bas une fois avant d'entrer."
+        },
+        {
+          "title": "Bien s'asseoir",
+          "body": "Assieds-toi au fond de la chaise, le haut du corps légèrement penché en avant : cela montre ton implication sans paraître insistant. Évite de te renverser en arrière, ce qui peut sembler trop décontracté, ou de te percher au bord de la chaise, ce qui paraît nerveux. Garde les jambes immobiles : chevilles croisées ou pieds à plat, les deux conviennent. N'étale pas tes affaires sur le bureau du recruteur.",
+          "tip": "Penche-toi légèrement en avant quand le recruteur parle du poste."
+        },
+        {
+          "title": "L'arrivée et l'attente",
+          "body": "L'évaluation commence souvent dès l'accueil. Tiens-toi droit en attendant et évite de faire défiler ton téléphone la tête baissée : on peut venir te chercher à tout moment. Quand on appelle ton nom, lève-toi, souris et marche d'un pas régulier. Porte ton sac de la main gauche pour garder la main droite libre si on te tend la main.",
+          "tip": "Considère chaque personne que tu croises, y compris le personnel d'accueil, comme faisant partie de l'entretien."
+        },
+        {
+          "title": "La posture en visio",
+          "body": "Face à la caméra, cadre-toi à partir du milieu de la poitrine avec un peu d'espace au-dessus de la tête. Assieds-toi sur une chaise stable, pas sur un canapé ni sur un lit, pour ne pas t'enfoncer. Place ton écran à hauteur des yeux pour ne pas regarder vers le bas. Évite de pivoter ou de te balancer sur une chaise de bureau : le mouvement est amplifié à l'écran et distrait ton interlocuteur.",
+          "tip": "Bloque la hauteur de ta chaise pivotante et pose bien les deux pieds au sol avant de te connecter."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Quelle posture traduit le mieux une implication détendue en position assise ?",
+          "options": [
+            "Se renverser en arrière, jambes allongées",
+            "Se percher au bord de la chaise",
+            "S'asseoir au fond de la chaise en se penchant légèrement en avant",
+            "Appuyer la tête sur la main"
+          ],
+          "answer": 2,
+          "explanation": "Se pencher légèrement en avant montre de l'intérêt tout en restant détendu."
+        },
+        {
+          "id": "q2",
+          "question": "Quand l'évaluation de la posture commence-t-elle souvent ?",
+          "options": [
+            "Seulement une fois assis dans la salle d'entretien",
+            "Pendant que tu attends à l'accueil",
+            "Après la première question",
+            "À la fin, pendant tes questions"
+          ],
+          "answer": 1,
+          "explanation": "On peut t'observer et venir te chercher à tout moment pendant que tu attends."
+        },
+        {
+          "id": "q3",
+          "question": "Quelle est une bonne façon de te cadrer en visio ?",
+          "options": [
+            "À partir du milieu de la poitrine, avec un peu d'espace au-dessus de la tête",
+            "Le visage seul, qui remplit tout l'écran",
+            "En pied, de loin",
+            "La caméra filmant en contre-plongée sous le menton"
+          ],
+          "answer": 0,
+          "explanation": "Un cadrage à partir du milieu de la poitrine, à hauteur des yeux, paraît naturel et professionnel."
+        }
+      ]
+    },
+    {
+      "id": "voice_control",
+      "order": 6,
+      "title": "Voix, débit et ton",
+      "minutes": 4,
+      "premium": true,
+      "pages": [
+        {
+          "title": "Le débit : plus lent que tu ne le penses",
+          "body": "Le stress fait accélérer la plupart des gens, et un débit rapide paraît anxieux et est plus difficile à suivre. Vise un rythme confortable et naturel, et ralentis volontairement pour les chiffres, les noms et les résultats clés. Marquer une pause après une idée importante lui donne du poids. Si tu remarques que tu te précipites, termine ta phrase, respire et reprends un peu plus lentement.",
+          "tip": "Prends une respiration lente avant de commencer chaque réponse."
+        },
+        {
+          "title": "Volume et articulation",
+          "body": "Parle assez fort pour être entendu facilement de l'autre côté de la table, sans forcer. Une voix faible peut être perçue comme un manque d'assurance, surtout dans les grandes salles ou face à un jury. Ouvre bien la bouche et termine tes mots et tes phrases au lieu de laisser ta voix s'éteindre. En visio, teste le niveau de ton micro avant l'appel.",
+          "tip": "Demande « Vous m'entendez bien ? » au début de tout entretien à distance."
+        },
+        {
+          "title": "Ton et énergie",
+          "body": "Une diction plate et monotone rend ennuyeuses même les plus belles réussites. Varie naturellement ton intonation et laisse transparaître un enthousiasme sincère quand tu parles d'un travail que tu as aimé. Sourire en parlant réchauffe ton ton, même au téléphone. Évite de terminer tes affirmations par une intonation montante qui ressemble à une question : cela peut rendre des affirmations assurées hésitantes.",
+          "tip": "Énonce ta réussite clé comme une affirmation, avec une intonation descendante à la fin."
+        },
+        {
+          "title": "Maîtriser le stress dans ta voix",
+          "body": "L'anxiété serre la gorge et rend la respiration superficielle, si bien que ta voix peut trembler ou monter. Avant l'entretien, échauffe ta voix en fredonnant ou en lisant à voix haute pendant quelques minutes. Respire lentement par le ventre plutôt que par la poitrine. Garde de l'eau à portée de main et bois une gorgée pour créer une pause naturelle. S'entraîner à répondre à voix haute apporte une maîtrise que la lecture silencieuse ne peut pas offrir.",
+          "tip": "Utilise la fonction d'entretien d'entraînement pour répéter tes réponses à voix haute, puis réécoute ton débit."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Quand faut-il ralentir volontairement ?",
+          "options": [
+            "Quand tu annonces des chiffres, des noms et des résultats clés",
+            "Seulement pendant les échanges informels",
+            "Jamais : parler vite paraît plus dynamique",
+            "Quand tu réponds à la dernière question"
+          ],
+          "answer": 0,
+          "explanation": "Ralentir sur les détails importants les aide à marquer les esprits."
+        },
+        {
+          "id": "q2",
+          "question": "Quel effet peut avoir une intonation montante à la fin des affirmations ?",
+          "options": [
+            "Elle te donne plus d'autorité",
+            "Elle rend des affirmations assurées hésitantes",
+            "Elle accélère l'entretien",
+            "Elle n'a aucun effet sur ceux qui écoutent"
+          ],
+          "answer": 1,
+          "explanation": "Une intonation montante fait sonner les affirmations comme des questions."
+        },
+        {
+          "id": "q3",
+          "question": "Quelle est une bonne façon de calmer une voix tremblante avant l'entretien ?",
+          "options": [
+            "Boire plusieurs cafés",
+            "Lire tes réponses uniquement en silence",
+            "Fredonner ou lire à voix haute et respirer par le ventre",
+            "Parler le plus bas possible"
+          ],
+          "answer": 2,
+          "explanation": "Les échauffements vocaux et une respiration abdominale lente réduisent les tensions dans la voix."
+        }
+      ]
+    }
+  ]
+}

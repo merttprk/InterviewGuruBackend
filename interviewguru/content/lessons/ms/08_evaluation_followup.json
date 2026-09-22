@@ -1,0 +1,270 @@
+{
+  "id": "evaluation_followup",
+  "order": 8,
+  "icon": "followup",
+  "color": "#F97316",
+  "title": "Selepas Temu Duga",
+  "summary": "Buat susulan secara profesional, belajar daripada setiap temu duga dan uruskan tawaran kerja dengan yakin.",
+  "topics": [
+    {
+      "id": "email_structure",
+      "order": 1,
+      "title": "Menulis E-mel Terima Kasih",
+      "minutes": 3,
+      "premium": false,
+      "pages": [
+        {
+          "title": "Mengapa e-mel terima kasih penting",
+          "body": "E-mel terima kasih yang ringkas ialah cara mudah dan tidak memerlukan banyak usaha untuk menonjol. Ia menunjukkan budi bahasa, mengesahkan minat anda dan memberi anda satu lagi peluang untuk mengingatkan penemu duga mengapa anda sesuai dengan jawatan tersebut. Ia jarang membuatkan anda mendapat kerja dengan sendirinya, tetapi apabila dua calon bersaing rapat, mesej yang teliti boleh meninggalkan tanggapan akhir yang lebih kuat.",
+          "tip": "Hantar dalam tempoh 24 jam, sebaik-baiknya pada hari yang sama."
+        },
+        {
+          "title": "Struktur yang mudah",
+          "body": "Hadkan kepada empat bahagian pendek. Baris subjek seperti 'Terima kasih — temu duga Marketing Coordinator'. Ucapan terima kasih atas masa mereka, dengan menyebut nama penemu duga. Satu atau dua ayat yang mengaitkan topik yang dibincangkan dengan kemahiran anda. Ayat penutup yang mengesahkan minat dan kesediaan anda untuk langkah seterusnya. Keseluruhan e-mel sepatutnya muat pada skrin telefon.",
+          "tip": "Sasarkan kurang daripada 150 patah perkataan; penemu duga yang sibuk menghargai tulisan yang ringkas."
+        },
+        {
+          "title": "Jadikan ia peribadi",
+          "body": "E-mel terima kasih yang umum mudah dikesan. Sebut sesuatu yang khusus daripada perbualan: projek yang mereka terangkan, cabaran yang dihadapi pasukan atau soalan yang menarik minat anda. Contohnya: 'Saya seronok mendengar tentang program orientasi baharu itu; pengalaman saya mereka bentuk semula bahan latihan boleh membantu dalam hal ini.' Butiran khusus menunjukkan anda benar-benar mendengar.",
+          "tip": "Catat dua perkara perbincangan sebaik sahaja temu duga tamat supaya anda boleh menggunakannya."
+        },
+        {
+          "title": "Kesilapan biasa",
+          "body": "Elakkan menyalin mesej yang sama kepada setiap ahli panel; ubah sekurang-kurangnya satu ayat untuk setiap orang. Semak semula nama, ejaan dan nama jawatan. Jangan gunakan e-mel ini untuk mempertahankan jawapan yang lemah secara panjang lebar atau bertanya tentang gaji. Kekalkan nada yang mesra dan profesional, dan jangan hantar susulan berulang kali jika anda belum menerima balasan.",
+          "tip": "Baca e-mel dengan kuat sekali sebelum menghantarnya untuk mengesan kesilapan."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Bilakah anda patut menghantar e-mel terima kasih?",
+          "options": ["Dalam tempoh 24 jam selepas temu duga", "Selepas seminggu", "Hanya jika anda menerima tawaran", "Sebelum temu duga"],
+          "answer": 0,
+          "explanation": "Menghantarnya dalam masa sehari memastikan anda masih segar dalam ingatan penemu duga."
+        },
+        {
+          "id": "q2",
+          "question": "Apakah yang menjadikan e-mel terima kasih bersifat peribadi?",
+          "options": ["Menggunakan templat yang panjang dan formal", "Menyebut perkara khusus daripada perbualan", "Melampirkan CV sekali lagi", "Menyenaraikan semua kelayakan anda"],
+          "answer": 1,
+          "explanation": "Butiran khusus menunjukkan anda mendengar dan mengaitkan perbualan dengan kemahiran anda."
+        },
+        {
+          "id": "q3",
+          "question": "Bagaimanakah anda patut berterima kasih kepada panel tiga orang penemu duga?",
+          "options": ["Hantar satu e-mel yang sama kepada ketiga-tiganya", "Berterima kasih kepada orang paling kanan sahaja", "Tidak perlu berterima kasih kepada panel", "Ubah sekurang-kurangnya satu ayat untuk setiap orang"],
+          "answer": 3,
+          "explanation": "Memperibadikan setiap mesej mengelakkan e-mel yang jelas disalin."
+        }
+      ]
+    },
+    {
+      "id": "email_examples",
+      "order": 2,
+      "title": "Templat E-mel Susulan",
+      "minutes": 4,
+      "premium": false,
+      "pages": [
+        {
+          "title": "Templat terima kasih",
+          "body": "Subjek: Terima kasih — temu duga [Nama Jawatan]. 'Tuan/Puan [Nama], terima kasih kerana meluangkan masa untuk bertemu dengan saya hari ini. Saya amat menghargai perbincangan tentang [topik], dan ia mengukuhkan lagi minat saya terhadap jawatan ini. Pengalaman saya dalam [kemahiran berkaitan] akan membantu saya menyumbang dengan cepat. Sila maklumkan kepada saya jika ada apa-apa lagi yang diperlukan. Sekian, terima kasih. [Nama Anda].'",
+          "tip": "Gantikan setiap kurungan; [Nama] yang terlupa diganti boleh merosakkan tanggapan baik."
+        },
+        {
+          "title": "Bertanya tentang status permohonan",
+          "body": "Jika tarikh keputusan yang dijanjikan telah berlalu, tunggu dua atau tiga hari bekerja, kemudian tulis: 'Tuan/Puan [Nama], semoga anda sihat. Saya ingin membuat susulan tentang temu duga saya bagi jawatan [Nama Jawatan] pada [tarikh]. Saya masih sangat berminat dengan jawatan ini dan amat menghargai sebarang maklumat terkini tentang jadual prosesnya. Terima kasih, [Nama Anda].' Kekal ringkas, positif dan sabar.",
+          "tip": "Buat susulan tidak lebih daripada seminggu sekali supaya tidak kelihatan mendesak."
+        },
+        {
+          "title": "Membalas penolakan",
+          "body": "Balasan yang bersopan memastikan pintu kekal terbuka: 'Tuan/Puan [Nama], terima kasih kerana memaklumkan kepada saya. Walaupun saya kecewa, saya menghargai peluang mengenali [pasukan atau syarikat]. Jika ada kelapangan, saya amat mengalu-alukan sebarang maklum balas. Saya harap kita dapat terus berhubung untuk peluang pada masa hadapan. Salam hormat, [Nama Anda].' Ramai calon tidak pernah membalas, jadi langkah ini membuatkan anda menonjol.",
+          "tip": "Selepas membalas, berhubung dengan penemu duga di rangkaian profesional."
+        },
+        {
+          "title": "Menarik diri daripada proses pengambilan",
+          "body": "Jika anda menerima tawaran lain atau tidak lagi berminat, maklumkan kepada syarikat dengan segera: 'Tuan/Puan [Nama], terima kasih kerana mempertimbangkan saya untuk jawatan [Nama Jawatan]. Saya telah memutuskan untuk menarik balik permohonan saya kerana telah menerima jawatan lain. Saya menghargai masa anda dan berharap kita akan bertemu lagi. Salam sejahtera, [Nama Anda].' Menarik diri dengan sopan melindungi reputasi anda.",
+          "tip": "Anda tidak perlu memberikan sebab yang terperinci; penjelasan ringkas sudah memadai."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Tarikh keputusan telah berlalu tanpa sebarang berita. Bilakah anda patut membuat susulan?",
+          "options": ["Serta-merta pada pagi itu juga", "Selepas dua atau tiga hari bekerja", "Tidak perlu — tunggu sahaja", "Setiap hari sehingga mereka membalas"],
+          "answer": 1,
+          "explanation": "Susulan yang ringkas dan sabar beberapa hari kemudian adalah sopan dan berkesan."
+        },
+        {
+          "id": "q2",
+          "question": "Mengapakah anda patut membalas e-mel penolakan?",
+          "options": ["Untuk meminta mereka mengubah keputusan", "Untuk meluahkan rasa kecewa anda", "Ia memastikan pintu kekal terbuka dan mungkin membawa maklum balas", "Ia diwajibkan oleh undang-undang"],
+          "answer": 2,
+          "explanation": "Balasan yang bersopan meninggalkan tanggapan baik untuk peluang pada masa hadapan."
+        },
+        {
+          "id": "q3",
+          "question": "Apakah yang patut ada dalam e-mel menarik diri?",
+          "options": ["Perbandingan terperinci antara dua tawaran", "Tiada apa-apa — berhenti membalas sahaja", "Permintaan untuk gaji yang lebih tinggi", "Ucapan terima kasih ringkas dan kenyataan jelas bahawa anda menarik diri"],
+          "answer": 3,
+          "explanation": "Penarikan diri yang ringkas dan sopan melindungi reputasi anda."
+        }
+      ]
+    },
+    {
+      "id": "performance_analysis",
+      "order": 3,
+      "title": "Menilai Prestasi Anda",
+      "minutes": 3,
+      "premium": true,
+      "pages": [
+        {
+          "title": "Buat renungan selagi ingatan masih segar",
+          "body": "Dalam tempoh sejam selepas temu duga, luangkan sepuluh minit untuk mencatat apa yang anda ingat: soalan yang ditanya, cara anda menjawab, nama penemu duga dan apa sahaja yang anda pelajari tentang jawatan itu. Butiran cepat hilang dari ingatan. Catatan ini membantu anda menulis e-mel terima kasih, bersedia untuk pusingan seterusnya dan menunjukkan perkara yang perlu anda latih.",
+          "tip": "Gunakan aplikasi nota di telefon anda dalam perjalanan pulang jika tidak dapat duduk dengan segera."
+        },
+        {
+          "title": "Tiga soalan mudah",
+          "body": "Nilai temu duga anda dengan tiga soalan. Apakah yang berjalan dengan baik? Jawapan mana yang terasa jelas dan mendapat reaksi positif? Apakah yang kurang baik? Di mana anda teragak-agak atau bercakap meleret? Apakah yang akan saya lakukan secara berbeza? Jadilah khusus: 'Saya terlupa menyebut hasil jualan dalam cerita kepimpinan saya' jauh lebih berguna daripada 'Saya teruk.'",
+          "tip": "Tulis perkara positif sekurang-kurangnya sama banyak dengan perkara negatif."
+        },
+        {
+          "title": "Lihat keseluruhan proses",
+          "body": "Nilai lebih daripada jawapan anda. Adakah persediaan anda merangkumi topik yang betul? Adakah soalan anda kepada penemu duga bernas? Adakah urusan logistik berjalan lancar? Fikirkan juga tentang syarikat itu: adakah jawatan, pasukan dan budayanya sepadan dengan apa yang anda mahukan? Temu duga ialah penilaian dua hala, dan tanggapan anda penting untuk keputusan anda.",
+          "tip": "Beri skor 1 hingga 10 untuk minat anda terhadap jawatan itu sebaik sahaja temu duga tamat."
+        },
+        {
+          "title": "Elakkan menganalisis secara berlebihan",
+          "body": "Mudah sahaja untuk mengulang tayang satu detik janggal selama berhari-hari. Ingatlah bahawa penemu duga biasanya membentuk tanggapan keseluruhan dan bukannya menumpukan pada satu jawapan, dan calon sering menilai diri sendiri dengan lebih keras berbanding penemu duga. Setelah catatan ditulis dan tindakan penambahbaikan dipilih, lepaskannya. Salurkan tenaga anda kepada permohonan seterusnya atau sesi latihan.",
+          "tip": "Jadikan jawapan anda yang paling lemah sebagai soalan temu duga olok-olok untuk kali seterusnya."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Bilakah masa terbaik untuk membuat renungan selepas temu duga?",
+          "options": ["Minggu berikutnya", "Dalam tempoh sejam, selagi butirannya masih segar", "Hanya selepas mendengar keputusannya", "Sejurus sebelum temu duga seterusnya"],
+          "answer": 1,
+          "explanation": "Butiran cepat hilang dari ingatan, jadi tulis catatan dengan segera."
+        },
+        {
+          "id": "q2",
+          "question": "Nota penilaian kendiri yang manakah paling berguna?",
+          "options": ["Saya teruk", "Bolehlah", "Saya terlupa menyebut hasil jualan dalam cerita kepimpinan saya", "Mereka tidak suka saya"],
+          "answer": 2,
+          "explanation": "Nota yang khusus menunjukkan penambahbaikan yang khusus."
+        },
+        {
+          "id": "q3",
+          "question": "Selain jawapan anda, apakah lagi yang patut anda nilai?",
+          "options": ["Sama ada jawatan, pasukan dan budayanya sepadan dengan apa yang anda mahukan", "Pakaian penemu duga", "Berapa lama lawatan pejabat berlangsung", "Tiada perkara lain yang penting"],
+          "answer": 0,
+          "explanation": "Temu duga adalah dua hala; tanggapan anda terhadap syarikat juga penting."
+        }
+      ]
+    },
+    {
+      "id": "handling_offers",
+      "order": 4,
+      "title": "Menguruskan Tawaran dan Berunding",
+      "minutes": 4,
+      "premium": true,
+      "pages": [
+        {
+          "title": "Lihat pakej secara keseluruhan",
+          "body": "Tawaran kerja lebih daripada gaji pokok. Pertimbangkan bonus, caruman persaraan atau KWSP, insurans kesihatan dan insurans lain, cuti bergaji, kerja fleksibel atau jarak jauh, bajet latihan dan ekuiti jika ditawarkan. Timbang juga jawatan itu sendiri, peluang untuk berkembang, perjalanan ke tempat kerja dan pasukannya. Minta tawaran penuh secara bertulis supaya anda boleh membandingkan pilihan dengan tepat dan mengelakkan salah faham.",
+          "tip": "Senaraikan setiap komponen dalam jadual ringkas untuk membandingkan tawaran secara sebelah-menyebelah."
+        },
+        {
+          "title": "Minta masa",
+          "body": "Anda tidak perlu menerima serta-merta. Ucapkan terima kasih dengan mesra dan minta masa: 'Terima kasih, saya amat gembira menerima tawaran ini. Bolehkah saya diberi masa sehingga hari Jumaat untuk meneliti butirannya?' Beberapa hari hingga seminggu ialah permintaan yang biasa dan munasabah. Gunakan masa itu untuk meneliti pakej, mengkaji gaji lazim bagi jawatan tersebut dan menyediakan soalan.",
+          "tip": "Tunjukkan semangat terhadap jawatan itu walaupun anda sedang meminta masa."
+        },
+        {
+          "title": "Berunding dengan sopan",
+          "body": "Rundingan adalah perkara biasa dan, jika dilakukan dengan hormat, jarang menjejaskan tawaran. Asaskan permintaan anda pada kajian tentang kadar pasaran dan nilai yang anda bawa. Jadilah khusus dan positif: 'Saya teruja dengan jawatan ini. Berdasarkan pengalaman saya dan gaji lazim bagi jawatan yang serupa, adakah gaji sebanyak [jumlah] boleh dipertimbangkan?' Jika gaji sudah tetap, tanya tentang elemen lain seperti cuti, fleksibiliti atau latihan.",
+          "tip": "Nyatakan angka yang khusus dan bukannya meminta 'sedikit lagi'."
+        },
+        {
+          "title": "Terima atau tolak dengan baik",
+          "body": "Apabila anda menerima, sahkan secara bertulis dan semak tarikh mula serta syarat utama. Apabila anda menolak, balas dengan segera dan bersopan: 'Terima kasih atas tawaran dan masa anda. Selepas berfikir dengan teliti, saya telah memutuskan untuk menerima jawatan lain. Saya sangat seronok bertemu dengan pasukan anda dan berharap kita dapat terus berhubung.' Menolak dengan sopan memelihara hubungan untuk masa hadapan.",
+          "tip": "Jangan letak jawatan daripada kerja semasa anda sehingga anda menerima tawaran secara bertulis."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Apakah yang patut anda nilai apabila menerima tawaran kerja?",
+          "options": ["Gaji pokok sahaja", "Nama jawatan sahaja", "Pakej keseluruhan, termasuk faedah, fleksibiliti dan peluang berkembang", "Hanya berapa cepat mereka mahukan jawapan"],
+          "answer": 2,
+          "explanation": "Faedah, fleksibiliti, peluang berkembang dan jawatan itu sendiri semuanya menambah nilai sesebuah tawaran."
+        },
+        {
+          "id": "q2",
+          "question": "Majikan meminta anda membuat keputusan tentang tawaran. Apakah respons yang munasabah?",
+          "options": ["Terima serta-merta tanpa membacanya", "Ucapkan terima kasih dan minta beberapa hari untuk meneliti butirannya", "Tolak untuk mendapatkan tawaran yang lebih baik", "Abaikan mesej itu selama dua minggu"],
+          "answer": 1,
+          "explanation": "Meminta tempoh masa yang singkat dan jelas adalah perkara biasa dan munasabah."
+        },
+        {
+          "id": "q3",
+          "question": "Gaji sudah tetap. Apakah yang masih boleh anda rundingkan?",
+          "options": ["Elemen lain seperti cuti, fleksibiliti atau latihan", "Tiada apa-apa langsung", "Keputusan penemu duga", "Nama jawatan anda sahaja"],
+          "answer": 0,
+          "explanation": "Apabila gaji tidak boleh diubah, bahagian lain dalam pakej selalunya masih boleh."
+        }
+      ]
+    },
+    {
+      "id": "tracking_progress",
+      "order": 5,
+      "title": "Menjejaki Pencarian Kerja Anda",
+      "minutes": 3,
+      "premium": true,
+      "pages": [
+        {
+          "title": "Mengapa perlu menjejaki pencarian kerja",
+          "body": "Apabila anda memohon banyak jawatan, butirannya cepat menjadi kabur. Anda mungkin terlupa versi CV mana yang dihantar, dengan siapa anda bercakap atau bila perlu membuat susulan. Penjejak yang mudah menyimpan segala-galanya di satu tempat, mengelakkan kekeliruan yang memalukan dan menunjukkan bahagian pencarian anda yang berkesan serta yang tersekat. Ia juga menjadikan kemajuan anda kelihatan pada minggu-minggu yang perlahan.",
+          "tip": "Mula menjejak dari permohonan pertama anda, bukan selepas yang kesepuluh."
+        },
+        {
+          "title": "Apa yang perlu direkodkan",
+          "body": "Hamparan elektronik atau aplikasi nota sudah memadai. Untuk setiap permohonan, rekodkan syarikat, jawatan, tarikh memohon, versi CV, orang untuk dihubungi, peringkat semasa, tindakan seterusnya dan tarikhnya. Tambah lajur nota untuk soalan temu duga, maklumat gaji dan tanggapan anda. Simpan juga huraian tugas, kerana iklan jawatan kosong sering dipadamkan sebaik sahaja jawatan itu ditutup.",
+          "tip": "Simpan versi pembina CV yang anda gunakan bagi setiap jawatan supaya jawapan anda sepadan dengan apa yang mereka baca."
+        },
+        {
+          "title": "Gunakan peringkat dan langkah seterusnya",
+          "body": "Berikan setiap permohonan satu peringkat: dipohon, saringan, temu duga, pusingan akhir, tawaran atau ditutup. Setiap permohonan yang masih terbuka juga perlu mempunyai langkah seterusnya berserta tarikh, seperti 'Buat susulan pada 12 Mei' atau 'Sediakan kajian kes'. Semak penjejak anda pada awal setiap minggu supaya tiada apa yang terlepas dan setiap peluang terus bergerak.",
+          "tip": "Gunakan kod warna untuk setiap peringkat supaya anda dapat melihat saluran permohonan anda sepintas lalu."
+        },
+        {
+          "title": "Belajar daripada angka anda",
+          "body": "Selepas sebulan, lihat coraknya. Jika anda menghantar banyak permohonan tetapi menerima sedikit balasan, CV atau sasaran permohonan anda mungkin perlu diperbaiki. Jika anda dipanggil temu duga tetapi jarang sampai ke pusingan akhir, tumpukan pada latihan temu duga. Jika pusingan akhir tidak membuahkan tawaran, semak cara anda menutup temu duga dan membuat susulan. Penjejak anda menunjukkan ke mana usaha anda patut disalurkan seterusnya.",
+          "tip": "Kira peratusan permohonan yang sampai ke peringkat temu duga setiap bulan."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Mengapakah anda perlu menyimpan huraian tugas bagi setiap permohonan?",
+          "options": ["Iklan jawatan sering dipadamkan sebaik sahaja jawatan ditutup", "Majikan meminta anda memulangkannya", "Ia menggantikan CV anda", "Ia diperlukan untuk mengira gaji"],
+          "answer": 0,
+          "explanation": "Anda akan memerlukannya untuk bersedia menghadapi temu duga, dan ia mungkin hilang dari internet."
+        },
+        {
+          "id": "q2",
+          "question": "Apakah yang perlu ada pada setiap permohonan terbuka dalam penjejak anda?",
+          "options": ["Gambar pejabat", "Langkah seterusnya berserta tarikh", "Nombor telefon peribadi penemu duga", "Keputusan akhir yang sudah dibuat"],
+          "answer": 1,
+          "explanation": "Langkah seterusnya yang bertarikh memastikan setiap peluang terus bergerak."
+        },
+        {
+          "id": "q3",
+          "question": "Anda kerap dipanggil temu duga tetapi jarang sampai ke pusingan akhir. Di manakah anda patut memberi tumpuan?",
+          "options": ["Menghantar lebih banyak permohonan", "Menukar kerjaya", "Latihan temu duga", "Menulis e-mel terima kasih yang lebih panjang"],
+          "answer": 2,
+          "explanation": "Corak ini menunjukkan peringkat temu duga ialah tempat usaha anda paling berbaloi."
+        }
+      ]
+    }
+  ]
+}

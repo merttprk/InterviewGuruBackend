@@ -1,0 +1,322 @@
+{
+  "id": "preparation",
+  "order": 2,
+  "icon": "preparation",
+  "color": "#0EA5E9",
+  "title": "Preparação",
+  "summary": "Chegue pronto a toda entrevista: conheça a empresa, a vaga, o seu CV, as suas perguntas e o seu plano para o dia.",
+  "topics": [
+    {
+      "id": "company_research",
+      "order": 1,
+      "title": "Pesquisa sobre a empresa",
+      "minutes": 3,
+      "premium": false,
+      "pages": [
+        {
+          "title": "Por que a pesquisa importa",
+          "body": "Os entrevistadores percebem em poucos minutos se você pesquisou sobre eles. A pesquisa permite relacionar sua experiência aos problemas reais da empresa, responder 'Por que nós?' com detalhes concretos e fazer perguntas mais certeiras. Ela também ajuda você a decidir se realmente quer a vaga. Reserve de 45 a 60 minutos de pesquisa focada para uma primeira entrevista, e mais tempo para as etapas finais.",
+          "tip": "Reúna tudo o que descobrir em uma única página para revisar em cinco minutos antes da entrevista."
+        },
+        {
+          "title": "Onde pesquisar",
+          "body": "Comece pelo site da empresa: a página institucional, os produtos, as notícias recentes e a seção de carreiras. Depois leia os comunicados de imprensa mais recentes ou os destaques do relatório anual, confira a página da empresa no LinkedIn para ver o crescimento e as contratações recentes e leia avaliações de funcionários buscando padrões, não reclamações isoladas. Se a empresa vende um produto que você possa testar, use-o.",
+          "tip": "Pesquise o nome da empresa junto com 'notícias' e foque nos últimos seis meses."
+        },
+        {
+          "title": "O que anotar",
+          "body": "Reúna cinco fatos que você possa realmente usar: o que a empresa vende e para quem, seus principais concorrentes, um acontecimento recente como um lançamento ou uma expansão, seus valores ou sua missão declarados e um desafio que ela parece enfrentar. Para cada fato, escreva uma frase sobre como suas habilidades se relacionam com ele. Fatos sem ligação com você são apenas curiosidades.",
+          "tip": "Se não conseguir ligar um fato à sua experiência ou a uma pergunta, tire-o das suas anotações."
+        },
+        {
+          "title": "Pesquise os seus entrevistadores",
+          "body": "Se souber quem vai entrevistar você, veja o perfil dessas pessoas no LinkedIn. Anote o cargo, há quanto tempo estão na empresa e se há alguma trajetória profissional em comum. Use isso para prever o que é importante para elas: um gestor quer entrega, um colega quer colaboração, um diretor quer impacto. Não mencione detalhes pessoais que encontrar; mantenha tudo estritamente profissional.",
+          "tip": "Peça ao recrutador os nomes e cargos dos entrevistadores, caso ele ainda não tenha informado."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Por que você deve anotar como cada fato pesquisado se relaciona com você?",
+          "options": ["Os entrevistadores avaliam a sua memorização", "Isso deixa suas anotações mais completas", "Fatos sem ligação com suas habilidades são apenas curiosidades", "Os recrutadores pedem para ver suas anotações"],
+          "answer": 2,
+          "explanation": "A pesquisa só ajuda quando você consegue ligá-la à sua experiência ou às suas perguntas."
+        },
+        {
+          "id": "q2",
+          "question": "Qual é a melhor forma de usar as avaliações de funcionários?",
+          "options": ["Citar a avaliação mais dura na entrevista", "Buscar padrões, não reclamações isoladas", "Ignorá-las completamente", "Ler apenas as avaliações de cinco estrelas"],
+          "answer": 1,
+          "explanation": "Uma avaliação é um caso isolado; temas recorrentes dizem algo real sobre a empresa."
+        },
+        {
+          "id": "q3",
+          "question": "O que você deve evitar ao pesquisar seus entrevistadores?",
+          "options": ["Mencionar detalhes pessoais que encontrou", "Conferir o cargo atual deles", "Anotar há quanto tempo trabalham na empresa", "Pedir os nomes deles ao recrutador"],
+          "answer": 0,
+          "explanation": "Use o que encontrar para prever as prioridades deles, mas mantenha a conversa profissional."
+        }
+      ]
+    },
+    {
+      "id": "role_analysis",
+      "order": 2,
+      "title": "Decifrando a descrição da vaga",
+      "minutes": 3,
+      "premium": false,
+      "pages": [
+        {
+          "title": "Leia como um checklist",
+          "body": "A descrição da vaga é a lista de problemas que o empregador quer resolver. Copie o texto para um documento e destaque cada habilidade, ferramenta, responsabilidade e resultado esperado. Depois, separe tudo em dois grupos: os requisitos obrigatórios, geralmente listados primeiro ou repetidos, e os desejáveis, muitas vezes marcados como 'preferencial' ou 'diferencial'. Esse mapa mostra em que a entrevista vai se concentrar.",
+          "tip": "Salve a descrição da vaga ao se candidatar; os anúncios costumam sair do ar antes da entrevista."
+        },
+        {
+          "title": "Identifique as prioridades ocultas",
+          "body": "Preste atenção à repetição e à ordem. Uma habilidade mencionada três vezes importa mais do que uma citada uma única vez. Os verbos revelam o nível: 'apoiar' e 'auxiliar' sugerem uma vaga júnior, enquanto 'ser responsável por', 'liderar' e 'definir' indicam senioridade. Expressões como 'ritmo acelerado' ou 'ambiente com pouca definição' sinalizam que vão testar como você lida com mudanças e pressão.",
+          "tip": "Conte quantas vezes cada habilidade aparece; as duas ou três mais frequentes são os temas centrais da sua entrevista."
+        },
+        {
+          "title": "Associe evidências a cada requisito",
+          "body": "Monte uma tabela simples com duas colunas. À esquerda, liste cada requisito obrigatório. À direita, escreva um exemplo concreto da sua experiência que o comprove, com um resultado ou número sempre que possível. Quando não tiver um exemplo direto, encontre um relacionado que mostre que você aprende rápido. Esses exemplos serão a base das suas respostas na entrevista.",
+          "tip": "Tenha pelo menos uma história para cada requisito obrigatório; uma boa história pode cobrir dois requisitos."
+        },
+        {
+          "title": "Trate as lacunas com honestidade",
+          "body": "Raramente você atende a todas as linhas de uma descrição de vaga, e os empregadores sabem disso. Para cada lacuna, prepare uma resposta curta e honesta: reconheça-a, aponte a experiência mais próxima que você tem e explique como está suprindo essa lacuna, por exemplo com um curso ou um projeto paralelo. Nunca afirme ter uma habilidade que você não consegue demonstrar; uma única pergunta de aprofundamento vai revelar isso.",
+          "tip": "Pratique em voz alta suas respostas sobre lacunas em uma entrevista simulada para que soem tranquilas, e não defensivas."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Qual verbo em uma descrição de vaga mais sugere uma posição sênior?",
+          "options": ["Auxiliar", "Apoiar", "Ser responsável por", "Ajudar"],
+          "answer": 2,
+          "explanation": "Verbos como 'ser responsável por', 'liderar' e 'definir' indicam responsabilidade e senioridade."
+        },
+        {
+          "id": "q2",
+          "question": "O que vai na coluna da direita da sua tabela de evidências?",
+          "options": ["Um exemplo concreto que comprove o requisito", "O salário que você espera", "O nome do entrevistador", "Uma lista dos seus hobbies"],
+          "answer": 0,
+          "explanation": "Cada requisito obrigatório recebe um exemplo específico, de preferência com um resultado ou número."
+        },
+        {
+          "id": "q3",
+          "question": "Qual é a melhor forma de lidar com um requisito que você não atende?",
+          "options": ["Dizer que tem e aprender depois", "Evitar o assunto completamente", "Retirar sua candidatura", "Reconhecê-lo, mostrar sua experiência mais próxima e como está suprindo a lacuna"],
+          "answer": 3,
+          "explanation": "Honestidade aliada a um plano para suprir a lacuna é crível; blefes são revelados pelas perguntas de aprofundamento."
+        }
+      ]
+    },
+    {
+      "id": "cv_preparation",
+      "order": 3,
+      "title": "Adaptando o seu CV",
+      "minutes": 4,
+      "premium": true,
+      "pages": [
+        {
+          "title": "Um único CV não serve para tudo",
+          "body": "Enviar o mesmo CV para todas as vagas reduz suas chances. Os recrutadores muitas vezes dedicam menos de um minuto à primeira leitura, e muitas empresas usam sistemas de rastreamento de candidatos (ATS) que filtram por palavras-chave. Adaptar significa ajustar o resumo, a ordem dos tópicos e a seção de habilidades para que as evidências mais relevantes apareçam primeiro em cada vaga.",
+          "tip": "Mantenha um CV mestre com tudo e, para cada candidatura, corte e reorganize uma cópia."
+        },
+        {
+          "title": "Use a mesma linguagem",
+          "body": "Use os termos exatos da descrição da vaga quando eles descreverem com veracidade a sua experiência. Se o anúncio fala em 'gestão de stakeholders', não escreva apenas 'trabalhei com outras equipes'. Inclua tanto o nome completo quanto a sigla de ferramentas e certificações. Mantenha a formatação simples, com títulos padrão e nenhum texto dentro de imagens, para que os sistemas de rastreamento consigam ler tudo.",
+          "tip": "Cole seu CV em um arquivo de texto simples; o que sumir ou ficar embaralhado pode ser ilegível para o software."
+        },
+        {
+          "title": "Escreva tópicos de conquistas",
+          "body": "Troque atribuições por resultados. Um bom tópico começa com um verbo de ação, descreve o que você fez e mostra o resultado: 'Reduzi em 30% o tempo de processamento de notas fiscais ao automatizar a entrada de dados.' Se não tiver números exatos, use escala, frequência ou abrangência, como tamanho da equipe, número de clientes ou orçamento gerenciado. Coloque o tópico mais relevante em primeiro lugar em cada cargo.",
+          "tip": "Passe seu rascunho pela análise de CV do app para identificar tópicos fracos, com cara de lista de atribuições."
+        },
+        {
+          "title": "Leve-o para a entrevista",
+          "body": "Os entrevistadores vão perguntar sobre qualquer coisa que esteja no seu CV, então releia exatamente a versão que você enviou antes da entrevista. Esteja pronto para aprofundar cada tópico com o contexto, suas ações específicas e o resultado. Leve algumas cópias impressas para entrevistas presenciais e mantenha uma cópia digital aberta nas chamadas de vídeo. Confira se as datas e os cargos batem com o seu perfil no LinkedIn.",
+          "tip": "Salve cada CV adaptado com o nome da empresa no nome do arquivo, para sempre saber qual versão eles têm."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Por que você deve usar as mesmas palavras-chave da descrição da vaga?",
+          "options": ["Sistemas de rastreamento e recrutadores procuram por elas", "Isso deixa o CV mais longo", "Assim você pode pular a seção de habilidades", "Recrutadores preferem parágrafos copiados"],
+          "answer": 0,
+          "explanation": "Termos correspondentes ajudam tanto os filtros de software quanto a leitura rápida humana a encontrar sua experiência relevante."
+        },
+        {
+          "id": "q2",
+          "question": "Qual é o tópico de CV mais forte?",
+          "options": ["Responsável pelas notas fiscais", "Trabalhei em tarefas de processamento de notas fiscais", "Ajudava a equipe financeira diariamente", "Reduzi em 30% o tempo de processamento de notas fiscais ao automatizar a entrada de dados"],
+          "answer": 3,
+          "explanation": "Ele começa com um verbo de ação, diz o que você fez e mostra um resultado mensurável."
+        },
+        {
+          "id": "q3",
+          "question": "Qual escolha de formatação pode impedir que os sistemas de rastreamento leiam seu CV?",
+          "options": ["Títulos padrão", "Texto colocado dentro de imagens", "Tópicos simples", "Uma fonte clara e comum"],
+          "answer": 1,
+          "explanation": "O software muitas vezes não consegue ler texto dentro de imagens, então esse conteúdo pode se perder."
+        }
+      ]
+    },
+    {
+      "id": "questions_to_ask",
+      "order": 4,
+      "title": "Perguntas para fazer ao entrevistador",
+      "minutes": 3,
+      "premium": true,
+      "pages": [
+        {
+          "title": "Por que as suas perguntas importam",
+          "body": "Quase toda entrevista termina com 'Você tem alguma pergunta para nós?' Responder 'Não, acho que vocês já explicaram tudo' transmite pouco interesse. Boas perguntas mostram que você pensou seriamente sobre a vaga, ajudam você a avaliar se quer o trabalho e deixam uma impressão final forte. Prepare cinco ou seis, porque algumas serão respondidas ao longo da conversa.",
+          "tip": "Anote suas perguntas no caderno e vá marcando as que forem respondidas."
+        },
+        {
+          "title": "Perguntas sobre a vaga",
+          "body": "Pergunte como é o sucesso na função: 'O que você esperaria que eu alcançasse nos primeiros 90 dias?' ou 'Como é uma semana típica?' Pergunte sobre os desafios: 'Qual é o maior obstáculo que a pessoa nesta função vai enfrentar?' Essas perguntas trazem informações reais e mostram que você já está pensando em como fazer um bom trabalho.",
+          "tip": "Complemente a resposta com um breve comentário sobre como você abordaria a questão."
+        },
+        {
+          "title": "Perguntas sobre a equipe e o crescimento",
+          "body": "Pergunte como a equipe trabalha: 'Como a equipe divide as tarefas e toma decisões?' Pergunte sobre desenvolvimento: 'Como as pessoas nesta função costumam crescer?' Adapte as perguntas ao entrevistador: pergunte a um futuro gestor sobre o estilo de liderança dele, a um colega sobre a colaboração no dia a dia e a um líder sênior sobre a direção da empresa para os próximos um ou dois anos.",
+          "tip": "Tenha uma pergunta pronta para cada tipo de entrevistador, para nunca se repetir entre as etapas."
+        },
+        {
+          "title": "Perguntas a evitar",
+          "body": "Nas primeiras etapas, evite começar por salário, férias ou benefícios de trabalho remoto; deixe esses temas para quando houver interesse mútuo, a menos que o entrevistador os mencione. Não pergunte nada que seja fácil de encontrar no site da empresa. Evite perguntas de sim ou não, que encerram a conversa. Uma ótima pergunta de fechamento é: 'Há algo no meu histórico que faça você hesitar?'",
+          "tip": "Ouça com atenção a resposta à sua pergunta de fechamento e trate qualquer preocupação com calma, ali mesmo."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Por que preparar cinco ou seis perguntas em vez de apenas duas?",
+          "options": ["Os entrevistadores esperam exatamente seis", "Isso deixa a entrevista mais longa", "Evita falar sobre a vaga", "Algumas já serão respondidas durante a entrevista"],
+          "answer": 3,
+          "explanation": "Ter perguntas extras garante que ainda restem boas perguntas no final."
+        },
+        {
+          "id": "q2",
+          "question": "Qual pergunta é mais adequada ao conversar com o seu futuro gestor?",
+          "options": ["Como você descreveria o seu estilo de liderança?", "O que a empresa vende?", "Quantos dias de férias eu terei?", "Tem estacionamento gratuito?"],
+          "answer": 0,
+          "explanation": "Adapte as perguntas ao entrevistador; um gestor é quem melhor pode descrever como lidera."
+        },
+        {
+          "id": "q3",
+          "question": "Qual é o objetivo de perguntar 'Há algo no meu histórico que faça você hesitar?'",
+          "options": ["Pressionar o entrevistador a fazer uma proposta", "Encerrar a entrevista mais cedo", "Trazer à tona e tratar preocupações enquanto você ainda está na sala", "Perguntar sobre salário de forma indireta"],
+          "answer": 2,
+          "explanation": "Isso dá a você a chance de responder às dúvidas antes que a decisão seja tomada."
+        }
+      ]
+    },
+    {
+      "id": "dress_code",
+      "order": 5,
+      "title": "O que vestir",
+      "minutes": 3,
+      "premium": true,
+      "pages": [
+        {
+          "title": "Siga o padrão da empresa e suba um nível",
+          "body": "A regra mais segura é se vestir um nível mais formal do que os funcionários usam no dia a dia. Se a equipe usa jeans e camiseta, escolha um visual casual elegante. Se usam esporte fino, considere um blazer ou uma roupa mais formal. Confira a página de carreiras e as fotos nas redes sociais da empresa, ou simplesmente pergunte ao recrutador o que as pessoas costumam vestir.",
+          "tip": "Perguntar ao recrutador sobre o código de vestimenta é normal e demonstra bom senso."
+        },
+        {
+          "title": "Caimento, conforto e capricho",
+          "body": "O que mais importa não é o preço, mas que suas roupas estejam limpas, passadas e com bom caimento. Escolha uma roupa que você já usou, para saber que é confortável ficar sentado nela por uma hora. Evite qualquer peça que você fique ajeitando o tempo todo. Mantenha acessórios e perfume discretos e confira se os sapatos estão limpos. Trajes culturais e religiosos são sempre adequados; o padrão é estar bem cuidado.",
+          "tip": "Sente-se com a roupa diante de um espelho para ver como ela fica do ponto de vista do entrevistador."
+        },
+        {
+          "title": "Entrevistas por vídeo",
+          "body": "Vista-se por completo, não só da cintura para cima, caso precise se levantar. Cores lisas e de tom médio costumam ficar melhores na câmera; listras muito finas e estampas pequenas e carregadas podem tremular. Teste a roupa na câmera contra o seu fundo para não se misturar com ele. Uma boa iluminação no rosto e um fundo arrumado também fazem parte da sua apresentação.",
+          "tip": "Faça um teste de câmera de dois minutos no mesmo horário da entrevista para conferir a luz."
+        },
+        {
+          "title": "Prepare tudo no dia anterior",
+          "body": "Escolha e experimente a roupa completa no dia anterior, incluindo os sapatos. Procure manchas, botões faltando ou amassados e resolva enquanto ainda há tempo. Se for viajar, leve um pequeno kit: uma camisa ou blusa extra, lenços removedores de manchas e um pente. Decidir com antecedência elimina uma fonte de estresse no próprio dia.",
+          "tip": "Deixe tudo separado em um só lugar na noite anterior, para que se arrumar não exija nenhuma decisão."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Qual é a regra geral mais segura de vestimenta?",
+          "options": ["Usar sempre a roupa mais formal que você tem", "Vestir-se um nível mais formal do que os funcionários costumam usar", "Usar o que você usa em casa", "Copiar a foto de perfil do entrevistador"],
+          "answer": 1,
+          "explanation": "Um nível acima do padrão do dia a dia transmite respeito sem parecer deslocado."
+        },
+        {
+          "id": "q2",
+          "question": "Qual escolha de roupa costuma funcionar melhor na câmera?",
+          "options": ["Listras muito finas", "Estampas pequenas e carregadas", "Cores lisas e de tom médio", "Uma cor igual à do seu fundo"],
+          "answer": 2,
+          "explanation": "Tons médios lisos ficam limpos na câmera; estampas finas podem tremular e cores iguais ao fundo fazem você se misturar a ele."
+        },
+        {
+          "id": "q3",
+          "question": "Por que escolher uma roupa que você já usou antes?",
+          "options": ["É mais barato", "Roupas novas não são permitidas", "Os entrevistadores percebem roupas novas", "Você sabe que é confortável ficar sentado nela por uma hora"],
+          "answer": 3,
+          "explanation": "Uma roupa já testada significa nenhuma surpresa e nada para ficar ajeitando durante a entrevista."
+        }
+      ]
+    },
+    {
+      "id": "interview_day_logistics",
+      "order": 6,
+      "title": "A véspera e o dia da entrevista",
+      "minutes": 3,
+      "premium": true,
+      "pages": [
+        {
+          "title": "Confirme os detalhes",
+          "body": "Na véspera, releia o convite: data, fuso horário, endereço ou link do vídeo, nomes dos entrevistadores e formato. Planeje o trajeto e verifique o tempo de deslocamento no mesmo horário do dia, com uma margem de pelo menos 30 minutos. Em chamadas de vídeo, teste o link, a câmera, o microfone e a conexão, e tenha um número de telefone para ligar caso a conexão falhe.",
+          "tip": "Confira duas vezes o fuso horário do convite, principalmente em vagas remotas."
+        },
+        {
+          "title": "Arrume a bolsa e revise",
+          "body": "Prepare uma bolsa na noite anterior: cópias impressas do CV, documento de identidade se o prédio exigir, caderno e caneta, água e carregador de celular. Depois faça uma revisão curta, não uma maratona de estudos: suas histórias principais, suas respostas para 'Fale sobre você' e 'Por que esta empresa?' e suas perguntas para eles. Pare cedo o bastante para dormir bem.",
+          "tip": "Uma entrevista simulada curta na noite anterior é suficiente; praticar demais na última hora só aumenta o estresse."
+        },
+        {
+          "title": "Chegue na hora certa",
+          "body": "Em entrevistas presenciais, chegue à região de 15 a 20 minutos antes, mas entre na recepção cerca de 10 minutos antes do início. Chegar muito antes pode pressionar quem vai receber você. Em entrevistas por vídeo, entre um ou dois minutos antes, com tudo já testado. Se for se atrasar por qualquer motivo, avise o recrutador assim que souber, antes do horário marcado.",
+          "tip": "Salve o telefone do recrutador nos seus contatos antes de sair de casa."
+        },
+        {
+          "title": "Todos fazem parte da entrevista",
+          "body": "Seja educado com todas as pessoas que encontrar, da equipe de segurança à recepcionista; algumas empresas pedem a opinião delas. Deixe o celular totalmente no silencioso e guarde-o. Enquanto espera, revise sua página de anotações em vez de ficar rolando o feed. Cumprimente os entrevistadores com um sorriso, uma apresentação clara e contato visual, porque o primeiro minuto define o tom do restante.",
+          "tip": "Aproveite a espera para respirar devagar algumas vezes e reler suas três melhores histórias."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Quando você deve entrar na recepção para uma entrevista presencial?",
+          "options": ["Uma hora antes", "Cerca de 10 minutos antes do início", "Exatamente no horário", "Alguns minutos de atraso não tem problema"],
+          "answer": 1,
+          "explanation": "Chegue à região com antecedência, mas se apresente cerca de 10 minutos antes para não pressionar quem vai receber você."
+        },
+        {
+          "id": "q2",
+          "question": "O que você deve fazer se for se atrasar?",
+          "options": ["Chegar e pedir desculpas no final", "Não dizer nada e torcer para que não percebam", "Enviar um e-mail para remarcar depois do horário de início", "Avisar o recrutador assim que souber, antes do horário marcado"],
+          "answer": 3,
+          "explanation": "Avisar com antecedência é profissional e dá à empresa tempo para se reorganizar."
+        },
+        {
+          "id": "q3",
+          "question": "Que tipo de preparação é melhor na noite anterior?",
+          "options": ["Uma revisão curta das histórias e perguntas principais, seguida de uma boa noite de sono", "Estudar a noite inteira", "Nenhuma preparação", "Reescrever o CV do zero"],
+          "answer": 0,
+          "explanation": "Uma revisão leve mantém as respostas frescas; descansar importa mais do que estudar na última hora."
+        }
+      ]
+    }
+  ]
+}

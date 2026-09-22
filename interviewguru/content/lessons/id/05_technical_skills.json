@@ -1,0 +1,322 @@
+{
+  "id": "technical_skills",
+  "order": 5,
+  "icon": "technical",
+  "color": "#8B5CF6",
+  "title": "Wawancara Teknis per Bidang",
+  "summary": "Siapkan diri untuk sesi teknis di bidangmu, dari soal coding dan valuasi hingga case interview dan tes bakat.",
+  "topics": [
+    {
+      "id": "analysis_method",
+      "order": 1,
+      "title": "Menyusun Struktur Masalah Teknis Apa Pun",
+      "minutes": 3,
+      "premium": false,
+      "pages": [
+        {
+          "title": "Perjelas sebelum menyelesaikan",
+          "body": "Apa pun bidangmu, langkah pertamanya sama: pastikan kamu memahami masalahnya. Ulangi soal dengan kata-katamu sendiri, tanyakan input, batasan, dan output yang diharapkan, lalu konfirmasi asumsi yang kamu buat. Pewawancara sering sengaja membuat soal yang samar untuk melihat apakah kamu bertanya. Langsung melompat ke solusi berisiko membuatmu menyelesaikan masalah yang salah dengan sangat baik.",
+          "tip": "Ucapkan asumsimu dengan jelas: 'Saya asumsikan datanya muat di memori — apakah itu wajar?'"
+        },
+        {
+          "title": "Pecah menjadi beberapa bagian",
+          "body": "Masalah besar jadi lebih mudah dikelola jika dipecah menjadi langkah-langkah kecil. Uraikan rencanamu sebelum mulai: 'Pertama saya hitung bebannya, lalu cek terhadap batasnya, lalu tentukan ukuran komponennya.' Ini menunjukkan cara berpikir yang terstruktur dan memungkinkan pewawancara mengoreksi arahmu sejak awal. Mulailah dengan pendekatan sederhana yang berjalan sebelum mengoptimalkan atau menambah kerumitan.",
+          "tip": "Tuliskan langkah-langkahnya agar kamu dan pewawancara bisa sama-sama mengikutinya."
+        },
+        {
+          "title": "Berpikir sambil bersuara",
+          "body": "Pewawancara menilai cara berpikirmu, bukan hanya jawaban akhirnya. Jelaskan apa yang kamu lakukan dan alasannya, termasuk opsi yang kamu tolak: 'Saya bisa pakai lookup table di sini, tapi rumus lebih sederhana untuk rentang ini.' Jika buntu, sampaikan apa yang sudah kamu coba dan di mana kamu tertahan. Pewawancara sering memberi petunjuk kepada kandidat yang berkomunikasi dengan jelas.",
+          "tip": "Diam yang lama terasa lebih lama bagi pewawancara; terus jelaskan meski kamu belum yakin."
+        },
+        {
+          "title": "Periksa dan refleksikan",
+          "body": "Setelah mendapat jawaban, ujilah. Coba contoh sederhana, kasus ekstrem, atau cek kewajaran singkat: apakah angkanya punya satuan yang benar dan besaran yang masuk akal? Lalu rangkum solusimu dan sebutkan keterbatasannya atau cara kamu akan memperbaikinya jika punya lebih banyak waktu. Menemukan kesalahanmu sendiri lebih mengesankan pewawancara daripada tidak pernah salah sama sekali.",
+          "tip": "Selalu tanyakan pada dirimu, 'Apakah jawaban ini masuk akal di dunia nyata?'"
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Apa yang sebaiknya kamu lakukan pertama kali saat diberi soal teknis?",
+          "options": ["Langsung mulai menghitung", "Memperjelas masalah, batasan, dan asumsi", "Meminta jawabannya", "Menjelaskan pekerjaanmu sebelumnya"],
+          "answer": 1,
+          "explanation": "Memperjelas soal memastikan kamu menyelesaikan masalah yang tepat, dan pewawancara sering menguji hal ini."
+        },
+        {
+          "id": "q2",
+          "question": "Mengapa kamu sebaiknya berpikir sambil bersuara saat menjawab soal teknis?",
+          "options": ["Untuk mengisi waktu sampai wawancara selesai", "Pewawancara hanya menilai jawaban akhir", "Agar pewawancara bisa menilai cara berpikirmu dan memberi petunjuk", "Untuk mencegah pertanyaan lanjutan"],
+          "answer": 2,
+          "explanation": "Cara berpikirmulah yang dinilai, dan komunikasi yang jelas mengundang petunjuk yang berguna."
+        },
+        {
+          "id": "q3",
+          "question": "Apa langkah akhir yang baik setelah mendapat jawaban?",
+          "options": ["Mengujinya dengan contoh atau cek kewajaran", "Lanjut tanpa komentar", "Meminta soal yang lebih sulit", "Menulis ulang dari awal"],
+          "answer": 0,
+          "explanation": "Mengecek dengan contoh dan cek kewajaran bisa menangkap kesalahan sekaligus menunjukkan ketelitian."
+        }
+      ]
+    },
+    {
+      "id": "software_engineering",
+      "order": 2,
+      "title": "Wawancara Software Engineering",
+      "minutes": 4,
+      "premium": false,
+      "pages": [
+        {
+          "title": "Sesi coding",
+          "body": "Sebagian besar wawancara software mencakup live coding di editor bersama atau papan tulis. Kamu dinilai dari pemecahan masalah, kualitas kode, dan komunikasi. Perjelas input dan kasus ekstremnya, jelaskan solusi brute-force, lalu perbaiki. Tulis kode yang bersih dan mudah dibaca dengan nama yang bermakna. Setelah selesai, telusuri satu test case baris demi baris dan sebutkan kompleksitas waktu dan ruangnya.",
+          "tip": "Berlatihlah di editor polos tanpa autocomplete; banyak tools wawancara tidak menyediakannya."
+        },
+        {
+          "title": "Struktur data dan algoritma",
+          "body": "Topik inti muncul berulang kali: array dan string, hash map, stack dan queue, linked list, tree, graph, sorting dan searching, serta rekursi. Ketahui kompleksitas waktu umum dari operasi yang sering dipakai, misalnya lookup rata-rata waktu konstan pada hash map. Belajarlah mengenali pola seperti two pointers, sliding window, dan breadth-first search, alih-alih menghafal soal satu per satu.",
+          "tip": "Saat melihat lookup berulang dalam soal, pertimbangkan apakah hash map bisa membantu."
+        },
+        {
+          "title": "Dasar-dasar system design",
+          "body": "Untuk posisi mid-level dan senior, bersiaplah menghadapi sesi system design: 'Rancang sebuah URL shortener.' Mulailah dari kebutuhan dan skala, lalu gambarkan komponen utamanya — klien, API, layanan, database, cache. Bahas trade-off-nya, seperti SQL versus NoSQL, atau konsistensi versus ketersediaan. Jarang ada satu jawaban yang benar; pewawancara ingin melihat pilihan yang beralasan dan kesadaran akan bottleneck.",
+          "tip": "Perkirakan skalanya terlebih dahulu, seperti jumlah request per detik dan ukuran data."
+        },
+        {
+          "title": "Code review dan diskusi",
+          "body": "Beberapa perusahaan menunjukkan kode yang sudah ada dan memintamu me-review-nya. Carilah bug, penamaan yang tidak jelas, penanganan error yang hilang, masalah keamanan, dan test yang belum ada. Sampaikan masukan dengan sopan dan jelaskan mengapa sebuah perubahan penting. Kamu juga mungkin ditanya tentang proyek-proyekmu sebelumnya: bersiaplah menjelaskan keputusan desainmu, apa yang tidak berjalan lancar, dan apa yang akan kamu lakukan secara berbeda.",
+          "tip": "Siapkan satu proyek yang bisa kamu jelaskan secara mendalam, termasuk trade-off-nya."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Setelah menulis solusimu di sesi coding, apa yang sebaiknya kamu lakukan?",
+          "options": ["Langsung mengirimkannya tanpa komentar", "Menelusuri satu test case dan menyebutkan kompleksitasnya", "Meminta pewawancara mengujinya", "Menghapusnya dan memulai pendekatan baru"],
+          "answer": 1,
+          "explanation": "Menguji kodemu dan menyebutkan kompleksitasnya menunjukkan ketelitian dan pemahaman."
+        },
+        {
+          "id": "q2",
+          "question": "Bagaimana sebaiknya kamu memulai soal system design?",
+          "options": ["Memilih merek database", "Menulis kode untuk API-nya", "Memperjelas kebutuhan dan memperkirakan skala", "Menggambar diagram kelas yang detail"],
+          "answer": 2,
+          "explanation": "Kebutuhan dan skala menentukan setiap keputusan desain berikutnya."
+        },
+        {
+          "id": "q3",
+          "question": "Apa yang perlu kamu cari saat diminta me-review kode?",
+          "options": ["Hanya format dan indentasi", "Nama penulisnya", "Apakah kodenya memakai versi bahasa terbaru", "Bug, penamaan yang tidak jelas, penanganan error, masalah keamanan, dan test"],
+          "answer": 3,
+          "explanation": "Review yang baik mencakup kebenaran, kejelasan, ketangguhan, keamanan, dan pengujian."
+        }
+      ]
+    },
+    {
+      "id": "finance",
+      "order": 3,
+      "title": "Wawancara Keuangan dan Akuntansi",
+      "minutes": 4,
+      "premium": true,
+      "pages": [
+        {
+          "title": "Tiga laporan keuangan",
+          "body": "Bersiaplah menjawab pertanyaan tentang bagaimana laporan laba rugi, neraca, dan laporan arus kas saling terhubung. Laba bersih mengalir dari laporan laba rugi ke bagian atas laporan arus kas dan masuk ke laba ditahan di neraca. Pertanyaan klasiknya: 'Depresiasi naik 10 — jelaskan dampaknya pada ketiga laporan.' Latih jawaban ini dengan bersuara sampai terasa otomatis.",
+          "tip": "Selalu ingat bahwa neraca harus seimbang di akhir penjelasanmu."
+        },
+        {
+          "title": "Dasar-dasar valuasi",
+          "body": "Kuasai metode valuasi utama: discounted cash flow, perusahaan pembanding (comparable companies), dan transaksi preseden. Bersiaplah menjelaskan perbedaan enterprise value dan equity value, serta mengapa DCF mendiskontokan free cash flow masa depan dengan tingkat diskonto seperti weighted average cost of capital. Pewawancara lebih peduli pada pemahamanmu tentang alasan setiap metode digunakan daripada rumus yang dihafal.",
+          "tip": "Pastikan kamu bisa menjelaskan setiap metode dalam dua kalimat kepada orang awam."
+        },
+        {
+          "title": "Tes Excel dan pemodelan",
+          "body": "Banyak posisi keuangan menyertakan tes Excel berwaktu: membangun model sederhana, membersihkan data, atau menjawab pertanyaan dari sebuah dataset. Kuasai fungsi lookup, SUMIFS, pivot table, referensi absolut dan relatif, serta pembuatan grafik dasar. Pisahkan dan beri label yang jelas untuk input, perhitungan, dan output. Model yang rapi dan mudah dicek mendapat nilai lebih baik daripada model cerdas yang tidak bisa diikuti siapa pun.",
+          "tip": "Pelajari shortcut keyboard untuk navigasi; ini menghemat menit-menit berharga saat waktu terbatas."
+        },
+        {
+          "title": "Wawasan pasar",
+          "body": "Kamu mungkin ditanya, 'Ceritakan tentang perusahaan atau transaksi yang kamu ikuti' atau 'Menurutmu ke mana arah suku bunga?' Ikuti berita keuangan secara rutin selama beberapa minggu sebelum wawancara. Siapkan satu perusahaan dan satu tren pasar terbaru yang bisa kamu bahas dengan angka dan opini yang jelas. Tidak apa-apa jika kamu tidak yakin; tunjukkan cara berpikirmu.",
+          "tip": "Siapkan pitch investasi singkat: perusahaannya, pandanganmu, dan dua alasan pendukung."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Ke mana laba bersih mengalir setelah laporan laba rugi?",
+          "options": ["Hanya ke neraca sebagai kas", "Ke bagian atas laporan arus kas dan masuk ke laba ditahan", "Tidak ke mana-mana; tetap di laporan laba rugi", "Langsung ke enterprise value"],
+          "answer": 1,
+          "explanation": "Laba bersih menghubungkan ketiga laporan melalui arus kas dan laba ditahan."
+        },
+        {
+          "id": "q2",
+          "question": "Manakah yang termasuk metode valuasi utama?",
+          "options": ["Discounted cash flow", "Rekrutmen garis lurus", "Penggajian double-entry", "Penghitungan persediaan"],
+          "answer": 0,
+          "explanation": "DCF, perusahaan pembanding, dan transaksi preseden adalah metode intinya."
+        },
+        {
+          "id": "q3",
+          "question": "Apa yang membuat sebuah model mendapat nilai baik dalam tes Excel?",
+          "options": ["Menyembunyikan semua rumus", "Memakai fungsi sebanyak mungkin", "Input, perhitungan, dan output yang terpisah jelas dan berlabel", "Menaruh semuanya di satu sel"],
+          "answer": 2,
+          "explanation": "Struktur yang rapi dan mudah dicek lebih dihargai daripada kecerdikan."
+        }
+      ]
+    },
+    {
+      "id": "engineering_roles",
+      "order": 4,
+      "title": "Wawancara Bidang Teknik",
+      "minutes": 4,
+      "premium": true,
+      "pages": [
+        {
+          "title": "Dasar-dasar dan perhitungan",
+          "body": "Wawancara teknik mesin, elektro, dan sipil sering menguji prinsip dasar dengan perhitungan cepat: tegangan dan regangan, perpindahan panas, hukum Ohm, daya, pembebanan balok, atau aliran fluida. Tunjukkan metodemu dengan jelas, tulis satuan di setiap langkah, dan sebutkan asumsimu. Pendekatan yang benar lebih penting daripada aritmetika yang persis. Buat perkiraan dulu agar kamu bisa mengenali jawaban yang meleset jauh.",
+          "tip": "Tinjau ulang rumus-rumus dasar di bidangmu seminggu sebelumnya."
+        },
+        {
+          "title": "Keselamatan nomor satu",
+          "body": "Pertanyaan tentang keselamatan sering muncul dan dianggap serius. Kamu mungkin ditanya bagaimana kamu menanggapi situasi tidak aman di lokasi kerja, atau apa yang akan kamu lakukan jika sebuah desain tidak memenuhi margin keselamatan. Tunjukkan bahwa kamu akan menghentikan pekerjaan, melakukan eskalasi, dan mengikuti prosedur, bukan mengambil jalan pintas karena tekanan tenggat waktu. Sebutkan penilaian risiko, faktor keamanan, dan langkah perlindungan yang relevan.",
+          "tip": "Jangan pernah menyarankan mengorbankan keselamatan demi jadwal, bahkan secara hipotetis."
+        },
+        {
+          "title": "Standar dan regulasi",
+          "body": "Pekerjaan teknik mengikuti regulasi dan standar, seperti peraturan bangunan nasional, regulasi kelistrikan, atau standar internasional ISO. Kamu tidak perlu menghafalnya, tetapi kamu harus bisa menjelaskan cara menggunakannya: memeriksa desain, mendokumentasikan kepatuhan, dan terus mengikuti pembaruan. Jika kamu menyebut suatu standar, pastikan kamu memahami cakupannya, karena kemungkinan besar akan ada pertanyaan lanjutan.",
+          "tip": "Sebutkan standar yang benar-benar kamu gunakan dalam sebuah proyek dan jelaskan caranya."
+        },
+        {
+          "title": "Membahas proyek",
+          "body": "Bersiaplah menghadapi pertanyaan mendetail tentang proyek dari pekerjaan, magang, atau kuliah. Jelaskan masalahnya, peran spesifikmu, keputusan desain utama, tools yang kamu gunakan, dan hasilnya, idealnya disertai angka. Jujurlah tentang apa yang tidak berjalan lancar dan apa yang kamu pelajari. Bawa gambar teknik atau portofolio jika sesuai, tetapi pastikan tidak ada informasi rahasia di dalamnya.",
+          "tip": "Fitur review CV bisa membantumu mempertajam deskripsi proyek sebelum wawancara."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Apa yang paling penting saat menyelesaikan perhitungan dalam wawancara teknik?",
+          "options": ["Metode yang jelas dengan satuan dan asumsi yang disebutkan", "Aritmetika di luar kepala yang sempurna tanpa menulis", "Selesai lebih cepat dari pewawancara", "Memakai rumus yang paling canggih"],
+          "answer": 0,
+          "explanation": "Metode, satuan, dan asumsi menunjukkan cara berpikir teknik yang solid."
+        },
+        {
+          "id": "q2",
+          "question": "Bagaimana sebaiknya kamu menjawab pertanyaan tentang situasi tidak aman di lokasi kerja?",
+          "options": ["Selesaikan tugas dengan cepat lalu laporkan belakangan", "Abaikan jika tenggat waktu sudah dekat", "Hentikan pekerjaan, lakukan eskalasi, dan ikuti prosedur", "Minta rekan kerja menanganinya diam-diam"],
+          "answer": 2,
+          "explanation": "Pewawancara mencari komitmen yang jelas untuk mengutamakan keselamatan di atas tenggat waktu."
+        },
+        {
+          "id": "q3",
+          "question": "Apa yang perlu kamu perhatikan saat membawa portofolio?",
+          "options": ["Bahwa portofolionya dicetak berwarna", "Bahwa tidak ada informasi rahasia di dalamnya", "Bahwa jumlah halamannya lebih dari lima puluh", "Bahwa isinya hanya karya kuliah"],
+          "answer": 1,
+          "explanation": "Membagikan materi rahasia dari perusahaan sebelumnya adalah tanda bahaya yang serius."
+        }
+      ]
+    },
+    {
+      "id": "case_interviews",
+      "order": 5,
+      "title": "Case Interview",
+      "minutes": 4,
+      "premium": true,
+      "pages": [
+        {
+          "title": "Apa itu case interview",
+          "body": "Konsultan dan banyak posisi bisnis menggunakan case interview: kamu diberi masalah bisnis, seperti 'Laba sebuah peritel turun — mengapa?', lalu memecahkannya bersama pewawancara. Mereka menilai cara berpikir terstruktur, kenyamanan dengan angka, naluri bisnis, dan komunikasi. Case bisa dipandu pewawancara, di mana mereka mengarahkan setiap langkah, atau dipandu kandidat, di mana kamu yang mengendalikan analisisnya.",
+          "tip": "Catat semua angka dan fakta yang diberikan dalam soal."
+        },
+        {
+          "title": "Bangun sebuah struktur",
+          "body": "Setelah memperjelas tujuannya, luangkan waktu sejenak untuk membangun kerangka yang memecah masalah menjadi bagian-bagian yang berbeda. Untuk laba yang turun, pisahkan menjadi pendapatan dan biaya, lalu uraikan masing-masing lebih lanjut. Sesuaikan kerangka dengan case-nya, jangan memaksakan template hafalan. Sampaikan strukturmu dengan jelas sebelum masuk lebih dalam, dan tanyakan area mana yang ingin dibahas pewawancara terlebih dahulu.",
+          "tip": "Minta waktu tiga puluh detik untuk menyusun pikiranmu; itu wajar dan memang diharapkan."
+        },
+        {
+          "title": "Estimasi dan market sizing",
+          "body": "Soal market sizing menanyakan hal seperti, 'Berapa banyak cangkir kopi yang terjual di sebuah kota setiap hari?' Pecah masalahnya menjadi langkah-langkah logis: jumlah penduduk, persentase peminum kopi, cangkir per orang, dan seterusnya. Sebutkan asumsimu, gunakan angka bulat, dan hitung langkah demi langkah. Pewawancara peduli pada logikamu; pendekatan yang masuk akal lebih penting daripada angka yang persis.",
+          "tip": "Cek kewajaran angka akhirmu dengan sesuatu yang kamu ketahui dari kehidupan sehari-hari."
+        },
+        {
+          "title": "Berpikir berbasis hipotesis",
+          "body": "Kandidat yang kuat membentuk hipotesis sejak awal lalu mengujinya: 'Saya menduga kenaikan biaya adalah pendorong utamanya — saya cek data biayanya dulu.' Perbarui pandanganmu seiring datangnya informasi baru. Tutup dengan rekomendasi yang jelas: jawabanmu, dua atau tiga alasan pendukung, risiko, dan langkah selanjutnya. Bicaralah seolah kamu sedang presentasi di depan CEO klien.",
+          "tip": "Latih case secara langsung di simulasi wawancara untuk membangun kecepatan dan struktur."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Bagaimana sebaiknya kamu menggunakan kerangka dalam case interview?",
+          "options": ["Menerapkan satu template hafalan untuk setiap case", "Menghindari struktur agar terlihat kreatif", "Menyesuaikan kerangka dengan masalah yang spesifik", "Membiarkan pewawancara yang menyusunnya untukmu"],
+          "answer": 2,
+          "explanation": "Struktur yang disesuaikan menunjukkan pemikiran nyata; template yang dipaksakan terlihat mekanis."
+        },
+        {
+          "id": "q2",
+          "question": "Dalam soal market sizing, apa yang paling penting?",
+          "options": ["Pendekatan logis dengan asumsi yang disebutkan", "Mengetahui angka resmi yang persis", "Memakai desimal yang presisi", "Menjawab dalam waktu kurang dari sepuluh detik"],
+          "answer": 0,
+          "explanation": "Pewawancara menilai logika dan asumsimu, bukan angka yang persis."
+        },
+        {
+          "id": "q3",
+          "question": "Bagaimana sebaiknya kamu menutup case interview?",
+          "options": ["Dengan merangkum setiap angka yang kamu hitung", "Dengan menanyakan jawabannya kepada pewawancara", "Dengan mengatakan bahwa masih perlu analisis lebih lanjut", "Dengan rekomendasi yang jelas, alasan, risiko, dan langkah selanjutnya"],
+          "answer": 3,
+          "explanation": "Rekomendasi yang tegas dan siap disampaikan ke klien adalah penutup yang diharapkan."
+        }
+      ]
+    },
+    {
+      "id": "test_types",
+      "order": 6,
+      "title": "Tugas Take-Home dan Tes Bakat",
+      "minutes": 3,
+      "premium": true,
+      "pages": [
+        {
+          "title": "Tugas take-home",
+          "body": "Tugas take-home memberimu waktu berjam-jam atau berhari-hari untuk menyelesaikan pekerjaan yang realistis, seperti aplikasi kecil, analisis, atau laporan. Baca brief-nya dengan cermat dan serahkan persis apa yang diminta sebelum menambahkan hal ekstra. Hormati batas waktu yang disarankan. Sertakan catatan singkat yang menjelaskan pendekatanmu, asumsimu, dan apa yang akan kamu perbaiki jika punya lebih banyak waktu.",
+          "tip": "Tanyakan kepada rekruter bagaimana tugas itu akan dinilai sebelum kamu mulai."
+        },
+        {
+          "title": "Penalaran numerik dan verbal",
+          "body": "Tes numerik menggunakan tabel dan grafik untuk menguji persentase, rasio, dan interpretasi data. Tes verbal memberikan sebuah bacaan dan menanyakan apakah suatu pernyataan benar, salah, atau tidak dapat ditentukan dari teks. Untuk soal verbal, gunakan hanya informasi yang diberikan, bukan pengetahuan dari luar. Latihan soal tersedia di banyak tempat, dan terbiasa dengan formatnya sangat meningkatkan kecepatan dan ketepatan.",
+          "tip": "Dalam tes verbal, 'tidak dapat ditentukan' adalah jawaban yang benar jika bacaan tidak membenarkan atau membantah pernyataannya."
+        },
+        {
+          "title": "Tes kepribadian dan situasional",
+          "body": "Kuesioner kepribadian menanyakan bagaimana kamu biasanya bersikap, sedangkan tes penilaian situasional menampilkan skenario di tempat kerja dengan beberapa kemungkinan respons. Jawablah dengan jujur dan konsisten; banyak tools bisa mendeteksi jawaban yang saling bertentangan. Ingat kebutuhan posisinya, tetapi jangan mencoba mengarang kepribadian yang berbeda. Untuk tes situasional, pilih respons yang profesional, kolaboratif, dan langsung menangani masalahnya.",
+          "tip": "Baca nilai-nilai perusahaan sebelumnya; tes situasional sering mencerminkannya."
+        },
+        {
+          "title": "Mengatur waktu",
+          "body": "Sebagian besar tes bakat punya batas waktu ketat dan dirancang agar hanya sedikit orang yang bisa menjawab semua soal. Cek jumlah soal dan bagi waktunya untuk menentukan kecepatan kasar. Jangan terjebak: lewati soal yang sulit dan kembali jika waktunya cukup. Cari tahu apakah jawaban salah dikenai pengurangan nilai; jika tidak, jawab semua soal. Kerjakan tes di tempat yang tenang dengan koneksi yang stabil.",
+          "tip": "Siapkan kalkulator dan kertas coretan jika diperbolehkan."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Apa yang sebaiknya kamu sertakan bersama tugas take-home?",
+          "options": ["Permintaan gaji yang lebih tinggi", "Catatan singkat tentang pendekatan, asumsi, dan kemungkinan perbaikan", "Fitur tambahan sebagai pengganti fitur yang diminta", "Tidak ada apa pun selain kode atau file-nya"],
+          "answer": 1,
+          "explanation": "Menjelaskan cara berpikirmu membantu penilai memahami dan menghargai pekerjaanmu."
+        },
+        {
+          "id": "q2",
+          "question": "Dalam tes penalaran verbal, informasi apa yang sebaiknya kamu gunakan?",
+          "options": ["Pengetahuan umummu tentang topik itu", "Apa yang paling mungkin terjadi di kehidupan nyata", "Hanya informasi yang diberikan dalam bacaan", "Jawaban yang menurutmu disukai perusahaan"],
+          "answer": 2,
+          "explanation": "Tes penalaran verbal menilai pernyataan semata-mata berdasarkan bacaan."
+        },
+        {
+          "id": "q3",
+          "question": "Apa yang sebaiknya kamu lakukan jika terjebak di soal sulit dalam tes berwaktu?",
+          "options": ["Lewati dan kembali jika waktunya cukup", "Terus mengerjakannya sampai terpecahkan", "Mengakhiri tes lebih awal", "Menebak secara acak untuk semua soal yang tersisa"],
+          "answer": 0,
+          "explanation": "Melewati soal menjaga kecepatanmu sehingga kamu bisa menjawab lebih banyak soal secara keseluruhan."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,322 @@
+{
+  "id": "communication_body_language",
+  "order": 4,
+  "icon": "communication",
+  "color": "#10B981",
+  "title": "Kommunikation & Körpersprache",
+  "summary": "Lerne, wie Worte, Stimme und Körper zusammenwirken – damit man sich an das erinnert, was du gesagt hast, und nicht daran, wie nervös du wirktest.",
+  "topics": [
+    {
+      "id": "speaking_techniques",
+      "order": 1,
+      "title": "Klar und auf den Punkt sprechen",
+      "minutes": 3,
+      "premium": false,
+      "pages": [
+        {
+          "title": "Die Antwort zuerst",
+          "body": "An den ersten Satz erinnert man sich am besten, also gehört deine Kernaussage dorthin. Wirst du gefragt, warum du die Stelle willst, beginne mit „Weil sie Datenanalyse mit Kundenarbeit verbindet – und genau das macht mir am meisten Spaß“ und liefere dann die Details nach. Wer mit Hintergrund beginnt und sich langsam zum Punkt vorarbeitet, macht es dem Gegenüber schwer; oft ist die Aufmerksamkeit weg, bevor du ankommst.",
+          "tip": "Überleg dir vor jeder Antwort still den einen Punkt, den dein Gegenüber behalten soll."
+        },
+        {
+          "title": "Nutze eine einfache Struktur",
+          "body": "Struktur macht dich leicht verständlich. Bei Fragen zu deiner Erfahrung: Situation, Handlung, Ergebnis. Bei Meinungsfragen: These, Begründung, Beispiel, These. Setz dabei Wegweiser: „Dafür gibt es zwei Gründe. Erstens … Zweitens …“ Wenn du deine Gedanken nummerierst, weiß dein Gegenüber, wie lange du sprechen wirst, und du bleibst auch mit Nervosität auf Kurs.",
+          "tip": "Wenn du „drei Gründe“ ankündigst, sorg dafür, dass du auch alle drei nennen kannst."
+        },
+        {
+          "title": "Füllwörter streichen",
+          "body": "Wörter wie „eigentlich“, „irgendwie“ und „halt“ verwässern starke Inhalte. Ersetze sie durch eine kurze Pause; Stille wirkt souveräner als Füllwörter. Vermeide internen Fachjargon und Abkürzungen, die dein Gegenüber vielleicht nicht kennt – sag „unsere Kundendatenbank“ statt des internen Systemnamens. Einfache, konkrete Worte lassen deine Erfolge glaubwürdiger klingen, nicht weniger beeindruckend.",
+          "tip": "Nimm eine Antwort im Probeinterview auf und zähl deine Füllwörter."
+        },
+        {
+          "title": "Wissen, wann Schluss ist",
+          "body": "Die meisten Antworten funktionieren am besten mit ein bis zwei Minuten. Lange Antworten begraben deinen stärksten Punkt und nehmen Zeit für weitere Fragen weg. Schließ mit einem klaren Satz ab, der den Bogen zur Stelle schlägt, und hör dann auf zu reden. Wenn du unsicher bist, ob es genug war, frag: „Soll ich auf einen Teil davon näher eingehen?“",
+          "tip": "Fang nach dem Abschluss nicht noch einmal von vorn an; ein souveränes Ende schlägt einen nervösen Nachsatz."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Wo sollte deine Kernaussage in einer Antwort normalerweise stehen?",
+          "options": ["Ganz am Ende, als Fazit", "Im ersten Satz", "Nur wenn dein Gegenüber danach fragt", "In der Mitte, nach dem Hintergrund"],
+          "answer": 1,
+          "explanation": "Wer mit der Antwort beginnt, ist leicht zu verstehen und bleibt im Gedächtnis."
+        },
+        {
+          "id": "q2",
+          "question": "Was ist ein besserer Ersatz für Füllwörter wie „eigentlich“?",
+          "options": ["Schneller sprechen", "Fachjargon einbauen", "Eine kurze Pause", "Die Frage wiederholen"],
+          "answer": 2,
+          "explanation": "Eine kurze Stille wirkt souveräner als Füllwörter."
+        },
+        {
+          "id": "q3",
+          "question": "Wie lang sollten die meisten Antworten im Vorstellungsgespräch sein?",
+          "options": ["Etwa ein bis zwei Minuten", "Unter zehn Sekunden", "Fünf Minuten oder länger", "So lange, bis jedes Detail abgedeckt ist"],
+          "answer": 0,
+          "explanation": "Mit ein bis zwei Minuten bleibt dein stärkster Punkt sichtbar, und es bleibt Zeit für weitere Fragen."
+        }
+      ]
+    },
+    {
+      "id": "active_listening",
+      "order": 2,
+      "title": "Aktives Zuhören",
+      "minutes": 3,
+      "premium": false,
+      "pages": [
+        {
+          "title": "Zuhören ist eine Fähigkeit, die auffällt",
+          "body": "Wie du zuhörst, wird genauso bewertet wie das, was du sagst – denn es zeigt, wie du mit Kollegen und Kunden zusammenarbeiten wirst. Viele schwache Antworten entstehen, weil Bewerbende die Frage beantworten, die sie erwartet haben, statt der, die tatsächlich gestellt wurde. Schenk deinem Gegenüber deine volle Aufmerksamkeit, plane deine Antwort nicht, während es noch spricht, und lass es komplett ausreden.",
+          "tip": "Unterbrich nie – auch nicht, wenn du schon ahnst, worauf die Frage hinausläuft."
+        },
+        {
+          "title": "Zeig, dass du zuhörst",
+          "body": "Signalisiere Aufmerksamkeit mit kleinen, natürlichen Zeichen: Nicke ab und zu, bleib mit deiner Mimik bei der Sache und nutze kurze Rückmeldungen wie „Verstehe“ oder „Das ergibt Sinn“. Lehn dich leicht nach vorn, wenn dein Gegenüber die Stelle oder das Team beschreibt. Im Video müssen diese Signale etwas deutlicher sein, weil feine Bewegungen auf einem kleinen Bildschirm leicht untergehen.",
+          "tip": "Halte dein Handy außer Sicht, damit du nicht in Versuchung kommst, draufzuschauen."
+        },
+        {
+          "title": "Erst klären, dann antworten",
+          "body": "Ist eine Frage sehr offen oder unklar, stell eine kurze Rückfrage: „Meinen Sie einen Konflikt mit einer Führungskraft oder mit einem Kollegen?“ Komplexe Fragen mit eigenen Worten zusammenzufassen, verschafft dir außerdem ein paar Sekunden Bedenkzeit: „Sie möchten also wissen, wie ich priorisiert habe, als sich zwei Deadlines überschnitten haben?“ Nachfragen zeigt Sorgfalt und Präzision; Raten riskiert eine lange Antwort auf die falsche Frage.",
+          "tip": "Eine Rückfrage ist klug; bei jeder Frage nachzuhaken, wirkt wie Zeitschinden."
+        },
+        {
+          "title": "Nutze, was du hörst",
+          "body": "Die besten Bewerbenden greifen die Worte ihres Gegenübers in späteren Antworten wieder auf. Erwähnt es, dass das Team schnell wächst, verbinde deine Erfahrung mit Wachstum: „Sie haben das schnelle Wachstum erwähnt – in meiner letzten Stelle habe ich sechs neue Kolleginnen und Kollegen eingearbeitet.“ Beziehe dich am Ende bei deinen Fragen auf etwas Konkretes, das gesagt wurde. Das beweist, dass du zugehört hast, und macht das Gespräch zu einem echten Austausch.",
+          "tip": "Notiere dir ein oder zwei zentrale Formulierungen, die dein Gegenüber zur Stelle verwendet."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Was ist eine häufige Ursache für schwache Antworten, die mit Zuhören zu tun hat?",
+          "options": ["Zu oft nicken", "Kurze Notizen machen", "Nach den nächsten Schritten fragen", "Die erwartete Frage beantworten statt der gestellten"],
+          "answer": 3,
+          "explanation": "Bewerbende reagieren oft auf eine vermutete Frage, statt der echten zuzuhören."
+        },
+        {
+          "id": "q2",
+          "question": "Was tust du, wenn eine Frage sehr offen oder unklar ist?",
+          "options": ["Eine kurze Rückfrage stellen", "Raten und lange antworten", "Sie überspringen und weitermachen", "Dein Gegenüber bitten, sie dreimal zu wiederholen"],
+          "answer": 0,
+          "explanation": "Eine kurze Rückfrage stellt sicher, dass du die richtige Frage beantwortest."
+        },
+        {
+          "id": "q3",
+          "question": "Wie zeigst du im Verlauf des Gesprächs, dass du zugehört hast?",
+          "options": ["Indem du deinen Lebenslauf Wort für Wort wiederholst", "Indem du dich auf konkrete Aussagen deines Gegenübers beziehst", "Indem du mehr redest als dein Gegenüber", "Indem du jeder Aussage zustimmst"],
+          "answer": 1,
+          "explanation": "Wer die Punkte des Gegenübers in seine Antworten einbaut, beweist aktives Zuhören."
+        }
+      ]
+    },
+    {
+      "id": "eye_contact",
+      "order": 3,
+      "title": "Blickkontakt",
+      "minutes": 3,
+      "premium": true,
+      "pages": [
+        {
+          "title": "Warum Blickkontakt wichtig ist",
+          "body": "Ruhiger Blickkontakt signalisiert Selbstvertrauen, Ehrlichkeit und Interesse. Zu wenig davon kann nervös oder ausweichend wirken; ständiges Anstarren wirkt unangenehm intensiv. Halte den Blickkontakt beim Zuhören die meiste Zeit und beim Sprechen etwas weniger, denn kurz wegzuschauen, um nachzudenken, ist natürlich. Die Erwartungen unterscheiden sich je nach Kultur, also pass dich behutsam dem Stil deines Gegenübers an.",
+          "tip": "Orientier dich am Blickverhalten deines Gegenübers, statt eine starre Regel zu erzwingen."
+        },
+        {
+          "title": "Die Paar-Sekunden-Regel",
+          "body": "Halte den Blickkontakt jeweils etwa drei bis fünf Sekunden und schau dann kurz weg – zur Seite oder auf deine Notizen –, bevor du wieder hinschaust. Dieser Rhythmus wirkt natürlich und verhindert Starren. Ist dir direkter Blickkontakt unangenehm, schau auf den Bereich zwischen den Augen oder auf die Nasenwurzel; aus normaler Entfernung sieht das genauso aus.",
+          "tip": "Üb den Rhythmus in der Woche vor dem Gespräch in alltäglichen Unterhaltungen."
+        },
+        {
+          "title": "Panels und Gruppen",
+          "body": "Bei mehreren Interviewenden schaust du vor allem die Person an, die gefragt hat – besonders am Anfang und am Ende deiner Antwort. Lass deinen Blick in der Mitte zu den anderen Panel-Mitgliedern wandern, um sie einzubeziehen. Ruhigere Panel-Mitglieder zu übersehen, ist ein häufiger Fehler; sie haben bei der Entscheidung womöglich viel zu sagen. Kehr zum Schluss zur fragenden Person zurück.",
+          "tip": "Beende jede Antwort mit Blick auf die Person, die die Frage gestellt hat."
+        },
+        {
+          "title": "Blickkontakt im Video",
+          "body": "Wenn du im Video auf das Gesicht deines Gegenübers auf dem Bildschirm schaust, wirkt es, als würdest du nach unten oder zur Seite blicken. Für echten Blickkontakt schau beim Sprechen in die Kameralinse, besonders bei wichtigen Punkten. Wirf beim Zuhören einen Blick auf den Bildschirm, um Reaktionen zu erkennen. Wenn du das Videofenster direkt unter der Kamera platzierst, wird der Abstand zwischen beiden kleiner.",
+          "tip": "Kleb einen kleinen Haftzettel neben die Linse, der dich daran erinnert."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Wie lange solltest du den Blickkontakt typischerweise halten, bevor du kurz wegschaust?",
+          "options": ["Weniger als eine Sekunde", "Etwa drei bis fünf Sekunden", "Die ganze Antwort ohne Unterbrechung", "Rund dreißig Sekunden"],
+          "answer": 1,
+          "explanation": "Ein Rhythmus von drei bis fünf Sekunden wirkt natürlich und verhindert Starren."
+        },
+        {
+          "id": "q2",
+          "question": "Wohin solltest du im Panel-Interview am Ende deiner Antwort schauen?",
+          "options": ["Zur ranghöchsten Person", "Auf deine Notizen", "An die Decke", "Zur Person, die die Frage gestellt hat"],
+          "answer": 3,
+          "explanation": "Beginne und ende mit der fragenden Person und bezieh die anderen in der Mitte ein."
+        },
+        {
+          "id": "q3",
+          "question": "Wie stellst du im Videointerview Blickkontakt her?",
+          "options": ["Auf das Gesicht deines Gegenübers auf dem Bildschirm schauen", "Auf deine eigene Videovorschau schauen", "Beim Sprechen in die Kameralinse schauen", "Die Augen schließen, um dich zu konzentrieren"],
+          "answer": 2,
+          "explanation": "Nur über die Linse nimmt dein Gegenüber deinen Blick als Blickkontakt wahr."
+        }
+      ]
+    },
+    {
+      "id": "gestures",
+      "order": 4,
+      "title": "Gestik und Hände",
+      "minutes": 3,
+      "premium": true,
+      "pages": [
+        {
+          "title": "Hände helfen beim Denken",
+          "body": "Natürliche Gesten lassen dich entspannt wirken und helfen dir, Worte zu finden – lass deine Hände also nicht erstarren. Forschung zum Sprechen zeigt, dass Gestik den Redefluss unterstützt. Ziel ist kontrollierte, bewusste Bewegung: Gesten, die einen Punkt betonen oder Größe, Reihenfolge oder Gegensätze zeigen. Zufällige, sich wiederholende Bewegungen lenken von deinen Worten ab und signalisieren Nervosität.",
+          "tip": "Lass deine Hände beim Sprechen mitgehen und bring sie danach in eine Ruheposition zurück."
+        },
+        {
+          "title": "Die Gestik-Zone",
+          "body": "Halte die meisten Gesten im Bereich zwischen Brust und Taille, etwa in deiner Körperbreite. Bewegungen in dieser Zone wirken ruhig und souverän. Sehr große Gesten über Schulterhöhe können in einem kleinen Raum theatralisch wirken. Offene, leicht nach oben gedrehte Handflächen signalisieren Ehrlichkeit und Offenheit, während ein auf dein Gegenüber gerichteter Zeigefinger aggressiv wirken kann.",
+          "tip": "Halte deine Gesten im Video etwas höher, damit sie im Bildausschnitt bleiben."
+        },
+        {
+          "title": "Angewohnheiten, die du vermeiden solltest",
+          "body": "Nervöse Angewohnheiten ziehen Aufmerksamkeit ab: mit dem Stift tippen oder klicken, dir ins Gesicht oder an die Haare fassen, mit Schmuck spielen oder die Arme fest verschränken. Verschränkte Arme können abwehrend wirken, selbst wenn dir einfach nur kalt ist. Ein Stift, den du nicht brauchst, lädt zum Herumspielen ein. Die Hände komplett unter dem Tisch zu verstecken, kann verschlossen oder unwohl wirken.",
+          "tip": "Wenn du zum Herumspielen neigst, halte nichts in der Hand, was du nicht benutzt."
+        },
+        {
+          "title": "Eine ruhige Ausgangsposition",
+          "body": "Wenn du gerade nicht gestikulierst, leg deine Hände locker auf den Tisch oder in den Schoß, die Finger leicht zusammen. Diese neutrale Basis macht jede Geste, die du einsetzt, bedeutsamer. Biete zu Beginn und am Ende einen festen, kurzen Händedruck an, wenn das üblich ist, und richte dich nach deinem Gegenüber, wo Begrüßungen anders ablaufen. Halte deine Hände trocken und entspannt.",
+          "tip": "Überprüfe deine Handgewohnheiten anhand der Aufnahme eines Probeinterviews."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Warum solltest du deine Hände nicht komplett erstarren lassen?",
+          "options": ["Interviewende verlangen Gesten", "Natürliche Gesten helfen dir, flüssig zu sprechen und entspannt zu wirken", "Es gilt überall als unhöflich", "Die Antworten werden dadurch kürzer"],
+          "answer": 1,
+          "explanation": "Kontrollierte, natürliche Gesten unterstützen das Sprechen und wirken souverän."
+        },
+        {
+          "id": "q2",
+          "question": "Wo sollten die meisten deiner Gesten bleiben?",
+          "options": ["Über deinem Kopf", "Unter dem Tisch, außer Sicht", "Zwischen Brust und Taille, etwa in Körperbreite", "Auf dein Gegenüber gerichtet"],
+          "answer": 2,
+          "explanation": "Die Zone zwischen Brust und Taille wirkt ruhig und kontrolliert."
+        },
+        {
+          "id": "q3",
+          "question": "Welche nervöse Angewohnheit lenkt Interviewende ab?",
+          "options": ["Mit dem Stift klicken", "Die Hände auf den Tisch legen", "Offene Handflächen zeigen", "Eine Reihenfolge mit den Fingern zeigen"],
+          "answer": 0,
+          "explanation": "Sich wiederholende Bewegungen wie Stiftklicken lenken von deiner Antwort ab."
+        }
+      ]
+    },
+    {
+      "id": "posture_tips",
+      "order": 5,
+      "title": "Selbstbewusste Haltung",
+      "minutes": 3,
+      "premium": true,
+      "pages": [
+        {
+          "title": "Die Haltung spricht zuerst",
+          "body": "Noch bevor du ein Wort sagst, verrät deine Haltung, wie du dich fühlst. Zusammengesunken wirkst du energielos oder desinteressiert; kerzengerade und steif wirkst du ängstlich. Ziel ist entspannt und wach: Rücken an oder nahe der Stuhllehne, Schultern locker unten und offen, Füße flach auf dem Boden. Eine gute Haltung hilft dir auch, richtig zu atmen – und das stabilisiert deine Stimme.",
+          "tip": "Roll die Schultern einmal nach hinten und unten, bevor du den Raum betrittst."
+        },
+        {
+          "title": "Richtig sitzen",
+          "body": "Setz dich eher nach hinten auf den Stuhl und neige den Oberkörper leicht nach vorn; das signalisiert Engagement, ohne aufdringlich zu wirken. Lehn dich nicht weit zurück, das kann zu lässig wirken, und hock nicht auf der Stuhlkante, das wirkt nervös. Halte die Beine ruhig – an den Knöcheln gekreuzt oder beide Füße flach auf dem Boden funktioniert beides. Verteile deine Sachen nicht auf dem Tisch deines Gegenübers.",
+          "tip": "Lehn dich leicht nach vorn, wenn dein Gegenüber über die Stelle spricht."
+        },
+        {
+          "title": "Ankommen und warten",
+          "body": "Die Bewertung beginnt oft schon im Empfangsbereich. Sitz beim Warten aufrecht und scroll nicht mit gesenktem Kopf auf dem Handy; man könnte dich jederzeit abholen. Wenn dein Name aufgerufen wird, steh auf, lächle und geh in ruhigem Tempo. Trag deine Tasche in der linken Hand, damit die rechte für eine Begrüßung frei ist, falls dir die Hand gereicht wird.",
+          "tip": "Behandle alle, denen du begegnest, auch das Empfangspersonal, als Teil des Gesprächs."
+        },
+        {
+          "title": "Haltung im Video",
+          "body": "Wähl vor der Kamera einen Bildausschnitt ab der Brustmitte aufwärts mit etwas Platz über dem Kopf. Setz dich auf einen stabilen Stuhl, nicht aufs Sofa oder Bett, damit du nicht einsinkst. Stell deinen Bildschirm auf Augenhöhe, damit du nicht nach unten schaust. Dreh oder schaukle nicht auf dem Bürostuhl; die Bewegung wirkt vor der Kamera übertrieben und lenkt ab.",
+          "tip": "Stell die Höhe des Drehstuhls fest und setz beide Füße fest auf, bevor du dich einwählst."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Welche Sitzhaltung signalisiert am besten entspanntes Engagement?",
+          "options": ["Weit zurückgelehnt mit ausgestreckten Beinen", "Auf der Stuhlkante hocken", "Hinten auf dem Stuhl sitzen und leicht nach vorn geneigt", "Den Kopf auf die Hand stützen"],
+          "answer": 2,
+          "explanation": "Eine leichte Neigung nach vorn zeigt Interesse und wirkt trotzdem entspannt."
+        },
+        {
+          "id": "q2",
+          "question": "Wann beginnt die Bewertung deiner Haltung oft?",
+          "options": ["Erst wenn du im Gesprächsraum sitzt", "Während du am Empfang wartest", "Nach der ersten Frage", "Am Ende, bei deinen Fragen"],
+          "answer": 1,
+          "explanation": "Beim Warten wirst du womöglich beobachtet und kannst jederzeit abgeholt werden."
+        },
+        {
+          "id": "q3",
+          "question": "Welcher Bildausschnitt ist im Video gut?",
+          "options": ["Ab der Brustmitte aufwärts mit etwas Platz über dem Kopf", "Nur das Gesicht, bildschirmfüllend", "Der ganze Körper aus der Entfernung", "Eine Kamera, die von unterhalb des Kinns nach oben filmt"],
+          "answer": 0,
+          "explanation": "Ein Ausschnitt ab der Brustmitte auf Augenhöhe wirkt natürlich und professionell."
+        }
+      ]
+    },
+    {
+      "id": "voice_control",
+      "order": 6,
+      "title": "Stimme, Tempo und Tonfall",
+      "minutes": 4,
+      "premium": true,
+      "pages": [
+        {
+          "title": "Tempo: langsamer, als du denkst",
+          "body": "Nervosität beschleunigt die meisten Menschen, und schnelles Sprechen klingt ängstlich und ist schwerer zu verstehen. Ziel ist ein angenehmes Gesprächstempo; werde bei Zahlen, Namen und wichtigen Ergebnissen bewusst langsamer. Eine Pause nach einem wichtigen Punkt verleiht ihm Gewicht. Merkst du, dass du hetzt, beende deinen Satz, atme durch und sprich etwas langsamer weiter.",
+          "tip": "Atme vor jeder Antwort einmal langsam durch."
+        },
+        {
+          "title": "Lautstärke und Deutlichkeit",
+          "body": "Sprich so laut, dass man dich über den Tisch hinweg mühelos versteht, ohne dich anzustrengen. Leise Stimmen werden oft als mangelndes Selbstvertrauen gedeutet, besonders in größeren Räumen oder im Panel. Öffne den Mund richtig und sprich Wort- und Satzenden vollständig aus, statt leiser zu werden. Teste im Video vor dem Gespräch den Pegel deines Mikrofons.",
+          "tip": "Frag zu Beginn jedes Remote-Gesprächs: „Können Sie mich gut hören?“"
+        },
+        {
+          "title": "Tonfall und Energie",
+          "body": "Eine flache, monotone Sprechweise lässt selbst starke Erfolge langweilig klingen. Variiere deine Tonhöhe natürlich und lass echte Begeisterung durchscheinen, wenn du über Arbeit sprichst, die dir Spaß gemacht hat. Lächeln beim Sprechen macht deine Stimme wärmer, sogar am Telefon. Vermeide es, Aussagen mit steigender Tonhöhe zu beenden, als wären es Fragen; das lässt selbstbewusste Aussagen unsicher wirken.",
+          "tip": "Sprich deinen wichtigsten Erfolg als Aussage aus, mit fallender Tonhöhe am Ende."
+        },
+        {
+          "title": "Nervosität in der Stimme in den Griff bekommen",
+          "body": "Anspannung schnürt die Kehle zu und macht die Atmung flach, sodass deine Stimme zittern oder höher werden kann. Wärm dich vor dem Gespräch ein paar Minuten auf, indem du summst oder laut vorliest. Atme langsam in den Bauch statt in die Brust. Halte Wasser bereit und nimm einen Schluck, um eine natürliche Pause zu schaffen. Antworten laut zu üben, bringt eine Kontrolle, die stilles Lesen nicht bieten kann.",
+          "tip": "Üb deine Antworten mit dem Probeinterview laut und hör dir danach dein Tempo an."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Wann solltest du bewusst langsamer sprechen?",
+          "options": ["Wenn du Zahlen, Namen und wichtige Ergebnisse nennst", "Nur beim Small Talk", "Nie; schneller klingt energischer", "Bei der Antwort auf die letzte Frage"],
+          "answer": 0,
+          "explanation": "Wer bei wichtigen Details langsamer wird, sorgt dafür, dass sie ankommen."
+        },
+        {
+          "id": "q2",
+          "question": "Welche Wirkung kann eine steigende Tonhöhe am Ende von Aussagen haben?",
+          "options": ["Du klingst dadurch souveräner", "Selbstbewusste Aussagen klingen unsicher", "Das Gespräch wird schneller", "Sie hat keine Wirkung auf die Zuhörenden"],
+          "answer": 1,
+          "explanation": "Eine steigende Satzmelodie lässt Aussagen wie Fragen klingen."
+        },
+        {
+          "id": "q3",
+          "question": "Wie beruhigst du eine zittrige Stimme vor dem Gespräch am besten?",
+          "options": ["Mehrere Kaffees trinken", "Deine Antworten nur still lesen", "Summen oder laut vorlesen und in den Bauch atmen", "So leise wie möglich sprechen"],
+          "answer": 2,
+          "explanation": "Stimmübungen und langsame Bauchatmung lösen die Anspannung in der Stimme."
+        }
+      ]
+    }
+  ]
+}

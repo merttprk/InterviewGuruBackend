@@ -1,0 +1,412 @@
+{
+  "id": "interview_types",
+  "order": 1,
+  "icon": "interview",
+  "color": "#4F46E5",
+  "title": "Types d'entretien",
+  "summary": "Sache à quoi t'attendre pour chaque format d'entretien, du bref appel de présélection à l'entretien avec un jury.",
+  "topics": [
+    {
+      "id": "phone_interview",
+      "order": 1,
+      "title": "Entretien téléphonique",
+      "minutes": 3,
+      "premium": false,
+      "pages": [
+        {
+          "title": "À quoi sert un appel de présélection",
+          "body": "L'entretien téléphonique est généralement le premier filtre. Un recruteur ou un responsable du recrutement consacre 15–30 minutes à vérifier trois points : ton expérience correspond-elle au poste, tes attentes en matière de salaire et de lieu sont-elles réalistes, et communiques-tu clairement ? Il va rarement en profondeur ; son rôle est de décider qui passe à l'étape suivante.",
+          "tip": "Traite-le comme un vrai entretien. Beaucoup de candidats sont éliminés à ce stade parce qu'ils le prennent à la légère."
+        },
+        {
+          "title": "Prépare ton environnement",
+          "body": "Choisis une pièce calme, charge ton téléphone et vérifie le réseau avant l'appel. Garde devant toi ton CV, l'offre d'emploi et une courte liste de tes réalisations : ton interlocuteur ne voit pas tes notes, alors profites-en. Garde de l'eau à portée de main et désactive les notifications de ton ordinateur.",
+          "tip": "Parle debout ou assis bien droit ; ta voix paraîtra plus dynamique."
+        },
+        {
+          "title": "Ta voix est ton langage corporel",
+          "body": "Sans indices visuels, c'est le ton et le rythme qui portent ton message. Souris en parlant : cela s'entend. Marque une courte pause avant de répondre au lieu de combler le silence avec des « euh ». Limite tes réponses à environ 60–90 secondes et vérifie les attentes : « Voulez-vous plus de détails sur ce projet ? »",
+          "tip": "Enregistre-toi sur ton téléphone en répondant à une question et réécoute-toi une fois."
+        },
+        {
+          "title": "Termine bien l'appel",
+          "body": "Vers la fin, pose une ou deux questions sur le poste et les prochaines étapes : « Comment se déroule la suite du processus ? » Remercie ton interlocuteur en l'appelant par son nom. Dans les heures qui suivent, envoie un court e-mail pour réaffirmer ton intérêt et donner une raison pour laquelle tu corresponds au poste.",
+          "tip": "Note le nom de ton interlocuteur et les points clés pendant l'appel."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Quel est l'objectif principal d'un appel de présélection ?",
+          "options": [
+            "Négocier le salaire final",
+            "Filtrer les candidats sur l'adéquation de base et la communication",
+            "Tester des compétences techniques avancées",
+            "Rencontrer toute l'équipe"
+          ],
+          "answer": 1,
+          "explanation": "Les appels de présélection sont un premier filtre : adéquation de base, attentes et communication."
+        },
+        {
+          "id": "q2",
+          "question": "Quel est un véritable avantage de l'entretien téléphonique ?",
+          "options": [
+            "Tu peux garder tes notes devant toi",
+            "Tu peux te passer de préparation",
+            "Le langage corporel ne compte pas du tout",
+            "Tu peux répondre en marchant dehors"
+          ],
+          "answer": 0,
+          "explanation": "Ton interlocuteur ne te voit pas, donc ton CV et tes notes peuvent être juste devant toi."
+        },
+        {
+          "id": "q3",
+          "question": "Combien de temps doit durer une réponse type au téléphone ?",
+          "options": [
+            "10 secondes",
+            "Environ 60–90 secondes",
+            "Au moins 5 minutes",
+            "Le plus longtemps possible"
+          ],
+          "answer": 1,
+          "explanation": "Des réponses courtes et structurées maintiennent l'attention ; propose plus de détails si ton interlocuteur le souhaite."
+        }
+      ]
+    },
+    {
+      "id": "video_interview",
+      "order": 2,
+      "title": "Entretien vidéo",
+      "minutes": 3,
+      "premium": false,
+      "pages": [
+        {
+          "title": "Deux types d'entretien vidéo",
+          "body": "Les entretiens vidéo en direct se déroulent sur Zoom, Teams ou Google Meet avec une vraie personne. Les entretiens différés (enregistrés) t'affichent une question et te laissent un temps fixe pour enregistrer ta réponse, souvent avec une seule nouvelle tentative, voire aucune. Les deux sont évalués comme un entretien en personne, mais les problèmes techniques relèvent de ta responsabilité.",
+          "tip": "Demande quelle plateforme sera utilisée et installe-la la veille."
+        },
+        {
+          "title": "Caméra, lumière et son",
+          "body": "Place la caméra à hauteur des yeux, quitte à surélever ton ordinateur portable avec des livres. Mets-toi face à une fenêtre ou à une lampe pour que la lumière éclaire ton visage, et non ton dos. Utilise un casque avec micro pour éviter l'écho. Un arrière-plan uni et rangé vaut mieux qu'un fond virtuel qui scintille autour de tes cheveux.",
+          "tip": "Fais un appel test avec un ami et demande-lui comment il te voit et t'entend."
+        },
+        {
+          "title": "Regarder la caméra",
+          "body": "En vidéo, établir un contact visuel signifie regarder l'objectif, et non le visage de ton interlocuteur à l'écran. Rapproche la fenêtre vidéo de la caméra pour réduire l'écart. Hoche la tête et réagis un peu plus qu'en personne ; les signaux subtils se perdent en vidéo.",
+          "tip": "Colle une petite gommette à côté de l'objectif pour penser à regarder à cet endroit."
+        },
+        {
+          "title": "Quand quelque chose tourne mal",
+          "body": "Si la connexion coupe, reconnecte-toi rapidement et dis calmement : « Désolé, j'ai perdu la connexion. Pourriez-vous répéter la dernière question ? » Garde le numéro de téléphone ou l'e-mail de ton interlocuteur à portée de main en solution de secours. Rester calme face à un problème technique est en soi un signal positif.",
+          "tip": "Ferme les autres applications et mets en pause les sauvegardes dans le cloud pour économiser la bande passante."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Où dois-tu regarder pour établir un contact visuel lors d'un entretien vidéo ?",
+          "options": [
+            "Dans les yeux de ton interlocuteur à l'écran",
+            "Ta propre vidéo",
+            "L'objectif de la caméra",
+            "Tes notes"
+          ],
+          "answer": 2,
+          "explanation": "C'est en regardant l'objectif que l'autre personne a l'impression d'un contact visuel."
+        },
+        {
+          "id": "q2",
+          "question": "Quel est le meilleur éclairage ?",
+          "options": [
+            "Une fenêtre lumineuse derrière toi",
+            "Une lumière face à toi, sur ton visage",
+            "Une pièce sombre pour que l'écran éclaire",
+            "Uniquement le plafonnier"
+          ],
+          "answer": 1,
+          "explanation": "Une lumière de face garde ton visage visible ; un contre-jour te transforme en silhouette."
+        },
+        {
+          "id": "q3",
+          "question": "Ta connexion coupe au milieu d'une réponse. Que dois-tu faire ?",
+          "options": [
+            "Attendre qu'on te rappelle",
+            "Te reconnecter rapidement et demander calmement de répéter la question",
+            "Mettre fin à l'entretien",
+            "Envoyer plus tard un e-mail d'excuses"
+          ],
+          "answer": 1,
+          "explanation": "Te reconnecter calmement montre que tu gères bien les imprévus."
+        }
+      ]
+    },
+    {
+      "id": "face_to_face_interview",
+      "order": 3,
+      "title": "Entretien en personne",
+      "minutes": 3,
+      "premium": false,
+      "pages": [
+        {
+          "title": "L'entretien commence dès la porte",
+          "body": "Un entretien en personne commence dès ton arrivée. On demande souvent leur impression aux personnes de l'accueil et à celles que tu croises dans l'ascenseur. Arrive 10 minutes en avance, pas 30, et sois poli avec tout le monde. Profite de l'attente pour calmer ta respiration et revoir tes trois histoires clés.",
+          "tip": "Prépare ton itinéraire la veille et prévois une marge pour la circulation."
+        },
+        {
+          "title": "La première impression",
+          "body": "Une poignée de main ferme (sans écraser), un contact visuel et un sourire sincère donnent le ton dès les premières secondes. Attends qu'on t'invite à t'asseoir. Pose ton sac par terre, pas sur la table, et garde ton téléphone en silencieux et hors de vue.",
+          "tip": "Dis le prénom de ton interlocuteur en le saluant : « Ravi de vous rencontrer, Sara. »"
+        },
+        {
+          "title": "Sentir l'ambiance",
+          "body": "En face à face, tu as un retour en direct. Si ton interlocuteur se penche en avant, tu es sur la bonne voie ; s'il jette un œil à l'horloge ou à ses notes, conclus ta réponse. Adapte légèrement ton énergie et ton niveau de formalité aux siens : cela crée une connexion.",
+          "tip": "Garde un carnet avec tes questions préparées ; prendre quelques notes montre ton implication."
+        },
+        {
+          "title": "Observe aussi l'entreprise",
+          "body": "Une visite des locaux est l'occasion d'évaluer la culture. Comment les gens se parlent-ils ? L'ambiance est-elle calme ou tendue ? Semblent-ils aimer leur travail ? Toi aussi, tu décides si tu veux travailler là.",
+          "tip": "Demande à voir où l'équipe travaille si on ne te le propose pas."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Quand dois-tu arriver à un entretien en personne ?",
+          "options": [
+            "Pile à l'heure",
+            "Environ 10 minutes en avance",
+            "45 minutes en avance",
+            "Quelques minutes de retard, ce n'est pas grave"
+          ],
+          "answer": 1,
+          "explanation": "Dix minutes d'avance montrent du respect sans mettre la pression à la personne qui t'accueille."
+        },
+        {
+          "id": "q2",
+          "question": "Pourquoi être poli avec la personne de l'accueil ?",
+          "options": [
+            "Cela n'a aucune importance",
+            "Son impression peut être transmise à l'équipe de recrutement",
+            "C'est elle qui prend la décision d'embauche",
+            "Pour obtenir une meilleure place de parking"
+          ],
+          "answer": 1,
+          "explanation": "Beaucoup d'entreprises demandent au personnel d'accueil comment les candidats se sont comportés."
+        },
+        {
+          "id": "q3",
+          "question": "Ton interlocuteur regarde sans cesse l'horloge pendant que tu parles. Que dois-tu faire ?",
+          "options": [
+            "Parler plus vite",
+            "Conclure ta réponse de façon concise",
+            "Lui demander s'il s'ennuie",
+            "L'ignorer"
+          ],
+          "answer": 1,
+          "explanation": "C'est le signal pour terminer ton idée ; tu peux proposer plus de détails s'il le souhaite."
+        }
+      ]
+    },
+    {
+      "id": "group_interview",
+      "order": 4,
+      "title": "Entretien collectif",
+      "minutes": 3,
+      "premium": true,
+      "pages": [
+        {
+          "title": "Ce que regardent les évaluateurs",
+          "body": "Lors des entretiens collectifs et des assessment centers, plusieurs candidats travaillent ensemble sur une tâche sous le regard d'évaluateurs. Ils ne cherchent pas la personne qui parle le plus fort. Ils observent comment tu écoutes, rebondis sur les idées des autres, gardes le groupe sur les rails et contribues à un résultat.",
+          "tip": "La qualité de ta contribution compte plus que ton temps de parole."
+        },
+        {
+          "title": "Des rôles utiles à endosser",
+          "body": "Tu peux apporter de la valeur sans monopoliser la parole : résume la discussion (« Pour l'instant, nous sommes d'accord sur A et B »), gère le temps (« Il nous reste 10 minutes, on tranche ? ») ou fais participer les plus discrets (« Ali, qu'en penses-tu ? »). Ce sont exactement ces comportements que notent les évaluateurs.",
+          "tip": "Proposer d'être le gardien du temps est une contribution simple et visible."
+        },
+        {
+          "title": "Collabore, ne rivalise pas",
+          "body": "Considère les autres candidats comme des collègues. Les critiquer ou les interrompre se retourne contre toi. En cas de désaccord, reconnais d'abord leur point : « C'est une bonne remarque sur le coût ; un risque que je vois, c'est… ». Les groupes qui parviennent à une décision claire mettent tous leurs membres en valeur.",
+          "tip": "Utilise les prénoms : retiens-les pendant les présentations."
+        },
+        {
+          "title": "Études de cas et présentations",
+          "body": "Beaucoup de sessions collectives se terminent par une courte présentation. Mettez-vous d'accord tôt sur qui présente quelle partie. Structure-la simplement : problème, options, recommandation, prochaines étapes. Si tu présentes, attribue le mérite à l'équipe : « Nous avons décidé… ».",
+          "tip": "Écris les chiffres clés du cas sur papier pour que tout le groupe puisse les voir."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Qu'apprécient le plus les évaluateurs lors d'un entretien collectif ?",
+          "options": [
+            "Parler le plus",
+            "Écouter et rebondir sur les idées des autres",
+            "Gagner tous les débats",
+            "Rester silencieux pour éviter les erreurs"
+          ],
+          "answer": 1,
+          "explanation": "C'est la collaboration et la contribution constructive qu'ils notent."
+        },
+        {
+          "id": "q2",
+          "question": "Quelle est une bonne façon de contribuer sans monopoliser la parole ?",
+          "options": [
+            "Interrompre pour partager ton idée en premier",
+            "Résumer l'avancement et gérer le temps",
+            "Critiquer les idées faibles",
+            "Présenter seul"
+          ],
+          "answer": 1,
+          "explanation": "Résumer et gérer le temps aident le groupe et sont très visibles."
+        },
+        {
+          "id": "q3",
+          "question": "Comment exprimer ton désaccord avec un autre candidat ?",
+          "options": [
+            "Lui dire qu'il a tort",
+            "Reconnaître son point, puis ajouter ta réserve",
+            "Ignorer son idée",
+            "Demander à l'évaluateur de trancher"
+          ],
+          "answer": 1,
+          "explanation": "Reconnaître d'abord son point garde la discussion constructive."
+        }
+      ]
+    },
+    {
+      "id": "technical_interview",
+      "order": 5,
+      "title": "Entretien technique",
+      "minutes": 4,
+      "premium": true,
+      "pages": [
+        {
+          "title": "Ce qui est évalué",
+          "body": "Les entretiens techniques vérifient si tu sais réellement faire le travail : programmation, modélisation financière, design, calculs d'ingénierie ou connaissances métier. Les recruteurs s'intéressent autant à ton raisonnement qu'à la réponse finale. Une démarche claire avec une petite erreur obtient souvent un meilleur score qu'une bonne réponse donnée en silence.",
+          "tip": "Réfléchis à voix haute dès la première minute."
+        },
+        {
+          "title": "Une méthode fiable pour résoudre les problèmes",
+          "body": "1) Reformule le problème avec tes propres mots et pose des questions de clarification. 2) Déroule un exemple simple. 3) Décris d'abord une solution de base, puis améliore-la. 4) Implémente ou calcule étape par étape. 5) Teste avec un cas limite. Cette méthode t'aide à rester calme même quand tu ne connais pas la réponse tout de suite.",
+          "tip": "Renseigne-toi sur les contraintes : volume de données, délais, budget, précision."
+        },
+        {
+          "title": "Quand tu bloques",
+          "body": "Dis ce que tu sais et où tu bloques : « Je sais le résoudre pour une liste triée ; je réfléchis à la gestion des doublons. » Les recruteurs donnent souvent des indices : utilise-les et remercie-les. Ne bluffe jamais sur ce que tu ne sais pas ; explique comment tu trouverais la réponse.",
+          "tip": "Un silence de plus de 20 secondes paraît long ; continue à commenter ta démarche."
+        },
+        {
+          "title": "Comment te préparer",
+          "body": "Révise les fondamentaux mentionnés dans l'offre d'emploi et entraîne-toi sur des problèmes chronométrés. Relis tes propres projets : tu dois pouvoir expliquer chacune de tes décisions. Pour les questions de conception de système ou les études de cas, entraîne-toi à dessiner une structure sur papier avant d'entrer dans les détails.",
+          "tip": "Utilise ici la fonction d'entretien d'entraînement avec le type « Technique » pour t'exercer."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Hormis la réponse, qu'est-ce qui compte le plus lors d'un entretien technique ?",
+          "options": [
+            "Uniquement la rapidité",
+            "Ton raisonnement",
+            "Utiliser les outils les plus récents",
+            "Des définitions apprises par cœur"
+          ],
+          "answer": 1,
+          "explanation": "Les recruteurs évaluent ta façon de raisonner, de communiquer et de gérer les problèmes."
+        },
+        {
+          "id": "q2",
+          "question": "Que dois-tu faire en premier quand on te soumet un problème ?",
+          "options": [
+            "Commencer à coder immédiatement",
+            "Le reformuler et poser des questions de clarification",
+            "Dire que tu l'as déjà vu",
+            "Demander la réponse"
+          ],
+          "answer": 1,
+          "explanation": "Clarifier d'abord évite de résoudre le mauvais problème."
+        },
+        {
+          "id": "q3",
+          "question": "Tu ne connais pas un concept sur lequel on t'interroge. Quelle est la meilleure réaction ?",
+          "options": [
+            "Deviner avec assurance",
+            "L'admettre et expliquer comment tu trouverais la réponse",
+            "Changer de sujet",
+            "Rester silencieux"
+          ],
+          "answer": 1,
+          "explanation": "L'honnêteté associée à une volonté d'apprendre est respectée ; le bluff se repère facilement."
+        }
+      ]
+    },
+    {
+      "id": "panel_interview",
+      "order": 6,
+      "title": "Entretien avec un jury",
+      "minutes": 3,
+      "premium": true,
+      "pages": [
+        {
+          "title": "Plusieurs interlocuteurs, une seule décision",
+          "body": "Lors d'un entretien avec un jury, trois à cinq personnes — par exemple un manager, un futur coéquipier et quelqu'un des RH — t'interrogent ensemble. Chacune se concentre généralement sur un domaine différent. La décision finale est collective : tu dois donc convaincre toute la salle, pas seulement la personne la plus haut placée.",
+          "tip": "Demande à l'avance au recruteur les noms et les fonctions des membres du jury."
+        },
+        {
+          "title": "Où regarder",
+          "body": "Commence ta réponse en regardant la personne qui a posé la question, puis inclus les autres du regard au fil de ta réponse, et reviens vers la personne qui a posé la question à la fin. Tu gardes ainsi l'attention de tous et tu montres ton assurance.",
+          "tip": "Note les noms dans ton carnet selon l'ordre dans lequel ils sont assis."
+        },
+        {
+          "title": "Adapte tes réponses à chaque fonction",
+          "body": "Un responsable technique veut de la profondeur, les RH veulent des valeurs et de l'esprit d'équipe, un manager veut des résultats. Quand une question vient d'une personne précise, mets en avant la partie de ton histoire qui compte pour sa fonction.",
+          "tip": "Prépare une histoire solide pour l'intérêt probable de chaque membre du jury."
+        },
+        {
+          "title": "Reste cohérent",
+          "body": "Les jurys posent parfois des questions similaires sous différentes formes pour tester ta cohérence. Garde tes histoires et tes chiffres identiques. À la fin, remercie chaque membre et, si possible, envoie un court message de suivi qui mentionne un élément de la conversation.",
+          "tip": "N'ignore pas les membres discrets du jury ; ils ont souvent une forte influence."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "À qui dois-tu t'adresser quand tu réponds à une question du jury ?",
+          "options": [
+            "Uniquement à la personne la plus haut placée",
+            "Uniquement à la personne qui a posé la question",
+            "Commencer par la personne qui a posé la question, inclure tout le monde, finir par elle",
+            "Regarder tes notes"
+          ],
+          "answer": 2,
+          "explanation": "Tu gardes ainsi l'attention de tout le jury tout en respectant la personne qui a posé la question."
+        },
+        {
+          "id": "q2",
+          "question": "Pourquoi préparer des angles différents pour les membres du jury ?",
+          "options": [
+            "Chaque fonction s'intéresse à des choses différentes",
+            "Pour les déstabiliser",
+            "Les jurys préfèrent les réponses longues",
+            "Ce n'est pas nécessaire"
+          ],
+          "answer": 0,
+          "explanation": "Les profils techniques, RH et managers cherchent des preuves différentes."
+        },
+        {
+          "id": "q3",
+          "question": "Le jury pose une question semblable à une précédente. Que dois-tu faire ?",
+          "options": [
+            "Raconter une histoire complètement nouvelle",
+            "Rester cohérent avec les faits donnés plus tôt",
+            "Faire remarquer qu'ils se répètent",
+            "La passer"
+          ],
+          "answer": 1,
+          "explanation": "Les jurys vérifient la cohérence ; les contradictions nuisent à la confiance."
+        }
+      ]
+    }
+  ]
+}

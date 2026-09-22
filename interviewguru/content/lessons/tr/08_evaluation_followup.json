@@ -1,0 +1,270 @@
+{
+  "id": "evaluation_followup",
+  "order": 8,
+  "icon": "followup",
+  "color": "#F97316",
+  "title": "Mülakattan Sonra",
+  "summary": "Profesyonel bir şekilde takip et, her mülakattan ders çıkar ve iş tekliflerini özgüvenle yönet.",
+  "topics": [
+    {
+      "id": "email_structure",
+      "order": 1,
+      "title": "Teşekkür E-postası Yazmak",
+      "minutes": 3,
+      "premium": false,
+      "pages": [
+        {
+          "title": "Teşekkür e-postası neden önemli?",
+          "body": "Kısa bir teşekkür e-postası, fazla çaba gerektirmeden öne çıkmanın basit bir yoludur. Nezaketini gösterir, ilgini teyit eder ve mülakatçıya pozisyona neden uygun olduğunu hatırlatmak için sana bir şans daha verir. Tek başına nadiren işi kazandırır; ama iki aday birbirine yakın olduğunda, özenle yazılmış bir mesaj daha güçlü bir son izlenim bırakabilir.",
+          "tip": "24 saat içinde, mümkünse aynı gün gönder."
+        },
+        {
+          "title": "Basit bir yapı",
+          "body": "E-postayı dört kısa bölümle sınırla. ‘Teşekkürler: Pazarlama Koordinatörü mülakatı’ gibi bir konu satırı. Mülakatçının adını kullanarak ayırdığı zaman için bir teşekkür. Konuştuğunuz bir konuyu becerilerine bağlayan bir iki cümle. İlgini ve sonraki adımlar için müsaitliğini teyit eden bir kapanış cümlesi. E-postanın tamamı bir telefon ekranına sığmalı.",
+          "tip": "150 kelimenin altında tutmaya çalış; yoğun mülakatçılar kısalığı takdir eder."
+        },
+        {
+          "title": "Kişisel olsun",
+          "body": "Kalıp teşekkür e-postaları hemen fark edilir. Görüşmeden somut bir şeye değin: anlattıkları bir proje, ekibin karşılaştığı bir zorluk ya da ilgini çeken bir soru. Örneğin: ‘Yeni oryantasyon programını dinlemek çok keyifliydi; eğitim materyallerini yeniden tasarlama deneyimim bu konuda katkı sağlayabilir.’ Somut ayrıntılar, dikkatle dinlediğini gösterir.",
+          "tip": "Kullanabilmek için mülakattan hemen sonra konuşulan iki noktayı not al."
+        },
+        {
+          "title": "Sık yapılan hatalar",
+          "body": "Aynı mesajı paneldeki herkese kopyalamaktan kaçın; her kişi için en az bir cümleyi değiştir. İsimleri, yazımı ve pozisyon adını iki kez kontrol et. E-postayı zayıf bir cevabı uzun uzun yeniden savunmak ya da maaş sormak için kullanma. Tonu sıcak ve profesyonel tut; hemen cevap alamazsan art arda takip mesajları gönderme.",
+          "tip": "Hataları yakalamak için göndermeden önce e-postayı bir kez sesli oku."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Teşekkür e-postasını ne zaman göndermelisin?",
+          "options": ["Mülakattan sonraki 24 saat içinde", "Bir hafta sonra", "Yalnızca teklif alırsan", "Mülakattan önce"],
+          "answer": 0,
+          "explanation": "Bir gün içinde göndermek, mülakatçının aklında taze kalmanı sağlar."
+        },
+        {
+          "id": "q2",
+          "question": "Bir teşekkür e-postasını kişisel yapan nedir?",
+          "options": ["Uzun ve resmi bir şablon kullanmak", "Görüşmeden somut bir noktaya değinmek", "CV'ni tekrar eklemek", "Tüm niteliklerini sıralamak"],
+          "answer": 1,
+          "explanation": "Somut bir ayrıntı dinlediğini gösterir ve görüşmeyi becerilerine bağlar."
+        },
+        {
+          "id": "q3",
+          "question": "Üç kişilik bir mülakat paneline nasıl teşekkür etmelisin?",
+          "options": ["Üçüne de birebir aynı e-postayı göndererek", "Yalnızca en kıdemli kişiye teşekkür ederek", "Panele teşekkür etmeyerek", "Her kişi için en az bir cümleyi değiştirerek"],
+          "answer": 3,
+          "explanation": "Her mesajı kişiselleştirmek, belli ki kopyalanmış bir e-posta göndermenin önüne geçer."
+        }
+      ]
+    },
+    {
+      "id": "email_examples",
+      "order": 2,
+      "title": "Takip E-postası Şablonları",
+      "minutes": 4,
+      "premium": false,
+      "pages": [
+        {
+          "title": "Teşekkür şablonu",
+          "body": "Konu: Teşekkürler: [Pozisyon Adı] mülakatı. ‘Sayın [İsim], bugün benimle görüşmek için zaman ayırdığınız için teşekkür ederim. Özellikle [konu] hakkında konuşmak çok keyifliydi ve bu, pozisyona olan ilgimi pekiştirdi. [İlgili beceri] alanındaki deneyimim, hızla katkı sağlamama yardımcı olacaktır. Başka bir şeye ihtiyacınız olursa lütfen bana bildirin. Saygılarımla, [Adın].’",
+          "tip": "Her köşeli parantezi doldur; unutulmuş bir [İsim] tüm iyi izlenimi bozar."
+        },
+        {
+          "title": "Durumunu sormak",
+          "body": "Söz verilen karar tarihi geçtiyse iki üç iş günü bekle, sonra şöyle yaz: ‘Sayın [İsim], umarım iyisinizdir. [Tarih] tarihinde gerçekleştirdiğimiz [Pozisyon Adı] mülakatıyla ilgili durumu öğrenmek istedim. Pozisyonla hâlâ çok ilgileniyorum ve süreçle ilgili herhangi bir bilgi verebilirseniz minnettar olurum. Teşekkürler, [Adın].’ Kısa, olumlu ve sabırlı ol.",
+          "tip": "Israrcı görünmemek için haftada birden fazla takip mesajı gönderme."
+        },
+        {
+          "title": "Bir retle karşılık vermek",
+          "body": "Nazik bir yanıt kapıyı açık tutar: ‘Sayın [İsim], bilgilendirdiğiniz için teşekkür ederim. Üzülmüş olsam da [ekip ya da şirket] hakkında bilgi edinmek çok değerliydi. Vaktiniz olursa her türlü geri bildirimi memnuniyetle dinlerim. Gelecekteki fırsatlar için iletişimde kalabilmeyi umuyorum. Saygılarımla, [Adın].’ Birçok aday hiç cevap vermediği için bu yanıt öne çıkar.",
+          "tip": "Yanıtını gönderdikten sonra mülakatçıyla profesyonel bir ağda (ör. LinkedIn) bağlantı kur."
+        },
+        {
+          "title": "Süreçten çekilmek",
+          "body": "Başka bir teklifi kabul edersen ya da ilgini kaybedersen şirkete hemen haber ver: ‘Sayın [İsim], [Pozisyon Adı] için beni değerlendirdiğiniz için teşekkür ederim. Başka bir pozisyonu kabul ettiğim için başvurumu geri çekmeye karar verdim. Ayırdığınız zaman için teşekkür eder, yollarımızın yeniden kesişmesini dilerim. İyi dileklerimle, [Adın].’ Kibarca çekilmek itibarını korur.",
+          "tip": "Ayrıntılı gerekçe vermene gerek yok; kısa bir açıklama yeterli."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Karar tarihi geçti ve hiç haber yok. Ne zaman takip etmelisin?",
+          "options": ["Hemen o sabah", "İki üç iş günü sonra", "Hiçbir zaman; sadece bekle", "Cevap verene kadar her gün"],
+          "answer": 1,
+          "explanation": "Birkaç gün sonra gönderilen kısa ve sabırlı bir takip mesajı hem kibar hem de etkilidir."
+        },
+        {
+          "id": "q2",
+          "question": "Bir ret e-postasına neden cevap vermelisin?",
+          "options": ["Kararlarını değiştirmelerini istemek için", "Hayal kırıklığını dile getirmek için", "Kapıyı açık tuttuğu ve geri bildirim getirebileceği için", "Yasal bir zorunluluk olduğu için"],
+          "answer": 2,
+          "explanation": "Nazik bir yanıt, gelecekteki fırsatlar için iyi bir izlenim bırakır."
+        },
+        {
+          "id": "q3",
+          "question": "Başvurudan çekilme e-postası neleri içermeli?",
+          "options": ["İki teklifin ayrıntılı bir karşılaştırmasını", "Hiçbir şey; cevap vermeyi bırak", "Daha yüksek maaş talebini", "Kısa bir teşekkürü ve çekildiğini açıkça belirten bir ifadeyi"],
+          "answer": 3,
+          "explanation": "Kısa ve kibar bir çekilme mesajı itibarını korur."
+        }
+      ]
+    },
+    {
+      "id": "performance_analysis",
+      "order": 3,
+      "title": "Performansını Değerlendirmek",
+      "minutes": 3,
+      "premium": true,
+      "pages": [
+        {
+          "title": "Aklındayken değerlendir",
+          "body": "Mülakattan sonraki bir saat içinde, hatırladıklarını yazmak için on dakika ayır: sorulan sorular, nasıl cevap verdiğin, mülakatçıların adları ve pozisyon hakkında öğrendiğin her şey. Ayrıntılar çabuk unutulur. Bu notlar teşekkür e-postanda işine yarar, seni bir sonraki aşamaya hazırlar ve neyi çalışman gerektiğini gösterir.",
+          "tip": "Hemen oturamıyorsan eve dönerken telefonunun not uygulamasını kullan."
+        },
+        {
+          "title": "Üç basit soru",
+          "body": "Mülakatı üç soruyla gözden geçir. Neler iyi gitti? Hangi cevaplar net hissettirdi ve olumlu tepki aldı? Neler iyi gitmedi? Nerede duraksadın ya da lafı dolandırdın? Neyi farklı yapardım? Somut ol: ‘Liderlik hikâyemde satış sonucundan bahsetmeyi unuttum’ notu, ‘Kötüydüm’ notundan çok daha faydalıdır.",
+          "tip": "En az olumsuzlar kadar olumlu nokta yaz."
+        },
+        {
+          "title": "Sürecin bütününe bak",
+          "body": "Yalnızca cevaplarını değerlendirme. Hazırlığın doğru konuları kapsıyor muydu? Mülakatçıya sorduğun sorular düşünülmüş sorular mıydı? Lojistik sorunsuz ilerledi mi? Şirketi de değerlendir: Pozisyon, ekip ve kültür istediklerinle örtüşüyor mu? Mülakat iki taraflı bir değerlendirmedir ve senin izlenimlerin de kararın için önemlidir.",
+          "tip": "Mülakattan hemen sonra pozisyona olan ilgini 1'den 10'a kadar puanla."
+        },
+        {
+          "title": "Fazla analiz etme",
+          "body": "Tek bir tuhaf anı günlerce kafanda tekrar tekrar oynatmak çok kolaydır. Mülakatçıların genellikle tek bir cevaba odaklanmak yerine genel bir izlenim edindiğini ve adayların çoğu zaman kendilerini mülakatçılardan daha sert yargıladığını unutma. Notlarını yazıp aksiyon maddelerini belirledikten sonra bırak gitsin. Enerjini bir sonraki başvuruya ya da pratik oturumuna ver.",
+          "tip": "En zayıf cevabını bir dahaki sefer için deneme mülakatı sorusuna dönüştür."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Mülakattan sonra değerlendirme yapmak için en iyi zaman ne zamandır?",
+          "options": ["Bir sonraki hafta", "Ayrıntılar tazeyken, bir saat içinde", "Yalnızca sonucu öğrendikten sonra", "Bir sonraki mülakatından hemen önce"],
+          "answer": 1,
+          "explanation": "Ayrıntılar çabuk unutulur, bu yüzden notlarını kısa süre içinde yaz."
+        },
+        {
+          "id": "q2",
+          "question": "Hangi öz değerlendirme notu en faydalıdır?",
+          "options": ["Kötüydüm", "Fena değildi", "Liderlik hikâyemde satış sonucundan bahsetmeyi unuttum", "Benden hoşlanmadılar"],
+          "answer": 2,
+          "explanation": "Somut notlar somut iyileştirmelere işaret eder."
+        },
+        {
+          "id": "q3",
+          "question": "Cevaplarının yanı sıra başka neyi değerlendirmelisin?",
+          "options": ["Pozisyonun, ekibin ve kültürün istediklerinle örtüşüp örtüşmediğini", "Mülakatçının kıyafetlerini", "Ofis turunun ne kadar sürdüğünü", "Başka hiçbir şey önemli değil"],
+          "answer": 0,
+          "explanation": "Mülakatlar iki taraflıdır; şirket hakkındaki izlenimin de önemlidir."
+        }
+      ]
+    },
+    {
+      "id": "handling_offers",
+      "order": 4,
+      "title": "Teklifleri Yönetmek ve Pazarlık",
+      "minutes": 4,
+      "premium": true,
+      "pages": [
+        {
+          "title": "Paketin bütününe bak",
+          "body": "Bir teklif, brüt maaştan ibaret değildir. Primleri, bireysel emeklilik ya da emeklilik katkılarını, sağlık ve diğer sigortaları, ücretli izinleri, esnek ya da uzaktan çalışmayı, eğitim bütçelerini ve varsa hisse opsiyonlarını değerlendir. Pozisyonun kendisini, gelişim fırsatlarını, işe ulaşım süresini ve ekibi de hesaba kat. Seçenekleri doğru karşılaştırabilmek ve yanlış anlaşılmaları önlemek için teklifin tamamını yazılı olarak iste.",
+          "tip": "Teklifleri yan yana karşılaştırmak için her kalemi basit bir tabloya yaz."
+        },
+        {
+          "title": "Zaman iste",
+          "body": "Teklifi hemen o an kabul etmek zorunda değilsin. İçtenlikle teşekkür et ve zaman iste: ‘Teşekkür ederim, bu teklifi almaktan çok mutluyum. Ayrıntıları incelemek için cumaya kadar süre alabilir miyim?’ Birkaç gün ile bir hafta arası yaygın ve makul bir taleptir. Bu süreyi paketi incelemek, pozisyon için olağan ücretleri araştırmak ve sorularını hazırlamak için kullan.",
+          "tip": "Zaman isterken bile pozisyona duyduğun heyecanı göster."
+        },
+        {
+          "title": "Kibarca pazarlık et",
+          "body": "Pazarlık yaygındır ve saygılı bir şekilde yapıldığında teklife nadiren zarar verir. Talebini piyasa ücretleri araştırmana ve kattığın değere dayandır. Net ve olumlu ol: ‘Bu pozisyon için çok heyecanlıyım. Deneyimimi ve benzer pozisyonlardaki olağan ücretleri göz önünde bulundurarak [tutar] tutarında bir maaş mümkün olur mu?’ Maaş sabitse izin, esneklik ya da eğitim gibi diğer kalemleri sor.",
+          "tip": "‘Biraz daha’ istemek yerine net bir rakam söyle."
+        },
+        {
+          "title": "Nezaketle kabul et ya da reddet",
+          "body": "Kabul ettiğinde bunu yazılı olarak teyit et ve başlangıç tarihi ile temel şartları kontrol et. Reddettiğinde hızlı ve nazik bir şekilde yanıt ver: ‘Teklifiniz ve ayırdığınız zaman için teşekkür ederim. Uzun uzun düşündükten sonra başka bir pozisyonu kabul etmeye karar verdim. Ekiple tanışmak gerçekten çok keyifliydi, umarım iletişimde kalırız.’ Kibarca reddetmek, ilişkileri gelecek için korur.",
+          "tip": "Teklifi yazılı olarak almadan mevcut işinden istifa etme."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Bir teklif aldığında neyi değerlendirmelisin?",
+          "options": ["Yalnızca brüt maaşı", "Yalnızca pozisyon unvanını", "Yan haklar, esneklik ve gelişim dahil paketin bütününü", "Yalnızca ne kadar hızlı cevap istediklerini"],
+          "answer": 2,
+          "explanation": "Yan haklar, esneklik, gelişim fırsatları ve pozisyonun kendisi teklifin değerine katkıda bulunur."
+        },
+        {
+          "id": "q2",
+          "question": "Bir işveren tekliflerine karar vermeni istiyor. Makul bir yanıt nedir?",
+          "options": ["Okumadan hemen kabul etmek", "Teşekkür edip ayrıntıları incelemek için birkaç gün istemek", "Daha iyi bir teklif almak için reddetmek", "Mesajı iki hafta boyunca görmezden gelmek"],
+          "answer": 1,
+          "explanation": "Kısa ve belirli bir süre istemek yaygın ve makul bir yaklaşımdır."
+        },
+        {
+          "id": "q3",
+          "question": "Maaş sabit. Hâlâ neyi pazarlık edebilirsin?",
+          "options": ["İzin, esneklik ya da eğitim gibi diğer kalemleri", "Hiçbir şeyi", "Mülakatçının kararını", "Yalnızca pozisyon unvanını"],
+          "answer": 0,
+          "explanation": "Maaş değişmediğinde, paketin diğer kalemleri çoğu zaman değişebilir."
+        }
+      ]
+    },
+    {
+      "id": "tracking_progress",
+      "order": 5,
+      "title": "İş Arayışını Takip Etmek",
+      "minutes": 3,
+      "premium": true,
+      "pages": [
+        {
+          "title": "Arayışını neden takip etmelisin?",
+          "body": "Çok sayıda pozisyona başvurduğunda ayrıntılar çabucak birbirine karışır. Hangi CV versiyonunu gönderdiğini, kiminle konuştuğunu ya da ne zaman takip etmen gerektiğini unutabilirsin. Basit bir takip listesi her şeyi tek bir yerde tutar, utandırıcı karışıklıkları önler ve arayışının nerede işe yaradığını, nerede tıkandığını gösterir. Ayrıca yavaş geçen haftalarda ilerlemeni görünür kılar.",
+          "tip": "Takibe onuncu başvurundan sonra değil, en ilk başvurundan itibaren başla."
+        },
+        {
+          "title": "Neleri kaydetmeli?",
+          "body": "Bir tablo ya da not uygulaması yeterli. Her başvuru için şirketi, pozisyonu, başvuru tarihini, CV versiyonunu, iletişim kişisini, mevcut aşamayı, sonraki adımı ve tarihini kaydet. Mülakat soruları, maaş bilgileri ve izlenimlerin için bir not sütunu ekle. İş ilanını da kaydet, çünkü ilanlar pozisyon kapandığında genellikle kaldırılır.",
+          "tip": "Cevaplarının onların okuduğuyla örtüşmesi için her pozisyonda kullandığın CV oluşturucu versiyonunu sakla."
+        },
+        {
+          "title": "Aşamaları ve sonraki adımları kullan",
+          "body": "Her başvuruya bir aşama ata: başvuruldu, ön eleme, mülakat, final aşaması, teklif ya da kapandı. Açık olan her başvurunun ‘12 Mayıs’ta takip et’ ya da ‘Vaka çalışmasını hazırla’ gibi tarihli bir sonraki adımı da olmalı. Hiçbir şeyin unutulmaması ve her fırsatın ilerlemeye devam etmesi için takip listeni her haftanın başında gözden geçir.",
+          "tip": "Sürecini tek bakışta görebilmek için aşamaları renklerle kodla."
+        },
+        {
+          "title": "Rakamlarından ders çıkar",
+          "body": "Bir ay sonra kalıplara bak. Çok başvuru gönderip az cevap alıyorsan CV'nin ya da başvurduğun pozisyonların gözden geçirilmesi gerekebilir. Mülakatlara çağrılıyor ama final aşamasına nadiren ulaşıyorsan mülakat pratiğine odaklan. Final aşamaları teklife dönüşmüyorsa kapanışını ve takip sürecini gözden geçir. Takip listen, emeğini bundan sonra nereye harcaman gerektiğini söyler.",
+          "tip": "Her ay başvurularının ne kadarının mülakata dönüştüğünü hesapla."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Her başvuruyla birlikte iş ilanını neden kaydetmelisin?",
+          "options": ["İlanlar pozisyon kapandığında genellikle kaldırıldığı için", "İşverenler geri göndermeni istediği için", "CV'nin yerine geçtiği için", "Maaşı hesaplamak için gerektiği için"],
+          "answer": 0,
+          "explanation": "Mülakatlara hazırlanırken ona ihtiyacın olacak ve internetten kaldırılabilir."
+        },
+        {
+          "id": "q2",
+          "question": "Takip listendeki her açık başvuruda ne olmalı?",
+          "options": ["Ofisin bir fotoğrafı", "Tarihli bir sonraki adım", "Mülakatçının kişisel telefon numarası", "Önceden verilmiş kesin bir karar"],
+          "answer": 1,
+          "explanation": "Tarihli bir sonraki adım, her fırsatın ilerlemeye devam etmesini sağlar."
+        },
+        {
+          "id": "q3",
+          "question": "Çok sayıda mülakata çağrılıyorsun ama final aşamasına nadiren ulaşıyorsun. Neye odaklanmalısın?",
+          "options": ["Daha fazla başvuru göndermeye", "Kariyer değiştirmeye", "Mülakat pratiğine", "Daha uzun teşekkür e-postaları yazmaya"],
+          "answer": 2,
+          "explanation": "Bu kalıp, emeğinin en çok karşılığını mülakat aşamasında alacağını gösterir."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,322 @@
+{
+  "id": "preparation",
+  "order": 2,
+  "icon": "preparation",
+  "color": "#0EA5E9",
+  "title": "Persiapan",
+  "summary": "Datangi setiap wawancara dengan siap: kenali perusahaan, posisinya, CV-mu, pertanyaanmu, dan rencanamu untuk hari itu.",
+  "topics": [
+    {
+      "id": "company_research",
+      "order": 1,
+      "title": "Riset Perusahaan",
+      "minutes": 3,
+      "premium": false,
+      "pages": [
+        {
+          "title": "Kenapa riset itu penting",
+          "body": "Pewawancara bisa tahu dalam hitungan menit apakah kamu sudah mencari tahu tentang mereka. Riset membantumu mengaitkan pengalamanmu dengan masalah nyata mereka, menjawab 'Kenapa perusahaan kami?' dengan spesifik, dan mengajukan pertanyaan yang lebih tajam. Riset juga membantumu memutuskan apakah kamu benar-benar menginginkan pekerjaan itu. Sisihkan sekitar 45–60 menit riset yang fokus untuk wawancara pertama, dan lebih lama untuk tahap akhir.",
+          "tip": "Simpan semua temuanmu dalam satu halaman agar bisa kamu tinjau dalam lima menit sebelum wawancara."
+        },
+        {
+          "title": "Di mana mencarinya",
+          "body": "Mulailah dari situs web perusahaan: halaman tentang kami, produk, berita terbaru, dan bagian karier. Lalu baca siaran pers terbaru atau poin penting laporan tahunan, cek halaman LinkedIn perusahaan untuk melihat pertumbuhan dan karyawan baru, serta baca ulasan karyawan dengan mencari pola, bukan keluhan tunggal. Kalau perusahaan menjual produk yang bisa kamu coba, gunakan sendiri.",
+          "tip": "Cari nama perusahaan ditambah kata 'berita' dan fokus pada enam bulan terakhir."
+        },
+        {
+          "title": "Apa yang perlu dicatat",
+          "body": "Kumpulkan lima fakta yang benar-benar bisa kamu pakai: apa yang dijual perusahaan dan kepada siapa, pesaing utamanya, satu perkembangan terbaru seperti peluncuran atau ekspansi, nilai atau misi yang mereka nyatakan, dan satu tantangan yang tampaknya sedang mereka hadapi. Untuk setiap fakta, tulis satu kalimat tentang hubungannya dengan keahlianmu. Fakta tanpa kaitan denganmu hanyalah trivia.",
+          "tip": "Kalau kamu tidak bisa mengaitkan sebuah fakta dengan pengalaman atau pertanyaanmu, hapus dari catatanmu."
+        },
+        {
+          "title": "Riset tentang pewawancaramu",
+          "body": "Kalau kamu tahu siapa yang akan mewawancaraimu, lihat profil LinkedIn mereka. Catat posisi mereka, sudah berapa lama mereka di sana, dan latar belakang profesional yang sama denganmu. Gunakan ini untuk menebak apa yang mereka pedulikan: manajer menginginkan hasil kerja, rekan setim menginginkan kolaborasi, direktur menginginkan dampak. Jangan menyebut detail pribadi yang kamu temukan; jaga semuanya tetap profesional.",
+          "tip": "Minta nama dan posisi pewawancara kepada perekrut kalau mereka belum memberitahukannya."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Kenapa kamu perlu mencatat hubungan setiap fakta hasil riset dengan dirimu?",
+          "options": ["Pewawancara menilai kemampuan menghafalmu", "Agar catatanmu terlihat lengkap", "Fakta tanpa kaitan dengan keahlianmu hanyalah trivia", "Perekrut meminta untuk melihat catatanmu"],
+          "answer": 2,
+          "explanation": "Riset hanya bermanfaat jika kamu bisa mengaitkannya dengan pengalaman atau pertanyaanmu."
+        },
+        {
+          "id": "q2",
+          "question": "Apa cara terbaik memanfaatkan ulasan karyawan?",
+          "options": ["Mengutip ulasan paling pedas saat wawancara", "Mencari pola, bukan keluhan tunggal", "Mengabaikannya sama sekali", "Hanya membaca ulasan bintang lima"],
+          "answer": 1,
+          "explanation": "Satu ulasan hanyalah anekdot; tema yang berulang menunjukkan sesuatu yang nyata tentang perusahaan."
+        },
+        {
+          "id": "q3",
+          "question": "Apa yang perlu kamu hindari saat meriset pewawancaramu?",
+          "options": ["Menyebut detail pribadi yang kamu temukan", "Mengecek posisi mereka saat ini", "Mencatat sudah berapa lama mereka bekerja di sana", "Meminta nama mereka kepada perekrut"],
+          "answer": 0,
+          "explanation": "Gunakan temuanmu untuk menebak prioritas mereka, tapi jaga percakapan tetap profesional."
+        }
+      ]
+    },
+    {
+      "id": "role_analysis",
+      "order": 2,
+      "title": "Membedah Deskripsi Pekerjaan",
+      "minutes": 3,
+      "premium": false,
+      "pages": [
+        {
+          "title": "Baca seperti daftar periksa",
+          "body": "Deskripsi pekerjaan adalah daftar masalah yang ingin diselesaikan oleh pemberi kerja. Salin ke sebuah dokumen dan tandai setiap keahlian, alat, tanggung jawab, dan hasil yang diharapkan. Lalu bagi menjadi dua kelompok: wajib, yang biasanya ditulis paling awal atau diulang, dan nilai tambah, yang sering ditandai 'diutamakan' atau 'nilai plus'. Peta ini menunjukkan apa yang akan menjadi fokus wawancara.",
+          "tip": "Simpan deskripsi pekerjaan saat kamu melamar; lowongan sering dihapus sebelum wawancara."
+        },
+        {
+          "title": "Temukan prioritas tersembunyi",
+          "body": "Perhatikan pengulangan dan urutan. Keahlian yang disebut tiga kali lebih penting daripada yang disebut sekali. Kata kerja menunjukkan level: 'mendukung' dan 'membantu' mengarah ke posisi junior, sedangkan 'memegang', 'memimpin', dan 'menetapkan' mengarah ke posisi senior. Frasa seperti 'ritme kerja cepat' atau 'lingkungan yang dinamis' menandakan mereka akan menguji caramu menghadapi perubahan dan tekanan.",
+          "tip": "Hitung berapa kali setiap keahlian muncul; dua atau tiga teratas adalah tema inti wawancaramu."
+        },
+        {
+          "title": "Cocokkan bukti dengan setiap persyaratan",
+          "body": "Buat tabel dua kolom sederhana. Di kiri, tulis setiap persyaratan wajib. Di kanan, tulis satu contoh konkret dari pengalamanmu yang membuktikannya, sertakan hasil atau angka jika memungkinkan. Jika tidak punya contoh langsung, cari contoh terkait yang menunjukkan kamu cepat belajar. Contoh-contoh ini menjadi tulang punggung jawaban wawancaramu.",
+          "tip": "Targetkan minimal satu cerita untuk setiap persyaratan wajib; satu cerita yang kuat bisa mencakup dua persyaratan."
+        },
+        {
+          "title": "Hadapi kekurangan dengan jujur",
+          "body": "Kamu jarang memenuhi setiap baris deskripsi pekerjaan, dan pemberi kerja tahu itu. Untuk setiap kekurangan, siapkan jawaban singkat dan jujur: akui, tunjukkan pengalaman paling dekat yang kamu miliki, dan jelaskan bagaimana kamu menutupnya, misalnya lewat kursus atau proyek sampingan. Jangan pernah mengaku punya keahlian yang tidak bisa kamu buktikan; satu pertanyaan lanjutan akan membongkarnya.",
+          "tip": "Latih jawaban soal kekuranganmu dengan suara keras di simulasi wawancara agar terdengar tenang, bukan defensif."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Kata kerja mana dalam deskripsi pekerjaan yang paling menunjukkan posisi senior?",
+          "options": ["Membantu", "Mendukung", "Memegang", "Menolong"],
+          "answer": 2,
+          "explanation": "Kata kerja seperti 'memegang', 'memimpin', dan 'menetapkan' menunjukkan tanggung jawab dan senioritas."
+        },
+        {
+          "id": "q2",
+          "question": "Apa yang diisi di kolom kanan tabel buktimu?",
+          "options": ["Contoh konkret yang membuktikan persyaratan tersebut", "Gaji yang kamu harapkan", "Nama pewawancara", "Daftar hobimu"],
+          "answer": 0,
+          "explanation": "Setiap persyaratan wajib mendapat satu contoh spesifik, idealnya dengan hasil atau angka."
+        },
+        {
+          "id": "q3",
+          "question": "Apa cara terbaik menghadapi persyaratan yang tidak kamu penuhi?",
+          "options": ["Mengaku menguasainya dan mempelajarinya nanti", "Menghindari topik itu sepenuhnya", "Menarik lamaranmu", "Mengakuinya, menunjukkan pengalaman terdekatmu, dan cara kamu menutup kekurangan itu"],
+          "answer": 3,
+          "explanation": "Kejujuran ditambah rencana untuk menutup kekurangan itu meyakinkan; gertakan akan terbongkar oleh pertanyaan lanjutan."
+        }
+      ]
+    },
+    {
+      "id": "cv_preparation",
+      "order": 3,
+      "title": "Menyesuaikan CV-mu",
+      "minutes": 4,
+      "premium": true,
+      "pages": [
+        {
+          "title": "Satu CV tidak cocok untuk semua",
+          "body": "Mengirim CV yang sama ke setiap lowongan menurunkan peluangmu. Perekrut sering menghabiskan kurang dari satu menit untuk pemindaian pertama, dan banyak perusahaan memakai sistem pelacakan pelamar (ATS) yang menyaring berdasarkan kata kunci. Menyesuaikan berarti mengubah ringkasan, urutan poin, dan bagian keahlianmu agar bukti yang paling relevan muncul lebih dulu untuk setiap posisi.",
+          "tip": "Simpan satu CV induk berisi semuanya, lalu potong dan susun ulang salinannya untuk setiap lamaran."
+        },
+        {
+          "title": "Cerminkan bahasanya",
+          "body": "Gunakan istilah yang persis sama dengan deskripsi pekerjaan selama istilah itu benar-benar menggambarkan pengalamanmu. Kalau lowongan menyebut 'manajemen pemangku kepentingan', jangan hanya menulis 'bekerja dengan tim lain'. Cantumkan nama lengkap sekaligus singkatan untuk alat dan sertifikasi. Buat format tetap sederhana, dengan judul bagian standar dan tanpa teks di dalam gambar, agar sistem pelacakan bisa membaca semuanya.",
+          "tip": "Tempel CV-mu ke file teks biasa; bagian yang hilang atau berantakan mungkin tidak terbaca oleh perangkat lunak."
+        },
+        {
+          "title": "Tulis poin berbasis pencapaian",
+          "body": "Ganti daftar tugas dengan hasil. Poin yang kuat diawali kata kerja aktif, menjelaskan apa yang kamu lakukan, dan menunjukkan hasilnya: 'Memangkas waktu pemrosesan faktur sebesar 30% dengan mengotomatiskan entri data.' Jika tidak punya angka pasti, gunakan skala, frekuensi, atau cakupan, seperti ukuran tim, jumlah klien, atau anggaran yang dikelola. Letakkan poin paling relevan di urutan pertama untuk setiap posisi.",
+          "tip": "Cek drafmu dengan fitur review CV di aplikasi untuk menemukan poin yang lemah dan hanya berisi tugas."
+        },
+        {
+          "title": "Bawa ke wawancara",
+          "body": "Pewawancara akan bertanya tentang apa pun yang ada di CV-mu, jadi baca ulang versi persis yang kamu kirim sebelum wawancara. Bersiaplah menjelaskan setiap poin dengan konteks, tindakan spesifikmu, dan hasilnya. Bawa beberapa salinan cetak untuk wawancara tatap muka dan buka salinan digital saat panggilan video. Pastikan tanggal dan jabatan sama dengan profil LinkedIn-mu.",
+          "tip": "Simpan setiap CV yang sudah disesuaikan dengan nama perusahaan di nama filenya agar kamu selalu tahu versi mana yang mereka pegang."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Kenapa kamu perlu mencerminkan kata kunci dari deskripsi pekerjaan?",
+          "options": ["Sistem pelacakan dan perekrut memindai kata kunci tersebut", "Agar CV jadi lebih panjang", "Agar kamu bisa melewatkan bagian keahlian", "Perekrut lebih suka paragraf yang disalin"],
+          "answer": 0,
+          "explanation": "Istilah yang cocok membantu filter perangkat lunak maupun pemindaian cepat oleh manusia menemukan pengalamanmu yang relevan."
+        },
+        {
+          "id": "q2",
+          "question": "Poin CV mana yang paling kuat?",
+          "options": ["Bertanggung jawab atas faktur", "Mengerjakan tugas pemrosesan faktur", "Membantu tim keuangan setiap hari", "Memangkas waktu pemrosesan faktur sebesar 30% dengan mengotomatiskan entri data"],
+          "answer": 3,
+          "explanation": "Poin ini diawali kata kerja aktif, menjelaskan apa yang kamu lakukan, dan menunjukkan hasil yang terukur."
+        },
+        {
+          "id": "q3",
+          "question": "Pilihan format mana yang bisa membuat sistem pelacakan gagal membaca CV-mu?",
+          "options": ["Judul bagian standar", "Teks yang diletakkan di dalam gambar", "Poin-poin sederhana", "Font yang jelas dan umum"],
+          "answer": 1,
+          "explanation": "Perangkat lunak sering tidak bisa membaca teks di dalam gambar, sehingga isinya bisa hilang."
+        }
+      ]
+    },
+    {
+      "id": "questions_to_ask",
+      "order": 4,
+      "title": "Pertanyaan untuk Pewawancara",
+      "minutes": 3,
+      "premium": true,
+      "pages": [
+        {
+          "title": "Kenapa pertanyaanmu penting",
+          "body": "Hampir setiap wawancara diakhiri dengan 'Ada pertanyaan untuk kami?' Menjawab 'Tidak, saya rasa semuanya sudah dijelaskan' menandakan minat yang rendah. Pertanyaan yang bagus menunjukkan kamu sudah memikirkan posisi itu dengan serius, membantumu menilai apakah kamu menginginkan pekerjaan itu, dan meninggalkan kesan akhir yang kuat. Siapkan lima atau enam, karena sebagian akan terjawab selama percakapan.",
+          "tip": "Tulis pertanyaanmu di buku catatan dan centang begitu terjawab."
+        },
+        {
+          "title": "Pertanyaan tentang posisi",
+          "body": "Tanyakan seperti apa keberhasilan itu: 'Apa yang Anda harapkan saya capai dalam 90 hari pertama?' atau 'Seperti apa minggu kerja yang biasa?' Tanyakan tentang tantangan: 'Apa hambatan terbesar yang akan dihadapi orang di posisi ini?' Pertanyaan ini memberimu informasi nyata dan menunjukkan kamu sudah memikirkan cara menjalankan pekerjaan itu dengan baik.",
+          "tip": "Tanggapi jawaban mereka dengan satu komentar singkat tentang bagaimana kamu akan menanganinya."
+        },
+        {
+          "title": "Pertanyaan tentang tim dan perkembangan",
+          "body": "Tanyakan cara tim bekerja: 'Bagaimana tim membagi pekerjaan dan mengambil keputusan?' Tanyakan tentang pengembangan: 'Biasanya bagaimana orang di posisi ini berkembang?' Sesuaikan pertanyaan dengan pewawancara: tanyakan gaya kepemimpinan kepada calon atasan, kolaborasi sehari-hari kepada rekan setim, dan arah perusahaan untuk satu atau dua tahun ke depan kepada pimpinan senior.",
+          "tip": "Siapkan satu pertanyaan untuk setiap tipe pewawancara agar kamu tidak mengulang pertanyaan di tahap berikutnya."
+        },
+        {
+          "title": "Pertanyaan yang sebaiknya dihindari",
+          "body": "Di tahap awal, jangan membuka dengan soal gaji, cuti, atau fasilitas kerja jarak jauh; simpan sampai ada minat dari kedua belah pihak, kecuali pewawancara yang mengangkatnya. Jangan menanyakan hal yang mudah ditemukan di situs web perusahaan. Hindari pertanyaan ya/tidak yang mematikan percakapan. Pertanyaan penutup yang kuat adalah: 'Adakah hal dari latar belakang saya yang membuat Anda ragu?'",
+          "tip": "Dengarkan baik-baik jawaban atas pertanyaan penutupmu dan tanggapi setiap kekhawatiran dengan tenang saat itu juga."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Kenapa menyiapkan lima atau enam pertanyaan, bukan hanya dua?",
+          "options": ["Pewawancara mengharapkan tepat enam", "Agar wawancara lebih lama", "Agar tidak perlu membahas posisi", "Sebagian akan sudah terjawab selama wawancara"],
+          "answer": 3,
+          "explanation": "Dengan pertanyaan cadangan, kamu masih punya pertanyaan bagus di akhir."
+        },
+        {
+          "id": "q2",
+          "question": "Pertanyaan mana yang paling cocok saat berbicara dengan calon atasanmu?",
+          "options": ["Bagaimana Anda menggambarkan gaya kepemimpinan Anda?", "Apa yang dijual perusahaan ini?", "Berapa hari cuti yang saya dapat?", "Apakah ada parkir gratis?"],
+          "answer": 0,
+          "explanation": "Sesuaikan pertanyaan dengan pewawancara; seorang manajer paling tahu cara mereka memimpin."
+        },
+        {
+          "id": "q3",
+          "question": "Apa tujuan menanyakan 'Adakah hal dari latar belakang saya yang membuat Anda ragu?'",
+          "options": ["Menekan pewawancara agar memberi tawaran", "Mengakhiri wawancara lebih cepat", "Memunculkan dan menanggapi kekhawatiran selagi kamu masih di ruangan", "Menanyakan gaji secara tidak langsung"],
+          "answer": 2,
+          "explanation": "Pertanyaan ini memberimu kesempatan menanggapi keraguan sebelum keputusan diambil."
+        }
+      ]
+    },
+    {
+      "id": "dress_code",
+      "order": 5,
+      "title": "Apa yang Harus Dipakai",
+      "minutes": 3,
+      "premium": true,
+      "pages": [
+        {
+          "title": "Sesuaikan dengan perusahaan, lalu naikkan satu tingkat",
+          "body": "Aturan paling aman adalah berpakaian satu tingkat lebih formal daripada yang biasa dipakai karyawan sehari-hari. Kalau tim memakai jeans dan kaus, pilih smart casual. Kalau mereka memakai business casual, pertimbangkan blazer atau pakaian yang lebih formal. Cek halaman karier dan foto media sosial perusahaan, atau tanyakan saja kepada perekrut apa yang biasa dipakai orang di sana.",
+          "tip": "Menanyakan aturan berpakaian kepada perekrut itu wajar dan menunjukkan pertimbangan yang baik."
+        },
+        {
+          "title": "Ukuran pas, nyaman, dan rapi",
+          "body": "Yang paling penting bukan harga, tapi pakaianmu bersih, disetrika, dan pas di badan. Pilih pakaian yang pernah kamu pakai agar kamu tahu nyaman untuk duduk selama satu jam. Hindari pakaian yang harus terus dibetulkan. Buat aksesori dan parfum tetap tipis, dan pastikan sepatumu bersih. Pakaian budaya dan keagamaan selalu pantas; kerapian adalah standarnya.",
+          "tip": "Duduklah dengan pakaianmu di depan cermin untuk melihat tampilannya dari sisi pewawancara."
+        },
+        {
+          "title": "Wawancara video",
+          "body": "Berpakaianlah lengkap, bukan hanya dari pinggang ke atas, untuk berjaga-jaga kalau kamu perlu berdiri. Warna polos dengan nada sedang biasanya paling bagus di kamera; garis-garis yang sangat tipis dan motif kecil yang ramai bisa tampak berkedip. Uji pakaianmu di kamera dengan latar belakangmu agar kamu tidak menyatu dengannya. Pencahayaan yang baik di wajah dan latar belakang yang rapi juga bagian dari cara kamu menampilkan diri.",
+          "tip": "Lakukan uji kamera dua menit pada jam yang sama dengan wawancara untuk mengecek pencahayaan."
+        },
+        {
+          "title": "Siapkan sehari sebelumnya",
+          "body": "Pilih dan coba seluruh pakaianmu sehari sebelumnya, termasuk sepatu. Cek noda, kancing yang lepas, atau kusut, lalu perbaiki selagi masih ada waktu. Kalau kamu bepergian, bawa perlengkapan kecil: kemeja atau atasan cadangan, tisu penghilang noda, dan sisir. Memutuskan lebih awal menghilangkan satu sumber stres di hari H.",
+          "tip": "Letakkan semuanya di satu tempat malam sebelumnya agar bersiap tidak perlu banyak keputusan."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Apa aturan berpakaian umum yang paling aman?",
+          "options": ["Selalu pakai pakaian paling formal yang kamu punya", "Berpakaian satu tingkat lebih formal daripada yang biasa dipakai karyawan", "Pakai apa saja yang kamu pakai di rumah", "Meniru foto profil pewawancara"],
+          "answer": 1,
+          "explanation": "Satu tingkat di atas kebiasaan sehari-hari terlihat sopan tanpa tampak janggal."
+        },
+        {
+          "id": "q2",
+          "question": "Pilihan pakaian mana yang biasanya paling bagus di kamera?",
+          "options": ["Garis-garis yang sangat tipis", "Motif kecil yang ramai", "Warna polos dengan nada sedang", "Warna yang sama dengan latar belakangmu"],
+          "answer": 2,
+          "explanation": "Warna polos bernada sedang terlihat bersih di kamera; motif halus bisa berkedip dan warna yang sama membuatmu menyatu dengan latar."
+        },
+        {
+          "id": "q3",
+          "question": "Kenapa memilih pakaian yang pernah kamu pakai?",
+          "options": ["Lebih murah", "Pakaian baru tidak diperbolehkan", "Pewawancara memperhatikan pakaian baru", "Kamu tahu pakaian itu nyaman untuk duduk selama satu jam"],
+          "answer": 3,
+          "explanation": "Pakaian yang sudah teruji berarti tidak ada kejutan dan tidak perlu terus dibetulkan selama wawancara."
+        }
+      ]
+    },
+    {
+      "id": "interview_day_logistics",
+      "order": 6,
+      "title": "Sehari Sebelum dan Hari H",
+      "minutes": 3,
+      "premium": true,
+      "pages": [
+        {
+          "title": "Pastikan detailnya",
+          "body": "Sehari sebelumnya, baca ulang undangan: tanggal, zona waktu, alamat atau tautan video, nama pewawancara, dan formatnya. Rencanakan rute dan cek waktu tempuh pada jam yang sama, dengan tambahan waktu minimal 30 menit. Untuk panggilan video, uji tautan, kamera, mikrofon, dan koneksi, serta siapkan nomor telepon yang bisa dihubungi kalau koneksi terputus.",
+          "tip": "Periksa ulang zona waktu di undangan, terutama untuk posisi jarak jauh."
+        },
+        {
+          "title": "Kemas dan tinjau",
+          "body": "Siapkan tas malam sebelumnya: salinan cetak CV, kartu identitas jika gedung memintanya, buku catatan dan pulpen, air minum, dan pengisi daya ponsel. Lalu lakukan tinjauan singkat, bukan belajar kebut semalam: cerita utamamu, jawabanmu untuk 'Ceritakan tentang diri Anda' dan 'Kenapa perusahaan ini?', serta pertanyaanmu untuk mereka. Berhentilah cukup awal agar bisa tidur nyenyak.",
+          "tip": "Satu simulasi wawancara singkat di malam sebelumnya sudah cukup; latihan berat di menit terakhir hanya menambah stres."
+        },
+        {
+          "title": "Datang di waktu yang tepat",
+          "body": "Untuk wawancara tatap muka, tiba di sekitar lokasi 15–20 menit lebih awal, tapi masuk ke resepsionis sekitar 10 menit sebelum mulai. Datang terlalu awal bisa membebani tuan rumahmu. Untuk wawancara video, bergabunglah satu atau dua menit lebih awal dengan semuanya sudah diuji. Kalau kamu akan terlambat karena alasan apa pun, hubungi perekrut begitu kamu tahu, sebelum jam mulai.",
+          "tip": "Simpan nomor telepon perekrut di kontakmu sebelum berangkat dari rumah."
+        },
+        {
+          "title": "Semua orang adalah bagian dari wawancara",
+          "body": "Bersikaplah sopan kepada semua orang yang kamu temui, dari petugas keamanan hingga resepsionis; beberapa perusahaan meminta kesan mereka. Matikan suara ponselmu sepenuhnya dan simpan. Sambil menunggu, tinjau catatan satu halamanmu alih-alih menggulir media sosial. Sapa pewawancara dengan senyum, perkenalan yang jelas, dan kontak mata, karena menit pertama menentukan suasana selanjutnya.",
+          "tip": "Manfaatkan waktu menunggu untuk menarik napas perlahan beberapa kali dan membaca ulang tiga cerita terbaikmu."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Kapan sebaiknya kamu masuk ke resepsionis untuk wawancara tatap muka?",
+          "options": ["Satu jam lebih awal", "Sekitar 10 menit sebelum mulai", "Tepat waktu", "Terlambat beberapa menit tidak apa-apa"],
+          "answer": 1,
+          "explanation": "Tiba di sekitar lokasi lebih awal, tapi lapor diri sekitar 10 menit sebelumnya agar tidak membebani tuan rumahmu."
+        },
+        {
+          "id": "q2",
+          "question": "Apa yang harus kamu lakukan jika akan terlambat?",
+          "options": ["Datang dan minta maaf di akhir", "Diam saja dan berharap mereka tidak sadar", "Mengirim email untuk menjadwal ulang setelah jam mulai", "Menghubungi perekrut begitu kamu tahu, sebelum jam mulai"],
+          "answer": 3,
+          "explanation": "Pemberitahuan lebih awal itu profesional dan memberi perusahaan waktu untuk menyesuaikan."
+        },
+        {
+          "id": "q3",
+          "question": "Persiapan seperti apa yang terbaik di malam sebelumnya?",
+          "options": ["Tinjauan singkat cerita utama dan pertanyaan, lalu tidur nyenyak", "Belajar kebut semalaman", "Tidak ada persiapan sama sekali", "Menulis ulang CV dari awal"],
+          "answer": 0,
+          "explanation": "Tinjauan ringan menjaga jawaban tetap segar; istirahat lebih penting daripada belajar kebut di menit terakhir."
+        }
+      ]
+    }
+  ]
+}

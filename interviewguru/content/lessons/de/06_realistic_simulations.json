@@ -1,0 +1,270 @@
+{
+  "id": "realistic_simulations",
+  "order": 6,
+  "icon": "simulation",
+  "color": "#EC4899",
+  "title": "Üben & Simulieren",
+  "summary": "Mach aus Übung echten Fortschritt: Simuliere Interviews, nimm dich auf und verbessere dich mit einem klaren Plan.",
+  "topics": [
+    {
+      "id": "mock_interview_practice",
+      "order": 1,
+      "title": "So führst du ein Probeinterview durch",
+      "minutes": 3,
+      "premium": false,
+      "pages": [
+        {
+          "title": "Warum Simulation mehr bringt als Üben im Kopf",
+          "body": "Antworten, die im Kopf perfekt klingen, fallen laut ausgesprochen oft auseinander. Ein Probeinterview deckt die Lücken auf: Geschichten, die zu lang werden, Zahlen, die dir nicht einfallen, Fragen, mit denen du nie gerechnet hast. Wer unter realistischen Bedingungen übt, dem kommt das echte Interview vertraut vor – und das senkt die Nervosität. Zwei oder drei komplette Simulationen vor einem wichtigen Gespräch sind mehr wert als stundenlanges stilles Lesen.",
+          "tip": "Trag deine Probeinterviews in den Kalender ein wie echte Termine."
+        },
+        {
+          "title": "Mach es realistisch",
+          "body": "Bilde das tatsächliche Format nach. Findet das echte Interview per Video statt, übe per Video; ist es vor Ort, setz dich deinem Gegenüber an einem Tisch gegenüber. Zieh dich an wie am Tag selbst und halte ein Zeitlimit ein, meist 30–45 Minuten. Unterbrich nicht, um eine Antwort neu zu beginnen – im echten Interview geht das auch nicht. Lerne stattdessen, dich mitten im Satz zu fangen.",
+          "tip": "Nutze hier die Probeinterview-Funktion, wenn gerade niemand zum Üben da ist."
+        },
+        {
+          "title": "Die richtigen Fragen auswählen",
+          "body": "Stell dir einen Fragenkatalog aus drei Quellen zusammen: Standardfragen (‚Erzähl etwas über dich‘, ‚Warum diese Stelle?‘), Verhaltensfragen passend zur Stellenausschreibung und ein oder zwei schwierige Fragen, vor denen dir graut. Bitte dein Gegenüber, mindestens eine Frage einzubauen, die du noch nicht kennst. Ruhig mit Überraschungen umzugehen, lernst du nur, indem du dich Überraschungen stellst.",
+          "tip": "Führe eine fortlaufende Liste der Fragen, bei denen du gezögert hast."
+        },
+        {
+          "title": "Deinen Übungspartner einweisen",
+          "body": "Freunde, Mentoren oder Kollegen sind gute Interviewer – wenn du sie vorher einweist. Gib ihnen die Stellenausschreibung, deine Fragenliste und sag, worauf sie achten sollen, etwa Füllwörter oder Antwortlänge. Bitte sie, während der Sitzung in ihrer Rolle zu bleiben und das Feedback komplett für den Schluss aufzuheben, damit es sich wie ein echtes Interview anfühlt.",
+          "tip": "Bitte dein Gegenüber, mindestens einmal nachzuhaken: ‚Kannst du ein konkretes Beispiel nennen?‘"
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Warum solltest du in einem Probeinterview Antworten nicht neu beginnen?",
+          "options": ["Es verschwendet die Zeit deines Übungspartners", "Im echten Interview geht das nicht, also solltest du üben, dich zu fangen", "Neustarts machen Antworten zu kurz", "Probeinterviews haben kein Zeitlimit"],
+          "answer": 1,
+          "explanation": "Im echten Interview gibt es keinen zweiten Versuch – übe also, dich mitten in der Antwort zu fangen."
+        },
+        {
+          "id": "q2",
+          "question": "Was sollte dein Fragenkatalog enthalten?",
+          "options": ["Nur Fragen, die du schon gut beantwortest", "Nur Fachfragen", "Standardfragen, stellenspezifische und einige schwierige oder unerwartete Fragen", "Zufällig aus dem Internet ausgewählte Fragen"],
+          "answer": 2,
+          "explanation": "Eine Mischung aus Standard-, stellenbezogenen und schwierigen Fragen bereitet dich auf die echte Bandbreite vor."
+        },
+        {
+          "id": "q3",
+          "question": "Wann sollte dein Übungspartner Feedback geben?",
+          "options": ["Am Ende der Sitzung", "Nach jedem Satz", "Nur wenn du zweimal fragst", "Nie – Zuhören reicht"],
+          "answer": 0,
+          "explanation": "Wer das Feedback bis zum Schluss aufhebt, hält die Simulation realistisch."
+        }
+      ]
+    },
+    {
+      "id": "recording_setup",
+      "order": 2,
+      "title": "Dich selbst aufnehmen",
+      "minutes": 3,
+      "premium": false,
+      "pages": [
+        {
+          "title": "Warum überhaupt aufnehmen?",
+          "body": "Du siehst dein Gesicht und hörst deine Stimme nie so wie ein Interviewer. Eine Aufnahme zeigt Angewohnheiten, die dir nie auffallen: dir durch die Haare fahren, vor jeder Antwort wegschauen, zwölfmal ‚eigentlich‘ sagen. Die meisten finden das erste Anschauen unangenehm – das ist völlig normal. Das Unbehagen vergeht schnell, und die Erkenntnisse bekommst du auf keinem anderen Weg so leicht.",
+          "tip": "Schau dir deine erste Aufnahme einmal nur zum Gewöhnen an und dann ein zweites Mal zum Analysieren."
+        },
+        {
+          "title": "Ein einfaches Setup",
+          "body": "Dein Smartphone reicht völlig. Stell es auf Augenhöhe auf einen Bücherstapel oder ein günstiges Stativ, etwa eine Armlänge entfernt, sodass du ab der Brust aufwärts im Bild bist. Setz dich mit dem Gesicht zu einem Fenster oder einer Lampe, damit dein Gesicht gut ausgeleuchtet ist. Nimm in einem ruhigen Raum auf und mach vorher einen zehnsekündigen Test, um den Ton zu prüfen.",
+          "tip": "Aktiviere den Flugmodus, damit dich keine Anrufe oder Benachrichtigungen unterbrechen."
+        },
+        {
+          "title": "Was du aufnehmen solltest",
+          "body": "Beginne mit kurzen Clips: eine Frage pro Aufnahme, maximal zwei Minuten. Wähle Fragen, die dir sicher gestellt werden, etwa ‚Erzähl etwas über dich‘ und eine zentrale Verhaltensgeschichte. Wenn du dich sicherer fühlst, nimm ein komplettes Probeinterview von Anfang bis Ende auf. Nimmst du dieselbe Frage an verschiedenen Tagen auf, kannst du die Versionen vergleichen und echte Fortschritte sehen.",
+          "tip": "Benenne jede Datei mit Frage und Datum, damit du später vergleichen kannst."
+        },
+        {
+          "title": "Nur Audio und Übung am Bildschirm",
+          "body": "Für Telefoninterviews nimmst du nur den Ton auf, denn deine Stimme ist alles, was der Interviewer mitbekommt. Für Videointerviews nimmst du über die tatsächliche Plattform oder mit deiner Laptop-Kamera auf. So siehst du genau, was der Interviewer sieht – inklusive Hintergrund und Blickrichtung. Je genauer die Aufnahme dem echten Format entspricht, desto nützlicher ist das Feedback.",
+          "tip": "Lösch alte Aufnahmen, sobald du deine Erkenntnisse notiert hast – das hält alles übersichtlich."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Wie solltest du dich bei einer Aufnahme ins Bild setzen?",
+          "options": ["Ganzkörper vom anderen Ende des Raums", "Nur eine Nahaufnahme des Gesichts", "Ab der Brust aufwärts, Kamera auf Augenhöhe", "Von unten, Kamera auf dem Tisch"],
+          "answer": 2,
+          "explanation": "Ein Bildausschnitt ab der Brust auf Augenhöhe entspricht dem, was Interviewer normalerweise sehen."
+        },
+        {
+          "id": "q2",
+          "question": "Wie startest du am besten mit Übungsaufnahmen?",
+          "options": ["Mit kurzen Clips zu jeweils einer Frage", "Mit einer zweistündigen Sitzung am ersten Tag", "Indem du nur deine schwächsten Antworten ausführlich aufnimmst", "Indem du wartest, bis du dich völlig sicher fühlst"],
+          "answer": 0,
+          "explanation": "Kurze Clips zu einer einzelnen Frage lassen sich leicht auswerten und vergleichen."
+        },
+        {
+          "id": "q3",
+          "question": "Wie solltest du für ein Telefoninterview üben?",
+          "options": ["Video mit virtuellem Hintergrund aufnehmen", "Nur den Ton aufnehmen", "Ganz auf Aufnahmen verzichten", "Beim Spazierengehen draußen aufnehmen"],
+          "answer": 1,
+          "explanation": "Am Telefon bekommt der Interviewer nur deine Stimme mit – reine Audioaufnahmen passen also zum Format."
+        }
+      ]
+    },
+    {
+      "id": "self_analysis",
+      "order": 3,
+      "title": "Deine Aufnahme auswerten",
+      "minutes": 4,
+      "premium": true,
+      "pages": [
+        {
+          "title": "In getrennten Durchgängen auswerten",
+          "body": "Alles auf einmal zu beurteilen, überfordert. Schau dir dieselbe Aufnahme lieber dreimal an – jedes Mal mit einem anderen Fokus. Erstens der Inhalt: Hast du die Frage beantwortet? Zweitens die Stimme: Tempo, Lautstärke und Füllwörter. Drittens die Körpersprache, bei stummgeschaltetem Ton. Jeder Durchgang ist kurz, und zusammen ergeben sie ein viel klareres Bild als ein einziges Anschauen.",
+          "tip": "Ohne Ton fallen dir Gesten und Mimik viel leichter auf."
+        },
+        {
+          "title": "Den Inhalt prüfen",
+          "body": "Frag dich: Habe ich die eigentliche Frage in den ersten zwei Sätzen beantwortet? Hatte meine Geschichte eine klare Situation, Handlung und ein Ergebnis? Habe ich eine konkrete Zahl oder ein Resultat genannt? War die Antwort kürzer als zwei Minuten? Fasse die Antwort schriftlich in einem Satz zusammen. Wenn du deine eigene Antwort nicht in einem Satz zusammenfassen kannst, konnte es der Interviewer vermutlich auch nicht.",
+          "tip": "Stopp die Zeit jeder Antwort – die meisten starken Antworten dauern ein bis zwei Minuten."
+        },
+        {
+          "title": "Stimme und Körpersprache prüfen",
+          "body": "Zähl die Füllwörter in einer Antwort – ‚äh‘, ‚halt‘, ‚sozusagen‘. Achte darauf, ob du bei Nervosität schneller wirst oder am Satzende leiser wirst. Beobachte ohne Ton deine Augen, Hände und Haltung. Schaust du in die Kamera? Unterstreichen deine Hände deine Worte oder zappeln sie herum? Nimm dir zuerst die eine Angewohnheit vor, die am meisten ablenkt.",
+          "tip": "Ersetze Füllwörter durch eine kurze, stille Pause – das wirkt souveräner."
+        },
+        {
+          "title": "Sei fair zu dir selbst",
+          "body": "Selbstkritik funktioniert am besten, wenn sie ehrlich, aber ausgewogen ist. Notiere bei jeder Aufnahme zwei Dinge, die gut liefen, bevor du auflistest, was du verbessern willst. Dabei geht es nicht nur um Motivation: Wer seine Stärken kennt, weiß, was er beibehalten sollte. Achte auf Muster über mehrere Aufnahmen hinweg statt auf einen einzelnen holprigen Moment, der vielleicht nie wieder vorkommt.",
+          "tip": "Sammle deine Notizen an einem Ort, damit du wiederkehrende Muster erkennst."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Warum solltest du eine Aufnahme in getrennten Durchgängen auswerten?",
+          "options": ["Es dauert insgesamt kürzer als einmal anschauen", "Wer sich auf einen Bereich konzentriert, bekommt ein klareres Bild", "Interviewer bewerten Kandidaten genauso", "Damit du die Teile überspringen kannst, die dir nicht gefallen"],
+          "answer": 1,
+          "explanation": "Inhalt, Stimme und Körpersprache lassen sich einzeln leichter beurteilen."
+        },
+        {
+          "id": "q2",
+          "question": "Was ist ein nützlicher Test für den Inhalt einer Antwort?",
+          "options": ["Ob sie mindestens fünf Minuten gedauert hat", "Ob sie beeindruckendes Vokabular enthielt", "Ob sie jeden deiner bisherigen Jobs erwähnt hat", "Ob du sie in einem Satz zusammenfassen kannst"],
+          "answer": 3,
+          "explanation": "Wenn du sie nicht in einem Satz zusammenfassen kannst, war die Botschaft vermutlich nicht klar."
+        },
+        {
+          "id": "q3",
+          "question": "Was solltest du notieren, bevor du Verbesserungen auflistest?",
+          "options": ["Zwei Dinge, die gut liefen", "Deine Gesamtnote von eins bis zehn", "Jeden Fehler der Reihe nach", "Nichts – einfach mit dem Verbessern anfangen"],
+          "answer": 0,
+          "explanation": "Wer zuerst Stärken notiert, bleibt ausgewogen und weiß, was er beibehalten sollte."
+        }
+      ]
+    },
+    {
+      "id": "feedback_areas",
+      "order": 4,
+      "title": "Hilfreiches Feedback bekommen",
+      "minutes": 3,
+      "premium": true,
+      "pages": [
+        {
+          "title": "Stell gezielte Fragen",
+          "body": "Auf ‚Wie war ich?‘ bekommst du meist ein höfliches ‚Gut!‘, das dir nichts verrät. Stell stattdessen gezielte Fragen: ‚War meine Antwort auf die Konfliktfrage klar?‘, ‚Klang ich souverän oder auswendig gelernt?‘, ‚An welche Antwort würdest du dich morgen noch erinnern?‘ Konkrete Fragen machen es anderen leichter, ehrlich zu sein, und liefern dir Informationen, mit denen du wirklich arbeiten kannst.",
+          "tip": "Bereite vor jeder Übungssitzung drei Feedbackfragen vor."
+        },
+        {
+          "title": "Die vier Bereiche, die du abdecken solltest",
+          "body": "Hilfreiches Feedback deckt vier Bereiche ab. Inhalt: Waren die Beispiele relevant und konkret? Struktur: War jede Antwort leicht nachvollziehbar? Auftreten: Tempo, Tonfall, Füllwörter und Blickkontakt. Gesamteindruck: Würden sie dich in die nächste Runde bringen, und warum? Wenn du nach allen vier fragst, konzentriert sich das Feedback nicht nur auf das offensichtlichste Problem.",
+          "tip": "Teile die vier Bereiche deinem Übungspartner vor Beginn der Sitzung mit."
+        },
+        {
+          "title": "Vielfältige Feedbackquellen wählen",
+          "body": "Verschiedene Menschen bemerken verschiedene Dinge. Freunde eignen sich gut für Auftreten und Ausstrahlung. Jemand aus deinem Zielbereich kann beurteilen, ob deine Beispiele relevant sind. Ein Mentor oder eine Karriereberaterin erkennt größere Muster. Automatisierte Tools liefern objektive Daten zu Tempo und Füllwörtern. Wenn du zwei oder drei Quellen kombinierst, bekommst du ein vollständigeres, weniger verzerrtes Bild.",
+          "tip": "Nutze den CV-Check, damit dein Lebenslauf und deine Antworten dieselbe Geschichte erzählen."
+        },
+        {
+          "title": "Feedback gut annehmen",
+          "body": "Hör zu, ohne dich zu verteidigen. Mach dir Notizen, bitte um ein Beispiel, wenn ein Punkt unklar ist, und bedank dich – auch wenn das Feedback wehtut. Du musst nicht allem zustimmen; achte auf Anmerkungen, die von mehr als einer Person kommen. Genau diese wiederkehrenden Punkte lohnen deine Zeit meist am meisten.",
+          "tip": "Frag ‚Kannst du mir zeigen, wo das passiert ist?‘, statt dich zu rechtfertigen."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Welche Feedbackfrage ist am hilfreichsten?",
+          "options": ["Wie war ich?", "War das okay?", "Hat es dir gefallen?", "War meine Antwort auf die Konfliktfrage klar?"],
+          "answer": 3,
+          "explanation": "Konkrete Fragen bringen ehrliche Antworten, mit denen du arbeiten kannst."
+        },
+        {
+          "id": "q2",
+          "question": "Warum solltest du mehr als eine Feedbackquelle nutzen?",
+          "options": ["Verschiedene Menschen bemerken verschiedene Dinge", "Eine Quelle liegt immer falsch", "Es macht das Üben schneller", "Interviewer verlangen es"],
+          "answer": 0,
+          "explanation": "Mehrere Quellen ergeben ein vollständigeres und weniger verzerrtes Bild."
+        },
+        {
+          "id": "q3",
+          "question": "Welche Feedbackpunkte verdienen die meiste Aufmerksamkeit?",
+          "options": ["Die, denen du zustimmst", "Der härteste Kommentar", "Punkte, die von mehr als einer Person genannt werden", "Nur der jüngste Kommentar"],
+          "answer": 2,
+          "explanation": "Wiederholte Anmerkungen deuten meist auf ein echtes Muster hin, das sich zu beheben lohnt."
+        }
+      ]
+    },
+    {
+      "id": "improvement_plan",
+      "order": 5,
+      "title": "Einen Verbesserungsplan erstellen",
+      "minutes": 4,
+      "premium": true,
+      "pages": [
+        {
+          "title": "Von Notizen zu Prioritäten",
+          "body": "Nach ein paar Übungssitzungen hast du eine lange Liste an Notizen. Versuch nicht, alles auf einmal zu beheben. Ordne die Notizen Themen zu, etwa unklare Geschichten, schwache Einstiege oder nervöse Angewohnheiten, und sortiere sie nach Wirkung. Wähle die zwei oder drei Änderungen, die den Eindruck beim Interviewer am stärksten verbessern würden, und stell alles andere vorerst zurück.",
+          "tip": "Frag dich: Welche Änderung würde ein Interviewer zuerst bemerken?"
+        },
+        {
+          "title": "Konkrete Ziele setzen",
+          "body": "Vage Ziele wie ‚selbstbewusster sein‘ lassen sich schwer üben. Mach aus jeder Priorität etwas Beobachtbares und Messbares: ‚Erzähl etwas über dich‘ in unter 90 Sekunden beantworten, ‚weniger als drei Füllwörter pro Antwort‘, ‚in jeder Verhaltensgeschichte eine Zahl nennen‘. Konkrete Ziele sagen dir genau, was du üben musst und wann du es geschafft hast.",
+          "tip": "Formuliere jedes Ziel so, dass eine fremde Person es anhand deiner Aufnahme überprüfen könnte."
+        },
+        {
+          "title": "In kurzen, fokussierten Zyklen üben",
+          "body": "Arbeite in kleinen Zyklen: ein Ziel üben, aufnehmen, auswerten, anpassen. Fünfzehn konzentrierte Minuten am Tag bringen mehr als eine dreistündige Sitzung einmal pro Woche. Nimm dieselbe Frage so oft auf, bis das Ziel erreicht ist, und geh dann zum nächsten über. Mach etwa einmal pro Woche ein komplettes Probeinterview, um zu prüfen, ob die einzelnen Verbesserungen auch zusammen funktionieren.",
+          "tip": "Mach am Ende jeder Woche ein komplettes Probeinterview, um alles gemeinsam zu testen."
+        },
+        {
+          "title": "Fortschritt verfolgen und anpassen",
+          "body": "Führe ein einfaches Protokoll: Datum, Frage, Ziel und Ergebnis. Deine erste mit deiner neuesten Aufnahme zu vergleichen, motiviert und zeigt, was funktioniert. Wenn sich ein Ziel nach einer Woche nicht verbessert, ändere den Ansatz – schreib die Geschichte aus, vereinfache sie oder übe mit einem anderen Partner. Sobald ein Ziel zur Gewohnheit geworden ist, ersetze es durch die nächste Priorität.",
+          "tip": "Heb deine allererste Aufnahme als Vergleichsmaßstab für später auf."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Auf wie viele Änderungen solltest du dich gleichzeitig konzentrieren?",
+          "options": ["Auf alles auf deiner Liste", "Auf zwei oder drei Änderungen mit großer Wirkung", "Auf nur eine pro Monat", "Auf keine bis zum echten Interview"],
+          "answer": 1,
+          "explanation": "Wer sich auf wenige wirkungsvolle Änderungen konzentriert, sieht schneller sichtbare Fortschritte."
+        },
+        {
+          "id": "q2",
+          "question": "Welches ist ein konkretes, messbares Ziel?",
+          "options": ["Selbstbewusster sein", "Professionell wirken", "‚Erzähl etwas über dich‘ in unter 90 Sekunden beantworten", "Es nächstes Mal besser machen"],
+          "answer": 2,
+          "explanation": "Ein messbares Ziel sagt dir genau, was du üben musst und wann du es geschafft hast."
+        },
+        {
+          "id": "q3",
+          "question": "Ein Ziel verbessert sich nach einer Woche nicht. Was solltest du tun?",
+          "options": ["Es aufgeben", "Genau denselben Ansatz weiter wiederholen", "Auf das echte Interview warten", "Den Ansatz ändern, etwa die Geschichte vereinfachen oder mit einem neuen Partner üben"],
+          "answer": 3,
+          "explanation": "Wenn etwas nicht funktioniert, passe die Methode an, statt sie einfach zu wiederholen."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,322 @@
+{
+  "id": "interview_types",
+  "order": 1,
+  "icon": "interview",
+  "color": "#4F46E5",
+  "title": "Tipos de entrevista",
+  "summary": "Saiba o que esperar de cada formato de entrevista, da triagem rápida por telefone à entrevista com banca.",
+  "topics": [
+    {
+      "id": "phone_interview",
+      "order": 1,
+      "title": "Entrevista por telefone",
+      "minutes": 3,
+      "premium": false,
+      "pages": [
+        {
+          "title": "Para que serve a triagem por telefone",
+          "body": "A entrevista por telefone costuma ser o primeiro filtro. Um recrutador ou gestor passa de 15 a 30 minutos verificando três coisas: se a sua experiência combina com a vaga, se suas expectativas de salário e localização são realistas e se você se comunica com clareza. Raramente é uma conversa profunda; o objetivo é decidir quem avança.",
+          "tip": "Trate como uma entrevista de verdade. Muitos candidatos saem do processo aqui por agirem de forma descontraída demais."
+        },
+        {
+          "title": "Prepare o ambiente",
+          "body": "Escolha um cômodo silencioso, carregue o celular e confira o sinal antes da ligação. Deixe seu CV, a descrição da vaga e uma lista curta das suas conquistas à sua frente — o entrevistador não vê suas anotações, então aproveite. Tenha água por perto e desative as notificações do computador.",
+          "tip": "Fale em pé ou sentado com a postura ereta; sua voz soa mais enérgica."
+        },
+        {
+          "title": "Sua voz é a sua linguagem corporal",
+          "body": "Sem sinais visuais, o tom e o ritmo carregam a sua mensagem. Sorria ao falar — dá para ouvir. Faça uma breve pausa antes de responder em vez de preencher o silêncio com 'hã'. Mantenha as respostas em torno de 60 a 90 segundos e confira com o entrevistador: 'Quer que eu detalhe mais esse projeto?'",
+          "tip": "Grave-se no celular respondendo a uma pergunta e ouça a gravação uma vez."
+        },
+        {
+          "title": "Encerre bem a ligação",
+          "body": "Perto do fim, faça uma ou duas perguntas sobre a vaga e os próximos passos: 'Como funcionam as próximas etapas do processo?' Agradeça ao entrevistador pelo nome. Em poucas horas, envie um e-mail curto reforçando seu interesse e um motivo pelo qual você se encaixa na vaga.",
+          "tip": "Anote o nome do entrevistador e os pontos principais durante a ligação."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Qual é o principal objetivo de uma triagem por telefone?",
+          "options": ["Negociar o salário final", "Filtrar candidatos por adequação básica e comunicação", "Testar habilidades técnicas avançadas", "Conhecer a equipe inteira"],
+          "answer": 1,
+          "explanation": "A triagem por telefone é um primeiro filtro: adequação básica, expectativas e comunicação."
+        },
+        {
+          "id": "q2",
+          "question": "Qual é uma vantagem real da entrevista por telefone?",
+          "options": ["Você pode manter anotações à sua frente", "Você pode pular a preparação", "A linguagem corporal não importa nem um pouco", "Você pode responder caminhando na rua"],
+          "answer": 0,
+          "explanation": "O entrevistador não vê você, então seu CV e suas anotações podem ficar bem ali."
+        },
+        {
+          "id": "q3",
+          "question": "Quanto tempo deve durar uma resposta típica ao telefone?",
+          "options": ["10 segundos", "Cerca de 60 a 90 segundos", "Pelo menos 5 minutos", "O máximo possível"],
+          "answer": 1,
+          "explanation": "Respostas curtas e estruturadas mantêm o ouvinte engajado; ofereça mais detalhes se ele quiser."
+        }
+      ]
+    },
+    {
+      "id": "video_interview",
+      "order": 2,
+      "title": "Entrevista por vídeo",
+      "minutes": 3,
+      "premium": false,
+      "pages": [
+        {
+          "title": "Dois tipos de entrevista por vídeo",
+          "body": "Entrevistas por vídeo ao vivo acontecem no Zoom, Teams ou Google Meet com uma pessoa real. Nas entrevistas assíncronas (gravadas), você vê uma pergunta e tem um tempo fixo para gravar a resposta, muitas vezes com uma única chance de regravar ou nenhuma. As duas são avaliadas como uma entrevista presencial, mas problemas técnicos são responsabilidade sua.",
+          "tip": "Pergunte qual plataforma será usada e instale-a no dia anterior."
+        },
+        {
+          "title": "Câmera, luz e som",
+          "body": "Posicione a câmera na altura dos olhos — coloque livros embaixo do notebook, se precisar. Fique de frente para uma janela ou luminária para que a luz ilumine seu rosto, e não fique atrás de você. Use fones com microfone para evitar eco. Um fundo neutro e arrumado é melhor do que um fundo virtual que fica piscando em volta do seu cabelo.",
+          "tip": "Faça uma chamada de teste com um amigo e pergunte como está sua imagem e seu áudio."
+        },
+        {
+          "title": "Olhando para a câmera",
+          "body": "Contato visual em vídeo significa olhar para a lente, não para o rosto do entrevistador na tela. Aproxime a janela do vídeo da câmera para que a diferença seja pequena. Acene com a cabeça e reaja um pouco mais do que faria pessoalmente; sinais sutis se perdem no vídeo.",
+          "tip": "Cole um adesivo pequeno ao lado da lente para lembrar de olhar para lá."
+        },
+        {
+          "title": "Quando algo dá errado",
+          "body": "Se a conexão cair, entre de novo rapidamente e diga com calma: 'Desculpe, perdi a conexão — você poderia repetir a última pergunta?' Tenha o telefone ou o e-mail do entrevistador à mão como plano B. Manter a calma diante de uma falha técnica já é, por si só, um sinal positivo.",
+          "tip": "Feche outros aplicativos e pause backups na nuvem para economizar banda."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Para onde você deve olhar para fazer contato visual em uma entrevista por vídeo?",
+          "options": ["Para os olhos do entrevistador na tela", "Para o seu próprio vídeo", "Para a lente da câmera", "Para as suas anotações"],
+          "answer": 2,
+          "explanation": "Olhar para a lente é o que a outra pessoa percebe como contato visual."
+        },
+        {
+          "id": "q2",
+          "question": "Qual é a melhor configuração de luz?",
+          "options": ["Uma janela bem iluminada atrás de você", "Luz de frente para você, no seu rosto", "Um quarto escuro para a tela brilhar", "Apenas a luz do teto"],
+          "answer": 1,
+          "explanation": "A luz à sua frente mantém seu rosto visível; a contraluz transforma você em uma silhueta."
+        },
+        {
+          "id": "q3",
+          "question": "Sua conexão cai no meio de uma resposta. O que fazer?",
+          "options": ["Esperar que liguem para você", "Entrar de novo rapidamente e pedir com calma que repitam a pergunta", "Encerrar a entrevista", "Mandar um e-mail pedindo desculpas depois"],
+          "answer": 1,
+          "explanation": "Voltar com calma mostra que você lida bem com problemas."
+        }
+      ]
+    },
+    {
+      "id": "face_to_face_interview",
+      "order": 3,
+      "title": "Entrevista presencial",
+      "minutes": 3,
+      "premium": false,
+      "pages": [
+        {
+          "title": "A entrevista começa na porta",
+          "body": "A entrevista presencial começa no momento em que você chega. Recepcionistas e pessoas que você encontra no elevador muitas vezes são consultados sobre a impressão que você causou. Chegue 10 minutos antes — não 30 — e seja educado com todos. Use o tempo de espera para acalmar a respiração e revisar suas três histórias principais.",
+          "tip": "Planeje o trajeto no dia anterior e reserve uma margem para o trânsito."
+        },
+        {
+          "title": "Primeiras impressões",
+          "body": "Um aperto de mão firme (sem esmagar), contato visual e um sorriso genuíno definem o tom nos primeiros segundos. Espere que ofereçam um lugar para sentar. Coloque a bolsa no chão, não sobre a mesa, e deixe o celular no silencioso e fora de vista.",
+          "tip": "Diga o nome do entrevistador ao cumprimentá-lo: 'Prazer em conhecê-la, Sara.'"
+        },
+        {
+          "title": "Lendo o ambiente",
+          "body": "Pessoalmente, você recebe feedback em tempo real. Se o entrevistador se inclina para a frente, você está no caminho certo; se ele olha para o relógio ou para as anotações, conclua a resposta. Espelhe levemente a energia e o nível de formalidade dele — isso cria conexão.",
+          "tip": "Leve um caderno com perguntas preparadas; fazer anotações breves demonstra engajamento."
+        },
+        {
+          "title": "Observe a empresa também",
+          "body": "Visitar o escritório é a sua chance de avaliar a cultura. Como as pessoas conversam entre si? O clima é tranquilo ou tenso? Elas parecem gostar do que fazem? Você também está decidindo se quer trabalhar ali.",
+          "tip": "Peça para ver onde a equipe trabalha, caso não ofereçam."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Quando você deve chegar a uma entrevista presencial?",
+          "options": ["Exatamente no horário", "Cerca de 10 minutos antes", "45 minutos antes", "Alguns minutos de atraso não tem problema"],
+          "answer": 1,
+          "explanation": "Chegar dez minutos antes mostra respeito sem pressionar quem vai receber você."
+        },
+        {
+          "id": "q2",
+          "question": "Por que ser educado com a recepcionista?",
+          "options": ["Não faz diferença", "A impressão dela pode ser compartilhada com a equipe de contratação", "É ela quem decide a contratação", "Para conseguir uma vaga melhor no estacionamento"],
+          "answer": 1,
+          "explanation": "Muitas empresas perguntam à equipe da recepção como os candidatos se comportaram."
+        },
+        {
+          "id": "q3",
+          "question": "O entrevistador fica olhando para o relógio enquanto você fala. O que fazer?",
+          "options": ["Falar mais rápido", "Concluir a resposta de forma objetiva", "Perguntar se ele está entediado", "Ignorar"],
+          "answer": 1,
+          "explanation": "É um sinal para finalizar o raciocínio; você pode oferecer mais detalhes se ele quiser."
+        }
+      ]
+    },
+    {
+      "id": "group_interview",
+      "order": 4,
+      "title": "Dinâmica de grupo",
+      "minutes": 3,
+      "premium": true,
+      "pages": [
+        {
+          "title": "O que os avaliadores observam",
+          "body": "Em dinâmicas de grupo e centros de avaliação, vários candidatos trabalham juntos em uma tarefa enquanto avaliadores observam. Eles não procuram a pessoa que fala mais alto. Observam como você escuta, desenvolve as ideias dos outros, mantém o grupo no rumo e contribui para um resultado.",
+          "tip": "A qualidade da contribuição vale mais do que a quantidade de fala."
+        },
+        {
+          "title": "Papéis úteis que você pode assumir",
+          "body": "Você pode agregar valor sem dominar: resuma a discussão ('Até agora concordamos em A e B'), controle o tempo ('Faltam 10 minutos — vamos decidir?') ou traga os mais quietos para a conversa ('Ali, o que você acha?'). São exatamente esses comportamentos que os avaliadores anotam.",
+          "tip": "Oferecer-se para controlar o tempo é uma contribuição fácil e visível."
+        },
+        {
+          "title": "Colabore, não compita",
+          "body": "Trate os outros candidatos como colegas. Criticá-los ou interrompê-los sai pela culatra. Quando discordar, reconheça primeiro: 'Bom ponto sobre o custo; um risco que eu vejo é…'. Grupos que chegam a uma decisão clara fazem todos os membros parecerem melhores.",
+          "tip": "Chame as pessoas pelo nome — memorize-os durante as apresentações."
+        },
+        {
+          "title": "Estudos de caso e apresentações",
+          "body": "Muitas dinâmicas terminam com uma apresentação curta. Combinem cedo quem apresenta cada parte. Estruture de forma simples: problema, opções, recomendação, próximos passos. Se for você a apresentar, dê crédito à equipe: 'Nós decidimos…'.",
+          "tip": "Anote os números-chave do caso em papel para que o grupo possa vê-los."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "O que os avaliadores mais valorizam em uma dinâmica de grupo?",
+          "options": ["Falar mais que todos", "Escutar e desenvolver as ideias dos outros", "Vencer todas as discussões", "Ficar em silêncio para evitar erros"],
+          "answer": 1,
+          "explanation": "Colaboração e contribuição construtiva são o que eles pontuam."
+        },
+        {
+          "id": "q2",
+          "question": "Qual é uma boa forma de contribuir sem dominar?",
+          "options": ["Interromper para compartilhar sua ideia primeiro", "Resumir o progresso e controlar o tempo", "Criticar ideias fracas", "Apresentar sozinho"],
+          "answer": 1,
+          "explanation": "Resumir e controlar o tempo ajudam o grupo e são muito visíveis."
+        },
+        {
+          "id": "q3",
+          "question": "Como você deve discordar de outro candidato?",
+          "options": ["Dizer que ele está errado", "Reconhecer o ponto dele e depois apresentar sua preocupação", "Ignorar a ideia dele", "Pedir ao avaliador que decida"],
+          "answer": 1,
+          "explanation": "Reconhecer primeiro mantém a discussão construtiva."
+        }
+      ]
+    },
+    {
+      "id": "technical_interview",
+      "order": 5,
+      "title": "Entrevista técnica",
+      "minutes": 4,
+      "premium": true,
+      "pages": [
+        {
+          "title": "O que está sendo avaliado",
+          "body": "Entrevistas técnicas verificam se você realmente consegue fazer o trabalho: programação, modelagem financeira, design, cálculos de engenharia ou conhecimento da área. Os entrevistadores se importam tanto com o seu raciocínio quanto com a resposta final. Uma abordagem clara com um pequeno erro muitas vezes pontua mais do que uma resposta correta dada em silêncio.",
+          "tip": "Pense em voz alta desde o primeiro minuto."
+        },
+        {
+          "title": "Uma rotina confiável para resolver problemas",
+          "body": "1) Repita o problema com suas palavras e faça perguntas de esclarecimento. 2) Percorra um exemplo simples. 3) Descreva primeiro uma solução básica e depois melhore-a. 4) Implemente ou calcule passo a passo. 5) Teste com um caso extremo. Essa rotina mantém você calmo mesmo quando não sabe a resposta de imediato.",
+          "tip": "Pergunte sobre as restrições: volume de dados, prazos, orçamento, precisão."
+        },
+        {
+          "title": "Quando você trava",
+          "body": "Diga o que você sabe e onde travou: 'Consigo resolver para uma lista ordenada; estou pensando em como lidar com duplicatas.' Os entrevistadores costumam dar dicas — use-as e agradeça. Nunca blefe sobre algo que você não sabe; explique como você descobriria.",
+          "tip": "Um silêncio de mais de 20 segundos parece longo; continue narrando."
+        },
+        {
+          "title": "Como se preparar",
+          "body": "Revise os fundamentos listados na descrição da vaga e pratique com problemas cronometrados. Releia seus próprios projetos: você precisa conseguir explicar cada decisão que tomou. Para perguntas de sistemas ou de caso, pratique desenhar uma estrutura no papel antes de mergulhar nos detalhes.",
+          "tip": "Use aqui o recurso de entrevista simulada com o tipo 'Técnica' para praticar."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Além da resposta, o que mais importa em uma entrevista técnica?",
+          "options": ["Apenas a velocidade", "O seu raciocínio", "Usar as ferramentas mais novas", "Definições decoradas"],
+          "answer": 1,
+          "explanation": "Os entrevistadores avaliam como você raciocina, se comunica e lida com problemas."
+        },
+        {
+          "id": "q2",
+          "question": "O que você deve fazer primeiro ao receber um problema?",
+          "options": ["Começar a programar imediatamente", "Reformulá-lo e fazer perguntas de esclarecimento", "Dizer que já viu esse problema antes", "Pedir a resposta"],
+          "answer": 1,
+          "explanation": "Esclarecer primeiro evita resolver o problema errado."
+        },
+        {
+          "id": "q3",
+          "question": "Você não conhece um conceito que perguntaram. Qual é a melhor resposta?",
+          "options": ["Chutar com confiança", "Admitir e explicar como você descobriria", "Mudar de assunto", "Ficar em silêncio"],
+          "answer": 1,
+          "explanation": "Honestidade aliada a uma postura de aprendizado é respeitada; blefes são fáceis de detectar."
+        }
+      ]
+    },
+    {
+      "id": "panel_interview",
+      "order": 6,
+      "title": "Entrevista com banca",
+      "minutes": 3,
+      "premium": true,
+      "pages": [
+        {
+          "title": "Vários entrevistadores, uma decisão",
+          "body": "Em uma entrevista com banca, de três a cinco pessoas — por exemplo, um gestor, um futuro colega de equipe e alguém de RH — entrevistam você juntas. Cada uma costuma focar em uma área diferente. A decisão final é compartilhada, então você precisa conquistar a sala inteira, não só a pessoa mais sênior.",
+          "tip": "Peça antes ao recrutador os nomes e cargos dos membros da banca."
+        },
+        {
+          "title": "Para onde olhar",
+          "body": "Comece a resposta olhando para quem perguntou, depois inclua os demais com o olhar enquanto continua e volte para quem perguntou ao final. Isso mantém todos engajados e transmite confiança.",
+          "tip": "Anote os nomes no caderno na ordem em que as pessoas estão sentadas."
+        },
+        {
+          "title": "Adapte as respostas a cada função",
+          "body": "Um líder técnico quer profundidade, o RH quer valores e trabalho em equipe, um gestor quer resultados. Quando a pergunta vier de uma pessoa específica, destaque a parte da sua história que importa para a função dela.",
+          "tip": "Prepare uma história forte para o provável interesse de cada membro da banca."
+        },
+        {
+          "title": "Mantenha a coerência",
+          "body": "Bancas às vezes fazem perguntas parecidas de formas diferentes para testar a coerência. Mantenha suas histórias e números idênticos. No final, agradeça a cada membro e, se possível, envie uma mensagem curta de acompanhamento mencionando algo da conversa.",
+          "tip": "Não ignore os membros mais quietos da banca; muitas vezes eles têm grande influência."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "A quem você deve se dirigir ao responder a uma pergunta da banca?",
+          "options": ["Apenas à pessoa mais sênior", "Apenas a quem perguntou", "Começar por quem perguntou, incluir todos e terminar com quem perguntou", "Olhar para as suas anotações"],
+          "answer": 2,
+          "explanation": "Isso mantém toda a banca engajada e, ao mesmo tempo, respeita quem fez a pergunta."
+        },
+        {
+          "id": "q2",
+          "question": "Por que preparar ênfases diferentes para os membros da banca?",
+          "options": ["Cada função se importa com coisas diferentes", "Para confundi-los", "Bancas preferem respostas longas", "Não é necessário"],
+          "answer": 0,
+          "explanation": "Entrevistadores técnicos, de RH e de gestão buscam evidências diferentes."
+        },
+        {
+          "id": "q3",
+          "question": "A banca faz uma pergunta parecida com uma anterior. O que fazer?",
+          "options": ["Contar uma história completamente nova", "Manter a coerência com os fatos que você já apresentou", "Apontar que eles se repetiram", "Pular a pergunta"],
+          "answer": 1,
+          "explanation": "Bancas verificam a coerência; contradições abalam a confiança."
+        }
+      ]
+    }
+  ]
+}

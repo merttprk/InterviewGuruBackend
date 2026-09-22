@@ -1,0 +1,374 @@
+{
+  "id": "common_questions",
+  "order": 3,
+  "icon": "questions",
+  "color": "#F59E0B",
+  "title": "Common Questions",
+  "summary": "Build clear, confident answers to the questions almost every interviewer asks, from 'Tell me about yourself' to salary.",
+  "topics": [
+    {
+      "id": "tell_me_about_yourself",
+      "order": 1,
+      "title": "Tell Me About Yourself",
+      "minutes": 3,
+      "premium": false,
+      "pages": [
+        {
+          "title": "What they are really asking",
+          "body": "'Tell me about yourself' is not a request for your life story. The interviewer wants a short, relevant overview that explains why you are a good candidate for this role. It is often the first question, so it sets the tone for everything after. Aim for 60–90 seconds and focus on your professional path, not personal details like family or hometown.",
+          "tip": "Prepare this answer first; you will use a version of it in almost every interview."
+        },
+        {
+          "title": "Present: where you are now",
+          "body": "Use a present–past–future structure. Start with the present: your current role or situation and one achievement that matters for this job. For example: 'I'm a customer support lead at a software company, managing a team of six. Last year we cut average response time from a full day to four hours.' Keep it concrete and relevant to the role.",
+          "tip": "Choose the achievement that best matches the job description, not the one you like most."
+        },
+        {
+          "title": "Past: how you got here",
+          "body": "Next, briefly cover the past: the experiences that built the skills this role needs. Pick one or two, not your whole history. 'Before that, I spent three years as a support agent, where I wrote our first help-centre articles and trained new hires.' If you are a recent graduate, use your studies, internships or projects instead of previous jobs.",
+          "tip": "Skip anything from your past that doesn't lead toward this role."
+        },
+        {
+          "title": "Future: why this role",
+          "body": "Finish with the future: what you want next and why this job fits. 'Now I'm looking to move into customer success, where I can work with clients over the long term, which is why this role caught my attention.' This ending hands the conversation back naturally and invites follow-up questions about the experiences you chose to highlight.",
+          "tip": "Record your answer in a mock interview and cut anything that doesn't point toward the role."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "What order does the recommended structure follow?",
+          "options": ["Past, future, present", "Present, past, future", "Future, present, past", "Hobbies, family, career"],
+          "answer": 1,
+          "explanation": "Start with where you are now, explain how you got there, then say where you want to go."
+        },
+        {
+          "id": "q2",
+          "question": "What should the 'future' part of your answer do?",
+          "options": ["State your salary expectations", "Describe your hobbies", "Repeat your education", "Explain what you want next and why this role fits"],
+          "answer": 3,
+          "explanation": "The future part links your goals to this job and hands the conversation back."
+        },
+        {
+          "id": "q3",
+          "question": "Which detail belongs least in your answer?",
+          "options": ["Your family and hometown", "A relevant achievement in your current role", "Skills built in a previous job", "Why this role appeals to you"],
+          "answer": 0,
+          "explanation": "The question is about your professional path, so personal details take time away from what matters."
+        }
+      ]
+    },
+    {
+      "id": "why_this_company",
+      "order": 2,
+      "title": "Why Do You Want to Work Here?",
+      "minutes": 3,
+      "premium": false,
+      "pages": [
+        {
+          "title": "What the question tests",
+          "body": "'Why do you want to work here?' checks three things: whether you researched the company, whether your motivation goes beyond needing any job, and whether you are likely to stay. A generic answer like 'It's a great company with a great culture' fails all three. Your answer needs specifics that could not be said about any other employer.",
+          "tip": "If your answer would still make sense with a competitor's name in it, make it more specific."
+        },
+        {
+          "title": "The three-part answer",
+          "body": "Build your answer from three links: the company, the role and you. First, name something specific about the company, such as a product, a market or a recent move. Second, connect it to what the role involves. Third, show why that matters to you, using your experience or goals. One or two sentences per link is enough.",
+          "tip": "Use your company research notes to pick the one detail that connects best to your experience."
+        },
+        {
+          "title": "An example",
+          "body": "'I've followed your move into payments for small businesses, and I like that you're building for owners who have been underserved. This role would put me on the onboarding team, which is exactly where I've spent the last two years improving sign-up conversion. I want to keep doing that work at a company where it's central to the strategy.'",
+          "tip": "Notice how each sentence covers one link: company, role, then you."
+        },
+        {
+          "title": "Mistakes to avoid",
+          "body": "Don't lead with benefits: salary, location or perks sound self-centred as a main reason, even if they matter to you. Don't flatter without substance; 'You're the industry leader' says nothing. Don't criticise your current employer to explain why you're leaving. And don't recite the mission statement back; interpret it and show what it means to you in practice.",
+          "tip": "Keep practical reasons like location for later conversations, not your headline answer."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Why does 'It's a great company with a great culture' fail as an answer?",
+          "options": ["It is too long", "It mentions culture", "It could be said about any employer", "It is too specific"],
+          "answer": 2,
+          "explanation": "A strong answer contains details that only apply to this company."
+        },
+        {
+          "id": "q2",
+          "question": "What are the three links in a strong answer?",
+          "options": ["Salary, location and perks", "The company, the role and you", "Mission, vision and values", "Past, present and future"],
+          "answer": 1,
+          "explanation": "Connect something specific about the company to the role and then to your own experience or goals."
+        },
+        {
+          "id": "q3",
+          "question": "Which reason should not lead your answer?",
+          "options": ["A recent company move you admire", "How the role uses your experience", "Your career goals", "The benefits package"],
+          "answer": 3,
+          "explanation": "Leading with perks sounds self-centred, even though benefits are a fair consideration."
+        }
+      ]
+    },
+    {
+      "id": "strengths",
+      "order": 3,
+      "title": "Your Strengths",
+      "minutes": 3,
+      "premium": true,
+      "pages": [
+        {
+          "title": "Choose strengths that matter here",
+          "body": "Pick two or three strengths that the job description clearly values, not simply the ones you are proudest of. A data analyst might choose accuracy, explaining numbers clearly and curiosity. A salesperson might choose resilience and relationship-building. If a strength doesn't help in this role, it won't help your answer, however true it is.",
+          "tip": "Cross-check your strengths against the must-haves you highlighted in the job description."
+        },
+        {
+          "title": "Be specific, not generic",
+          "body": "'Hard-working', 'team player' and 'passionate' are claimed by nearly everyone, so they carry little weight. Make each strength precise: instead of 'good communicator', say 'I explain technical problems clearly to non-technical clients'. The narrower the description, the more believable it sounds and the easier it is for the interviewer to picture you doing the job.",
+          "tip": "Ask yourself what you would actually be seen doing if this strength were on display."
+        },
+        {
+          "title": "Prove it with an example",
+          "body": "A strength without evidence is only an opinion. Follow each one with a short example: the situation, what you did and the result. 'I'm good at simplifying complex processes. In my last role I rewrote our twenty-page onboarding guide into a five-step checklist, and new hires reached full productivity two weeks faster.' Numbers make the story stick.",
+          "tip": "Prepare one example per strength and keep each under a minute."
+        },
+        {
+          "title": "Deliver it with confidence",
+          "body": "Many people undersell themselves because talking about strengths feels like bragging. It isn't; you are answering a direct question with facts. State the strength plainly, give the evidence and link it to the role: 'That's why I could get your new support hires up to speed quickly.' Avoid false modesty and exaggeration equally.",
+          "tip": "Practise your top strength out loud until it sounds natural rather than memorised."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "How should you choose which strengths to mention?",
+          "options": ["Pick the ones the role clearly values", "List as many as possible", "Choose the ones your friends mention", "Use the most popular strengths"],
+          "answer": 0,
+          "explanation": "A strength only helps your answer if it matters for this specific job."
+        },
+        {
+          "id": "q2",
+          "question": "Why is 'team player' a weak strength to name on its own?",
+          "options": ["Interviewers dislike teamwork", "It is too technical", "It sounds too modest", "Nearly everyone claims it, so it carries little weight"],
+          "answer": 3,
+          "explanation": "Generic labels don't set you apart; precise descriptions do."
+        },
+        {
+          "id": "q3",
+          "question": "What makes a strength believable?",
+          "options": ["Repeating it several times", "Listing it on your CV", "A specific example with a result", "Keeping it broad"],
+          "answer": 2,
+          "explanation": "Evidence turns a claim into proof, especially with a measurable outcome."
+        }
+      ]
+    },
+    {
+      "id": "weaknesses",
+      "order": 4,
+      "title": "Your Weaknesses",
+      "minutes": 4,
+      "premium": true,
+      "pages": [
+        {
+          "title": "Why they ask",
+          "body": "Interviewers ask about weaknesses to test self-awareness and honesty, not to catch you out. They want to see that you know where you can improve and that you actively work on it. Answers like 'I'm a perfectionist' or 'I work too hard' sound rehearsed and evasive, and suggest you either lack self-awareness or aren't being truthful.",
+          "tip": "Think of feedback you have actually received; it is the best source of a genuine answer."
+        },
+        {
+          "title": "Pick a real but non-critical weakness",
+          "body": "Choose something genuine that is not central to the job. A software developer might mention public speaking; an accountant should not mention attention to detail. Good options include delegating, saying no to extra work, presenting to large groups or a specific tool you haven't mastered. Avoid anything that raises doubts about integrity, reliability or the role's core skills.",
+          "tip": "Check your chosen weakness against the job description's must-haves before you use it."
+        },
+        {
+          "title": "Show the improvement",
+          "body": "The most important part is what you are doing about it. Use three steps: name the weakness, give a brief example of how it affected your work, then describe concrete actions and progress. 'I used to take on too much. Now I review my workload weekly with my manager, and I push back with clear priorities when new requests come in.'",
+          "tip": "Mention a specific habit, tool or course, not just 'I'm working on it'."
+        },
+        {
+          "title": "Keep it short and forward-looking",
+          "body": "Spend about 20% of your answer on the weakness and 80% on the improvement. Don't over-explain or apologise, and don't list several weaknesses at once. End on the progress you've made so the interviewer remembers growth, not the problem. If asked for a second weakness, have another one ready that follows the same structure.",
+          "tip": "Test your weakness answer in a mock interview to check it sounds honest, not scripted."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Why is 'I'm a perfectionist' usually a weak answer?",
+          "options": ["It is too honest", "It sounds rehearsed and evasive", "It is too long", "It is too technical"],
+          "answer": 1,
+          "explanation": "Disguised strengths suggest a lack of self-awareness or honesty."
+        },
+        {
+          "id": "q2",
+          "question": "Which weakness would be risky for an accountant to mention?",
+          "options": ["Public speaking to large groups", "Delegating work", "Attention to detail", "Saying no to extra projects"],
+          "answer": 2,
+          "explanation": "Attention to detail is a core skill for accounting, so it is a critical weakness for that role."
+        },
+        {
+          "id": "q3",
+          "question": "How should you divide your answer?",
+          "options": ["80% weakness, 20% improvement", "Half weakness, half improvement", "Only describe the weakness", "About 20% weakness, 80% improvement"],
+          "answer": 3,
+          "explanation": "Keep the focus on what you are doing about it so the interviewer remembers growth."
+        }
+      ]
+    },
+    {
+      "id": "star_method",
+      "order": 5,
+      "title": "The STAR Method",
+      "minutes": 4,
+      "premium": true,
+      "pages": [
+        {
+          "title": "What STAR stands for",
+          "body": "STAR is a structure for behavioural questions like 'Tell me about a time when...'. It stands for Situation, Task, Action and Result. It keeps your story focused and makes sure you finish with an outcome. Across these pages we'll build one complete example answering the question: 'Tell me about a time you handled a tight deadline.'",
+          "tip": "When you hear 'Tell me about a time', that is your signal to use STAR."
+        },
+        {
+          "title": "Situation and Task",
+          "body": "Situation sets the scene in one or two sentences: 'Two weeks before a major client launch, our lead designer left the company.' Task explains your responsibility: 'As project coordinator, I had to make sure all the launch materials were still delivered on time.' Keep both short; together they should take about 20% of your answer.",
+          "tip": "Cut background details the interviewer doesn't need to understand your challenge."
+        },
+        {
+          "title": "Action",
+          "body": "Action is the heart of the story and should take about 60% of your answer. Say 'I', not 'we', so the interviewer knows what you did. 'I broke the remaining work into daily tasks, brought in a freelance designer within two days, and set up a 15-minute check-in each morning to catch problems early. I also agreed with the client which items could move to a second phase.'",
+          "tip": "List your actions as clear steps; it shows structured thinking."
+        },
+        {
+          "title": "Result",
+          "body": "Result closes the story with a clear outcome, ideally measurable: 'We delivered every core item on the launch date, the client renewed their contract for another year, and the daily check-in became standard practice on our team.' Add what you learned if it is relevant. The result should take about 20% of your answer; without it, even a great story feels unfinished.",
+          "tip": "Write five STAR stories in advance and practise them in a mock interview."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Which part of a STAR answer should take the most time?",
+          "options": ["Situation", "Task", "Action", "Result"],
+          "answer": 2,
+          "explanation": "Action should be about 60% of the answer because it shows what you actually did."
+        },
+        {
+          "id": "q2",
+          "question": "Why should you say 'I' rather than 'we' in the Action part?",
+          "options": ["So the interviewer knows what you personally did", "Because teamwork doesn't matter", "To make the story shorter", "Because 'we' is grammatically wrong"],
+          "answer": 0,
+          "explanation": "The interviewer is assessing you, so your own contribution needs to be clear."
+        },
+        {
+          "id": "q3",
+          "question": "In the worked example, which detail belongs to the Result?",
+          "options": ["The lead designer left the company", "A freelance designer was brought in", "Daily check-ins were set up", "The client renewed their contract for another year"],
+          "answer": 3,
+          "explanation": "The renewal is the outcome; the other items are the situation or the actions."
+        }
+      ]
+    },
+    {
+      "id": "teamwork_examples",
+      "order": 6,
+      "title": "Teamwork and Conflict Questions",
+      "minutes": 3,
+      "premium": true,
+      "pages": [
+        {
+          "title": "What they are looking for",
+          "body": "Questions like 'Tell me about a disagreement with a colleague' or 'Describe a time you worked in a difficult team' test how you behave when things aren't smooth. Interviewers want evidence that you stay professional, listen, focus on the shared goal and can reach a solution without escalating every problem to a manager.",
+          "tip": "Prepare at least one conflict story and one successful team story before any interview."
+        },
+        {
+          "title": "Pick the right story",
+          "body": "Choose a real, work-related disagreement about priorities, methods or deadlines, not a personal feud. The conflict should be meaningful enough to be interesting and resolved constructively. Avoid stories where you were completely right and the other person completely wrong; they make you seem inflexible. The best stories show you understood the other side's point of view.",
+          "tip": "Pick a story where the working relationship ended up better, not worse."
+        },
+        {
+          "title": "Tell it with STAR",
+          "body": "Use STAR and emphasise your actions. 'A colleague and I disagreed on whether to delay a release for more testing. I asked for a short meeting, listened to his concerns about quality and shared my data on customer impact. We agreed to release the stable features on time and delay one risky feature by a week.' Then state the result.",
+          "tip": "Describe the other person's position fairly; it makes your own actions more credible."
+        },
+        {
+          "title": "Avoid common traps",
+          "body": "Never say you have never had a conflict; it sounds unrealistic or suggests you avoid issues. Don't criticise former colleagues or reveal confidential details. Don't make the story only about the problem; spend most of the time on how it was resolved. End with a positive outcome or lesson, such as a better working relationship or a new process.",
+          "tip": "Leave out names; 'a colleague in finance' is enough detail."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Which story works best for a conflict question?",
+          "options": ["A personal feud with a neighbour", "A time you were completely right and the other person was wrong", "A work disagreement about priorities that you resolved constructively", "A conflict you reported without trying to resolve it"],
+          "answer": 2,
+          "explanation": "A real work disagreement with a constructive resolution shows maturity and flexibility."
+        },
+        {
+          "id": "q2",
+          "question": "Why is 'I've never had a conflict' a poor answer?",
+          "options": ["It sounds unrealistic or suggests you avoid issues", "It is too long", "It reveals confidential details", "It criticises colleagues"],
+          "answer": 0,
+          "explanation": "Everyone faces disagreements at work; interviewers want to see how you handle them."
+        },
+        {
+          "id": "q3",
+          "question": "In the release example, what showed a constructive approach?",
+          "options": ["Refusing to delay anything", "Asking the manager to decide", "Releasing everything late", "Listening to concerns and agreeing on a compromise"],
+          "answer": 3,
+          "explanation": "Listening, sharing data and finding a middle ground resolved the conflict without escalation."
+        }
+      ]
+    },
+    {
+      "id": "salary_negotiation",
+      "order": 7,
+      "title": "Salary Expectations and Negotiation",
+      "minutes": 4,
+      "premium": true,
+      "pages": [
+        {
+          "title": "Research your market value",
+          "body": "Before any interview, know the typical pay range for the role, level and location. Use salary surveys, job postings that list pay, professional associations and conversations with people in similar roles. Collect several sources and note the low, middle and high points. Consider the full package, including bonus, pension contributions, leave and learning budget, not just base salary.",
+          "tip": "Use at least three independent sources; a single figure can be misleading."
+        },
+        {
+          "title": "Set your range",
+          "body": "Decide three numbers before anyone asks: your walk-away figure (the minimum you would accept), your target and an ambitious but defensible top. Share a range whose bottom is close to your target, not your minimum, because offers tend to land near the lower end. Keep the range fairly narrow, around 10–20% wide, so it sounds researched.",
+          "tip": "Never reveal your walk-away number; it is for your decision, not the conversation."
+        },
+        {
+          "title": "Answering 'What are your salary expectations?'",
+          "body": "If asked early, you can politely redirect: 'I'd like to learn more about the responsibilities first. Could you share the budgeted range?' If pressed, give your researched range confidently: 'Based on my research for similar roles, I'm looking for 55,000 to 62,000.' The first credible number anchors the discussion, so make yours well supported. Don't justify it with personal expenses.",
+          "tip": "Say your range once, clearly, then stop talking and let them respond."
+        },
+        {
+          "title": "Negotiating the offer",
+          "body": "When an offer arrives, thank them and ask for a day or two to review it. If it is below your target, respond with enthusiasm plus a specific counter: 'I'm excited about this role. Given my experience leading similar projects, could we get closer to 60,000?' If base pay is fixed, negotiate other items: start date, bonus, extra leave or training.",
+          "tip": "Rehearse your counteroffer out loud in a mock interview before the real call."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Where should the bottom of the range you share sit?",
+          "options": ["At your walk-away minimum", "Close to your target figure", "Below your minimum to seem flexible", "At the highest salary you found"],
+          "answer": 1,
+          "explanation": "Offers often land near the bottom of your range, so it should be close to your target."
+        },
+        {
+          "id": "q2",
+          "question": "Why does the first credible number matter so much?",
+          "options": ["It is legally binding", "Employers always accept it", "It ends the negotiation", "It anchors the rest of the discussion"],
+          "answer": 3,
+          "explanation": "Later offers and counteroffers tend to move around the first well-supported figure."
+        },
+        {
+          "id": "q3",
+          "question": "If base salary is fixed, what can you still negotiate?",
+          "options": ["Nothing else", "Only your job title", "Start date, bonus, extra leave or training", "The interviewer's schedule"],
+          "answer": 2,
+          "explanation": "The full package has several parts, and many can be adjusted even when base pay can't."
+        }
+      ]
+    }
+  ]
+}

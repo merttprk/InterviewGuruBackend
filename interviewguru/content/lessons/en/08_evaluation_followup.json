@@ -1,0 +1,270 @@
+{
+  "id": "evaluation_followup",
+  "order": 8,
+  "icon": "followup",
+  "color": "#F97316",
+  "title": "After the Interview",
+  "summary": "Follow up professionally, learn from every interview and handle offers with confidence.",
+  "topics": [
+    {
+      "id": "email_structure",
+      "order": 1,
+      "title": "Writing a Thank-You Email",
+      "minutes": 3,
+      "premium": false,
+      "pages": [
+        {
+          "title": "Why a thank-you email matters",
+          "body": "A short thank-you email is a simple, low-effort way to stand out. It shows courtesy, confirms your interest and gives you one more chance to remind the interviewer why you fit the role. It rarely wins a job on its own, but when two candidates are close, a thoughtful message can leave the stronger final impression.",
+          "tip": "Send it within 24 hours, ideally on the same day."
+        },
+        {
+          "title": "A simple structure",
+          "body": "Keep it to four short parts. A subject line such as 'Thank you — Marketing Coordinator interview'. A thank-you for their time, using the interviewer's name. One or two sentences linking a topic you discussed to your skills. A closing line confirming your interest and availability for next steps. The whole email should fit on a phone screen.",
+          "tip": "Aim for under 150 words; busy interviewers appreciate brevity."
+        },
+        {
+          "title": "Make it personal",
+          "body": "Generic thank-you emails are easy to spot. Mention something specific from the conversation: a project they described, a challenge the team faces or a question that interested you. For example: 'I enjoyed hearing about the new onboarding programme; my experience redesigning training materials could help there.' Specific details show you were listening.",
+          "tip": "Write down two discussion points right after the interview so you can use them."
+        },
+        {
+          "title": "Common mistakes",
+          "body": "Avoid copying the same message to every panel member; adjust at least one sentence for each person. Double-check names, spelling and the job title. Don't use the email to re-argue a weak answer at length or ask about salary. Keep the tone warm and professional, and don't send repeated follow-ups if you don't hear back straight away.",
+          "tip": "Read the email aloud once before sending to catch errors."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "When should you send a thank-you email?",
+          "options": ["Within 24 hours of the interview", "After one week", "Only if you get an offer", "Before the interview"],
+          "answer": 0,
+          "explanation": "Sending it within a day keeps you fresh in the interviewer's mind."
+        },
+        {
+          "id": "q2",
+          "question": "What makes a thank-you email personal?",
+          "options": ["Using a long, formal template", "Mentioning a specific point from the conversation", "Attaching your CV again", "Listing all your qualifications"],
+          "answer": 1,
+          "explanation": "A specific detail shows you listened and connects the conversation to your skills."
+        },
+        {
+          "id": "q3",
+          "question": "How should you thank a panel of three interviewers?",
+          "options": ["Send one identical email to all three", "Thank only the most senior person", "Don't thank a panel", "Adjust at least one sentence for each person"],
+          "answer": 3,
+          "explanation": "Personalising each message avoids an obviously copied email."
+        }
+      ]
+    },
+    {
+      "id": "email_examples",
+      "order": 2,
+      "title": "Follow-Up Email Templates",
+      "minutes": 4,
+      "premium": false,
+      "pages": [
+        {
+          "title": "Thank-you template",
+          "body": "Subject: Thank you — [Job Title] interview. 'Dear [Name], thank you for taking the time to meet me today. I especially enjoyed discussing [topic], and it confirmed my interest in the role. My experience in [relevant skill] would help me contribute quickly. Please let me know if you need anything else. Best regards, [Your Name].'",
+          "tip": "Replace every bracket; a forgotten [Name] undoes the good impression."
+        },
+        {
+          "title": "Checking on your status",
+          "body": "If the promised decision date has passed, wait two or three working days, then write: 'Dear [Name], I hope you're well. I'm following up on my interview for [Job Title] on [date]. I remain very interested in the role and would be grateful for any update on the timeline. Thank you, [Your Name].' Stay brief, positive and patient.",
+          "tip": "Follow up no more than once a week to avoid seeming pushy."
+        },
+        {
+          "title": "Responding to a rejection",
+          "body": "A gracious reply keeps the door open: 'Dear [Name], thank you for letting me know. Although I'm disappointed, I appreciated learning about [team or company]. If you have a moment, I'd welcome any feedback. I hope we can stay in touch for future opportunities. Kind regards, [Your Name].' Many candidates never reply, so this stands out.",
+          "tip": "Connect with the interviewer on a professional network after replying."
+        },
+        {
+          "title": "Withdrawing from a process",
+          "body": "If you accept another offer or lose interest, tell the company promptly: 'Dear [Name], thank you for considering me for [Job Title]. I've decided to withdraw my application, as I've accepted another position. I appreciated your time and hope our paths cross again. Best wishes, [Your Name].' Withdrawing politely protects your reputation.",
+          "tip": "You don't need to give detailed reasons; a brief explanation is enough."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "The decision date has passed with no news. When should you follow up?",
+          "options": ["Immediately that same morning", "After two or three working days", "Never — just wait", "Every day until they reply"],
+          "answer": 1,
+          "explanation": "A short, patient follow-up a few days later is polite and effective."
+        },
+        {
+          "id": "q2",
+          "question": "Why reply to a rejection email?",
+          "options": ["To ask them to change their decision", "To express your frustration", "It keeps the door open and may bring feedback", "It is legally required"],
+          "answer": 2,
+          "explanation": "A gracious reply leaves a good impression for future opportunities."
+        },
+        {
+          "id": "q3",
+          "question": "What should a withdrawal email include?",
+          "options": ["A detailed comparison of the two offers", "Nothing — just stop replying", "A request for a higher salary", "A brief thank-you and a clear statement that you're withdrawing"],
+          "answer": 3,
+          "explanation": "A short, polite withdrawal protects your reputation."
+        }
+      ]
+    },
+    {
+      "id": "performance_analysis",
+      "order": 3,
+      "title": "Evaluating Your Performance",
+      "minutes": 3,
+      "premium": true,
+      "pages": [
+        {
+          "title": "Debrief while it's fresh",
+          "body": "Within an hour of the interview, spend ten minutes writing down what you remember: the questions asked, how you answered, the interviewers' names and anything you learned about the role. Details fade quickly. These notes help with your thank-you email, prepare you for the next round and show you what to practise.",
+          "tip": "Use your phone's notes app on the way home if you can't sit down immediately."
+        },
+        {
+          "title": "Three simple questions",
+          "body": "Review the interview with three questions. What went well? Which answers felt clear and got a positive reaction? What didn't go well? Where did you hesitate or ramble? What would I do differently? Be specific: 'I forgot to mention the sales result in my leadership story' is far more useful than 'I was bad.'",
+          "tip": "Write at least as many positives as negatives."
+        },
+        {
+          "title": "Look at the whole process",
+          "body": "Evaluate more than your answers. Did your preparation cover the right topics? Were your questions for the interviewer thoughtful? Did logistics go smoothly? Also reflect on the company: did the role, team and culture match what you want? An interview is a two-way evaluation, and your impressions matter for your decision.",
+          "tip": "Rate your interest in the role from 1 to 10 right after the interview."
+        },
+        {
+          "title": "Avoid over-analysing",
+          "body": "It's easy to replay one awkward moment for days. Remember that interviewers usually form an overall impression rather than focusing on one answer, and candidates often judge themselves more harshly than interviewers do. Once your notes are written and your action points chosen, let it go. Put your energy into the next application or practice session.",
+          "tip": "Turn your weakest answer into a mock interview question for next time."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "When is the best time to debrief after an interview?",
+          "options": ["The next week", "Within an hour, while details are fresh", "Only after hearing the result", "Right before your next interview"],
+          "answer": 1,
+          "explanation": "Details fade quickly, so write notes soon after."
+        },
+        {
+          "id": "q2",
+          "question": "Which self-evaluation note is most useful?",
+          "options": ["I was bad", "It went okay", "I forgot to mention the sales result in my leadership story", "They didn't like me"],
+          "answer": 2,
+          "explanation": "Specific notes point to specific improvements."
+        },
+        {
+          "id": "q3",
+          "question": "Besides your answers, what else should you evaluate?",
+          "options": ["Whether the role, team and culture match what you want", "The interviewer's clothes", "How long the office tour lasted", "Nothing else matters"],
+          "answer": 0,
+          "explanation": "Interviews are two-way; your impression of the company matters too."
+        }
+      ]
+    },
+    {
+      "id": "handling_offers",
+      "order": 4,
+      "title": "Handling Offers and Negotiating",
+      "minutes": 4,
+      "premium": true,
+      "pages": [
+        {
+          "title": "Look at the total package",
+          "body": "An offer is more than the base salary. Consider bonuses, retirement or pension contributions, health and other insurance, paid leave, flexible or remote working, training budgets and equity if offered. Also weigh the role itself, growth opportunities, commute and team. Ask for the full offer in writing so you can compare options accurately and avoid misunderstandings.",
+          "tip": "List every component in a simple table to compare offers side by side."
+        },
+        {
+          "title": "Ask for time",
+          "body": "You don't need to accept on the spot. Thank them warmly and ask for time: 'Thank you, I'm very pleased to receive this offer. Could I have until Friday to review the details?' A few days to a week is a common, reasonable request. Use the time to review the package, research typical pay for the role and prepare questions.",
+          "tip": "Show enthusiasm for the role even while asking for time."
+        },
+        {
+          "title": "Negotiate politely",
+          "body": "Negotiation is common and, done respectfully, rarely damages an offer. Base your request on research into market rates and on the value you bring. Be specific and positive: 'I'm excited about the role. Based on my experience and typical pay for similar positions, would a salary of [amount] be possible?' If salary is fixed, ask about other elements, such as leave, flexibility or training.",
+          "tip": "Name a specific figure rather than asking for 'a bit more'."
+        },
+        {
+          "title": "Accept or decline gracefully",
+          "body": "When you accept, confirm in writing and check the start date and key terms. When you decline, reply promptly and courteously: 'Thank you for the offer and for your time. After careful thought, I've decided to accept another position. I really enjoyed meeting the team and hope we stay in touch.' Declining politely preserves relationships for the future.",
+          "tip": "Don't resign from your current job until you have the offer in writing."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "What should you evaluate when you receive an offer?",
+          "options": ["Only the base salary", "Only the job title", "The total package, including benefits, flexibility and growth", "Only how fast they want an answer"],
+          "answer": 2,
+          "explanation": "Benefits, flexibility, growth and the role itself all add to an offer's value."
+        },
+        {
+          "id": "q2",
+          "question": "An employer asks you to decide on an offer. What is a reasonable response?",
+          "options": ["Accept immediately without reading it", "Thank them and ask for a few days to review the details", "Reject it to get a better offer", "Ignore the message for two weeks"],
+          "answer": 1,
+          "explanation": "Asking for a short, defined amount of time is common and reasonable."
+        },
+        {
+          "id": "q3",
+          "question": "The salary is fixed. What can you still negotiate?",
+          "options": ["Other elements such as leave, flexibility or training", "Nothing at all", "The interviewer's decision", "Your job title only"],
+          "answer": 0,
+          "explanation": "When salary can't move, other parts of the package often can."
+        }
+      ]
+    },
+    {
+      "id": "tracking_progress",
+      "order": 5,
+      "title": "Tracking Your Job Search",
+      "minutes": 3,
+      "premium": true,
+      "pages": [
+        {
+          "title": "Why track your search",
+          "body": "When you apply to many roles, details blur quickly. You may forget which CV version you sent, whom you spoke to or when to follow up. A simple tracker keeps everything in one place, prevents embarrassing mix-ups and shows you where your search is working and where it's stuck. It also makes progress visible on slow weeks.",
+          "tip": "Start tracking from your very first application, not after the tenth."
+        },
+        {
+          "title": "What to record",
+          "body": "A spreadsheet or notes app is enough. For each application, record the company, role, date applied, CV version, contact person, current stage, next action and its date. Add a notes column for interview questions, salary information and impressions. Keep the job description saved too, since postings are often removed once the role closes.",
+          "tip": "Keep the CV builder version you used for each role so your answers match what they read."
+        },
+        {
+          "title": "Use stages and next steps",
+          "body": "Give every application a stage: applied, screening, interview, final round, offer or closed. Each open application should also have a next step with a date, such as 'Follow up on 12 May' or 'Prepare case study'. Review your tracker at the start of each week so nothing is forgotten and every opportunity keeps moving.",
+          "tip": "Colour-code stages so you can see your pipeline at a glance."
+        },
+        {
+          "title": "Learn from your numbers",
+          "body": "After a month, look at the patterns. If you send many applications but get few replies, your CV or targeting may need work. If you get interviews but rarely reach the final round, focus on interview practice. If final rounds don't turn into offers, review your closing and follow-up. Your tracker tells you where to spend effort next.",
+          "tip": "Calculate the share of applications that reach an interview each month."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Why save the job description with each application?",
+          "options": ["Postings are often removed once the role closes", "Employers ask you to return it", "It replaces your CV", "It is needed to calculate salary"],
+          "answer": 0,
+          "explanation": "You'll need it to prepare for interviews, and it may disappear online."
+        },
+        {
+          "id": "q2",
+          "question": "What should every open application have in your tracker?",
+          "options": ["A photo of the office", "A next step with a date", "The interviewer's personal phone number", "A final decision already made"],
+          "answer": 1,
+          "explanation": "A dated next step keeps each opportunity moving."
+        },
+        {
+          "id": "q3",
+          "question": "You get many interviews but rarely reach the final round. Where should you focus?",
+          "options": ["Sending more applications", "Changing careers", "Interview practice", "Writing longer thank-you emails"],
+          "answer": 2,
+          "explanation": "The pattern shows the interview stage is where effort will pay off most."
+        }
+      ]
+    }
+  ]
+}

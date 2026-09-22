@@ -1,0 +1,374 @@
+{
+  "id": "common_questions",
+  "order": 3,
+  "icon": "questions",
+  "color": "#F59E0B",
+  "title": "Soalan Lazim",
+  "summary": "Bina jawapan yang jelas dan yakin untuk soalan yang hampir setiap penemu duga tanyakan, daripada 'Ceritakan tentang diri anda' hingga soal gaji.",
+  "topics": [
+    {
+      "id": "tell_me_about_yourself",
+      "order": 1,
+      "title": "Ceritakan tentang Diri Anda",
+      "minutes": 3,
+      "premium": false,
+      "pages": [
+        {
+          "title": "Apa yang sebenarnya ditanya",
+          "body": "'Ceritakan tentang diri anda' bukan permintaan untuk mengisahkan riwayat hidup anda. Penemu duga mahukan gambaran ringkas dan relevan yang menjelaskan mengapa anda calon yang sesuai untuk jawatan ini. Soalan ini sering ditanya dahulu, jadi ia menetapkan nada untuk segala yang menyusul. Sasarkan 60–90 saat dan tumpukan pada perjalanan profesional anda, bukan butiran peribadi seperti keluarga atau kampung halaman.",
+          "tip": "Sediakan jawapan ini terlebih dahulu; anda akan menggunakan versinya dalam hampir setiap temu duga."
+        },
+        {
+          "title": "Masa kini: kedudukan anda sekarang",
+          "body": "Gunakan struktur masa kini–masa lalu–masa depan. Mulakan dengan masa kini: peranan atau situasi semasa anda dan satu pencapaian yang penting untuk pekerjaan ini. Contohnya: 'Saya ketua sokongan pelanggan di sebuah syarikat perisian dan mengurus pasukan seramai enam orang. Tahun lepas kami mengurangkan purata masa respons daripada sehari penuh kepada empat jam.' Pastikan ia konkrit dan relevan dengan jawatan tersebut.",
+          "tip": "Pilih pencapaian yang paling sepadan dengan huraian jawatan, bukan yang paling anda gemari."
+        },
+        {
+          "title": "Masa lalu: bagaimana anda sampai di sini",
+          "body": "Seterusnya, sentuh masa lalu secara ringkas: pengalaman yang membina kemahiran yang diperlukan jawatan ini. Pilih satu atau dua sahaja, bukan keseluruhan sejarah anda. 'Sebelum itu, saya berkhidmat tiga tahun sebagai ejen sokongan, di mana saya menulis artikel pusat bantuan pertama kami dan melatih pekerja baharu.' Jika anda graduan baharu, gunakan pengajian, latihan industri atau projek anda sebagai ganti pekerjaan terdahulu.",
+          "tip": "Tinggalkan apa-apa daripada masa lalu anda yang tidak menjurus ke arah jawatan ini."
+        },
+        {
+          "title": "Masa depan: mengapa jawatan ini",
+          "body": "Akhiri dengan masa depan: apa yang anda mahukan seterusnya dan mengapa pekerjaan ini sesuai. 'Kini saya ingin beralih ke kejayaan pelanggan, di mana saya boleh bekerja dengan klien dalam jangka panjang, dan itulah sebabnya jawatan ini menarik perhatian saya.' Penutup ini mengembalikan perbualan secara semula jadi dan mengundang soalan susulan tentang pengalaman yang anda pilih untuk diketengahkan.",
+          "tip": "Rakam jawapan anda dalam temu duga olok-olok dan buang apa-apa yang tidak menjurus ke arah jawatan ini."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Apakah susunan yang diikuti oleh struktur yang disyorkan?",
+          "options": ["Masa lalu, masa depan, masa kini", "Masa kini, masa lalu, masa depan", "Masa depan, masa kini, masa lalu", "Hobi, keluarga, kerjaya"],
+          "answer": 1,
+          "explanation": "Mulakan dengan kedudukan anda sekarang, jelaskan bagaimana anda sampai di situ, kemudian nyatakan ke mana anda mahu pergi."
+        },
+        {
+          "id": "q2",
+          "question": "Apakah fungsi bahagian 'masa depan' dalam jawapan anda?",
+          "options": ["Menyatakan jangkaan gaji anda", "Menerangkan hobi anda", "Mengulang latar belakang pendidikan", "Menjelaskan apa yang anda mahukan seterusnya dan mengapa jawatan ini sesuai"],
+          "answer": 3,
+          "explanation": "Bahagian masa depan mengaitkan matlamat anda dengan pekerjaan ini dan mengembalikan perbualan kepada penemu duga."
+        },
+        {
+          "id": "q3",
+          "question": "Butiran manakah yang paling tidak sesuai dalam jawapan anda?",
+          "options": ["Keluarga dan kampung halaman anda", "Pencapaian relevan dalam peranan semasa anda", "Kemahiran daripada pekerjaan terdahulu", "Sebab jawatan ini menarik minat anda"],
+          "answer": 0,
+          "explanation": "Soalan ini tentang perjalanan profesional anda, jadi butiran peribadi mengambil masa daripada perkara yang penting."
+        }
+      ]
+    },
+    {
+      "id": "why_this_company",
+      "order": 2,
+      "title": "Mengapa Anda Mahu Bekerja di Sini?",
+      "minutes": 3,
+      "premium": false,
+      "pages": [
+        {
+          "title": "Apa yang diuji oleh soalan ini",
+          "body": "'Mengapa anda mahu bekerja di sini?' menguji tiga perkara: sama ada anda telah membuat kajian tentang syarikat, sama ada motivasi anda lebih daripada sekadar memerlukan sebarang pekerjaan, dan sama ada anda berkemungkinan kekal lama. Jawapan umum seperti 'Syarikat ini hebat dengan budaya yang hebat' gagal dalam ketiga-tiganya. Jawapan anda memerlukan butiran khusus yang tidak boleh dikatakan tentang majikan lain.",
+          "tip": "Jika jawapan anda masih masuk akal apabila nama pesaing dimasukkan, jadikannya lebih khusus."
+        },
+        {
+          "title": "Jawapan tiga bahagian",
+          "body": "Bina jawapan anda daripada tiga pautan: syarikat, jawatan dan diri anda. Pertama, sebut sesuatu yang khusus tentang syarikat, seperti produk, pasaran atau langkah terbaharu mereka. Kedua, kaitkan dengan tugas jawatan tersebut. Ketiga, tunjukkan mengapa perkara itu penting bagi anda, berdasarkan pengalaman atau matlamat anda. Satu atau dua ayat bagi setiap pautan sudah memadai.",
+          "tip": "Gunakan nota kajian syarikat anda untuk memilih satu butiran yang paling berkait dengan pengalaman anda."
+        },
+        {
+          "title": "Satu contoh",
+          "body": "'Saya mengikuti langkah syarikat anda menceburi pembayaran untuk perniagaan kecil, dan saya suka anda membina produk untuk pemilik perniagaan yang selama ini kurang mendapat perhatian. Jawatan ini akan meletakkan saya dalam pasukan onboarding, tepat di bidang yang saya ceburi dua tahun kebelakangan ini untuk meningkatkan kadar penukaran pendaftaran. Saya mahu terus melakukan kerja itu di syarikat yang menjadikannya teras strategi.'",
+          "tip": "Perhatikan bagaimana setiap ayat merangkumi satu pautan: syarikat, jawatan, kemudian diri anda."
+        },
+        {
+          "title": "Kesilapan yang perlu dielakkan",
+          "body": "Jangan mulakan dengan faedah: gaji, lokasi atau kemudahan kedengaran mementingkan diri sebagai sebab utama, walaupun ia penting bagi anda. Jangan memuji tanpa isi; 'Anda peneraju industri' tidak membawa sebarang makna. Jangan mengkritik majikan semasa untuk menjelaskan mengapa anda mahu berhenti. Dan jangan membaca semula pernyataan misi; tafsirkannya dan tunjukkan maknanya bagi anda secara praktikal.",
+          "tip": "Simpan sebab praktikal seperti lokasi untuk perbualan kemudian, bukan sebagai jawapan utama anda."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Mengapa 'Syarikat ini hebat dengan budaya yang hebat' gagal sebagai jawapan?",
+          "options": ["Terlalu panjang", "Ia menyebut budaya", "Ia boleh dikatakan tentang mana-mana majikan", "Terlalu khusus"],
+          "answer": 2,
+          "explanation": "Jawapan yang kukuh mengandungi butiran yang hanya terpakai untuk syarikat ini."
+        },
+        {
+          "id": "q2",
+          "question": "Apakah tiga pautan dalam jawapan yang kukuh?",
+          "options": ["Gaji, lokasi dan kemudahan", "Syarikat, jawatan dan diri anda", "Misi, visi dan nilai", "Masa lalu, masa kini dan masa depan"],
+          "answer": 1,
+          "explanation": "Kaitkan sesuatu yang khusus tentang syarikat dengan jawatan, kemudian dengan pengalaman atau matlamat anda sendiri."
+        },
+        {
+          "id": "q3",
+          "question": "Sebab manakah yang tidak patut membuka jawapan anda?",
+          "options": ["Langkah terbaharu syarikat yang anda kagumi", "Cara jawatan ini menggunakan pengalaman anda", "Matlamat kerjaya anda", "Pakej faedah"],
+          "answer": 3,
+          "explanation": "Memulakan dengan kemudahan kedengaran mementingkan diri, walaupun faedah memang pertimbangan yang wajar."
+        }
+      ]
+    },
+    {
+      "id": "strengths",
+      "order": 3,
+      "title": "Kekuatan Anda",
+      "minutes": 3,
+      "premium": true,
+      "pages": [
+        {
+          "title": "Pilih kekuatan yang penting di sini",
+          "body": "Pilih dua atau tiga kekuatan yang jelas dihargai dalam huraian jawatan, bukan sekadar yang paling anda banggakan. Seorang penganalisis data mungkin memilih ketepatan, kebolehan menerangkan angka dengan jelas dan sifat ingin tahu. Seorang jurujual mungkin memilih daya tahan dan kebolehan membina hubungan. Jika sesuatu kekuatan tidak membantu dalam jawatan ini, ia juga tidak akan membantu jawapan anda, walau betul sekalipun.",
+          "tip": "Semak kekuatan anda dengan keperluan wajib yang anda tandakan dalam huraian jawatan."
+        },
+        {
+          "title": "Khusus, bukan umum",
+          "body": "'Rajin', 'pemain berpasukan' dan 'bersemangat' didakwa oleh hampir semua orang, jadi nilainya kecil. Jadikan setiap kekuatan tepat: daripada 'komunikator yang baik', katakan 'Saya menerangkan masalah teknikal dengan jelas kepada klien bukan teknikal'. Semakin sempit huraiannya, semakin meyakinkan bunyinya dan semakin mudah penemu duga membayangkan anda melakukan kerja itu.",
+          "tip": "Tanya diri anda apa yang sebenarnya akan dilihat anda lakukan apabila kekuatan ini ditonjolkan."
+        },
+        {
+          "title": "Buktikan dengan contoh",
+          "body": "Kekuatan tanpa bukti hanyalah pendapat. Susuli setiap kekuatan dengan contoh ringkas: situasinya, apa yang anda lakukan dan hasilnya. 'Saya pandai meringkaskan proses yang rumit. Dalam peranan terakhir saya, saya menulis semula panduan orientasi setebal dua puluh muka surat menjadi senarai semak lima langkah, dan pekerja baharu mencapai produktiviti penuh dua minggu lebih awal.' Angka menjadikan cerita lebih melekat.",
+          "tip": "Sediakan satu contoh bagi setiap kekuatan dan pastikan setiap satu kurang daripada seminit."
+        },
+        {
+          "title": "Sampaikan dengan yakin",
+          "body": "Ramai orang merendah diri kerana bercakap tentang kekuatan terasa seperti bermegah. Sebenarnya tidak; anda sedang menjawab soalan langsung dengan fakta. Nyatakan kekuatan itu secara terus terang, berikan bukti dan kaitkan dengan jawatan: 'Itulah sebabnya saya boleh membantu pekerja sokongan baharu anda bersedia dengan cepat.' Elakkan merendah diri secara palsu dan juga membesar-besarkan.",
+          "tip": "Latih kekuatan utama anda dengan suara lantang sehingga kedengaran semula jadi, bukan dihafal."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Bagaimanakah anda patut memilih kekuatan yang hendak disebut?",
+          "options": ["Pilih yang jelas dihargai untuk jawatan itu", "Senaraikan seberapa banyak yang boleh", "Pilih yang sering disebut oleh rakan anda", "Gunakan kekuatan yang paling popular"],
+          "answer": 0,
+          "explanation": "Sesuatu kekuatan hanya membantu jawapan anda jika ia penting untuk pekerjaan khusus ini."
+        },
+        {
+          "id": "q2",
+          "question": "Mengapa 'pemain berpasukan' lemah jika disebut begitu sahaja?",
+          "options": ["Penemu duga tidak suka kerja berpasukan", "Terlalu teknikal", "Kedengaran terlalu merendah diri", "Hampir semua orang mendakwanya, jadi nilainya kecil"],
+          "answer": 3,
+          "explanation": "Label umum tidak membezakan anda; huraian yang tepat yang membezakan anda."
+        },
+        {
+          "id": "q3",
+          "question": "Apakah yang menjadikan sesuatu kekuatan meyakinkan?",
+          "options": ["Mengulanginya beberapa kali", "Menyenaraikannya dalam CV anda", "Contoh khusus beserta hasilnya", "Mengekalkannya secara umum"],
+          "answer": 2,
+          "explanation": "Bukti mengubah dakwaan menjadi fakta, terutamanya dengan hasil yang boleh diukur."
+        }
+      ]
+    },
+    {
+      "id": "weaknesses",
+      "order": 4,
+      "title": "Kelemahan Anda",
+      "minutes": 4,
+      "premium": true,
+      "pages": [
+        {
+          "title": "Mengapa mereka bertanya",
+          "body": "Penemu duga bertanya tentang kelemahan untuk menguji kesedaran diri dan kejujuran, bukan untuk memerangkap anda. Mereka mahu melihat bahawa anda tahu di mana anda boleh memperbaiki diri dan anda giat mengusahakannya. Jawapan seperti 'Saya seorang perfeksionis' atau 'Saya bekerja terlalu keras' kedengaran dihafal dan mengelak, serta membayangkan anda sama ada kurang sedar diri atau tidak jujur.",
+          "tip": "Fikirkan maklum balas yang benar-benar pernah anda terima; itulah sumber terbaik untuk jawapan yang ikhlas."
+        },
+        {
+          "title": "Pilih kelemahan sebenar yang tidak kritikal",
+          "body": "Pilih sesuatu yang ikhlas dan bukan teras pekerjaan itu. Seorang pembangun perisian boleh menyebut pengucapan awam; seorang akauntan tidak patut menyebut ketelitian. Pilihan yang baik termasuk mewakilkan tugas, menolak kerja tambahan, membuat pembentangan kepada kumpulan besar atau alat tertentu yang belum anda kuasai. Elakkan apa-apa yang menimbulkan keraguan tentang integriti, kebolehpercayaan atau kemahiran teras jawatan itu.",
+          "tip": "Semak kelemahan pilihan anda dengan keperluan wajib dalam huraian jawatan sebelum menggunakannya."
+        },
+        {
+          "title": "Tunjukkan penambahbaikan",
+          "body": "Bahagian paling penting ialah apa yang anda lakukan untuk mengatasinya. Gunakan tiga langkah: namakan kelemahan itu, beri contoh ringkas bagaimana ia menjejaskan kerja anda, kemudian huraikan tindakan konkrit dan kemajuannya. 'Dahulu saya sering mengambil terlalu banyak kerja. Kini saya menyemak beban kerja setiap minggu bersama pengurus saya, dan saya menolak dengan keutamaan yang jelas apabila permintaan baharu masuk.'",
+          "tip": "Sebut tabiat, alat atau kursus yang khusus, bukan sekadar 'Saya sedang memperbaikinya'."
+        },
+        {
+          "title": "Ringkas dan berpandangan ke hadapan",
+          "body": "Luangkan kira-kira 20% jawapan anda untuk kelemahan dan 80% untuk penambahbaikan. Jangan menjelaskan secara berlebihan atau meminta maaf, dan jangan senaraikan beberapa kelemahan sekali gus. Akhiri dengan kemajuan yang telah anda capai supaya penemu duga mengingati pertumbuhan anda, bukan masalahnya. Jika diminta kelemahan kedua, sediakan satu lagi yang mengikut struktur yang sama.",
+          "tip": "Uji jawapan kelemahan anda dalam temu duga olok-olok untuk memastikan ia kedengaran jujur, bukan seperti skrip."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Mengapa 'Saya seorang perfeksionis' biasanya jawapan yang lemah?",
+          "options": ["Terlalu jujur", "Kedengaran dihafal dan mengelak", "Terlalu panjang", "Terlalu teknikal"],
+          "answer": 1,
+          "explanation": "Kekuatan yang disamarkan sebagai kelemahan membayangkan kurangnya kesedaran diri atau kejujuran."
+        },
+        {
+          "id": "q2",
+          "question": "Kelemahan manakah yang berisiko untuk disebut oleh seorang akauntan?",
+          "options": ["Pengucapan awam kepada kumpulan besar", "Mewakilkan kerja", "Ketelitian", "Menolak projek tambahan"],
+          "answer": 2,
+          "explanation": "Ketelitian ialah kemahiran teras perakaunan, jadi ia kelemahan kritikal untuk jawatan tersebut."
+        },
+        {
+          "id": "q3",
+          "question": "Bagaimanakah anda patut membahagikan jawapan anda?",
+          "options": ["80% kelemahan, 20% penambahbaikan", "Separuh kelemahan, separuh penambahbaikan", "Hanya huraikan kelemahan", "Kira-kira 20% kelemahan, 80% penambahbaikan"],
+          "answer": 3,
+          "explanation": "Kekalkan tumpuan pada apa yang anda lakukan untuk mengatasinya supaya penemu duga mengingati pertumbuhan anda."
+        }
+      ]
+    },
+    {
+      "id": "star_method",
+      "order": 5,
+      "title": "Kaedah STAR",
+      "minutes": 4,
+      "premium": true,
+      "pages": [
+        {
+          "title": "Maksud STAR",
+          "body": "STAR ialah struktur untuk soalan tingkah laku seperti 'Ceritakan satu ketika anda...'. Ia bermaksud Situation (situasi), Task (tugas), Action (tindakan) dan Result (hasil). Struktur ini memastikan cerita anda kekal fokus dan anda menamatkannya dengan hasil. Sepanjang halaman ini kita akan membina satu contoh lengkap yang menjawab soalan: 'Ceritakan satu ketika anda menangani tarikh akhir yang ketat.'",
+          "tip": "Apabila anda mendengar 'Ceritakan satu ketika anda...', itulah isyarat untuk menggunakan STAR."
+        },
+        {
+          "title": "Situation dan Task",
+          "body": "Situation menggambarkan latar dalam satu atau dua ayat: 'Dua minggu sebelum pelancaran untuk klien utama, ketua pereka kami meninggalkan syarikat.' Task menjelaskan tanggungjawab anda: 'Sebagai penyelaras projek, saya perlu memastikan semua bahan pelancaran tetap disiapkan tepat pada masanya.' Pastikan kedua-duanya ringkas; bersama-sama ia patut mengambil kira-kira 20% jawapan anda.",
+          "tip": "Buang butiran latar yang tidak diperlukan penemu duga untuk memahami cabaran anda."
+        },
+        {
+          "title": "Action",
+          "body": "Action ialah teras cerita dan patut mengambil kira-kira 60% jawapan anda. Sebut 'saya', bukan 'kami', supaya penemu duga tahu apa yang anda lakukan. 'Saya memecahkan baki kerja kepada tugas harian, mendapatkan pereka bebas dalam masa dua hari, dan mengadakan sesi semakan 15 minit setiap pagi untuk mengesan masalah lebih awal. Saya juga bersetuju dengan klien item mana yang boleh dipindahkan ke fasa kedua.'",
+          "tip": "Senaraikan tindakan anda sebagai langkah yang jelas; ia menunjukkan pemikiran yang tersusun."
+        },
+        {
+          "title": "Result",
+          "body": "Result menutup cerita dengan hasil yang jelas, sebaik-baiknya boleh diukur: 'Kami menyiapkan setiap item teras pada tarikh pelancaran, klien memperbaharui kontrak mereka untuk setahun lagi, dan sesi semakan harian menjadi amalan standard dalam pasukan kami.' Tambah pengajaran yang anda peroleh jika relevan. Result patut mengambil kira-kira 20% jawapan anda; tanpanya, cerita sehebat mana pun terasa belum selesai.",
+          "tip": "Tulis lima cerita STAR lebih awal dan latih dalam temu duga olok-olok."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Bahagian manakah dalam jawapan STAR yang patut mengambil masa paling lama?",
+          "options": ["Situation", "Task", "Action", "Result"],
+          "answer": 2,
+          "explanation": "Action patut kira-kira 60% jawapan kerana ia menunjukkan apa yang sebenarnya anda lakukan."
+        },
+        {
+          "id": "q2",
+          "question": "Mengapa anda patut menyebut 'saya' dan bukan 'kami' dalam bahagian Action?",
+          "options": ["Supaya penemu duga tahu apa yang anda lakukan secara peribadi", "Kerana kerja berpasukan tidak penting", "Untuk memendekkan cerita", "Kerana 'kami' salah dari segi tatabahasa"],
+          "answer": 0,
+          "explanation": "Penemu duga sedang menilai anda, jadi sumbangan anda sendiri perlu jelas."
+        },
+        {
+          "id": "q3",
+          "question": "Dalam contoh tadi, butiran manakah yang tergolong dalam Result?",
+          "options": ["Ketua pereka meninggalkan syarikat", "Pereka bebas didapatkan", "Sesi semakan harian diadakan", "Klien memperbaharui kontrak mereka untuk setahun lagi"],
+          "answer": 3,
+          "explanation": "Pembaharuan kontrak ialah hasilnya; item lain ialah situasi atau tindakan."
+        }
+      ]
+    },
+    {
+      "id": "teamwork_examples",
+      "order": 6,
+      "title": "Soalan Kerja Berpasukan dan Konflik",
+      "minutes": 3,
+      "premium": true,
+      "pages": [
+        {
+          "title": "Apa yang mereka cari",
+          "body": "Soalan seperti 'Ceritakan tentang perselisihan anda dengan rakan sekerja' atau 'Huraikan satu ketika anda bekerja dalam pasukan yang sukar' menguji bagaimana anda bertindak apabila keadaan tidak lancar. Penemu duga mahukan bukti bahawa anda kekal profesional, mendengar, menumpukan pada matlamat bersama dan boleh mencapai penyelesaian tanpa membawa setiap masalah kepada pengurus.",
+          "tip": "Sediakan sekurang-kurangnya satu cerita konflik dan satu cerita pasukan yang berjaya sebelum sebarang temu duga."
+        },
+        {
+          "title": "Pilih cerita yang betul",
+          "body": "Pilih perselisihan sebenar berkaitan kerja tentang keutamaan, kaedah atau tarikh akhir, bukan permusuhan peribadi. Konflik itu patut cukup bermakna untuk menarik dan diselesaikan secara membina. Elakkan cerita di mana anda betul sepenuhnya dan orang lain salah sepenuhnya; ia membuatkan anda kelihatan tidak fleksibel. Cerita terbaik menunjukkan bahawa anda memahami sudut pandangan pihak lain.",
+          "tip": "Pilih cerita di mana hubungan kerja akhirnya menjadi lebih baik, bukan lebih buruk."
+        },
+        {
+          "title": "Ceritakan dengan STAR",
+          "body": "Gunakan STAR dan tekankan tindakan anda. 'Saya dan seorang rakan sekerja tidak bersetuju sama ada pelancaran perlu ditangguhkan untuk ujian tambahan. Saya meminta mesyuarat ringkas, mendengar kebimbangannya tentang kualiti dan berkongsi data saya tentang kesan kepada pelanggan. Kami bersetuju untuk melancarkan ciri yang stabil tepat pada masanya dan menangguhkan satu ciri berisiko selama seminggu.' Kemudian nyatakan hasilnya.",
+          "tip": "Gambarkan pendirian pihak lain secara adil; ia menjadikan tindakan anda sendiri lebih meyakinkan."
+        },
+        {
+          "title": "Elakkan perangkap biasa",
+          "body": "Jangan sekali-kali kata anda tidak pernah mengalami konflik; ia kedengaran tidak realistik atau membayangkan anda mengelak masalah. Jangan mengkritik bekas rakan sekerja atau mendedahkan butiran sulit. Jangan jadikan cerita hanya tentang masalah; luangkan sebahagian besar masa tentang bagaimana ia diselesaikan. Akhiri dengan hasil atau pengajaran yang positif, seperti hubungan kerja yang lebih baik atau proses baharu.",
+          "tip": "Jangan sebut nama; 'seorang rakan sekerja di bahagian kewangan' sudah cukup terperinci."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Cerita manakah yang paling sesuai untuk soalan tentang konflik?",
+          "options": ["Permusuhan peribadi dengan jiran", "Satu ketika anda betul sepenuhnya dan orang lain salah", "Perselisihan kerja tentang keutamaan yang anda selesaikan secara membina", "Konflik yang anda laporkan tanpa cuba menyelesaikannya"],
+          "answer": 2,
+          "explanation": "Perselisihan kerja sebenar dengan penyelesaian yang membina menunjukkan kematangan dan fleksibiliti."
+        },
+        {
+          "id": "q2",
+          "question": "Mengapa 'Saya tidak pernah mengalami konflik' ialah jawapan yang lemah?",
+          "options": ["Ia kedengaran tidak realistik atau membayangkan anda mengelak masalah", "Terlalu panjang", "Ia mendedahkan butiran sulit", "Ia mengkritik rakan sekerja"],
+          "answer": 0,
+          "explanation": "Semua orang pernah berselisih faham di tempat kerja; penemu duga mahu melihat cara anda menanganinya."
+        },
+        {
+          "id": "q3",
+          "question": "Dalam contoh pelancaran tadi, apakah yang menunjukkan pendekatan yang membina?",
+          "options": ["Enggan menangguhkan apa-apa", "Meminta pengurus membuat keputusan", "Melancarkan segalanya lewat", "Mendengar kebimbangan dan bersetuju dengan kompromi"],
+          "answer": 3,
+          "explanation": "Mendengar, berkongsi data dan mencari jalan tengah menyelesaikan konflik tanpa perlu dibawa ke peringkat atasan."
+        }
+      ]
+    },
+    {
+      "id": "salary_negotiation",
+      "order": 7,
+      "title": "Jangkaan Gaji dan Rundingan",
+      "minutes": 4,
+      "premium": true,
+      "pages": [
+        {
+          "title": "Kaji nilai pasaran anda",
+          "body": "Sebelum sebarang temu duga, ketahui julat gaji biasa untuk jawatan, tahap dan lokasi tersebut. Gunakan tinjauan gaji, iklan jawatan kosong yang menyatakan gaji, persatuan profesional dan perbualan dengan orang dalam peranan yang serupa. Kumpulkan beberapa sumber dan catat titik rendah, pertengahan dan tinggi. Pertimbangkan pakej penuh, termasuk bonus, caruman persaraan, cuti dan peruntukan pembelajaran, bukan hanya gaji pokok.",
+          "tip": "Gunakan sekurang-kurangnya tiga sumber bebas; satu angka sahaja boleh mengelirukan."
+        },
+        {
+          "title": "Tetapkan julat anda",
+          "body": "Tentukan tiga angka sebelum sesiapa bertanya: had minimum anda (angka terendah yang sanggup anda terima), sasaran anda dan angka tertinggi yang bercita-cita tinggi tetapi boleh dipertahankan. Kongsikan julat yang had bawahnya hampir dengan sasaran anda, bukan minimum anda, kerana tawaran cenderung jatuh di hujung bawah. Pastikan julat agak sempit, kira-kira 10–20%, supaya kedengaran berasaskan kajian.",
+          "tip": "Jangan sekali-kali dedahkan had minimum anda; ia untuk keputusan anda, bukan untuk perbualan."
+        },
+        {
+          "title": "Menjawab 'Berapakah jangkaan gaji anda?'",
+          "body": "Jika ditanya awal, anda boleh mengalihkannya dengan sopan: 'Saya ingin mengetahui lebih lanjut tentang tanggungjawabnya dahulu. Bolehkah anda kongsikan julat bajet untuk jawatan ini?' Jika didesak, berikan julat hasil kajian anda dengan yakin: 'Berdasarkan kajian saya untuk jawatan yang serupa, saya menjangkakan 55,000 hingga 62,000.' Angka kredibel pertama menjadi sauh perbincangan, jadi pastikan angka anda disokong kukuh. Jangan menjustifikasikannya dengan perbelanjaan peribadi.",
+          "tip": "Sebut julat anda sekali dengan jelas, kemudian berhenti bercakap dan biarkan mereka memberi respons."
+        },
+        {
+          "title": "Merundingkan tawaran",
+          "body": "Apabila tawaran tiba, ucapkan terima kasih dan minta masa sehari dua untuk menelitinya. Jika ia di bawah sasaran anda, balas dengan penuh minat berserta tawaran balas yang khusus: 'Saya sangat teruja dengan jawatan ini. Memandangkan pengalaman saya mengetuai projek yang serupa, bolehkah kita mendekati 60,000?' Jika gaji pokok tetap, rundingkan perkara lain: tarikh mula, bonus, cuti tambahan atau latihan.",
+          "tip": "Latih tawaran balas anda dengan suara lantang dalam temu duga olok-olok sebelum panggilan sebenar."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Di manakah had bawah julat yang anda kongsikan patut berada?",
+          "options": ["Pada had minimum anda", "Hampir dengan angka sasaran anda", "Di bawah minimum anda supaya kelihatan fleksibel", "Pada gaji tertinggi yang anda temui"],
+          "answer": 1,
+          "explanation": "Tawaran sering jatuh berhampiran had bawah julat anda, jadi ia patut hampir dengan sasaran anda."
+        },
+        {
+          "id": "q2",
+          "question": "Mengapa angka kredibel pertama begitu penting?",
+          "options": ["Ia mengikat dari segi undang-undang", "Majikan sentiasa menerimanya", "Ia menamatkan rundingan", "Ia menjadi sauh bagi baki perbincangan"],
+          "answer": 3,
+          "explanation": "Tawaran dan tawaran balas seterusnya cenderung bergerak di sekitar angka pertama yang disokong kukuh."
+        },
+        {
+          "id": "q3",
+          "question": "Jika gaji pokok tetap, apakah yang masih boleh anda rundingkan?",
+          "options": ["Tiada apa-apa lagi", "Hanya jawatan anda", "Tarikh mula, bonus, cuti tambahan atau latihan", "Jadual penemu duga"],
+          "answer": 2,
+          "explanation": "Pakej penuh terdiri daripada beberapa bahagian, dan banyak yang boleh diselaraskan walaupun gaji pokok tidak boleh."
+        }
+      ]
+    }
+  ]
+}

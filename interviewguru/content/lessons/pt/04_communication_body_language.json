@@ -1,0 +1,322 @@
+{
+  "id": "communication_body_language",
+  "order": 4,
+  "icon": "communication",
+  "color": "#10B981",
+  "title": "Comunicação e linguagem corporal",
+  "summary": "Aprenda como suas palavras, sua voz e seu corpo trabalham juntos para que os entrevistadores se lembrem do que você disse, e não de como você parecia nervoso.",
+  "topics": [
+    {
+      "id": "speaking_techniques",
+      "order": 1,
+      "title": "Falar com clareza e objetividade",
+      "minutes": 3,
+      "premium": false,
+      "pages": [
+        {
+          "title": "Comece pela resposta",
+          "body": "Os entrevistadores se lembram melhor da primeira frase, então coloque sua ideia principal ali. Se perguntarem por que você quer a vaga, comece com 'Porque ela combina análise de dados com atendimento a clientes, que é o que eu mais gosto de fazer' e depois acrescente os detalhes. Começar pelo contexto e ir chegando devagar ao ponto exige esforço de quem ouve, que muitas vezes perde o interesse antes de você chegar lá.",
+          "tip": "Antes de cada resposta, defina mentalmente a única ideia que você quer que eles guardem."
+        },
+        {
+          "title": "Use uma estrutura simples",
+          "body": "A estrutura torna você fácil de acompanhar. Em perguntas sobre experiência, use situação, ação e resultado. Em perguntas de opinião, use ideia, motivo, exemplo e ideia de novo. Sinalize o caminho enquanto fala: 'São dois motivos. Primeiro… Segundo…' Numerar suas ideias mostra ao entrevistador quanto tempo você vai falar e ajuda você a não se perder quando o nervosismo aparece.",
+          "tip": "Se prometer 'três motivos', tenha certeza de que consegue citar os três."
+        },
+        {
+          "title": "Corte as muletas",
+          "body": "Palavras como 'basicamente', 'meio que' e 'tipo assim' diluem um conteúdo forte. Troque-as por uma pausa curta; o silêncio soa mais confiante do que uma muleta. Evite jargões internos e siglas que o entrevistador talvez não conheça — diga 'nossa base de dados de clientes' em vez do codinome de um sistema. Palavras simples e específicas deixam suas conquistas mais críveis, e não menos impressionantes.",
+          "tip": "Grave uma resposta em uma entrevista simulada e conte quantas muletas você usou."
+        },
+        {
+          "title": "Saiba a hora de parar",
+          "body": "A maioria das respostas funciona melhor com um a dois minutos. Respostas longas enterram sua melhor ideia e tomam o tempo de outras perguntas. Termine com uma frase de fechamento clara que retome a vaga e pare de falar. Se não tiver certeza de que disse o suficiente, pergunte: 'Quer que eu aprofunde alguma parte?'",
+          "tip": "Não recomece a resposta depois de terminar; uma pausa confiante vale mais do que um complemento nervoso."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Onde sua ideia principal deve ficar, normalmente, em uma resposta?",
+          "options": ["Bem no final, como conclusão", "Na primeira frase", "Só se o entrevistador pedir", "No meio, depois dos detalhes de contexto"],
+          "answer": 1,
+          "explanation": "Começar pela resposta torna tudo fácil de acompanhar e de lembrar."
+        },
+        {
+          "id": "q2",
+          "question": "O que é melhor para substituir muletas como \"basicamente\"?",
+          "options": ["Falar mais rápido", "Acrescentar jargão técnico", "Uma pausa curta", "Repetir a pergunta"],
+          "answer": 2,
+          "explanation": "Um breve silêncio soa mais confiante do que muletas."
+        },
+        {
+          "id": "q3",
+          "question": "Quanto tempo deve durar a maioria das respostas em uma entrevista?",
+          "options": ["Cerca de um a dois minutos", "Menos de dez segundos", "Cinco minutos ou mais", "O tempo necessário para cobrir todos os detalhes"],
+          "answer": 0,
+          "explanation": "De um a dois minutos mantém sua melhor ideia em evidência e deixa tempo para mais perguntas."
+        }
+      ]
+    },
+    {
+      "id": "active_listening",
+      "order": 2,
+      "title": "Escuta ativa",
+      "minutes": 3,
+      "premium": false,
+      "pages": [
+        {
+          "title": "Escutar é uma habilidade que eles percebem",
+          "body": "Os entrevistadores avaliam como você escuta tanto quanto como você fala, porque isso indica como você vai trabalhar com colegas e clientes. Muitas respostas fracas surgem quando o candidato responde à pergunta que esperava, e não à que foi realmente feita. Dê atenção total ao entrevistador, evite planejar sua resposta enquanto ele ainda está falando e deixe-o terminar completamente.",
+          "tip": "Nunca interrompa, mesmo quando já souber aonde a pergunta vai chegar."
+        },
+        {
+          "title": "Mostre que está escutando",
+          "body": "Demonstre atenção com sinais pequenos e naturais: acene com a cabeça de vez em quando, mantenha uma expressão atenta e use comentários breves como 'Entendo' ou 'Faz sentido'. Incline-se levemente para a frente quando o entrevistador descrever a vaga ou a equipe. Em vídeo, esses sinais precisam ser um pouco mais visíveis, porque movimentos sutis passam despercebidos em uma tela pequena.",
+          "tip": "Mantenha o celular fora de vista para não ficar tentado a olhar para ele."
+        },
+        {
+          "title": "Esclareça antes de responder",
+          "body": "Se uma pergunta for ampla ou pouco clara, faça uma pergunta curta de esclarecimento: 'Você se refere a um conflito com um gestor ou com um colega?' Reformular perguntas complexas também garante alguns segundos para pensar: 'Então você quer saber como eu defini prioridades quando dois prazos coincidiram?' Esclarecer demonstra cuidado e precisão; chutar arrisca uma resposta longa para a pergunta errada.",
+          "tip": "Uma pergunta de esclarecimento é inteligente; fazer uma a cada pergunta parece enrolação."
+        },
+        {
+          "title": "Use o que você ouve",
+          "body": "Os melhores candidatos retomam as palavras do entrevistador em respostas posteriores. Se ele mencionar que a equipe está crescendo rápido, relacione sua experiência ao crescimento: 'Você comentou que estão contratando bastante — no meu último emprego, integrei seis novos colegas.' No final, faça referência a algo específico que ele disse ao fazer suas perguntas. Isso prova que você escutou e torna a conversa uma via de mão dupla.",
+          "tip": "Anote uma ou duas expressões-chave que o entrevistador usar sobre a vaga."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Qual é uma causa comum de respostas fracas ligadas à escuta?",
+          "options": ["Acenar com a cabeça com muita frequência", "Fazer anotações breves", "Perguntar sobre os próximos passos", "Responder à pergunta que você esperava em vez da que foi feita"],
+          "answer": 3,
+          "explanation": "Os candidatos muitas vezes respondem a uma pergunta presumida em vez de escutar a pergunta real."
+        },
+        {
+          "id": "q2",
+          "question": "O que fazer se uma pergunta for ampla ou pouco clara?",
+          "options": ["Fazer uma pergunta curta de esclarecimento", "Chutar e dar uma resposta longa", "Pular e seguir em frente", "Pedir ao entrevistador que repita três vezes"],
+          "answer": 0,
+          "explanation": "Um esclarecimento rápido garante que você responda à pergunta certa."
+        },
+        {
+          "id": "q3",
+          "question": "Como você pode mostrar que escutou ao longo da entrevista?",
+          "options": ["Repetindo seu CV palavra por palavra", "Retomando pontos específicos que o entrevistador disse", "Falando mais do que o entrevistador", "Concordando com todas as afirmações"],
+          "answer": 1,
+          "explanation": "Incorporar os próprios pontos do entrevistador às suas respostas comprova a escuta ativa."
+        }
+      ]
+    },
+    {
+      "id": "eye_contact",
+      "order": 3,
+      "title": "Contato visual",
+      "minutes": 3,
+      "premium": true,
+      "pages": [
+        {
+          "title": "Por que o contato visual importa",
+          "body": "Um contato visual firme transmite confiança, honestidade e interesse. Pouco contato pode fazer você parecer nervoso ou evasivo; encarar o tempo todo soa intenso demais. Procure manter o contato visual durante a maior parte do tempo em que estiver ouvindo e um pouco menos enquanto fala, já que desviar o olhar brevemente para pensar é natural. As expectativas variam entre culturas, então adapte-se com naturalidade ao estilo do entrevistador.",
+          "tip": "Espelhe o nível de contato visual do entrevistador em vez de impor uma regra fixa."
+        },
+        {
+          "title": "A regra dos poucos segundos",
+          "body": "Mantenha o contato visual por cerca de três a cinco segundos de cada vez e depois desvie o olhar brevemente — para o lado ou para as suas anotações — antes de voltar. Esse ritmo parece natural e evita que você fique encarando. Se o contato visual direto deixar você desconfortável, olhe para a região entre os olhos ou para a base do nariz; a uma distância normal, o efeito é o mesmo.",
+          "tip": "Pratique esse ritmo nas conversas do dia a dia na semana anterior à entrevista."
+        },
+        {
+          "title": "Bancas e grupos",
+          "body": "Com vários entrevistadores, olhe principalmente para quem fez a pergunta, sobretudo no início e no fim da resposta. No meio, passe o olhar pelos outros membros da banca para incluí-los. Ignorar os mais quietos é um erro comum; eles podem ter grande peso na decisão. Volte para quem perguntou ao terminar.",
+          "tip": "Termine cada resposta olhando para a pessoa que fez a pergunta."
+        },
+        {
+          "title": "Contato visual em vídeo",
+          "body": "Em vídeo, olhar para o rosto do entrevistador na tela faz parecer que você está olhando para baixo ou para o lado. Para criar contato visual, olhe para a lente da câmera enquanto fala, principalmente nos pontos-chave. Olhe para a tela enquanto escuta, para acompanhar as reações. Posicionar a janela do vídeo logo abaixo da câmera diminui a diferença entre os dois.",
+          "tip": "Cole um pequeno post-it ao lado da lente como lembrete."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Por quanto tempo você deve manter o contato visual, em geral, antes de desviar o olhar brevemente?",
+          "options": ["Menos de um segundo", "Cerca de três a cinco segundos", "Durante a resposta inteira, sem interromper", "Cerca de trinta segundos"],
+          "answer": 1,
+          "explanation": "Um ritmo de três a cinco segundos parece natural e evita que você fique encarando."
+        },
+        {
+          "id": "q2",
+          "question": "Em uma entrevista com banca, para onde você deve olhar ao final da resposta?",
+          "options": ["Para a pessoa mais sênior", "Para as suas anotações", "Para o teto", "Para a pessoa que fez a pergunta"],
+          "answer": 3,
+          "explanation": "Comece e termine com quem perguntou e inclua os demais no meio."
+        },
+        {
+          "id": "q3",
+          "question": "Como criar contato visual em uma entrevista por vídeo?",
+          "options": ["Olhando para o rosto do entrevistador na tela", "Olhando para a prévia do seu próprio vídeo", "Olhando para a lente da câmera enquanto fala", "Fechando os olhos para se concentrar"],
+          "answer": 2,
+          "explanation": "É pela lente que o entrevistador percebe o seu olhar."
+        }
+      ]
+    },
+    {
+      "id": "gestures",
+      "order": 4,
+      "title": "Gestos e mãos",
+      "minutes": 3,
+      "premium": true,
+      "pages": [
+        {
+          "title": "As mãos ajudam a pensar",
+          "body": "Gestos naturais fazem você parecer à vontade e ajudam a encontrar as palavras, então não congele as mãos. Pesquisas sobre a fala mostram que gesticular favorece a fluência. O objetivo é um movimento controlado e intencional: gestos que enfatizam uma ideia ou mostram tamanho, sequência ou contraste. Movimentos aleatórios e repetitivos desviam a atenção do entrevistador do que você está dizendo e sinalizam nervosismo.",
+          "tip": "Deixe as mãos se moverem enquanto fala e depois volte-as para uma posição de descanso."
+        },
+        {
+          "title": "A zona dos gestos",
+          "body": "Mantenha a maior parte dos gestos na área entre o peito e a cintura, mais ou menos na largura do seu corpo. Movimentos nessa zona parecem calmos e confiantes. Gestos muito amplos acima dos ombros podem parecer teatrais em uma sala pequena. Palmas abertas, levemente voltadas para cima, transmitem honestidade e abertura, enquanto apontar o dedo para o entrevistador pode soar agressivo.",
+          "tip": "Em vídeo, faça os gestos um pouco mais altos para que fiquem dentro do enquadramento da câmera."
+        },
+        {
+          "title": "Hábitos a evitar",
+          "body": "Hábitos nervosos roubam a atenção: tamborilar com a caneta, ficar clicando nela, tocar o rosto ou o cabelo, mexer em joias ou cruzar os braços com força. Braços cruzados podem parecer uma postura defensiva, mesmo quando você só está com frio. Segurar uma caneta de que você não precisa convida a ficar mexendo nela. Esconder as mãos totalmente embaixo da mesa pode fazer você parecer fechado ou desconfortável.",
+          "tip": "Se você costuma ficar inquieto, não segure nada que não vá usar."
+        },
+        {
+          "title": "Uma posição de descanso tranquila",
+          "body": "Quando não estiver gesticulando, apoie as mãos soltas sobre a mesa ou no colo, com os dedos levemente juntos. Essa base neutra dá mais significado a qualquer gesto que você fizer. No início e no fim, ofereça um aperto de mão firme e breve, se for o costume, e siga o entrevistador quando as formas de cumprimento forem diferentes. Mantenha as mãos secas e relaxadas.",
+          "tip": "Observe seus hábitos com as mãos assistindo à gravação de uma entrevista simulada."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Por que você deve evitar congelar as mãos completamente?",
+          "options": ["Os entrevistadores exigem gestos", "Gestos naturais ajudam você a falar com fluência e a parecer à vontade", "É considerado falta de educação em qualquer lugar", "Isso deixa as respostas mais curtas"],
+          "answer": 1,
+          "explanation": "Gestos naturais e controlados apoiam a fala e transmitem confiança."
+        },
+        {
+          "id": "q2",
+          "question": "Onde a maior parte dos seus gestos deve ficar?",
+          "options": ["Acima da cabeça", "Embaixo da mesa, fora de vista", "Entre o peito e a cintura, mais ou menos na largura do corpo", "Apontados para o entrevistador"],
+          "answer": 2,
+          "explanation": "A zona entre o peito e a cintura transmite calma e controle."
+        },
+        {
+          "id": "q3",
+          "question": "Qual é um hábito nervoso que distrai os entrevistadores?",
+          "options": ["Ficar clicando a caneta", "Apoiar as mãos na mesa", "Usar as palmas abertas", "Mostrar uma sequência com os dedos"],
+          "answer": 0,
+          "explanation": "Movimentos repetitivos, como clicar a caneta, desviam a atenção da sua resposta."
+        }
+      ]
+    },
+    {
+      "id": "posture_tips",
+      "order": 5,
+      "title": "Postura confiante",
+      "minutes": 3,
+      "premium": true,
+      "pages": [
+        {
+          "title": "A postura fala primeiro",
+          "body": "Antes que você diga uma palavra, sua postura mostra ao entrevistador como você está se sentindo. Ficar curvado sugere pouca energia ou desinteresse; sentar-se rígido demais sugere ansiedade. Busque uma postura relaxada e atenta: costas apoiadas ou próximas do encosto, ombros baixos e abertos, pés apoiados no chão. Uma boa postura também ajuda você a respirar direito, o que estabiliza a voz.",
+          "tip": "Gire os ombros para trás e para baixo uma vez antes de entrar."
+        },
+        {
+          "title": "Sentar-se bem",
+          "body": "Sente-se mais para o fundo da cadeira, com o tronco levemente inclinado para a frente; isso demonstra engajamento sem parecer invasivo. Evite se recostar demais, o que pode parecer descontraído em excesso, ou ficar na pontinha da cadeira, o que transmite nervosismo. Mantenha as pernas quietas — cruzar os tornozelos ou deixar os pés apoiados no chão funcionam bem. Não espalhe seus pertences pela mesa do entrevistador.",
+          "tip": "Incline-se levemente para a frente quando o entrevistador falar sobre a vaga."
+        },
+        {
+          "title": "Chegando e esperando",
+          "body": "A avaliação muitas vezes começa na recepção. Sente-se com a postura ereta enquanto espera e evite ficar rolando o celular de cabeça baixa; alguém pode vir cumprimentar você de repente. Quando chamarem seu nome, levante-se, sorria e caminhe em um ritmo tranquilo. Carregue a bolsa na mão esquerda para deixar a direita livre, caso ofereçam um aperto de mão.",
+          "tip": "Trate todas as pessoas que encontrar, inclusive a equipe da recepção, como parte da entrevista."
+        },
+        {
+          "title": "Postura em vídeo",
+          "body": "Na câmera, enquadre-se do meio do peito para cima, com um pouco de espaço acima da cabeça. Sente-se em uma cadeira firme, não em um sofá ou na cama, para não afundar. Mantenha a tela na altura dos olhos para não ficar olhando para baixo. Evite girar ou balançar em cadeiras de escritório; o movimento fica exagerado na câmera e distrai quem está assistindo.",
+          "tip": "Trave a altura da cadeira giratória e apoie os dois pés no chão antes de entrar na chamada."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Qual postura melhor transmite um engajamento relaxado quando você está sentado?",
+          "options": ["Recostar-se bastante com as pernas esticadas", "Ficar na pontinha da cadeira", "Sentar-se no fundo da cadeira com uma leve inclinação para a frente", "Apoiar a cabeça na mão"],
+          "answer": 2,
+          "explanation": "Uma leve inclinação para a frente demonstra interesse sem perder a descontração."
+        },
+        {
+          "id": "q2",
+          "question": "Quando a avaliação da postura costuma começar?",
+          "options": ["Só quando você se senta na sala da entrevista", "Enquanto você espera na recepção", "Depois da primeira pergunta", "No final, durante as suas perguntas"],
+          "answer": 1,
+          "explanation": "Você pode estar sendo observado e ser cumprimentado de repente enquanto espera."
+        },
+        {
+          "id": "q3",
+          "question": "Qual é uma boa forma de se enquadrar em vídeo?",
+          "options": ["Do meio do peito para cima, com um pouco de espaço acima da cabeça", "Apenas o rosto, ocupando a tela inteira", "O corpo inteiro, de longe", "A câmera olhando de baixo, abaixo do queixo"],
+          "answer": 0,
+          "explanation": "Um enquadramento a partir do meio do peito, na altura dos olhos, parece natural e profissional."
+        }
+      ]
+    },
+    {
+      "id": "voice_control",
+      "order": 6,
+      "title": "Voz, ritmo e tom",
+      "minutes": 4,
+      "premium": true,
+      "pages": [
+        {
+          "title": "Ritmo: mais devagar do que você imagina",
+          "body": "O nervosismo acelera a maioria das pessoas, e falar rápido soa ansioso e é mais difícil de acompanhar. Busque um ritmo confortável, de conversa, e desacelere de propósito ao falar de números, nomes e resultados importantes. Fazer uma pausa depois de uma ideia importante dá peso a ela. Se perceber que está se apressando, termine a frase, respire e continue um pouco mais devagar.",
+          "tip": "Respire fundo e devagar uma vez antes de começar cada resposta."
+        },
+        {
+          "title": "Volume e clareza",
+          "body": "Fale alto o bastante para ser ouvido com facilidade do outro lado da mesa, sem forçar a voz. Vozes baixas podem ser interpretadas como falta de confiança, principalmente em salas maiores ou diante de uma banca. Articule bem as palavras e pronuncie o final das palavras e das frases em vez de deixá-las morrer. Em vídeo, teste o nível do microfone antes da chamada.",
+          "tip": "Pergunte 'Você está me ouvindo bem?' no início de qualquer entrevista remota."
+        },
+        {
+          "title": "Tom e energia",
+          "body": "Uma fala monótona e sem variação faz até grandes conquistas parecerem sem graça. Varie a entonação com naturalidade e deixe transparecer um entusiasmo genuíno ao falar de trabalhos de que você gostou. Sorrir enquanto fala deixa o tom mais caloroso, mesmo ao telefone. Evite terminar afirmações com a entonação subindo, como se fosse uma pergunta; isso pode fazer afirmações confiantes parecerem inseguras.",
+          "tip": "Diga sua principal conquista como uma afirmação, com a entonação descendo no final."
+        },
+        {
+          "title": "Controlando o nervosismo na voz",
+          "body": "A ansiedade contrai a garganta e deixa a respiração curta, então sua voz pode tremer ou ficar mais aguda. Antes da entrevista, aqueça a voz cantarolando ou lendo em voz alta por alguns minutos. Respire devagar pela barriga, e não pelo peito. Tenha água por perto e tome um gole para criar uma pausa natural. Praticar respostas em voz alta desenvolve um controle que a leitura silenciosa não consegue dar.",
+          "tip": "Use o recurso de entrevista simulada para ensaiar respostas em voz alta e depois ouça a gravação para avaliar seu ritmo."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Quando você deve desacelerar de propósito?",
+          "options": ["Ao apresentar números, nomes e resultados importantes", "Apenas durante a conversa informal", "Nunca; falar mais rápido soa mais enérgico", "Ao responder à última pergunta"],
+          "answer": 0,
+          "explanation": "Desacelerar nos detalhes importantes ajuda a mensagem a ser absorvida."
+        },
+        {
+          "id": "q2",
+          "question": "Que efeito a entonação subindo no final das afirmações pode ter?",
+          "options": ["Faz você soar com mais autoridade", "Faz afirmações confiantes soarem inseguras", "Acelera a entrevista", "Não tem nenhum efeito sobre quem ouve"],
+          "answer": 1,
+          "explanation": "A entonação ascendente faz as afirmações soarem como perguntas."
+        },
+        {
+          "id": "q3",
+          "question": "Qual é uma boa forma de acalmar uma voz trêmula antes da entrevista?",
+          "options": ["Tomar vários cafés", "Apenas ler as respostas em silêncio", "Cantarolar ou ler em voz alta e respirar pela barriga", "Falar o mais baixo possível"],
+          "answer": 2,
+          "explanation": "Aquecimentos vocais e a respiração lenta pela barriga reduzem a tensão na voz."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,270 @@
+{
+  "id": "evaluation_followup",
+  "order": 8,
+  "icon": "followup",
+  "color": "#F97316",
+  "title": "Setelah Wawancara",
+  "summary": "Tindak lanjuti secara profesional, belajar dari setiap wawancara, dan hadapi tawaran kerja dengan percaya diri.",
+  "topics": [
+    {
+      "id": "email_structure",
+      "order": 1,
+      "title": "Menulis Email Ucapan Terima Kasih",
+      "minutes": 3,
+      "premium": false,
+      "pages": [
+        {
+          "title": "Kenapa email terima kasih itu penting",
+          "body": "Email terima kasih yang singkat adalah cara sederhana dan mudah untuk menonjol. Email ini menunjukkan kesopanan, menegaskan minatmu, dan memberimu satu kesempatan lagi untuk mengingatkan pewawancara kenapa kamu cocok untuk posisi tersebut. Email ini jarang membuatmu diterima dengan sendirinya, tetapi saat dua kandidat bersaing ketat, pesan yang dipikirkan dengan baik bisa meninggalkan kesan akhir yang lebih kuat.",
+          "tip": "Kirim dalam 24 jam, idealnya di hari yang sama."
+        },
+        {
+          "title": "Struktur yang sederhana",
+          "body": "Cukup empat bagian singkat. Subjek seperti 'Terima kasih — wawancara Marketing Coordinator'. Ucapan terima kasih atas waktunya, dengan menyebut nama pewawancara. Satu atau dua kalimat yang menghubungkan topik yang kalian bahas dengan keahlianmu. Kalimat penutup yang menegaskan minat dan kesediaanmu untuk tahap berikutnya. Seluruh email sebaiknya muat di satu layar ponsel.",
+          "tip": "Usahakan kurang dari 150 kata; pewawancara yang sibuk menghargai tulisan yang ringkas."
+        },
+        {
+          "title": "Buat terasa personal",
+          "body": "Email terima kasih yang generik mudah dikenali. Sebutkan sesuatu yang spesifik dari percakapan: proyek yang mereka ceritakan, tantangan yang sedang dihadapi tim, atau pertanyaan yang menarik bagimu. Contohnya: 'Saya senang mendengar tentang program onboarding yang baru; pengalaman saya merancang ulang materi pelatihan bisa membantu di sana.' Detail yang spesifik menunjukkan bahwa kamu benar-benar mendengarkan.",
+          "tip": "Catat dua poin diskusi segera setelah wawancara supaya bisa kamu gunakan."
+        },
+        {
+          "title": "Kesalahan yang sering terjadi",
+          "body": "Jangan menyalin pesan yang sama untuk setiap anggota panel; ubah setidaknya satu kalimat untuk tiap orang. Periksa kembali nama, ejaan, dan nama posisi. Jangan gunakan email ini untuk membela panjang lebar jawaban yang kurang kuat atau menanyakan gaji. Jaga nada tetap hangat dan profesional, dan jangan mengirim tindak lanjut berulang kali jika belum ada balasan.",
+          "tip": "Bacakan email dengan suara keras sekali sebelum dikirim untuk menemukan kesalahan."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Kapan sebaiknya kamu mengirim email terima kasih?",
+          "options": ["Dalam 24 jam setelah wawancara", "Setelah satu minggu", "Hanya jika kamu mendapat tawaran", "Sebelum wawancara"],
+          "answer": 0,
+          "explanation": "Mengirimnya dalam sehari membuatmu tetap diingat oleh pewawancara."
+        },
+        {
+          "id": "q2",
+          "question": "Apa yang membuat email terima kasih terasa personal?",
+          "options": ["Memakai template yang panjang dan formal", "Menyebut poin spesifik dari percakapan", "Melampirkan CV sekali lagi", "Mencantumkan semua kualifikasimu"],
+          "answer": 1,
+          "explanation": "Detail yang spesifik menunjukkan kamu mendengarkan dan menghubungkan percakapan dengan keahlianmu."
+        },
+        {
+          "id": "q3",
+          "question": "Bagaimana cara berterima kasih kepada panel yang terdiri dari tiga pewawancara?",
+          "options": ["Kirim satu email yang sama persis ke ketiganya", "Berterima kasih hanya kepada orang paling senior", "Tidak perlu berterima kasih kepada panel", "Ubah setidaknya satu kalimat untuk tiap orang"],
+          "answer": 3,
+          "explanation": "Menyesuaikan setiap pesan mencegah email terlihat jelas hasil salinan."
+        }
+      ]
+    },
+    {
+      "id": "email_examples",
+      "order": 2,
+      "title": "Template Email Tindak Lanjut",
+      "minutes": 4,
+      "premium": false,
+      "pages": [
+        {
+          "title": "Template ucapan terima kasih",
+          "body": "Subjek: Terima kasih — wawancara [Nama Posisi]. 'Yth. [Nama], terima kasih telah meluangkan waktu untuk bertemu dengan saya hari ini. Saya sangat menikmati diskusi tentang [topik], dan hal itu semakin menguatkan minat saya pada posisi ini. Pengalaman saya di bidang [keahlian relevan] akan membantu saya berkontribusi dengan cepat. Jangan ragu menghubungi saya jika ada hal lain yang dibutuhkan. Salam hormat, [Nama Kamu].'",
+          "tip": "Ganti setiap tanda kurung; [Nama] yang lupa diganti bisa merusak kesan baik."
+        },
+        {
+          "title": "Menanyakan status lamaran",
+          "body": "Jika tanggal keputusan yang dijanjikan sudah lewat, tunggu dua atau tiga hari kerja, lalu tulis: 'Yth. [Nama], semoga Anda dalam keadaan baik. Saya ingin menindaklanjuti wawancara saya untuk posisi [Nama Posisi] pada [tanggal]. Saya masih sangat tertarik dengan posisi ini dan akan sangat berterima kasih atas informasi terbaru mengenai jadwalnya. Terima kasih, [Nama Kamu].' Tetap singkat, positif, dan sabar.",
+          "tip": "Tindak lanjuti maksimal seminggu sekali agar tidak terkesan memaksa."
+        },
+        {
+          "title": "Membalas penolakan",
+          "body": "Balasan yang santun membuat pintu tetap terbuka: 'Yth. [Nama], terima kasih atas kabarnya. Meskipun saya kecewa, saya menghargai kesempatan mengenal [tim atau perusahaan]. Jika Anda berkenan, saya akan senang menerima masukan. Semoga kita bisa tetap terhubung untuk kesempatan di masa depan. Salam, [Nama Kamu].' Banyak kandidat tidak pernah membalas, jadi langkah ini membuatmu menonjol.",
+          "tip": "Setelah membalas, terhubunglah dengan pewawancara di jaringan profesional."
+        },
+        {
+          "title": "Mengundurkan diri dari proses rekrutmen",
+          "body": "Jika kamu menerima tawaran lain atau tidak lagi berminat, segera beri tahu perusahaan: 'Yth. [Nama], terima kasih telah mempertimbangkan saya untuk posisi [Nama Posisi]. Saya memutuskan untuk menarik lamaran saya karena telah menerima posisi lain. Saya menghargai waktu Anda dan berharap kita dapat bertemu lagi di lain kesempatan. Salam hangat, [Nama Kamu].' Mengundurkan diri dengan sopan melindungi reputasimu.",
+          "tip": "Kamu tidak perlu memberi alasan terperinci; penjelasan singkat sudah cukup."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Tanggal keputusan sudah lewat tanpa kabar. Kapan sebaiknya kamu menindaklanjuti?",
+          "options": ["Langsung pagi itu juga", "Setelah dua atau tiga hari kerja", "Tidak perlu — tunggu saja", "Setiap hari sampai mereka membalas"],
+          "answer": 1,
+          "explanation": "Tindak lanjut singkat dan sabar beberapa hari kemudian terasa sopan dan efektif."
+        },
+        {
+          "id": "q2",
+          "question": "Kenapa perlu membalas email penolakan?",
+          "options": ["Untuk meminta mereka mengubah keputusan", "Untuk meluapkan kekesalanmu", "Pintu tetap terbuka dan kamu mungkin mendapat masukan", "Diwajibkan secara hukum"],
+          "answer": 2,
+          "explanation": "Balasan yang santun meninggalkan kesan baik untuk kesempatan di masa depan."
+        },
+        {
+          "id": "q3",
+          "question": "Apa yang perlu ada dalam email pengunduran diri dari proses rekrutmen?",
+          "options": ["Perbandingan terperinci antara dua tawaran", "Tidak ada — cukup berhenti membalas", "Permintaan gaji yang lebih tinggi", "Ucapan terima kasih singkat dan pernyataan jelas bahwa kamu mundur"],
+          "answer": 3,
+          "explanation": "Pengunduran diri yang singkat dan sopan melindungi reputasimu."
+        }
+      ]
+    },
+    {
+      "id": "performance_analysis",
+      "order": 3,
+      "title": "Mengevaluasi Performamu",
+      "minutes": 3,
+      "premium": true,
+      "pages": [
+        {
+          "title": "Evaluasi selagi masih segar",
+          "body": "Dalam satu jam setelah wawancara, luangkan sepuluh menit untuk mencatat apa yang kamu ingat: pertanyaan yang diajukan, bagaimana kamu menjawab, nama para pewawancara, dan apa pun yang kamu pelajari tentang posisi tersebut. Detail cepat terlupakan. Catatan ini membantumu menulis email terima kasih, bersiap untuk tahap berikutnya, dan menunjukkan apa yang perlu kamu latih.",
+          "tip": "Gunakan aplikasi catatan di ponselmu dalam perjalanan pulang jika tidak bisa langsung duduk."
+        },
+        {
+          "title": "Tiga pertanyaan sederhana",
+          "body": "Tinjau wawancaramu dengan tiga pertanyaan. Apa yang berjalan baik? Jawaban mana yang terasa jelas dan mendapat reaksi positif? Apa yang kurang berjalan baik? Di mana kamu ragu-ragu atau bertele-tele? Apa yang akan kulakukan secara berbeda? Buat spesifik: 'Aku lupa menyebut hasil penjualan dalam cerita kepemimpinanku' jauh lebih berguna daripada 'Aku jelek.'",
+          "tip": "Tulis hal positif setidaknya sebanyak hal negatif."
+        },
+        {
+          "title": "Lihat keseluruhan prosesnya",
+          "body": "Evaluasi lebih dari sekadar jawabanmu. Apakah persiapanmu mencakup topik yang tepat? Apakah pertanyaanmu untuk pewawancara cukup bermakna? Apakah urusan logistik berjalan lancar? Renungkan juga soal perusahaannya: apakah posisi, tim, dan budayanya sesuai dengan yang kamu inginkan? Wawancara adalah evaluasi dua arah, dan kesanmu penting untuk keputusanmu.",
+          "tip": "Beri nilai 1 sampai 10 untuk minatmu pada posisi itu segera setelah wawancara."
+        },
+        {
+          "title": "Jangan terlalu banyak menganalisis",
+          "body": "Mudah sekali memutar ulang satu momen canggung selama berhari-hari. Ingat, pewawancara biasanya membentuk kesan secara keseluruhan, bukan berfokus pada satu jawaban, dan kandidat sering menilai diri sendiri lebih keras daripada pewawancara. Setelah catatan selesai dan langkah perbaikan dipilih, lepaskan. Arahkan energimu ke lamaran berikutnya atau sesi latihan.",
+          "tip": "Ubah jawaban terlemahmu menjadi pertanyaan simulasi wawancara untuk kesempatan berikutnya."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Kapan waktu terbaik untuk mengevaluasi diri setelah wawancara?",
+          "options": ["Minggu depannya", "Dalam satu jam, selagi detailnya masih segar", "Hanya setelah mendengar hasilnya", "Tepat sebelum wawancara berikutnya"],
+          "answer": 1,
+          "explanation": "Detail cepat terlupakan, jadi segera buat catatan."
+        },
+        {
+          "id": "q2",
+          "question": "Catatan evaluasi diri mana yang paling berguna?",
+          "options": ["Aku jelek", "Lumayanlah", "Aku lupa menyebut hasil penjualan dalam cerita kepemimpinanku", "Mereka tidak suka padaku"],
+          "answer": 2,
+          "explanation": "Catatan yang spesifik menunjukkan perbaikan yang spesifik."
+        },
+        {
+          "id": "q3",
+          "question": "Selain jawabanmu, apa lagi yang perlu kamu evaluasi?",
+          "options": ["Apakah posisi, tim, dan budayanya sesuai dengan yang kamu inginkan", "Pakaian pewawancara", "Berapa lama tur kantornya", "Tidak ada lagi yang penting"],
+          "answer": 0,
+          "explanation": "Wawancara berlangsung dua arah; kesanmu terhadap perusahaan juga penting."
+        }
+      ]
+    },
+    {
+      "id": "handling_offers",
+      "order": 4,
+      "title": "Menghadapi Tawaran dan Bernegosiasi",
+      "minutes": 4,
+      "premium": true,
+      "pages": [
+        {
+          "title": "Lihat paket secara keseluruhan",
+          "body": "Tawaran kerja lebih dari sekadar gaji pokok. Pertimbangkan bonus, iuran pensiun, asuransi kesehatan dan asuransi lainnya, cuti berbayar, kerja fleksibel atau remote, anggaran pelatihan, dan saham jika ditawarkan. Pertimbangkan juga posisinya sendiri, peluang berkembang, perjalanan ke kantor, dan timnya. Minta tawaran lengkap secara tertulis agar kamu bisa membandingkan pilihan dengan akurat dan menghindari salah paham.",
+          "tip": "Tulis setiap komponen dalam tabel sederhana untuk membandingkan tawaran berdampingan."
+        },
+        {
+          "title": "Minta waktu",
+          "body": "Kamu tidak harus langsung menerima saat itu juga. Ucapkan terima kasih dengan hangat dan minta waktu: 'Terima kasih, saya sangat senang menerima tawaran ini. Bolehkah saya meminta waktu sampai hari Jumat untuk meninjau detailnya?' Beberapa hari hingga seminggu adalah permintaan yang umum dan wajar. Gunakan waktu itu untuk meninjau paketnya, mencari tahu kisaran gaji untuk posisi tersebut, dan menyiapkan pertanyaan.",
+          "tip": "Tetap tunjukkan antusiasme terhadap posisinya meskipun sedang meminta waktu."
+        },
+        {
+          "title": "Bernegosiasi dengan sopan",
+          "body": "Negosiasi itu hal yang umum dan, jika dilakukan dengan hormat, jarang merusak tawaran. Dasarkan permintaanmu pada riset tentang standar gaji di pasar dan nilai yang kamu bawa. Buat spesifik dan positif: 'Saya antusias dengan posisi ini. Berdasarkan pengalaman saya dan kisaran gaji untuk posisi serupa, apakah gaji sebesar [jumlah] memungkinkan?' Jika gaji sudah tetap, tanyakan elemen lain, seperti cuti, fleksibilitas, atau pelatihan.",
+          "tip": "Sebutkan angka yang spesifik, jangan sekadar meminta 'sedikit lebih banyak'."
+        },
+        {
+          "title": "Terima atau tolak dengan elegan",
+          "body": "Saat menerima, konfirmasikan secara tertulis dan periksa tanggal mulai serta ketentuan utamanya. Saat menolak, balas dengan cepat dan sopan: 'Terima kasih atas tawaran dan waktu yang Anda berikan. Setelah mempertimbangkan dengan matang, saya memutuskan untuk menerima posisi lain. Saya sangat senang bisa bertemu dengan tim dan berharap kita tetap terhubung.' Menolak dengan sopan menjaga hubungan baik untuk masa depan.",
+          "tip": "Jangan mengundurkan diri dari pekerjaanmu saat ini sebelum menerima tawaran tertulis."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Apa yang perlu kamu evaluasi saat menerima tawaran kerja?",
+          "options": ["Hanya gaji pokok", "Hanya nama jabatan", "Paket secara keseluruhan, termasuk tunjangan, fleksibilitas, dan peluang berkembang", "Hanya seberapa cepat mereka ingin jawaban"],
+          "answer": 2,
+          "explanation": "Tunjangan, fleksibilitas, peluang berkembang, dan posisinya sendiri semuanya menambah nilai sebuah tawaran."
+        },
+        {
+          "id": "q2",
+          "question": "Perusahaan memintamu memutuskan sebuah tawaran. Apa respons yang wajar?",
+          "options": ["Langsung menerima tanpa membacanya", "Berterima kasih dan meminta beberapa hari untuk meninjau detailnya", "Menolaknya agar mendapat tawaran yang lebih baik", "Mengabaikan pesan selama dua minggu"],
+          "answer": 1,
+          "explanation": "Meminta waktu yang singkat dan jelas batasnya adalah hal yang umum dan wajar."
+        },
+        {
+          "id": "q3",
+          "question": "Gajinya sudah tetap. Apa yang masih bisa kamu negosiasikan?",
+          "options": ["Elemen lain seperti cuti, fleksibilitas, atau pelatihan", "Tidak ada sama sekali", "Keputusan pewawancara", "Hanya nama jabatanmu"],
+          "answer": 0,
+          "explanation": "Saat gaji tidak bisa berubah, bagian lain dari paket sering kali masih bisa."
+        }
+      ]
+    },
+    {
+      "id": "tracking_progress",
+      "order": 5,
+      "title": "Memantau Pencarian Kerjamu",
+      "minutes": 3,
+      "premium": true,
+      "pages": [
+        {
+          "title": "Kenapa perlu memantau pencarian kerja",
+          "body": "Saat kamu melamar ke banyak posisi, detailnya cepat kabur. Kamu bisa lupa versi CV mana yang kamu kirim, dengan siapa kamu berbicara, atau kapan harus menindaklanjuti. Pelacak sederhana menyimpan semuanya di satu tempat, mencegah kekeliruan yang memalukan, dan menunjukkan bagian mana dari pencarianmu yang berhasil dan mana yang macet. Pelacak juga membuat kemajuan terlihat di minggu-minggu yang lambat.",
+          "tip": "Mulai mencatat sejak lamaran pertamamu, bukan setelah yang kesepuluh."
+        },
+        {
+          "title": "Apa yang perlu dicatat",
+          "body": "Spreadsheet atau aplikasi catatan sudah cukup. Untuk setiap lamaran, catat perusahaan, posisi, tanggal melamar, versi CV, narahubung, tahap saat ini, langkah berikutnya beserta tanggalnya. Tambahkan kolom catatan untuk pertanyaan wawancara, informasi gaji, dan kesanmu. Simpan juga deskripsi pekerjaannya, karena lowongan sering dihapus begitu posisinya ditutup.",
+          "tip": "Simpan versi dari pembuat CV yang kamu pakai untuk tiap posisi agar jawabanmu sesuai dengan yang mereka baca."
+        },
+        {
+          "title": "Gunakan tahapan dan langkah berikutnya",
+          "body": "Beri setiap lamaran sebuah tahap: melamar, penyaringan, wawancara, tahap akhir, tawaran, atau selesai. Setiap lamaran yang masih berjalan juga perlu punya langkah berikutnya dengan tanggal, misalnya 'Tindak lanjuti pada 12 Mei' atau 'Siapkan studi kasus'. Tinjau pelacakmu di awal setiap minggu agar tidak ada yang terlupa dan setiap peluang terus bergerak.",
+          "tip": "Beri warna berbeda untuk tiap tahap agar kamu bisa melihat pipeline-mu sekilas."
+        },
+        {
+          "title": "Belajar dari angkamu",
+          "body": "Setelah sebulan, perhatikan polanya. Jika kamu mengirim banyak lamaran tetapi jarang mendapat balasan, CV atau target lamaranmu mungkin perlu diperbaiki. Jika kamu sering diwawancara tetapi jarang sampai tahap akhir, fokuslah pada latihan wawancara. Jika tahap akhir tidak berujung pada tawaran, tinjau cara kamu menutup wawancara dan menindaklanjutinya. Pelacakmu menunjukkan ke mana usahamu sebaiknya diarahkan berikutnya.",
+          "tip": "Hitung persentase lamaran yang berlanjut ke wawancara setiap bulan."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Kenapa perlu menyimpan deskripsi pekerjaan untuk setiap lamaran?",
+          "options": ["Lowongan sering dihapus begitu posisinya ditutup", "Perusahaan memintamu mengembalikannya", "Deskripsi itu menggantikan CV-mu", "Diperlukan untuk menghitung gaji"],
+          "answer": 0,
+          "explanation": "Kamu akan membutuhkannya untuk persiapan wawancara, dan bisa saja hilang dari internet."
+        },
+        {
+          "id": "q2",
+          "question": "Apa yang harus dimiliki setiap lamaran yang masih berjalan di pelacakmu?",
+          "options": ["Foto kantornya", "Langkah berikutnya dengan tanggal", "Nomor telepon pribadi pewawancara", "Keputusan akhir yang sudah dibuat"],
+          "answer": 1,
+          "explanation": "Langkah berikutnya yang bertanggal membuat setiap peluang terus bergerak."
+        },
+        {
+          "id": "q3",
+          "question": "Kamu sering diwawancara tetapi jarang sampai tahap akhir. Di mana sebaiknya kamu fokus?",
+          "options": ["Mengirim lebih banyak lamaran", "Berganti karier", "Latihan wawancara", "Menulis email terima kasih yang lebih panjang"],
+          "answer": 2,
+          "explanation": "Polanya menunjukkan tahap wawancara adalah tempat usahamu paling membuahkan hasil."
+        }
+      ]
+    }
+  ]
+}

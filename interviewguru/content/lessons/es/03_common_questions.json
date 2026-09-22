@@ -1,0 +1,479 @@
+{
+  "id": "common_questions",
+  "order": 3,
+  "icon": "questions",
+  "color": "#F59E0B",
+  "title": "Preguntas frecuentes",
+  "summary": "Prepara respuestas claras y seguras a las preguntas que casi todo entrevistador hace, desde «Háblame de ti» hasta el salario.",
+  "topics": [
+    {
+      "id": "tell_me_about_yourself",
+      "order": 1,
+      "title": "Háblame de ti",
+      "minutes": 3,
+      "premium": false,
+      "pages": [
+        {
+          "title": "Lo que realmente te están preguntando",
+          "body": "«Háblame de ti» no es una invitación a contar tu vida. El entrevistador quiere un resumen breve y pertinente que explique por qué eres un buen candidato para este puesto. Suele ser la primera pregunta, así que marca el tono de todo lo que viene después. Apunta a 60–90 segundos y céntrate en tu trayectoria profesional, no en detalles personales como tu familia o tu ciudad natal.",
+          "tip": "Prepara esta respuesta primero; usarás una versión de ella en casi todas las entrevistas."
+        },
+        {
+          "title": "Presente: dónde estás ahora",
+          "body": "Usa una estructura presente–pasado–futuro. Empieza por el presente: tu puesto o situación actual y un logro que sea relevante para este trabajo. Por ejemplo: «Soy responsable de atención al cliente en una empresa de software y dirijo un equipo de seis personas. El año pasado redujimos el tiempo medio de respuesta de un día completo a cuatro horas». Sé concreto y pertinente para el puesto.",
+          "tip": "Elige el logro que mejor encaje con la descripción del puesto, no el que más te guste."
+        },
+        {
+          "title": "Pasado: cómo llegaste aquí",
+          "body": "A continuación, repasa brevemente el pasado: las experiencias que te dieron las habilidades que exige este puesto. Elige una o dos, no toda tu historia. «Antes pasé tres años como agente de soporte, donde escribí los primeros artículos de nuestro centro de ayuda y formé a las nuevas incorporaciones». Si acabas de graduarte, usa tus estudios, prácticas o proyectos en lugar de empleos anteriores.",
+          "tip": "Omite todo lo de tu pasado que no conduzca hacia este puesto."
+        },
+        {
+          "title": "Futuro: por qué este puesto",
+          "body": "Termina con el futuro: lo que buscas ahora y por qué este trabajo encaja. «Ahora quiero dar el salto a customer success, donde pueda trabajar con clientes a largo plazo, y por eso me llamó la atención este puesto». Este cierre devuelve la conversación de forma natural e invita a hacer preguntas sobre las experiencias que decidiste destacar.",
+          "tip": "Graba tu respuesta en una entrevista de práctica y elimina todo lo que no apunte hacia el puesto."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "¿Qué orden sigue la estructura recomendada?",
+          "options": [
+            "Pasado, futuro, presente",
+            "Presente, pasado, futuro",
+            "Futuro, presente, pasado",
+            "Aficiones, familia, carrera"
+          ],
+          "answer": 1,
+          "explanation": "Empieza por dónde estás ahora, explica cómo llegaste ahí y luego di adónde quieres ir."
+        },
+        {
+          "id": "q2",
+          "question": "¿Qué debe hacer la parte del «futuro» de tu respuesta?",
+          "options": [
+            "Indicar tus expectativas salariales",
+            "Describir tus aficiones",
+            "Repetir tu formación",
+            "Explicar lo que buscas ahora y por qué encaja este puesto"
+          ],
+          "answer": 3,
+          "explanation": "La parte del futuro conecta tus objetivos con este trabajo y devuelve la conversación."
+        },
+        {
+          "id": "q3",
+          "question": "¿Qué detalle encaja menos en tu respuesta?",
+          "options": [
+            "Tu familia y tu ciudad natal",
+            "Un logro relevante en tu puesto actual",
+            "Habilidades adquiridas en un empleo anterior",
+            "Por qué te atrae este puesto"
+          ],
+          "answer": 0,
+          "explanation": "La pregunta trata de tu trayectoria profesional, así que los detalles personales le restan tiempo a lo importante."
+        }
+      ]
+    },
+    {
+      "id": "why_this_company",
+      "order": 2,
+      "title": "¿Por qué quieres trabajar aquí?",
+      "minutes": 3,
+      "premium": false,
+      "pages": [
+        {
+          "title": "Lo que evalúa la pregunta",
+          "body": "«¿Por qué quieres trabajar aquí?» comprueba tres cosas: si investigaste la empresa, si tu motivación va más allá de necesitar un trabajo cualquiera y si es probable que te quedes. Una respuesta genérica como «Es una gran empresa con una gran cultura» no supera ninguna de las tres. Tu respuesta necesita detalles que no podrían decirse de ningún otro empleador.",
+          "tip": "Si tu respuesta seguiría teniendo sentido con el nombre de un competidor, hazla más específica."
+        },
+        {
+          "title": "La respuesta en tres partes",
+          "body": "Construye tu respuesta con tres eslabones: la empresa, el puesto y tú. Primero, menciona algo concreto de la empresa, como un producto, un mercado o un movimiento reciente. Segundo, conéctalo con lo que implica el puesto. Tercero, muestra por qué eso te importa, a partir de tu experiencia o tus objetivos. Con una o dos frases por eslabón es suficiente.",
+          "tip": "Usa tus notas sobre la empresa para elegir el detalle que mejor conecte con tu experiencia."
+        },
+        {
+          "title": "Un ejemplo",
+          "body": "«He seguido su expansión hacia los pagos para pequeñas empresas y me gusta que estén creando soluciones para propietarios que han estado desatendidos. Este puesto me situaría en el equipo de onboarding, que es justo donde he pasado los últimos dos años mejorando la conversión de registros. Quiero seguir haciendo ese trabajo en una empresa donde sea clave para la estrategia».",
+          "tip": "Fíjate en que cada frase cubre un eslabón: la empresa, el puesto y luego tú."
+        },
+        {
+          "title": "Errores que debes evitar",
+          "body": "No empieces por los beneficios: el salario, la ubicación o las ventajas suenan egocéntricos como motivo principal, aunque te importen. No halagues sin fundamento; «Son líderes del sector» no dice nada. No critiques a tu empleador actual para explicar por qué te vas. Y no recites la declaración de misión; interprétala y muestra lo que significa para ti en la práctica.",
+          "tip": "Deja los motivos prácticos, como la ubicación, para conversaciones posteriores, no para tu respuesta principal."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "¿Por qué «Es una gran empresa con una gran cultura» no funciona como respuesta?",
+          "options": [
+            "Es demasiado larga",
+            "Menciona la cultura",
+            "Podría decirse de cualquier empleador",
+            "Es demasiado específica"
+          ],
+          "answer": 2,
+          "explanation": "Una respuesta sólida contiene detalles que solo se aplican a esta empresa."
+        },
+        {
+          "id": "q2",
+          "question": "¿Cuáles son los tres eslabones de una respuesta sólida?",
+          "options": [
+            "Salario, ubicación y ventajas",
+            "La empresa, el puesto y tú",
+            "Misión, visión y valores",
+            "Pasado, presente y futuro"
+          ],
+          "answer": 1,
+          "explanation": "Conecta algo concreto de la empresa con el puesto y luego con tu propia experiencia u objetivos."
+        },
+        {
+          "id": "q3",
+          "question": "¿Qué motivo no debería encabezar tu respuesta?",
+          "options": [
+            "Un movimiento reciente de la empresa que admiras",
+            "Cómo aprovecha el puesto tu experiencia",
+            "Tus objetivos profesionales",
+            "El paquete de beneficios"
+          ],
+          "answer": 3,
+          "explanation": "Empezar por las ventajas suena egocéntrico, aunque los beneficios sean una consideración legítima."
+        }
+      ]
+    },
+    {
+      "id": "strengths",
+      "order": 3,
+      "title": "Tus fortalezas",
+      "minutes": 3,
+      "premium": true,
+      "pages": [
+        {
+          "title": "Elige fortalezas que importen aquí",
+          "body": "Elige dos o tres fortalezas que la descripción del puesto valore claramente, no simplemente aquellas de las que te sientes más orgulloso. Un analista de datos podría elegir la precisión, la capacidad de explicar cifras con claridad y la curiosidad. Un vendedor podría elegir la resiliencia y la capacidad de crear relaciones. Si una fortaleza no ayuda en este puesto, tampoco ayudará a tu respuesta, por muy cierta que sea.",
+          "tip": "Contrasta tus fortalezas con los requisitos imprescindibles que marcaste en la descripción del puesto."
+        },
+        {
+          "title": "Sé específico, no genérico",
+          "body": "«Trabajador», «buen compañero de equipo» y «apasionado» son cualidades que casi todo el mundo se atribuye, así que tienen poco peso. Precisa cada fortaleza: en lugar de «buen comunicador», di «explico problemas técnicos con claridad a clientes sin perfil técnico». Cuanto más concreta sea la descripción, más creíble sonará y más fácil le resultará al entrevistador imaginarte haciendo el trabajo.",
+          "tip": "Pregúntate qué te verían hacer realmente si esa fortaleza estuviera en acción."
+        },
+        {
+          "title": "Demuéstralo con un ejemplo",
+          "body": "Una fortaleza sin pruebas es solo una opinión. Acompaña cada una con un ejemplo breve: la situación, lo que hiciste y el resultado. «Se me da bien simplificar procesos complejos. En mi último puesto convertí nuestra guía de incorporación de veinte páginas en una lista de cinco pasos, y las nuevas incorporaciones alcanzaron su plena productividad dos semanas antes». Las cifras hacen que la historia se recuerde.",
+          "tip": "Prepara un ejemplo por fortaleza y que cada uno dure menos de un minuto."
+        },
+        {
+          "title": "Transmítelo con seguridad",
+          "body": "Muchas personas se venden por debajo de su valor porque hablar de sus fortalezas les parece presumir. No lo es; estás respondiendo con hechos a una pregunta directa. Expón la fortaleza con sencillez, aporta la prueba y relaciónala con el puesto: «Por eso podría poner al día rápidamente a sus nuevas incorporaciones de soporte». Evita tanto la falsa modestia como la exageración.",
+          "tip": "Practica en voz alta tu principal fortaleza hasta que suene natural y no memorizada."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "¿Cómo deberías elegir qué fortalezas mencionar?",
+          "options": [
+            "Elige las que el puesto valora claramente",
+            "Enumera todas las que puedas",
+            "Elige las que mencionan tus amigos",
+            "Usa las fortalezas más populares"
+          ],
+          "answer": 0,
+          "explanation": "Una fortaleza solo ayuda a tu respuesta si es importante para este trabajo en concreto."
+        },
+        {
+          "id": "q2",
+          "question": "¿Por qué «buen compañero de equipo» es una fortaleza débil si se menciona sola?",
+          "options": [
+            "A los entrevistadores no les gusta el trabajo en equipo",
+            "Es demasiado técnica",
+            "Suena demasiado modesta",
+            "Casi todo el mundo se la atribuye, así que tiene poco peso"
+          ],
+          "answer": 3,
+          "explanation": "Las etiquetas genéricas no te diferencian; las descripciones precisas sí."
+        },
+        {
+          "id": "q3",
+          "question": "¿Qué hace que una fortaleza sea creíble?",
+          "options": [
+            "Repetirla varias veces",
+            "Incluirla en tu CV",
+            "Un ejemplo concreto con un resultado",
+            "Mantenerla amplia"
+          ],
+          "answer": 2,
+          "explanation": "Las pruebas convierten una afirmación en evidencia, sobre todo con un resultado medible."
+        }
+      ]
+    },
+    {
+      "id": "weaknesses",
+      "order": 4,
+      "title": "Tus debilidades",
+      "minutes": 4,
+      "premium": true,
+      "pages": [
+        {
+          "title": "Por qué lo preguntan",
+          "body": "Los entrevistadores preguntan por las debilidades para evaluar tu autoconocimiento y tu honestidad, no para pillarte. Quieren ver que sabes en qué puedes mejorar y que trabajas activamente en ello. Respuestas como «Soy perfeccionista» o «Trabajo demasiado» suenan ensayadas y evasivas, y sugieren que te falta autoconocimiento o que no estás siendo sincero.",
+          "tip": "Piensa en comentarios que te hayan hecho de verdad; son la mejor fuente para una respuesta genuina."
+        },
+        {
+          "title": "Elige una debilidad real pero no crítica",
+          "body": "Elige algo genuino que no sea esencial para el trabajo. Un desarrollador de software podría mencionar hablar en público; un contador no debería mencionar la atención al detalle. Buenas opciones son delegar, decir que no a trabajo adicional, presentar ante grupos grandes o una herramienta concreta que aún no dominas. Evita todo lo que genere dudas sobre tu integridad, tu fiabilidad o las habilidades clave del puesto.",
+          "tip": "Contrasta la debilidad elegida con los requisitos imprescindibles de la descripción del puesto antes de usarla."
+        },
+        {
+          "title": "Muestra la mejora",
+          "body": "Lo más importante es lo que estás haciendo al respecto. Sigue tres pasos: nombra la debilidad, da un ejemplo breve de cómo afectó a tu trabajo y describe acciones concretas y avances. «Antes asumía demasiadas tareas. Ahora reviso mi carga de trabajo cada semana con mi responsable y, cuando llegan nuevas peticiones, respondo con prioridades claras».",
+          "tip": "Menciona un hábito, una herramienta o un curso concretos, no solo «estoy trabajando en ello»."
+        },
+        {
+          "title": "Sé breve y mira hacia adelante",
+          "body": "Dedica alrededor del 20 % de tu respuesta a la debilidad y el 80 % a la mejora. No te extiendas en explicaciones ni te disculpes, y no enumeres varias debilidades a la vez. Termina con los avances que has logrado para que el entrevistador recuerde tu crecimiento, no el problema. Si te piden una segunda debilidad, ten otra preparada que siga la misma estructura.",
+          "tip": "Pon a prueba tu respuesta sobre debilidades en una entrevista de práctica para comprobar que suena sincera y no ensayada."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "¿Por qué «Soy perfeccionista» suele ser una respuesta débil?",
+          "options": [
+            "Es demasiado sincera",
+            "Suena ensayada y evasiva",
+            "Es demasiado larga",
+            "Es demasiado técnica"
+          ],
+          "answer": 1,
+          "explanation": "Las fortalezas disfrazadas sugieren falta de autoconocimiento o de honestidad."
+        },
+        {
+          "id": "q2",
+          "question": "¿Qué debilidad sería arriesgada de mencionar para un contador?",
+          "options": [
+            "Hablar en público ante grupos grandes",
+            "Delegar trabajo",
+            "La atención al detalle",
+            "Decir que no a proyectos adicionales"
+          ],
+          "answer": 2,
+          "explanation": "La atención al detalle es una habilidad clave en contabilidad, así que es una debilidad crítica para ese puesto."
+        },
+        {
+          "id": "q3",
+          "question": "¿Cómo deberías repartir tu respuesta?",
+          "options": [
+            "80 % debilidad, 20 % mejora",
+            "Mitad debilidad, mitad mejora",
+            "Describir solo la debilidad",
+            "Alrededor del 20 % debilidad y el 80 % mejora"
+          ],
+          "answer": 3,
+          "explanation": "Mantén el foco en lo que estás haciendo al respecto para que el entrevistador recuerde tu crecimiento."
+        }
+      ]
+    },
+    {
+      "id": "star_method",
+      "order": 5,
+      "title": "El método STAR",
+      "minutes": 4,
+      "premium": true,
+      "pages": [
+        {
+          "title": "Qué significa STAR",
+          "body": "STAR es una estructura para preguntas de comportamiento como «Cuéntame alguna vez en que…». Sus siglas en inglés corresponden a Situación, Tarea, Acción y Resultado. Mantiene tu historia enfocada y garantiza que termines con un resultado. A lo largo de estas páginas construiremos un ejemplo completo para responder a la pregunta: «Cuéntame alguna vez en que tuviste que cumplir un plazo muy ajustado».",
+          "tip": "Cuando oigas «Cuéntame alguna vez en que…», es tu señal para usar STAR."
+        },
+        {
+          "title": "Situación y Tarea",
+          "body": "La Situación sitúa la escena en una o dos frases: «Dos semanas antes del lanzamiento de un cliente importante, nuestra diseñadora principal dejó la empresa». La Tarea explica tu responsabilidad: «Como coordinador del proyecto, tenía que asegurarme de que todos los materiales del lanzamiento se entregaran a tiempo». Sé breve en ambas; juntas deberían ocupar alrededor del 20 % de tu respuesta.",
+          "tip": "Elimina los detalles de contexto que el entrevistador no necesita para entender tu reto."
+        },
+        {
+          "title": "Acción",
+          "body": "La Acción es el núcleo de la historia y debería ocupar alrededor del 60 % de tu respuesta. Di «yo», no «nosotros», para que el entrevistador sepa qué hiciste tú. «Dividí el trabajo pendiente en tareas diarias, incorporé a un diseñador freelance en dos días y organicé una reunión de 15 minutos cada mañana para detectar problemas a tiempo. También acordé con el cliente qué elementos podían pasar a una segunda fase».",
+          "tip": "Enumera tus acciones como pasos claros; eso demuestra un pensamiento estructurado."
+        },
+        {
+          "title": "Resultado",
+          "body": "El Resultado cierra la historia con un desenlace claro, idealmente medible: «Entregamos todos los elementos clave en la fecha del lanzamiento, el cliente renovó su contrato por un año más y la reunión diaria se convirtió en una práctica habitual en nuestro equipo». Añade lo que aprendiste si es relevante. El resultado debería ocupar alrededor del 20 % de tu respuesta; sin él, incluso una gran historia se queda incompleta.",
+          "tip": "Escribe cinco historias STAR con antelación y practícalas en una entrevista de práctica."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "¿Qué parte de una respuesta STAR debería ocupar más tiempo?",
+          "options": [
+            "Situación",
+            "Tarea",
+            "Acción",
+            "Resultado"
+          ],
+          "answer": 2,
+          "explanation": "La Acción debería ocupar alrededor del 60 % de la respuesta porque muestra lo que hiciste realmente."
+        },
+        {
+          "id": "q2",
+          "question": "¿Por qué deberías decir «yo» en lugar de «nosotros» en la parte de Acción?",
+          "options": [
+            "Para que el entrevistador sepa lo que hiciste tú personalmente",
+            "Porque el trabajo en equipo no importa",
+            "Para que la historia sea más corta",
+            "Porque «nosotros» es gramaticalmente incorrecto"
+          ],
+          "answer": 0,
+          "explanation": "El entrevistador te está evaluando a ti, así que tu propia contribución debe quedar clara."
+        },
+        {
+          "id": "q3",
+          "question": "En el ejemplo desarrollado, ¿qué detalle pertenece al Resultado?",
+          "options": [
+            "La diseñadora principal dejó la empresa",
+            "Se incorporó a un diseñador freelance",
+            "Se organizaron reuniones diarias",
+            "El cliente renovó su contrato por un año más"
+          ],
+          "answer": 3,
+          "explanation": "La renovación es el resultado; los demás elementos son la situación o las acciones."
+        }
+      ]
+    },
+    {
+      "id": "teamwork_examples",
+      "order": 6,
+      "title": "Preguntas sobre trabajo en equipo y conflictos",
+      "minutes": 3,
+      "premium": true,
+      "pages": [
+        {
+          "title": "Lo que buscan",
+          "body": "Preguntas como «Háblame de un desacuerdo con un compañero» o «Describe alguna vez en que trabajaste en un equipo difícil» evalúan cómo te comportas cuando las cosas no van bien. Los entrevistadores quieren pruebas de que mantienes la profesionalidad, escuchas, te centras en el objetivo común y sabes llegar a una solución sin escalar cada problema a un responsable.",
+          "tip": "Prepara al menos una historia de conflicto y otra de éxito en equipo antes de cualquier entrevista."
+        },
+        {
+          "title": "Elige la historia adecuada",
+          "body": "Elige un desacuerdo real y laboral sobre prioridades, métodos o plazos, no una disputa personal. El conflicto debe ser lo bastante significativo para resultar interesante y haberse resuelto de forma constructiva. Evita historias en las que tú tenías toda la razón y la otra persona estaba completamente equivocada; te hacen parecer inflexible. Las mejores historias muestran que entendiste el punto de vista de la otra parte.",
+          "tip": "Elige una historia en la que la relación laboral terminara mejor, no peor."
+        },
+        {
+          "title": "Cuéntala con STAR",
+          "body": "Usa STAR y pon el énfasis en tus acciones. «Un compañero y yo no estábamos de acuerdo sobre si retrasar un lanzamiento para hacer más pruebas. Le pedí una reunión breve, escuché sus preocupaciones sobre la calidad y compartí mis datos sobre el impacto en los clientes. Acordamos lanzar a tiempo las funciones estables y retrasar una semana una función arriesgada». Después, indica el resultado.",
+          "tip": "Describe con justicia la postura de la otra persona; eso hace más creíbles tus propias acciones."
+        },
+        {
+          "title": "Evita las trampas habituales",
+          "body": "Nunca digas que no has tenido ningún conflicto; suena poco realista o sugiere que evitas los problemas. No critiques a antiguos compañeros ni reveles información confidencial. No centres la historia solo en el problema; dedica la mayor parte del tiempo a cómo se resolvió. Termina con un resultado positivo o una lección, como una mejor relación laboral o un nuevo proceso.",
+          "tip": "No des nombres; «un compañero de finanzas» es suficiente detalle."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "¿Qué historia funciona mejor para una pregunta sobre conflictos?",
+          "options": [
+            "Una disputa personal con un vecino",
+            "Una vez en que tú tenías toda la razón y la otra persona estaba equivocada",
+            "Un desacuerdo laboral sobre prioridades que resolviste de forma constructiva",
+            "Un conflicto que denunciaste sin intentar resolverlo"
+          ],
+          "answer": 2,
+          "explanation": "Un desacuerdo laboral real con una resolución constructiva demuestra madurez y flexibilidad."
+        },
+        {
+          "id": "q2",
+          "question": "¿Por qué «Nunca he tenido un conflicto» es una mala respuesta?",
+          "options": [
+            "Suena poco realista o sugiere que evitas los problemas",
+            "Es demasiado larga",
+            "Revela información confidencial",
+            "Critica a los compañeros"
+          ],
+          "answer": 0,
+          "explanation": "Todo el mundo tiene desacuerdos en el trabajo; los entrevistadores quieren ver cómo los gestionas."
+        },
+        {
+          "id": "q3",
+          "question": "En el ejemplo del lanzamiento, ¿qué demostró un enfoque constructivo?",
+          "options": [
+            "Negarse a retrasar nada",
+            "Pedir al responsable que decidiera",
+            "Lanzarlo todo tarde",
+            "Escuchar las preocupaciones y acordar un término medio"
+          ],
+          "answer": 3,
+          "explanation": "Escuchar, compartir datos y encontrar un término medio resolvió el conflicto sin escalarlo."
+        }
+      ]
+    },
+    {
+      "id": "salary_negotiation",
+      "order": 7,
+      "title": "Expectativas salariales y negociación",
+      "minutes": 4,
+      "premium": true,
+      "pages": [
+        {
+          "title": "Investiga tu valor en el mercado",
+          "body": "Antes de cualquier entrevista, conoce la banda salarial habitual para el puesto, el nivel y la ubicación. Usa encuestas salariales, ofertas de empleo que indiquen el sueldo, asociaciones profesionales y conversaciones con personas en puestos similares. Reúne varias fuentes y anota los valores bajo, medio y alto. Ten en cuenta el paquete completo, incluidos bonus, aportaciones a la pensión, vacaciones y presupuesto de formación, no solo el salario base.",
+          "tip": "Usa al menos tres fuentes independientes; una sola cifra puede ser engañosa."
+        },
+        {
+          "title": "Define tu rango",
+          "body": "Decide tres cifras antes de que nadie te pregunte: tu cifra límite (el mínimo que aceptarías), tu objetivo y un máximo ambicioso pero justificable. Comparte un rango cuyo extremo inferior esté cerca de tu objetivo, no de tu mínimo, porque las ofertas suelen acercarse al extremo inferior. Mantén el rango relativamente estrecho, de un 10–20 % de amplitud, para que suene bien investigado.",
+          "tip": "Nunca reveles tu cifra límite; sirve para tu decisión, no para la conversación."
+        },
+        {
+          "title": "Cómo responder a «¿Cuáles son tus expectativas salariales?»",
+          "body": "Si te lo preguntan pronto, puedes reconducir la conversación con cortesía: «Me gustaría conocer primero mejor las responsabilidades. ¿Podrían compartir la banda salarial presupuestada?». Si insisten, da tu rango investigado con seguridad: «Según mi investigación sobre puestos similares, busco entre 55.000 y 62.000». La primera cifra creíble sirve de ancla para la conversación, así que asegúrate de que la tuya esté bien fundamentada. No la justifiques con tus gastos personales.",
+          "tip": "Di tu rango una vez, con claridad, y luego deja de hablar para que respondan."
+        },
+        {
+          "title": "Negociar la oferta",
+          "body": "Cuando llegue una oferta, da las gracias y pide uno o dos días para revisarla. Si está por debajo de tu objetivo, responde con entusiasmo y una contraoferta concreta: «Me entusiasma este puesto. Dada mi experiencia dirigiendo proyectos similares, ¿podríamos acercarnos a 60.000?». Si el salario base es fijo, negocia otros aspectos: la fecha de incorporación, el bonus, más días de vacaciones o formación.",
+          "tip": "Ensaya tu contraoferta en voz alta en una entrevista de práctica antes de la llamada real."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "¿Dónde debería situarse el extremo inferior del rango que compartes?",
+          "options": [
+            "En tu mínimo límite",
+            "Cerca de tu cifra objetivo",
+            "Por debajo de tu mínimo para parecer flexible",
+            "En el salario más alto que encontraste"
+          ],
+          "answer": 1,
+          "explanation": "Las ofertas suelen acercarse al extremo inferior de tu rango, así que debería estar cerca de tu objetivo."
+        },
+        {
+          "id": "q2",
+          "question": "¿Por qué es tan importante la primera cifra creíble?",
+          "options": [
+            "Es jurídicamente vinculante",
+            "Los empleadores siempre la aceptan",
+            "Pone fin a la negociación",
+            "Sirve de ancla para el resto de la conversación"
+          ],
+          "answer": 3,
+          "explanation": "Las ofertas y contraofertas posteriores tienden a moverse en torno a la primera cifra bien fundamentada."
+        },
+        {
+          "id": "q3",
+          "question": "Si el salario base es fijo, ¿qué puedes negociar todavía?",
+          "options": [
+            "Nada más",
+            "Solo el nombre de tu puesto",
+            "La fecha de incorporación, el bonus, más días de vacaciones o formación",
+            "La agenda del entrevistador"
+          ],
+          "answer": 2,
+          "explanation": "El paquete completo tiene varias partes, y muchas pueden ajustarse aunque el salario base no pueda."
+        }
+      ]
+    }
+  ]
+}

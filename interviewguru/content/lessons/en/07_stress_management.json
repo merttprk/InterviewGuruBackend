@@ -1,0 +1,270 @@
+{
+  "id": "stress_management",
+  "order": 7,
+  "icon": "calm",
+  "color": "#14B8A6",
+  "title": "Managing Interview Stress",
+  "summary": "Practical ways to stay calm before, during and after interviews, and to keep going through a long job search.",
+  "topics": [
+    {
+      "id": "preparation_techniques",
+      "order": 1,
+      "title": "Preparation as Stress Relief",
+      "minutes": 3,
+      "premium": false,
+      "pages": [
+        {
+          "title": "Uncertainty fuels nerves",
+          "body": "Much interview anxiety comes from not knowing what will happen. Preparation shrinks that uncertainty. When you know the company, have practised your key stories and have planned the logistics, there are fewer unknowns for your mind to worry about. Some nervousness will remain, and that's fine: a little adrenaline keeps you alert and focused.",
+          "tip": "Write down what exactly worries you; most items turn into a preparation task."
+        },
+        {
+          "title": "Prepare your core material",
+          "body": "You don't need an answer for every possible question. Prepare five or six strong stories that show your main skills, such as solving a problem, leading, handling conflict and learning from a mistake. Most behavioural questions can be answered with one of them. Knowing you have this toolkit ready makes unexpected questions feel far less threatening.",
+          "tip": "Write each story as three bullet points, not a full script."
+        },
+        {
+          "title": "Remove logistical stress",
+          "body": "Small practical problems create big stress on the day. The evening before, prepare your clothes, print or save your CV, confirm the time and time zone, and plan your route or test your video link. Pack water and a copy of your notes. When the logistics are settled, your energy can go into the conversation.",
+          "tip": "Set two alarms and add a 20-minute buffer to your travel time."
+        },
+        {
+          "title": "Plan the final hour",
+          "body": "Decide in advance how you'll spend the hour before the interview. Avoid cramming new information; instead, review your stories briefly, have a light snack and take a short walk if you can. Many people find a calming routine, such as a playlist or a breathing exercise, helps them arrive focused rather than rushed.",
+          "tip": "Do a quick mock interview the day before, not the hour before."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Why does preparation reduce interview stress?",
+          "options": ["It removes all nervousness completely", "It reduces uncertainty, leaving less to worry about", "It makes the interview shorter", "It guarantees an offer"],
+          "answer": 1,
+          "explanation": "Preparation shrinks the unknowns that feed anxiety, though some nerves remain."
+        },
+        {
+          "id": "q2",
+          "question": "How many core stories should you prepare?",
+          "options": ["One perfect story", "Five or six covering your main skills", "A separate script for every possible question", "None — improvising is better"],
+          "answer": 1,
+          "explanation": "A small set of versatile stories covers most behavioural questions."
+        },
+        {
+          "id": "q3",
+          "question": "What should you avoid in the hour before the interview?",
+          "options": ["A light snack", "A short walk", "Briefly reviewing your stories", "Cramming new information"],
+          "answer": 3,
+          "explanation": "Cramming adds stress; a calm routine helps you arrive focused."
+        }
+      ]
+    },
+    {
+      "id": "breathing_exercises",
+      "order": 2,
+      "title": "Breathing Techniques",
+      "minutes": 3,
+      "premium": false,
+      "pages": [
+        {
+          "title": "Why breathing helps",
+          "body": "When you feel nervous, breathing often becomes fast and shallow, which can make you feel even more tense. Slowing your breath down, especially making the exhale longer than the inhale, is a simple way many people use to feel calmer. The big advantage is that you can do it anywhere, including in a waiting room, without anyone noticing.",
+          "tip": "Practise these techniques on ordinary days so they feel natural when you need them."
+        },
+        {
+          "title": "Box breathing",
+          "body": "Box breathing uses four equal steps. Breathe in through your nose for a count of four, hold for four, breathe out slowly for four, then hold for four again. Repeat the cycle four to six times. The steady counting gives your mind something simple to focus on, which helps pull attention away from anxious thoughts.",
+          "tip": "Trace an imaginary square with your eyes, one side per step."
+        },
+        {
+          "title": "The 4-7-8 technique",
+          "body": "The 4-7-8 pattern emphasises a long exhale. Breathe in quietly through your nose for four counts, hold for seven, then breathe out slowly through your mouth for eight. Start with three or four rounds. If holding for seven feels uncomfortable, shorten all the counts while keeping the exhale longest. Stop and breathe normally if you feel light-headed.",
+          "tip": "Use it the night before an interview to help you wind down."
+        },
+        {
+          "title": "Breathing during the interview",
+          "body": "You can't do full exercises mid-conversation, but you can use one slow breath. Before answering a difficult question, take a calm breath while you think; it looks thoughtful, not nervous. If you notice yourself speeding up, pause at the end of a sentence and breathe out fully before continuing. Nobody will notice, but you will feel steadier.",
+          "tip": "Pair a slow breath with a sip of water to buy a few natural seconds."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "What is the pattern for box breathing?",
+          "options": ["In 4, hold 4, out 4, hold 4", "In 4, hold 7, out 8", "In 2, out 2, repeated quickly", "Hold your breath as long as possible"],
+          "answer": 0,
+          "explanation": "Box breathing uses four equal steps of four counts each."
+        },
+        {
+          "id": "q2",
+          "question": "In the 4-7-8 technique, which step is longest?",
+          "options": ["The inhale", "The hold", "The exhale", "They are all equal"],
+          "answer": 2,
+          "explanation": "The eight-count exhale is the longest step and the heart of the technique."
+        },
+        {
+          "id": "q3",
+          "question": "How can you use breathing during the interview itself?",
+          "options": ["Do a full box-breathing cycle before each answer", "Take one slow breath before answering a hard question", "Hold your breath to stop talking fast", "Breathing techniques only work before the interview"],
+          "answer": 1,
+          "explanation": "A single calm breath looks thoughtful and helps you stay steady."
+        }
+      ]
+    },
+    {
+      "id": "mindfulness",
+      "order": 3,
+      "title": "Staying Present Under Pressure",
+      "minutes": 3,
+      "premium": true,
+      "pages": [
+        {
+          "title": "Where your attention goes",
+          "body": "Under pressure, your mind tends to jump ahead ('What if they ask about my gap?') or look back ('That last answer was terrible'). Both pull attention away from the question in front of you. Staying present means bringing your focus back to the current moment — the person, the question, your next sentence — as often as you notice it drifting.",
+          "tip": "Treat each question as a fresh start, whatever happened before."
+        },
+        {
+          "title": "Grounding techniques",
+          "body": "Simple grounding exercises help you return to the present. Feel both feet flat on the floor and notice the chair supporting you. Or try the 5-4-3-2-1 exercise in the waiting room: name five things you see, four you can touch, three you hear, two you smell and one you taste. Engaging your senses interrupts spiralling thoughts.",
+          "tip": "Press your feet gently into the floor when you feel a wave of nerves."
+        },
+        {
+          "title": "Listen fully",
+          "body": "One of the best ways to stay present is to give the interviewer your full attention. Instead of planning your answer while they are still speaking, listen to the whole question and notice its key words. Then take a moment before responding. Full listening improves your answers and keeps your mind too busy to worry.",
+          "tip": "If you lose track, ask: 'Could you repeat the question, please?'"
+        },
+        {
+          "title": "Handling a stumble",
+          "body": "Everyone stumbles at some point: a blank mind, a lost word, a messy answer. Acknowledge it briefly and move on: 'Let me put that more clearly.' Don't carry the mistake into the next answer. Interviewers remember how you recover far more than the stumble itself. Calmly resetting is a strong signal of composure.",
+          "tip": "Keep a glass of water nearby; a sip gives you a natural moment to reset."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "What does 'staying present' mean in an interview?",
+          "options": ["Arriving on time", "Memorising all your answers", "Bringing your focus back to the current question and conversation", "Ignoring the interviewer's reactions"],
+          "answer": 2,
+          "explanation": "Staying present means returning attention to the moment whenever it drifts."
+        },
+        {
+          "id": "q2",
+          "question": "What is the 5-4-3-2-1 exercise?",
+          "options": ["A breathing count", "A way to rank your answers", "A grounding exercise using your five senses", "A method for timing answers"],
+          "answer": 2,
+          "explanation": "Naming things you see, touch, hear, smell and taste brings attention back to the present."
+        },
+        {
+          "id": "q3",
+          "question": "You stumble over an answer. What is the best approach?",
+          "options": ["Acknowledge it briefly, rephrase and move on", "Apologise repeatedly", "Keep thinking about it during the next answers", "Ask to end the interview"],
+          "answer": 0,
+          "explanation": "A quick, calm recovery leaves a stronger impression than the stumble."
+        }
+      ]
+    },
+    {
+      "id": "learning_from_rejection",
+      "order": 4,
+      "title": "Learning from Rejection",
+      "minutes": 3,
+      "premium": true,
+      "pages": [
+        {
+          "title": "Rejection is part of the process",
+          "body": "Almost everyone faces rejections during a job search, often many of them. A 'no' is rarely a verdict on your worth. Hiring decisions depend on many factors you can't see or control: internal candidates, budget changes, a slightly different profile. It's normal to feel disappointed. Give yourself a little time, then turn your attention to what you can learn.",
+          "tip": "Allow yourself a set amount of time to feel disappointed, then take one small next step."
+        },
+        {
+          "title": "Ask for feedback",
+          "body": "Reply to a rejection politely and ask for brief feedback: 'Thank you for letting me know. If you have a moment, I'd appreciate any feedback that could help me improve.' Not every company will answer, and that's fine. When they do, the feedback is valuable. Stay gracious either way; the same people may consider you for future roles.",
+          "tip": "Keep your feedback request short and never argue with the decision."
+        },
+        {
+          "title": "Separate facts from stories",
+          "body": "After a rejection, it's easy to tell yourself a story: 'I'm not good enough' or 'I always fail interviews.' Look for facts instead. Which questions went well? Where did you hesitate? Was the role a strong match for your experience? Writing down what actually happened helps you respond with specific improvements rather than general self-criticism.",
+          "tip": "Write three facts about the interview before drawing any conclusions."
+        },
+        {
+          "title": "Turn lessons into action",
+          "body": "Look for patterns across several interviews rather than reacting to one. If you often stall on salary questions, prepare that answer. If you rarely pass the first round, your CV or targeting may need work. Choose one concrete change, practise it, and apply it in your next interview. Each rejection then becomes a step forward rather than a setback.",
+          "tip": "Run a mock interview on the questions that tripped you up last time."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "What does a rejection usually reflect?",
+          "options": ["That you are not employable", "That you should stop applying", "That you did everything wrong", "Many factors, some outside your control"],
+          "answer": 3,
+          "explanation": "Hiring decisions depend on many factors you can't see, not just your performance."
+        },
+        {
+          "id": "q2",
+          "question": "How should you respond to a rejection email?",
+          "options": ["Ask them to reconsider", "Thank them politely and ask for brief feedback", "Don't reply at all", "Explain why their decision is wrong"],
+          "answer": 1,
+          "explanation": "A gracious reply with a feedback request keeps the door open and may give useful insight."
+        },
+        {
+          "id": "q3",
+          "question": "What is the best way to learn from rejections?",
+          "options": ["Look for patterns and choose one concrete change to practise", "Change everything after each rejection", "Focus only on your worst interview", "Assume you'll improve without changing anything"],
+          "answer": 0,
+          "explanation": "Patterns across interviews show what really needs work; one focused change is manageable."
+        }
+      ]
+    },
+    {
+      "id": "resilience",
+      "order": 5,
+      "title": "Building Resilience in a Job Search",
+      "minutes": 4,
+      "premium": true,
+      "pages": [
+        {
+          "title": "Treat it like a project",
+          "body": "A job search can take weeks or months, and uncertainty is tiring. Treating it as a structured project helps. Set regular working hours for applications and practice, and stop at the end of them. Focus on actions you control, such as applications sent, contacts made and mock interviews completed, rather than outcomes you don't control, like offers.",
+          "tip": "Set a weekly target of actions, not results."
+        },
+        {
+          "title": "Protect your routine",
+          "body": "Basic routines make a real difference to energy and mood. Keep regular sleep and meal times, get outside every day and move your body in a way you enjoy. Plan activities that have nothing to do with the job search. These aren't distractions from your goal; they keep you rested enough to perform well in interviews.",
+          "tip": "Schedule at least one enjoyable, job-free activity each week."
+        },
+        {
+          "title": "Lean on other people",
+          "body": "Searching alone makes setbacks feel heavier. Share your progress with a friend, family member or fellow job seeker, and consider joining a job-search group or community. Others can offer encouragement, practice help and job leads. If stress starts to feel overwhelming or affects daily life, talking to a counsellor or other qualified professional can help.",
+          "tip": "Find a job-search buddy and check in with each other once a week."
+        },
+        {
+          "title": "Notice your progress",
+          "body": "Progress in a job search is often invisible until an offer arrives. Make it visible. Keep a record of what you've done and learned: stronger answers, better interviews, new contacts, skills you've practised. Celebrate small wins, like reaching a second round or getting positive feedback. Looking back at how far you've come helps you keep going.",
+          "tip": "Write down one win, however small, at the end of each week."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "What kind of weekly targets support resilience?",
+          "options": ["Number of offers received", "Actions you control, like applications and practice sessions", "Salary level reached", "Number of rejections avoided"],
+          "answer": 1,
+          "explanation": "Focusing on controllable actions keeps you motivated regardless of outcomes."
+        },
+        {
+          "id": "q2",
+          "question": "Why keep job-free activities during a search?",
+          "options": ["They keep you rested and able to perform well", "They are a way to avoid applying", "Interviewers ask about hobbies", "They shorten the search"],
+          "answer": 0,
+          "explanation": "Rest and enjoyment protect the energy you need for interviews."
+        },
+        {
+          "id": "q3",
+          "question": "Stress starts to affect your daily life. What is a good step?",
+          "options": ["Keep it to yourself", "Apply to more jobs to distract yourself", "Stop the job search permanently", "Talk to a counsellor or other qualified professional"],
+          "answer": 3,
+          "explanation": "Getting support from a qualified person is a sensible, practical step."
+        }
+      ]
+    }
+  ]
+}

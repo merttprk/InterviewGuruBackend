@@ -1,0 +1,345 @@
+{
+  "id": "evaluation_followup",
+  "order": 8,
+  "icon": "followup",
+  "color": "#F97316",
+  "title": "Después de la entrevista",
+  "summary": "Haz un seguimiento profesional, aprende de cada entrevista y gestiona las ofertas con confianza.",
+  "topics": [
+    {
+      "id": "email_structure",
+      "order": 1,
+      "title": "Cómo escribir un correo de agradecimiento",
+      "minutes": 3,
+      "premium": false,
+      "pages": [
+        {
+          "title": "Por qué importa un correo de agradecimiento",
+          "body": "Un breve correo de agradecimiento es una forma sencilla y de poco esfuerzo de destacar. Demuestra cortesía, confirma tu interés y te da una oportunidad más de recordarle al entrevistador por qué encajas en el puesto. Rara vez consigue un empleo por sí solo, pero cuando dos candidatos están muy igualados, un mensaje bien pensado puede dejar la mejor impresión final.",
+          "tip": "Envíalo en un plazo de 24 horas, idealmente el mismo día."
+        },
+        {
+          "title": "Una estructura sencilla",
+          "body": "Limítalo a cuatro partes breves. Un asunto como «Gracias — Entrevista para Coordinador de Marketing». Un agradecimiento por su tiempo, usando el nombre del entrevistador. Una o dos frases que relacionen un tema que trataron con tus habilidades. Una frase final que confirme tu interés y tu disponibilidad para los siguientes pasos. Todo el correo debería caber en la pantalla de un teléfono.",
+          "tip": "Intenta no superar las 150 palabras; los entrevistadores ocupados agradecen la brevedad."
+        },
+        {
+          "title": "Hazlo personal",
+          "body": "Los correos de agradecimiento genéricos se detectan fácilmente. Menciona algo concreto de la conversación: un proyecto que describieron, un reto al que se enfrenta el equipo o una pregunta que te pareció interesante. Por ejemplo: «Me gustó mucho conocer el nuevo programa de incorporación; mi experiencia rediseñando materiales de formación podría ser útil ahí». Los detalles concretos demuestran que estabas escuchando.",
+          "tip": "Anota dos temas de la conversación justo después de la entrevista para poder usarlos."
+        },
+        {
+          "title": "Errores comunes",
+          "body": "Evita copiar el mismo mensaje a todos los miembros del panel; adapta al menos una frase para cada persona. Revisa los nombres, la ortografía y el título del puesto. No uses el correo para volver a defender extensamente una respuesta floja ni para preguntar por el salario. Mantén un tono cálido y profesional, y no envíes seguimientos repetidos si no recibes respuesta de inmediato.",
+          "tip": "Lee el correo en voz alta una vez antes de enviarlo para detectar errores."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "¿Cuándo deberías enviar un correo de agradecimiento?",
+          "options": [
+            "En un plazo de 24 horas tras la entrevista",
+            "Al cabo de una semana",
+            "Solo si recibes una oferta",
+            "Antes de la entrevista"
+          ],
+          "answer": 0,
+          "explanation": "Enviarlo en el plazo de un día hace que el entrevistador te tenga presente."
+        },
+        {
+          "id": "q2",
+          "question": "¿Qué hace que un correo de agradecimiento sea personal?",
+          "options": [
+            "Usar una plantilla larga y formal",
+            "Mencionar un punto concreto de la conversación",
+            "Volver a adjuntar tu CV",
+            "Enumerar todas tus cualificaciones"
+          ],
+          "answer": 1,
+          "explanation": "Un detalle concreto demuestra que escuchaste y relaciona la conversación con tus habilidades."
+        },
+        {
+          "id": "q3",
+          "question": "¿Cómo deberías agradecer a un panel de tres entrevistadores?",
+          "options": [
+            "Enviar un correo idéntico a los tres",
+            "Dar las gracias solo a la persona de mayor rango",
+            "No agradecer a un panel",
+            "Adaptar al menos una frase para cada persona"
+          ],
+          "answer": 3,
+          "explanation": "Personalizar cada mensaje evita un correo claramente copiado."
+        }
+      ]
+    },
+    {
+      "id": "email_examples",
+      "order": 2,
+      "title": "Plantillas de correos de seguimiento",
+      "minutes": 4,
+      "premium": false,
+      "pages": [
+        {
+          "title": "Plantilla de agradecimiento",
+          "body": "Asunto: Gracias — Entrevista para [Puesto]. «Estimado/a [Nombre]: gracias por dedicar tiempo a reunirte conmigo hoy. Disfruté especialmente hablando sobre [tema], y confirmó mi interés en el puesto. Mi experiencia en [habilidad relevante] me permitiría contribuir rápidamente. No dudes en avisarme si necesitas algo más. Saludos cordiales, [Tu nombre]».",
+          "tip": "Sustituye todos los corchetes; un [Nombre] olvidado arruina la buena impresión."
+        },
+        {
+          "title": "Preguntar por el estado de tu candidatura",
+          "body": "Si ya pasó la fecha prometida para la decisión, espera dos o tres días hábiles y luego escribe: «Estimado/a [Nombre]: espero que estés bien. Te escribo para dar seguimiento a mi entrevista para [Puesto] del [fecha]. Sigo muy interesado en el puesto y te agradecería cualquier novedad sobre los plazos. Gracias, [Tu nombre]». Sé breve, positivo y paciente.",
+          "tip": "No hagas seguimiento más de una vez por semana para no parecer insistente."
+        },
+        {
+          "title": "Responder a un rechazo",
+          "body": "Una respuesta cortés deja la puerta abierta: «Estimado/a [Nombre]: gracias por avisarme. Aunque me siento decepcionado, valoré mucho conocer [el equipo o la empresa]. Si tienes un momento, agradecería cualquier comentario. Espero que podamos seguir en contacto para futuras oportunidades. Un cordial saludo, [Tu nombre]». Muchos candidatos nunca responden, así que esto marca la diferencia.",
+          "tip": "Conecta con el entrevistador en una red profesional después de responder."
+        },
+        {
+          "title": "Retirarte de un proceso",
+          "body": "Si aceptas otra oferta o pierdes el interés, avisa a la empresa cuanto antes: «Estimado/a [Nombre]: gracias por tenerme en cuenta para [Puesto]. He decidido retirar mi candidatura, ya que he aceptado otro puesto. Agradezco tu tiempo y espero que nuestros caminos vuelvan a cruzarse. Mis mejores deseos, [Tu nombre]». Retirarte con cortesía protege tu reputación.",
+          "tip": "No necesitas dar razones detalladas; basta con una breve explicación."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Ya pasó la fecha de la decisión y no tienes noticias. ¿Cuándo deberías hacer seguimiento?",
+          "options": [
+            "Inmediatamente, esa misma mañana",
+            "Después de dos o tres días hábiles",
+            "Nunca — simplemente espera",
+            "Todos los días hasta que respondan"
+          ],
+          "answer": 1,
+          "explanation": "Un seguimiento breve y paciente unos días después es educado y eficaz."
+        },
+        {
+          "id": "q2",
+          "question": "¿Por qué responder a un correo de rechazo?",
+          "options": [
+            "Para pedirles que cambien su decisión",
+            "Para expresar tu frustración",
+            "Deja la puerta abierta y puede aportarte retroalimentación",
+            "Es obligatorio por ley"
+          ],
+          "answer": 2,
+          "explanation": "Una respuesta cortés deja una buena impresión de cara a futuras oportunidades."
+        },
+        {
+          "id": "q3",
+          "question": "¿Qué debe incluir un correo de retirada?",
+          "options": [
+            "Una comparación detallada de las dos ofertas",
+            "Nada — simplemente deja de responder",
+            "Una solicitud de un salario más alto",
+            "Un breve agradecimiento y una declaración clara de que te retiras"
+          ],
+          "answer": 3,
+          "explanation": "Una retirada breve y educada protege tu reputación."
+        }
+      ]
+    },
+    {
+      "id": "performance_analysis",
+      "order": 3,
+      "title": "Evaluar tu desempeño",
+      "minutes": 3,
+      "premium": true,
+      "pages": [
+        {
+          "title": "Haz balance mientras lo tienes fresco",
+          "body": "En la hora siguiente a la entrevista, dedica diez minutos a anotar lo que recuerdes: las preguntas que te hicieron, cómo respondiste, los nombres de los entrevistadores y todo lo que aprendiste sobre el puesto. Los detalles se olvidan rápido. Estas notas te ayudan con tu correo de agradecimiento, te preparan para la siguiente ronda y te muestran qué debes practicar.",
+          "tip": "Usa la app de notas de tu teléfono de camino a casa si no puedes sentarte de inmediato."
+        },
+        {
+          "title": "Tres preguntas sencillas",
+          "body": "Revisa la entrevista con tres preguntas. ¿Qué salió bien? ¿Qué respuestas fueron claras y recibieron una reacción positiva? ¿Qué no salió bien? ¿Dónde dudaste o te fuiste por las ramas? ¿Qué haría de otra manera? Sé concreto: «Olvidé mencionar el resultado de ventas en mi historia de liderazgo» es mucho más útil que «Lo hice mal».",
+          "tip": "Escribe al menos tantos puntos positivos como negativos."
+        },
+        {
+          "title": "Mira el proceso completo",
+          "body": "Evalúa algo más que tus respuestas. ¿Tu preparación cubrió los temas adecuados? ¿Tus preguntas para el entrevistador fueron acertadas? ¿La logística funcionó bien? Reflexiona también sobre la empresa: ¿el puesto, el equipo y la cultura encajan con lo que buscas? Una entrevista es una evaluación en ambos sentidos, y tus impresiones cuentan para tu decisión.",
+          "tip": "Puntúa tu interés en el puesto del 1 al 10 justo después de la entrevista."
+        },
+        {
+          "title": "Evita darle demasiadas vueltas",
+          "body": "Es fácil revivir un momento incómodo durante días. Recuerda que los entrevistadores suelen formarse una impresión general en lugar de centrarse en una sola respuesta, y que los candidatos a menudo se juzgan con más dureza que los propios entrevistadores. Una vez que hayas escrito tus notas y elegido tus acciones de mejora, déjalo ir. Pon tu energía en la siguiente postulación o sesión de práctica.",
+          "tip": "Convierte tu respuesta más floja en una pregunta para tu próxima entrevista de práctica."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "¿Cuál es el mejor momento para hacer balance después de una entrevista?",
+          "options": [
+            "La semana siguiente",
+            "En la hora siguiente, mientras los detalles están frescos",
+            "Solo después de conocer el resultado",
+            "Justo antes de tu próxima entrevista"
+          ],
+          "answer": 1,
+          "explanation": "Los detalles se olvidan rápido, así que toma notas poco después."
+        },
+        {
+          "id": "q2",
+          "question": "¿Qué nota de autoevaluación es más útil?",
+          "options": [
+            "Lo hice mal",
+            "Salió más o menos bien",
+            "Olvidé mencionar el resultado de ventas en mi historia de liderazgo",
+            "No les caí bien"
+          ],
+          "answer": 2,
+          "explanation": "Las notas concretas señalan mejoras concretas."
+        },
+        {
+          "id": "q3",
+          "question": "Además de tus respuestas, ¿qué más deberías evaluar?",
+          "options": [
+            "Si el puesto, el equipo y la cultura encajan con lo que buscas",
+            "La ropa del entrevistador",
+            "Cuánto duró el recorrido por la oficina",
+            "Nada más importa"
+          ],
+          "answer": 0,
+          "explanation": "Las entrevistas son bidireccionales; tu impresión de la empresa también cuenta."
+        }
+      ]
+    },
+    {
+      "id": "handling_offers",
+      "order": 4,
+      "title": "Gestionar ofertas y negociar",
+      "minutes": 4,
+      "premium": true,
+      "pages": [
+        {
+          "title": "Mira el paquete completo",
+          "body": "Una oferta es mucho más que el salario base. Ten en cuenta los bonos, las aportaciones a la jubilación o al plan de pensiones, el seguro médico y otros seguros, las vacaciones pagadas, el trabajo flexible o remoto, el presupuesto de formación y la participación accionaria si la ofrecen. Valora también el propio puesto, las oportunidades de crecimiento, el trayecto y el equipo. Pide la oferta completa por escrito para poder comparar opciones con precisión y evitar malentendidos.",
+          "tip": "Enumera cada componente en una tabla sencilla para comparar ofertas lado a lado."
+        },
+        {
+          "title": "Pide tiempo",
+          "body": "No tienes que aceptar en el momento. Agradéceles con calidez y pide tiempo: «Gracias, me alegra mucho recibir esta oferta. ¿Podría tener hasta el viernes para revisar los detalles?». Unos días o una semana es una petición habitual y razonable. Aprovecha ese tiempo para revisar el paquete, investigar la remuneración típica del puesto y preparar tus preguntas.",
+          "tip": "Muestra entusiasmo por el puesto incluso mientras pides tiempo."
+        },
+        {
+          "title": "Negocia con cortesía",
+          "body": "Negociar es habitual y, si se hace con respeto, rara vez perjudica una oferta. Basa tu petición en una investigación de los salarios de mercado y en el valor que aportas. Sé concreto y positivo: «Me entusiasma el puesto. Según mi experiencia y la remuneración habitual para puestos similares, ¿sería posible un salario de [cantidad]?». Si el salario es fijo, pregunta por otros elementos, como las vacaciones, la flexibilidad o la formación.",
+          "tip": "Indica una cifra concreta en lugar de pedir «un poco más»."
+        },
+        {
+          "title": "Acepta o rechaza con elegancia",
+          "body": "Cuando aceptes, confírmalo por escrito y verifica la fecha de inicio y las condiciones clave. Cuando rechaces, responde pronto y con cortesía: «Gracias por la oferta y por su tiempo. Después de pensarlo detenidamente, he decidido aceptar otro puesto. Disfruté mucho conociendo al equipo y espero que sigamos en contacto». Rechazar con educación preserva las relaciones para el futuro.",
+          "tip": "No renuncies a tu trabajo actual hasta tener la oferta por escrito."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "¿Qué deberías evaluar cuando recibes una oferta?",
+          "options": [
+            "Solo el salario base",
+            "Solo el título del puesto",
+            "El paquete completo, incluidos beneficios, flexibilidad y crecimiento",
+            "Solo la rapidez con la que quieren una respuesta"
+          ],
+          "answer": 2,
+          "explanation": "Los beneficios, la flexibilidad, el crecimiento y el propio puesto suman al valor de una oferta."
+        },
+        {
+          "id": "q2",
+          "question": "Un empleador te pide que decidas sobre una oferta. ¿Cuál es una respuesta razonable?",
+          "options": [
+            "Aceptar de inmediato sin leerla",
+            "Agradecerles y pedir unos días para revisar los detalles",
+            "Rechazarla para conseguir una oferta mejor",
+            "Ignorar el mensaje durante dos semanas"
+          ],
+          "answer": 1,
+          "explanation": "Pedir un plazo corto y definido es habitual y razonable."
+        },
+        {
+          "id": "q3",
+          "question": "El salario es fijo. ¿Qué puedes seguir negociando?",
+          "options": [
+            "Otros elementos, como las vacaciones, la flexibilidad o la formación",
+            "Nada en absoluto",
+            "La decisión del entrevistador",
+            "Solo el título de tu puesto"
+          ],
+          "answer": 0,
+          "explanation": "Cuando el salario no se puede mover, otras partes del paquete a menudo sí."
+        }
+      ]
+    },
+    {
+      "id": "tracking_progress",
+      "order": 5,
+      "title": "Hacer seguimiento de tu búsqueda de empleo",
+      "minutes": 3,
+      "premium": true,
+      "pages": [
+        {
+          "title": "Por qué hacer seguimiento de tu búsqueda",
+          "body": "Cuando te postulas a muchos puestos, los detalles se confunden rápido. Puedes olvidar qué versión del CV enviaste, con quién hablaste o cuándo hacer seguimiento. Un registro sencillo lo mantiene todo en un solo lugar, evita confusiones embarazosas y te muestra dónde funciona tu búsqueda y dónde está estancada. También hace visible el progreso en las semanas lentas.",
+          "tip": "Empieza a registrar desde tu primera postulación, no después de la décima."
+        },
+        {
+          "title": "Qué registrar",
+          "body": "Basta con una hoja de cálculo o una app de notas. Para cada postulación, registra la empresa, el puesto, la fecha de postulación, la versión del CV, la persona de contacto, la fase actual, la siguiente acción y su fecha. Añade una columna de notas para las preguntas de la entrevista, la información salarial y tus impresiones. Guarda también la descripción del puesto, ya que las ofertas suelen retirarse cuando se cierra el proceso.",
+          "tip": "Guarda la versión del creador de CV que usaste para cada puesto, para que tus respuestas coincidan con lo que leyeron."
+        },
+        {
+          "title": "Usa fases y siguientes pasos",
+          "body": "Asigna una fase a cada postulación: enviada, preselección, entrevista, ronda final, oferta o cerrada. Cada postulación abierta también debe tener un siguiente paso con fecha, como «Hacer seguimiento el 12 de mayo» o «Preparar el caso práctico». Revisa tu registro al comienzo de cada semana para que no se te olvide nada y cada oportunidad siga avanzando.",
+          "tip": "Asigna un color a cada fase para ver tu embudo de un vistazo."
+        },
+        {
+          "title": "Aprende de tus números",
+          "body": "Al cabo de un mes, observa los patrones. Si envías muchas postulaciones pero recibes pocas respuestas, quizá debas mejorar tu CV o el tipo de puestos a los que te postulas. Si consigues entrevistas pero rara vez llegas a la ronda final, céntrate en practicar entrevistas. Si las rondas finales no se convierten en ofertas, revisa tu cierre y tu seguimiento. Tu registro te indica dónde invertir tu esfuerzo a continuación.",
+          "tip": "Calcula cada mes el porcentaje de postulaciones que llegan a una entrevista."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "¿Por qué guardar la descripción del puesto con cada postulación?",
+          "options": [
+            "Las ofertas suelen retirarse cuando se cierra el proceso",
+            "Los empleadores te piden que la devuelvas",
+            "Sustituye a tu CV",
+            "Es necesaria para calcular el salario"
+          ],
+          "answer": 0,
+          "explanation": "La necesitarás para preparar las entrevistas, y puede desaparecer de internet."
+        },
+        {
+          "id": "q2",
+          "question": "¿Qué debe tener cada postulación abierta en tu registro?",
+          "options": [
+            "Una foto de la oficina",
+            "Un siguiente paso con fecha",
+            "El teléfono personal del entrevistador",
+            "Una decisión final ya tomada"
+          ],
+          "answer": 1,
+          "explanation": "Un siguiente paso con fecha hace que cada oportunidad siga avanzando."
+        },
+        {
+          "id": "q3",
+          "question": "Consigues muchas entrevistas pero rara vez llegas a la ronda final. ¿En qué deberías centrarte?",
+          "options": [
+            "Enviar más postulaciones",
+            "Cambiar de carrera",
+            "Practicar entrevistas",
+            "Escribir correos de agradecimiento más largos"
+          ],
+          "answer": 2,
+          "explanation": "El patrón muestra que la fase de entrevista es donde el esfuerzo dará más frutos."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,270 @@
+{
+  "id": "stress_management",
+  "order": 7,
+  "icon": "calm",
+  "color": "#14B8A6",
+  "title": "Stress im Vorstellungsgespräch meistern",
+  "summary": "Praktische Wege, um vor, während und nach Interviews ruhig zu bleiben – und auch bei einer langen Jobsuche dranzubleiben.",
+  "topics": [
+    {
+      "id": "preparation_techniques",
+      "order": 1,
+      "title": "Vorbereitung gegen Stress",
+      "minutes": 3,
+      "premium": false,
+      "pages": [
+        {
+          "title": "Ungewissheit macht nervös",
+          "body": "Viel Nervosität vor Interviews entsteht, weil du nicht weißt, was passieren wird. Vorbereitung verringert diese Ungewissheit. Wenn du das Unternehmen kennst, deine wichtigsten Geschichten geübt und die Organisation geplant hast, gibt es weniger Unbekanntes, über das sich dein Kopf Sorgen machen kann. Ein wenig Nervosität bleibt – und das ist gut so: Etwas Adrenalin hält dich wach und konzentriert.",
+          "tip": "Schreib auf, was dir genau Sorgen macht – aus den meisten Punkten wird eine Vorbereitungsaufgabe."
+        },
+        {
+          "title": "Dein Kernmaterial vorbereiten",
+          "body": "Du brauchst nicht für jede mögliche Frage eine Antwort. Bereite fünf oder sechs starke Geschichten vor, die deine wichtigsten Fähigkeiten zeigen – etwa ein Problem lösen, führen, mit Konflikten umgehen und aus einem Fehler lernen. Die meisten Verhaltensfragen lassen sich mit einer davon beantworten. Zu wissen, dass dieser Werkzeugkasten bereitsteht, nimmt unerwarteten Fragen viel von ihrem Schrecken.",
+          "tip": "Halte jede Geschichte in drei Stichpunkten fest statt in einem ausformulierten Skript."
+        },
+        {
+          "title": "Organisatorischen Stress vermeiden",
+          "body": "Kleine praktische Probleme verursachen am Tag selbst großen Stress. Leg am Vorabend deine Kleidung bereit, druck deinen Lebenslauf aus oder speichere ihn, bestätige Uhrzeit und Zeitzone und plane deine Anfahrt oder teste deinen Videolink. Pack Wasser und eine Kopie deiner Notizen ein. Wenn die Organisation steht, kann deine Energie ins Gespräch fließen.",
+          "tip": "Stell dir zwei Wecker und plane 20 Minuten Puffer für die Anfahrt ein."
+        },
+        {
+          "title": "Die letzte Stunde planen",
+          "body": "Leg vorher fest, wie du die Stunde vor dem Interview verbringst. Pauk keine neuen Informationen, sondern geh deine Geschichten kurz durch, iss eine Kleinigkeit und mach, wenn möglich, einen kurzen Spaziergang. Vielen hilft eine beruhigende Routine wie eine Playlist oder eine Atemübung, um konzentriert statt gehetzt anzukommen.",
+          "tip": "Mach am Vortag ein kurzes Probeinterview – nicht eine Stunde vorher."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Warum verringert Vorbereitung den Stress vor einem Interview?",
+          "options": ["Sie beseitigt jede Nervosität vollständig", "Sie verringert die Ungewissheit, sodass es weniger Grund zur Sorge gibt", "Sie macht das Interview kürzer", "Sie garantiert ein Angebot"],
+          "answer": 1,
+          "explanation": "Vorbereitung verringert das Unbekannte, das die Angst nährt – ein wenig Nervosität bleibt trotzdem."
+        },
+        {
+          "id": "q2",
+          "question": "Wie viele Kerngeschichten solltest du vorbereiten?",
+          "options": ["Eine perfekte Geschichte", "Fünf oder sechs, die deine wichtigsten Fähigkeiten abdecken", "Ein eigenes Skript für jede mögliche Frage", "Keine – Improvisieren ist besser"],
+          "answer": 1,
+          "explanation": "Eine kleine Auswahl vielseitiger Geschichten deckt die meisten Verhaltensfragen ab."
+        },
+        {
+          "id": "q3",
+          "question": "Was solltest du in der Stunde vor dem Interview vermeiden?",
+          "options": ["Einen kleinen Snack", "Einen kurzen Spaziergang", "Deine Geschichten kurz durchzugehen", "Neue Informationen zu pauken"],
+          "answer": 3,
+          "explanation": "Pauken erzeugt zusätzlichen Stress; eine ruhige Routine hilft dir, konzentriert anzukommen."
+        }
+      ]
+    },
+    {
+      "id": "breathing_exercises",
+      "order": 2,
+      "title": "Atemtechniken",
+      "minutes": 3,
+      "premium": false,
+      "pages": [
+        {
+          "title": "Warum Atmen hilft",
+          "body": "Wenn du nervös bist, wird dein Atem oft schnell und flach – und das kann dich noch angespannter machen. Den Atem zu verlangsamen und vor allem länger aus- als einzuatmen, ist ein einfacher Weg, mit dem sich viele Menschen beruhigen. Der große Vorteil: Du kannst es überall tun, auch im Wartebereich, ohne dass es jemand merkt.",
+          "tip": "Übe diese Techniken an ganz normalen Tagen, damit sie sich natürlich anfühlen, wenn du sie brauchst."
+        },
+        {
+          "title": "Box Breathing",
+          "body": "Box Breathing besteht aus vier gleich langen Schritten. Atme durch die Nase ein und zähl dabei bis vier, halte die Luft für vier Zähler an, atme langsam über vier Zähler aus und halte dann noch einmal für vier. Wiederhole den Zyklus vier- bis sechsmal. Das gleichmäßige Zählen gibt deinem Kopf etwas Einfaches, auf das er sich konzentrieren kann, und lenkt die Aufmerksamkeit von ängstlichen Gedanken ab.",
+          "tip": "Zeichne mit den Augen ein imaginäres Quadrat nach – eine Seite pro Schritt."
+        },
+        {
+          "title": "Die 4-7-8-Technik",
+          "body": "Bei der 4-7-8-Atmung steht ein langes Ausatmen im Mittelpunkt. Atme vier Zähler lang leise durch die Nase ein, halte sieben Zähler lang an und atme dann acht Zähler lang langsam durch den Mund aus. Beginne mit drei oder vier Runden. Wenn dir das Anhalten über sieben Zähler unangenehm ist, verkürze alle Zähler, aber lass das Ausatmen am längsten. Hör auf und atme normal, wenn dir schwindlig wird.",
+          "tip": "Nutze sie am Abend vor einem Interview, um zur Ruhe zu kommen."
+        },
+        {
+          "title": "Atmen während des Interviews",
+          "body": "Mitten im Gespräch kannst du keine vollständigen Übungen machen, aber einen langsamen Atemzug schon. Bevor du eine schwierige Frage beantwortest, atme ruhig durch, während du nachdenkst – das wirkt überlegt, nicht nervös. Wenn du merkst, dass du schneller wirst, mach am Satzende eine Pause und atme vollständig aus, bevor du weitersprichst. Niemand bemerkt es, aber du fühlst dich stabiler.",
+          "tip": "Kombiniere einen langsamen Atemzug mit einem Schluck Wasser, um ein paar natürliche Sekunden zu gewinnen."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Wie sieht das Muster beim Box Breathing aus?",
+          "options": ["Ein 4, halten 4, aus 4, halten 4", "Ein 4, halten 7, aus 8", "Ein 2, aus 2, schnell wiederholt", "Die Luft so lange wie möglich anhalten"],
+          "answer": 0,
+          "explanation": "Box Breathing besteht aus vier gleich langen Schritten mit jeweils vier Zählern."
+        },
+        {
+          "id": "q2",
+          "question": "Welcher Schritt ist bei der 4-7-8-Technik am längsten?",
+          "options": ["Das Einatmen", "Das Anhalten", "Das Ausatmen", "Alle sind gleich lang"],
+          "answer": 2,
+          "explanation": "Das Ausatmen über acht Zähler ist der längste Schritt und das Herzstück der Technik."
+        },
+        {
+          "id": "q3",
+          "question": "Wie kannst du die Atmung während des Interviews selbst nutzen?",
+          "options": ["Vor jeder Antwort einen vollständigen Box-Breathing-Zyklus machen", "Vor einer schwierigen Frage einmal langsam durchatmen", "Die Luft anhalten, um nicht zu schnell zu sprechen", "Atemtechniken funktionieren nur vor dem Interview"],
+          "answer": 1,
+          "explanation": "Ein einziger ruhiger Atemzug wirkt überlegt und hilft dir, gelassen zu bleiben."
+        }
+      ]
+    },
+    {
+      "id": "mindfulness",
+      "order": 3,
+      "title": "Unter Druck im Moment bleiben",
+      "minutes": 3,
+      "premium": true,
+      "pages": [
+        {
+          "title": "Wohin deine Aufmerksamkeit wandert",
+          "body": "Unter Druck springt dein Kopf gern nach vorn (‚Was, wenn sie nach meiner Lücke im Lebenslauf fragen?‘) oder zurück (‚Die letzte Antwort war furchtbar‘). Beides lenkt dich von der Frage ab, die gerade vor dir liegt. Im Moment zu bleiben heißt, deinen Fokus immer wieder auf das Hier und Jetzt zu lenken – die Person, die Frage, deinen nächsten Satz –, sobald du merkst, dass er abschweift.",
+          "tip": "Betrachte jede Frage als Neuanfang, egal was vorher passiert ist."
+        },
+        {
+          "title": "Erdungstechniken",
+          "body": "Einfache Erdungsübungen helfen dir, in die Gegenwart zurückzukehren. Spür, wie beide Füße flach auf dem Boden stehen und der Stuhl dich trägt. Oder probier im Wartebereich die 5-4-3-2-1-Übung: Nenne fünf Dinge, die du siehst, vier, die du berühren kannst, drei, die du hörst, zwei, die du riechst, und eins, das du schmeckst. Wenn du deine Sinne einsetzt, unterbrichst du kreisende Gedanken.",
+          "tip": "Drück deine Füße sanft in den Boden, wenn eine Welle der Nervosität kommt."
+        },
+        {
+          "title": "Ganz zuhören",
+          "body": "Einer der besten Wege, im Moment zu bleiben, ist, dem Interviewer deine volle Aufmerksamkeit zu schenken. Statt deine Antwort zu planen, während er noch spricht, hör dir die ganze Frage an und achte auf die Schlüsselwörter. Nimm dir dann einen Moment, bevor du antwortest. Aufmerksames Zuhören verbessert deine Antworten und hält deinen Kopf zu beschäftigt, um sich Sorgen zu machen.",
+          "tip": "Wenn du den Faden verlierst, frag: ‚Könnten Sie die Frage bitte wiederholen?‘"
+        },
+        {
+          "title": "Mit einem Stolperer umgehen",
+          "body": "Jeder gerät irgendwann ins Stolpern: ein Blackout, ein fehlendes Wort, eine wirre Antwort. Sprich es kurz an und mach weiter: ‚Lassen Sie mich das klarer formulieren.‘ Nimm den Fehler nicht mit in die nächste Antwort. Interviewer erinnern sich viel stärker daran, wie du dich fängst, als an den Stolperer selbst. Ruhig neu anzusetzen, ist ein starkes Zeichen von Souveränität.",
+          "tip": "Stell dir ein Glas Wasser bereit – ein Schluck verschafft dir einen natürlichen Moment zum Neustart."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Was bedeutet es, im Interview ‚im Moment zu bleiben‘?",
+          "options": ["Pünktlich anzukommen", "Alle Antworten auswendig zu lernen", "Den Fokus immer wieder auf die aktuelle Frage und das Gespräch zu lenken", "Die Reaktionen des Interviewers zu ignorieren"],
+          "answer": 2,
+          "explanation": "Im Moment zu bleiben heißt, die Aufmerksamkeit zurückzuholen, sobald sie abschweift."
+        },
+        {
+          "id": "q2",
+          "question": "Was ist die 5-4-3-2-1-Übung?",
+          "options": ["Eine Zählweise beim Atmen", "Eine Methode, um deine Antworten zu bewerten", "Eine Erdungsübung mit deinen fünf Sinnen", "Eine Methode, um Antworten zu timen"],
+          "answer": 2,
+          "explanation": "Dinge zu benennen, die du siehst, berührst, hörst, riechst und schmeckst, holt deine Aufmerksamkeit in die Gegenwart zurück."
+        },
+        {
+          "id": "q3",
+          "question": "Du gerätst bei einer Antwort ins Stolpern. Was ist der beste Umgang damit?",
+          "options": ["Es kurz ansprechen, neu formulieren und weitermachen", "Dich immer wieder entschuldigen", "Bei den nächsten Antworten weiter darüber nachdenken", "Darum bitten, das Interview zu beenden"],
+          "answer": 0,
+          "explanation": "Wer sich schnell und ruhig fängt, hinterlässt einen stärkeren Eindruck als der Stolperer selbst."
+        }
+      ]
+    },
+    {
+      "id": "learning_from_rejection",
+      "order": 4,
+      "title": "Aus Absagen lernen",
+      "minutes": 3,
+      "premium": true,
+      "pages": [
+        {
+          "title": "Absagen gehören dazu",
+          "body": "Fast jeder bekommt bei der Jobsuche Absagen, oft sogar viele. Ein ‚Nein‘ ist selten ein Urteil über deinen Wert. Einstellungsentscheidungen hängen von vielen Faktoren ab, die du weder siehst noch beeinflussen kannst: interne Bewerber, Budgetänderungen, ein etwas anderes Profil. Enttäuscht zu sein, ist normal. Gib dir ein wenig Zeit und richte dann deinen Blick darauf, was du daraus lernen kannst.",
+          "tip": "Gönn dir eine festgelegte Zeit für die Enttäuschung und mach dann einen kleinen nächsten Schritt."
+        },
+        {
+          "title": "Um Feedback bitten",
+          "body": "Antworte höflich auf eine Absage und bitte um kurzes Feedback: ‚Vielen Dank für Ihre Rückmeldung. Wenn Sie einen Moment Zeit haben, würde ich mich über Feedback freuen, das mir hilft, mich zu verbessern.‘ Nicht jedes Unternehmen antwortet, und das ist in Ordnung. Wenn doch, ist das Feedback wertvoll. Bleib in jedem Fall freundlich – dieselben Menschen könnten dich für künftige Stellen in Betracht ziehen.",
+          "tip": "Halte deine Feedbackanfrage kurz und diskutiere nie über die Entscheidung."
+        },
+        {
+          "title": "Fakten von Geschichten trennen",
+          "body": "Nach einer Absage erzählt man sich schnell eine Geschichte: ‚Ich bin nicht gut genug‘ oder ‚Ich vermassle Interviews immer.‘ Such stattdessen nach Fakten. Welche Fragen liefen gut? Wo hast du gezögert? Passte die Stelle wirklich gut zu deiner Erfahrung? Wenn du aufschreibst, was tatsächlich passiert ist, kannst du mit gezielten Verbesserungen reagieren statt mit pauschaler Selbstkritik.",
+          "tip": "Schreib drei Fakten über das Interview auf, bevor du Schlüsse ziehst."
+        },
+        {
+          "title": "Lehren in Taten umsetzen",
+          "body": "Achte auf Muster über mehrere Interviews hinweg, statt auf ein einzelnes zu reagieren. Kommst du bei Gehaltsfragen oft ins Stocken, bereite diese Antwort vor. Schaffst du selten die erste Runde, braucht vielleicht dein Lebenslauf oder deine Stellenauswahl Arbeit. Wähle eine konkrete Änderung, übe sie und wende sie im nächsten Interview an. So wird jede Absage zu einem Schritt nach vorn statt zu einem Rückschlag.",
+          "tip": "Mach ein Probeinterview mit den Fragen, die dich beim letzten Mal ins Straucheln gebracht haben."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Was spiegelt eine Absage in der Regel wider?",
+          "options": ["Dass du nicht vermittelbar bist", "Dass du aufhören solltest, dich zu bewerben", "Dass du alles falsch gemacht hast", "Viele Faktoren, von denen manche außerhalb deiner Kontrolle liegen"],
+          "answer": 3,
+          "explanation": "Einstellungsentscheidungen hängen von vielen Faktoren ab, die du nicht siehst – nicht nur von deiner Leistung."
+        },
+        {
+          "id": "q2",
+          "question": "Wie solltest du auf eine Absage per E-Mail reagieren?",
+          "options": ["Sie bitten, die Entscheidung zu überdenken", "Dich höflich bedanken und um kurzes Feedback bitten", "Gar nicht antworten", "Erklären, warum ihre Entscheidung falsch ist"],
+          "answer": 1,
+          "explanation": "Eine freundliche Antwort mit Bitte um Feedback hält die Tür offen und kann nützliche Einblicke bringen."
+        },
+        {
+          "id": "q3",
+          "question": "Wie lernst du am besten aus Absagen?",
+          "options": ["Muster erkennen und eine konkrete Änderung zum Üben auswählen", "Nach jeder Absage alles ändern", "Dich nur auf dein schlechtestes Interview konzentrieren", "Davon ausgehen, dass du dich auch ohne Änderungen verbesserst"],
+          "answer": 0,
+          "explanation": "Muster über mehrere Interviews zeigen, woran du wirklich arbeiten musst; eine gezielte Änderung ist gut zu bewältigen."
+        }
+      ]
+    },
+    {
+      "id": "resilience",
+      "order": 5,
+      "title": "Resilienz bei der Jobsuche aufbauen",
+      "minutes": 4,
+      "premium": true,
+      "pages": [
+        {
+          "title": "Behandle sie wie ein Projekt",
+          "body": "Eine Jobsuche kann Wochen oder Monate dauern, und die Ungewissheit zehrt an den Kräften. Es hilft, sie wie ein strukturiertes Projekt anzugehen. Leg feste Arbeitszeiten für Bewerbungen und Übung fest und hör danach auch wirklich auf. Konzentriere dich auf Dinge, die du selbst in der Hand hast – verschickte Bewerbungen, geknüpfte Kontakte, absolvierte Probeinterviews – statt auf Ergebnisse, die du nicht steuern kannst, wie Angebote.",
+          "tip": "Setz dir wöchentliche Ziele für Aktionen, nicht für Ergebnisse."
+        },
+        {
+          "title": "Schütze deine Routine",
+          "body": "Grundlegende Routinen machen einen echten Unterschied für Energie und Stimmung. Achte auf regelmäßige Schlafens- und Essenszeiten, geh jeden Tag nach draußen und beweg dich auf eine Art, die dir Spaß macht. Plane Aktivitäten, die nichts mit der Jobsuche zu tun haben. Das ist keine Ablenkung von deinem Ziel – es sorgt dafür, dass du ausgeruht genug bist, um in Interviews zu überzeugen.",
+          "tip": "Plane jede Woche mindestens eine schöne Aktivität ohne Jobbezug ein."
+        },
+        {
+          "title": "Stütz dich auf andere",
+          "body": "Allein zu suchen, lässt Rückschläge schwerer wiegen. Teile deine Fortschritte mit Freunden, Familie oder anderen Jobsuchenden und überleg, dich einer Jobsuche-Gruppe oder Community anzuschließen. Andere können dich ermutigen, mit dir üben und dir Stellentipps geben. Wenn der Stress überwältigend wird oder deinen Alltag beeinträchtigt, kann ein Gespräch mit einer Beratungsstelle oder einer anderen qualifizierten Fachperson helfen.",
+          "tip": "Such dir einen Jobsuche-Buddy und tauscht euch einmal pro Woche aus."
+        },
+        {
+          "title": "Nimm deine Fortschritte wahr",
+          "body": "Fortschritte bei der Jobsuche bleiben oft unsichtbar, bis ein Angebot kommt. Mach sie sichtbar. Halte fest, was du getan und gelernt hast: stärkere Antworten, bessere Interviews, neue Kontakte, geübte Fähigkeiten. Feiere kleine Erfolge, etwa das Erreichen einer zweiten Runde oder positives Feedback. Zurückzublicken, wie weit du schon gekommen bist, hilft dir dranzubleiben.",
+          "tip": "Notiere am Ende jeder Woche einen Erfolg, egal wie klein."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Welche Art von Wochenzielen stärkt deine Resilienz?",
+          "options": ["Die Zahl der erhaltenen Angebote", "Aktionen, die du selbst steuerst, wie Bewerbungen und Übungssitzungen", "Das erreichte Gehaltsniveau", "Die Zahl der vermiedenen Absagen"],
+          "answer": 1,
+          "explanation": "Wer sich auf steuerbare Aktionen konzentriert, bleibt unabhängig vom Ergebnis motiviert."
+        },
+        {
+          "id": "q2",
+          "question": "Warum solltest du während der Jobsuche Aktivitäten ohne Jobbezug beibehalten?",
+          "options": ["Sie halten dich ausgeruht und leistungsfähig", "Sie sind ein Weg, Bewerbungen aus dem Weg zu gehen", "Interviewer fragen nach Hobbys", "Sie verkürzen die Suche"],
+          "answer": 0,
+          "explanation": "Erholung und Freude schützen die Energie, die du für Interviews brauchst."
+        },
+        {
+          "id": "q3",
+          "question": "Der Stress beginnt, deinen Alltag zu beeinträchtigen. Was ist ein guter Schritt?",
+          "options": ["Es für dich behalten", "Dich auf noch mehr Stellen bewerben, um dich abzulenken", "Die Jobsuche endgültig aufgeben", "Mit einer Beratungsstelle oder einer anderen qualifizierten Fachperson sprechen"],
+          "answer": 3,
+          "explanation": "Sich Unterstützung von einer qualifizierten Person zu holen, ist ein vernünftiger, praktischer Schritt."
+        }
+      ]
+    }
+  ]
+}

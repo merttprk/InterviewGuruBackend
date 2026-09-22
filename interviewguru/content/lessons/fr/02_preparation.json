@@ -1,0 +1,412 @@
+{
+  "id": "preparation",
+  "order": 2,
+  "icon": "preparation",
+  "color": "#0EA5E9",
+  "title": "Préparation",
+  "summary": "Aborde chaque entretien bien préparé : connais l'entreprise, le poste, ton CV, tes questions et ton programme pour le jour J.",
+  "topics": [
+    {
+      "id": "company_research",
+      "order": 1,
+      "title": "Se renseigner sur l'entreprise",
+      "minutes": 3,
+      "premium": false,
+      "pages": [
+        {
+          "title": "Pourquoi se renseigner est essentiel",
+          "body": "Les recruteurs voient en quelques minutes si tu t'es renseigné sur eux. Tes recherches te permettent de relier ton expérience à leurs vrais problèmes, de répondre à « Pourquoi nous ? » avec des éléments précis et de poser des questions plus pertinentes. Elles t'aident aussi à savoir si tu veux vraiment ce poste. Prévois environ 45–60 minutes de recherche ciblée pour un premier entretien, et davantage pour les derniers tours.",
+          "tip": "Rassemble toutes tes trouvailles sur une seule page pour pouvoir les relire en cinq minutes avant l'entretien."
+        },
+        {
+          "title": "Où chercher",
+          "body": "Commence par le site de l'entreprise : la page de présentation, les produits, les actualités récentes et la rubrique carrières. Lis ensuite les derniers communiqués de presse ou les points clés du rapport annuel, consulte la page LinkedIn de l'entreprise pour voir sa croissance et ses recrutements récents, et parcours les avis d'employés en cherchant des tendances plutôt que des plaintes isolées. Si l'entreprise vend un produit que tu peux essayer, teste-le toi-même.",
+          "tip": "Recherche le nom de l'entreprise suivi de « actualités » et concentre-toi sur les six derniers mois."
+        },
+        {
+          "title": "Ce qu'il faut noter",
+          "body": "Rassemble cinq informations vraiment exploitables : ce que vend l'entreprise et à qui, ses principaux concurrents, un fait récent comme un lancement ou une expansion, ses valeurs ou sa mission affichées, et un défi auquel elle semble confrontée. Pour chaque information, écris une phrase sur le lien avec tes compétences. Une information sans lien avec toi n'est qu'une anecdote.",
+          "tip": "Si tu ne peux relier une information ni à ton expérience ni à une question, retire-la de tes notes."
+        },
+        {
+          "title": "Renseigne-toi sur tes recruteurs",
+          "body": "Si tu sais qui va te recevoir, consulte leurs profils LinkedIn. Note leur fonction, leur ancienneté et tout parcours professionnel commun. Sers-t'en pour anticiper ce qui compte pour eux : un manager veut des résultats concrets, un pair veut de la collaboration, un directeur veut de l'impact. Ne mentionne pas les informations personnelles que tu pourrais trouver ; reste strictement professionnel.",
+          "tip": "Demande au recruteur les noms et fonctions des personnes qui te recevront s'il ne te les a pas communiqués."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Pourquoi noter le lien entre chaque information recueillie et toi ?",
+          "options": [
+            "Les recruteurs évaluent ta mémoire",
+            "Cela donne l'impression que tes notes sont complètes",
+            "Une information sans lien avec tes compétences n'est qu'une anecdote",
+            "Les recruteurs demandent à voir tes notes"
+          ],
+          "answer": 2,
+          "explanation": "Tes recherches ne sont utiles que si tu peux les relier à ton expérience ou à tes questions."
+        },
+        {
+          "id": "q2",
+          "question": "Quelle est la meilleure façon d'utiliser les avis d'employés ?",
+          "options": [
+            "Citer l'avis le plus sévère pendant l'entretien",
+            "Chercher des tendances plutôt que des plaintes isolées",
+            "Les ignorer complètement",
+            "Ne lire que les avis cinq étoiles"
+          ],
+          "answer": 1,
+          "explanation": "Un avis isolé est une anecdote ; les thèmes récurrents révèlent quelque chose de réel sur l'entreprise."
+        },
+        {
+          "id": "q3",
+          "question": "Qu'est-ce que tu dois éviter en te renseignant sur tes recruteurs ?",
+          "options": [
+            "Mentionner des informations personnelles trouvées en ligne",
+            "Vérifier leur fonction actuelle",
+            "Noter depuis combien de temps ils travaillent dans l'entreprise",
+            "Demander leurs noms au recruteur"
+          ],
+          "answer": 0,
+          "explanation": "Utilise ce que tu trouves pour anticiper leurs priorités, mais garde une conversation professionnelle."
+        }
+      ]
+    },
+    {
+      "id": "role_analysis",
+      "order": 2,
+      "title": "Décrypter l'offre d'emploi",
+      "minutes": 3,
+      "premium": false,
+      "pages": [
+        {
+          "title": "Lis-la comme une check-list",
+          "body": "Une offre d'emploi est la liste des problèmes que l'employeur veut résoudre. Copie-la dans un document et surligne chaque compétence, outil, responsabilité et résultat attendu. Classe-les ensuite en deux groupes : les indispensables, souvent cités en premier ou répétés, et les atouts, souvent signalés par « souhaité » ou « serait un plus ». Cette carte te montre sur quoi l'entretien va se concentrer.",
+          "tip": "Enregistre l'offre d'emploi au moment de postuler ; les annonces sont souvent retirées avant l'entretien."
+        },
+        {
+          "title": "Repère les priorités cachées",
+          "body": "Fais attention aux répétitions et à l'ordre. Une compétence citée trois fois compte plus qu'une compétence citée une seule fois. Les verbes révèlent le niveau : « soutenir » et « assister » suggèrent un poste junior, tandis que « piloter », « diriger » et « définir » suggèrent un poste senior. Des expressions comme « environnement dynamique » ou « contexte incertain » signalent qu'on testera ta gestion du changement et de la pression.",
+          "tip": "Compte combien de fois apparaît chaque compétence ; les deux ou trois premières sont les thèmes centraux de ton entretien."
+        },
+        {
+          "title": "Associe une preuve à chaque exigence",
+          "body": "Crée un tableau simple à deux colonnes. À gauche, liste chaque exigence indispensable. À droite, écris un exemple concret tiré de ton expérience qui la prouve, avec un résultat ou un chiffre si possible. Si tu n'as pas d'exemple direct, trouves-en un qui s'en rapproche et qui montre que tu apprends vite. Ces exemples deviennent la colonne vertébrale de tes réponses en entretien.",
+          "tip": "Vise au moins une histoire par exigence indispensable ; une histoire solide peut en couvrir deux."
+        },
+        {
+          "title": "Assume tes lacunes avec honnêteté",
+          "body": "Tu corresponds rarement à chaque ligne d'une offre d'emploi, et les employeurs le savent. Pour chaque lacune, prépare une réponse courte et honnête : reconnais-la, mets en avant ton expérience la plus proche et explique comment tu la combles, par exemple grâce à une formation ou à un projet personnel. Ne prétends jamais avoir une compétence que tu ne peux pas démontrer ; une seule question de relance suffira à le révéler.",
+          "tip": "Entraîne-toi à voix haute à répondre sur tes lacunes lors d'un entretien d'entraînement pour paraître calme, et non sur la défensive."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Quel verbe d'une offre d'emploi suggère le plus un poste senior ?",
+          "options": [
+            "Assister",
+            "Soutenir",
+            "Piloter",
+            "Aider"
+          ],
+          "answer": 2,
+          "explanation": "Des verbes comme « piloter », « diriger » et « définir » indiquent des responsabilités et de l'expérience."
+        },
+        {
+          "id": "q2",
+          "question": "Que mets-tu dans la colonne de droite de ton tableau de preuves ?",
+          "options": [
+            "Un exemple concret qui prouve l'exigence",
+            "Le salaire que tu attends",
+            "Le nom du recruteur",
+            "La liste de tes loisirs"
+          ],
+          "answer": 0,
+          "explanation": "Chaque exigence indispensable reçoit un exemple précis, idéalement avec un résultat ou un chiffre."
+        },
+        {
+          "id": "q3",
+          "question": "Quelle est la meilleure façon de gérer une exigence que tu ne remplis pas ?",
+          "options": [
+            "Affirmer que tu l'as et l'apprendre plus tard",
+            "Éviter complètement le sujet",
+            "Retirer ta candidature",
+            "La reconnaître, montrer ton expérience la plus proche et comment tu combles cette lacune"
+          ],
+          "answer": 3,
+          "explanation": "L'honnêteté associée à un plan pour combler la lacune est crédible ; le bluff est démasqué par les questions de relance."
+        }
+      ]
+    },
+    {
+      "id": "cv_preparation",
+      "order": 3,
+      "title": "Adapter ton CV",
+      "minutes": 4,
+      "premium": true,
+      "pages": [
+        {
+          "title": "Un seul CV ne convient pas à toutes les offres",
+          "body": "Envoyer le même CV pour chaque offre réduit tes chances. Les recruteurs consacrent souvent moins d'une minute à une première lecture, et beaucoup d'entreprises utilisent des logiciels de suivi des candidatures (ATS) qui filtrent par mots-clés. Adapter ton CV, c'est ajuster ton résumé, l'ordre de tes puces et ta rubrique compétences pour que les éléments les plus pertinents apparaissent en premier pour chaque poste.",
+          "tip": "Garde un CV maître qui contient tout, puis coupe et réorganise une copie pour chaque candidature."
+        },
+        {
+          "title": "Reprends le vocabulaire de l'offre",
+          "body": "Utilise les termes exacts de l'offre d'emploi lorsqu'ils décrivent fidèlement ton expérience. Si l'annonce parle de « gestion des parties prenantes », n'écris pas seulement « travaillé avec d'autres équipes ». Indique à la fois le nom complet et l'abréviation des outils et des certifications. Garde une mise en forme simple, avec des titres standard et sans texte intégré dans des images, pour que les logiciels de suivi puissent tout lire.",
+          "tip": "Colle ton CV dans un fichier texte brut ; tout ce qui disparaît ou se mélange risque d'être illisible pour un logiciel."
+        },
+        {
+          "title": "Rédige des puces orientées résultats",
+          "body": "Remplace les missions par des résultats. Une puce efficace commence par un verbe d'action, décrit ce que tu as fait et montre le résultat : « Réduction de 30 % du temps de traitement des factures grâce à l'automatisation de la saisie des données. » Si tu n'as pas de chiffres exacts, utilise l'échelle, la fréquence ou le périmètre, comme la taille de l'équipe, le nombre de clients ou le budget géré. Place ta puce la plus pertinente en premier pour chaque poste.",
+          "tip": "Passe ton brouillon à l'analyse de CV de l'app pour repérer les puces faibles qui décrivent de simples missions."
+        },
+        {
+          "title": "Apporte-le à l'entretien",
+          "body": "Les recruteurs peuvent t'interroger sur n'importe quel élément de ton CV : relis donc la version exacte que tu as envoyée avant l'entretien. Sois prêt à développer chaque puce avec le contexte, tes actions précises et le résultat. Apporte quelques exemplaires imprimés aux entretiens en personne et garde une version numérique ouverte pendant les appels vidéo. Vérifie que les dates et les intitulés de poste correspondent à ton profil LinkedIn.",
+          "tip": "Enregistre chaque CV adapté avec le nom de l'entreprise dans le nom du fichier pour toujours savoir lequel ils ont reçu."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Pourquoi reprendre les mots-clés de l'offre d'emploi ?",
+          "options": [
+            "Les logiciels de suivi et les recruteurs les recherchent",
+            "Cela allonge le CV",
+            "Cela permet de supprimer la rubrique compétences",
+            "Les recruteurs préfèrent les paragraphes copiés"
+          ],
+          "answer": 0,
+          "explanation": "Des termes identiques aident à la fois les filtres logiciels et les lectures rapides des recruteurs à repérer ton expérience pertinente."
+        },
+        {
+          "id": "q2",
+          "question": "Quelle est la puce de CV la plus percutante ?",
+          "options": [
+            "Responsable des factures",
+            "Travaillé sur des tâches de traitement des factures",
+            "Aide quotidienne à l'équipe financière",
+            "Réduction de 30 % du temps de traitement des factures grâce à l'automatisation de la saisie des données"
+          ],
+          "answer": 3,
+          "explanation": "Elle commence par une action, dit ce que tu as fait et montre un résultat mesurable."
+        },
+        {
+          "id": "q3",
+          "question": "Quel choix de mise en forme peut empêcher les logiciels de suivi de lire ton CV ?",
+          "options": [
+            "Des titres standard",
+            "Du texte placé dans des images",
+            "Des puces simples",
+            "Une police claire et courante"
+          ],
+          "answer": 1,
+          "explanation": "Les logiciels ne savent souvent pas lire le texte intégré dans des images, ce contenu risque donc d'être perdu."
+        }
+      ]
+    },
+    {
+      "id": "questions_to_ask",
+      "order": 4,
+      "title": "Questions à poser au recruteur",
+      "minutes": 3,
+      "premium": true,
+      "pages": [
+        {
+          "title": "Pourquoi tes questions comptent",
+          "body": "Presque tous les entretiens se terminent par « Avez-vous des questions ? ». Répondre « Non, je pense que vous avez tout couvert » traduit un faible intérêt. De bonnes questions montrent que tu as sérieusement réfléchi au poste, t'aident à savoir si tu veux ce travail et laissent une dernière impression forte. Prépares-en cinq ou six, car certaines trouveront leur réponse pendant la conversation.",
+          "tip": "Écris tes questions dans ton carnet et coche-les au fur et à mesure qu'elles obtiennent une réponse."
+        },
+        {
+          "title": "Questions sur le poste",
+          "body": "Demande à quoi ressemble la réussite : « Qu'attendriez-vous de moi au cours des 90 premiers jours ? » ou « À quoi ressemble une semaine type ? ». Interroge sur les défis : « Quel est le principal obstacle que rencontrera la personne à ce poste ? ». Ces questions te donnent de vraies informations et montrent que tu réfléchis déjà à la manière de bien faire le travail.",
+          "tip": "Rebondis sur leur réponse avec un bref commentaire sur la façon dont tu t'y prendrais."
+        },
+        {
+          "title": "Questions sur l'équipe et l'évolution",
+          "body": "Demande comment fonctionne l'équipe : « Comment l'équipe se répartit-elle le travail et prend-elle ses décisions ? ». Interroge sur le développement : « Comment évoluent généralement les personnes à ce poste ? ». Adapte tes questions à ton interlocuteur : interroge ton futur manager sur son style de management, un pair sur la collaboration au quotidien et un dirigeant sur l'orientation de l'entreprise pour les deux prochaines années.",
+          "tip": "Garde une question prête par type d'interlocuteur pour ne jamais te répéter d'un tour à l'autre."
+        },
+        {
+          "title": "Questions à éviter",
+          "body": "Lors des premiers tours, évite de commencer par le salaire, les congés ou les avantages du télétravail ; garde-les pour quand l'intérêt est réciproque, sauf si le recruteur aborde le sujet. Ne pose pas de question dont la réponse se trouve facilement sur le site de l'entreprise. Évite les questions fermées qui mettent fin à la conversation. Une bonne question de clôture : « Y a-t-il quelque chose dans mon parcours qui vous fait hésiter ? »",
+          "tip": "Écoute attentivement la réponse à ta question de clôture et réponds calmement à toute réserve sur-le-champ."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Pourquoi préparer cinq ou six questions plutôt que deux seulement ?",
+          "options": [
+            "Les recruteurs en attendent exactement six",
+            "Cela prolonge l'entretien",
+            "Cela évite de parler du poste",
+            "Certaines auront déjà trouvé leur réponse pendant l'entretien"
+          ],
+          "answer": 3,
+          "explanation": "Avoir des questions en réserve garantit qu'il t'en restera de bonnes à la fin."
+        },
+        {
+          "id": "q2",
+          "question": "Quelle question convient le mieux quand tu parles à ton futur manager ?",
+          "options": [
+            "Comment décririez-vous votre style de management ?",
+            "Que vend l'entreprise ?",
+            "Combien de jours de congé aurai-je ?",
+            "Y a-t-il un parking gratuit ?"
+          ],
+          "answer": 0,
+          "explanation": "Adapte tes questions à ton interlocuteur ; un manager est le mieux placé pour décrire sa façon de diriger."
+        },
+        {
+          "id": "q3",
+          "question": "Quel est l'objectif de la question « Y a-t-il quelque chose dans mon parcours qui vous fait hésiter ? » ?",
+          "options": [
+            "Pousser le recruteur à faire une offre",
+            "Écourter l'entretien",
+            "Faire émerger les réserves et y répondre tant que tu es encore dans la pièce",
+            "Aborder le salaire de façon indirecte"
+          ],
+          "answer": 2,
+          "explanation": "Elle te donne l'occasion de répondre aux doutes avant que la décision soit prise."
+        }
+      ]
+    },
+    {
+      "id": "dress_code",
+      "order": 5,
+      "title": "Comment s'habiller",
+      "minutes": 3,
+      "premium": true,
+      "pages": [
+        {
+          "title": "Aligne-toi sur l'entreprise, puis monte d'un cran",
+          "body": "La règle la plus sûre consiste à s'habiller un cran plus formellement que les employés au quotidien. Si l'équipe porte jean et t-shirt, opte pour une tenue casual chic. S'ils sont en business casual, envisage une veste ou une tenue plus habillée. Consulte la page carrières de l'entreprise et les photos sur ses réseaux sociaux, ou demande simplement au recruteur comment les gens s'habillent d'habitude.",
+          "tip": "Interroger le recruteur sur le code vestimentaire est normal et témoigne de ton discernement."
+        },
+        {
+          "title": "Coupe, confort et soin",
+          "body": "Ce qui compte le plus, ce n'est pas le prix, mais que tes vêtements soient propres, repassés et bien ajustés. Choisis une tenue que tu as déjà portée pour savoir qu'elle reste confortable une heure en position assise. Évite tout ce que tu dois sans cesse réajuster. Reste discret sur les accessoires et le parfum, et veille à ce que tes chaussures soient propres. Une tenue culturelle ou religieuse est toujours appropriée ; le soin est la norme.",
+          "tip": "Assieds-toi dans ta tenue devant un miroir pour voir ce qu'elle donne du point de vue du recruteur."
+        },
+        {
+          "title": "Entretiens vidéo",
+          "body": "Habille-toi entièrement, pas seulement le haut, au cas où tu devrais te lever. Les couleurs unies et de ton moyen rendent généralement le mieux à l'écran ; les rayures très fines et les petits motifs chargés peuvent scintiller. Teste ta tenue à la caméra devant ton arrière-plan pour ne pas te fondre dedans. Un bon éclairage du visage et un arrière-plan rangé font aussi partie de ta présentation.",
+          "tip": "Fais un test caméra de deux minutes à la même heure que l'entretien pour vérifier la lumière."
+        },
+        {
+          "title": "Prépare-la la veille",
+          "body": "Choisis et essaie ta tenue complète la veille, chaussures comprises. Vérifie qu'il n'y a ni taches, ni boutons manquants, ni plis, et corrige-les tant qu'il est encore temps. Si tu te déplaces, emporte un petit kit : une chemise ou un haut de rechange, des lingettes détachantes et un peigne. Décider à l'avance t'enlève une source de stress le jour même.",
+          "tip": "Dispose toutes tes affaires au même endroit la veille au soir pour te préparer sans avoir à prendre de décision."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Quelle est la règle vestimentaire générale la plus sûre ?",
+          "options": [
+            "Toujours porter ta tenue la plus habillée",
+            "S'habiller un cran plus formellement que les employés au quotidien",
+            "Porter ce que tu portes à la maison",
+            "Copier la photo de profil du recruteur"
+          ],
+          "answer": 1,
+          "explanation": "Un cran au-dessus de la norme quotidienne témoigne de respect sans paraître décalé."
+        },
+        {
+          "id": "q2",
+          "question": "Quel choix vestimentaire rend généralement le mieux à l'écran ?",
+          "options": [
+            "Des rayures très fines",
+            "De petits motifs chargés",
+            "Des couleurs unies de ton moyen",
+            "Une couleur assortie à ton arrière-plan"
+          ],
+          "answer": 2,
+          "explanation": "Les tons moyens unis rendent bien à l'écran ; les motifs fins peuvent scintiller et une couleur identique à l'arrière-plan te fait disparaître dans le décor."
+        },
+        {
+          "id": "q3",
+          "question": "Pourquoi choisir une tenue que tu as déjà portée ?",
+          "options": [
+            "C'est moins cher",
+            "Les vêtements neufs sont interdits",
+            "Les recruteurs remarquent les vêtements neufs",
+            "Tu sais qu'elle reste confortable une heure en position assise"
+          ],
+          "answer": 3,
+          "explanation": "Une tenue éprouvée, c'est aucune surprise et rien à réajuster pendant l'entretien."
+        }
+      ]
+    },
+    {
+      "id": "interview_day_logistics",
+      "order": 6,
+      "title": "La veille et le jour J",
+      "minutes": 3,
+      "premium": true,
+      "pages": [
+        {
+          "title": "Confirme les détails",
+          "body": "La veille, relis l'invitation : date, fuseau horaire, adresse ou lien vidéo, noms des recruteurs et format. Prépare ton itinéraire et vérifie le temps de trajet à la même heure de la journée, en ajoutant une marge d'au moins 30 minutes. Pour les appels vidéo, teste le lien, la caméra, le micro et la connexion, et garde un numéro de téléphone à appeler si la connexion lâche.",
+          "tip": "Vérifie deux fois le fuseau horaire indiqué dans l'invitation, surtout pour les postes à distance."
+        },
+        {
+          "title": "Prépare ton sac et révise",
+          "body": "Prépare un sac la veille au soir : des exemplaires imprimés de ton CV, une pièce d'identité si le bâtiment l'exige, un carnet et un stylo, de l'eau et un chargeur de téléphone. Fais ensuite une courte révision, pas un bachotage : tes histoires clés, tes réponses à « Parlez-moi de vous » et « Pourquoi notre entreprise ? », et tes questions pour eux. Arrête-toi assez tôt pour bien dormir.",
+          "tip": "Un court entretien d'entraînement la veille au soir suffit ; s'entraîner intensément à la dernière minute ne fait qu'ajouter du stress."
+        },
+        {
+          "title": "Arrive au bon moment",
+          "body": "Pour un entretien en personne, sois dans le quartier 15–20 minutes en avance, mais présente-toi à l'accueil environ 10 minutes avant le début. Arriver beaucoup plus tôt peut mettre la pression à la personne qui t'accueille. Pour un entretien vidéo, connecte-toi une ou deux minutes en avance, avec tout déjà testé. Si tu vas être en retard pour une raison quelconque, contacte le recruteur dès que tu le sais, avant l'heure prévue.",
+          "tip": "Enregistre le numéro du recruteur dans tes contacts avant de partir de chez toi."
+        },
+        {
+          "title": "Tout le monde fait partie de l'entretien",
+          "body": "Sois poli avec toutes les personnes que tu croises, de l'agent de sécurité à l'accueil ; certaines entreprises leur demandent leur impression. Mets ton téléphone en silencieux et range-le. Pendant l'attente, relis tes notes d'une page au lieu de faire défiler ton fil d'actualité. Salue les recruteurs avec un sourire, une présentation claire et un contact visuel, car la première minute donne le ton pour la suite.",
+          "tip": "Profite de l'attente pour respirer lentement quelques fois et relire tes trois meilleures histoires."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Quand dois-tu te présenter à l'accueil pour un entretien en personne ?",
+          "options": [
+            "Une heure en avance",
+            "Environ 10 minutes avant le début",
+            "Pile à l'heure",
+            "Quelques minutes de retard, ce n'est pas grave"
+          ],
+          "answer": 1,
+          "explanation": "Arrive tôt dans le quartier, mais présente-toi environ 10 minutes avant pour ne pas mettre la pression à la personne qui t'accueille."
+        },
+        {
+          "id": "q2",
+          "question": "Que dois-tu faire si tu vas être en retard ?",
+          "options": [
+            "Arriver et t'excuser à la fin",
+            "Ne rien dire en espérant qu'ils ne remarquent rien",
+            "Envoyer un e-mail pour reporter après l'heure prévue",
+            "Contacter le recruteur dès que tu le sais, avant l'heure prévue"
+          ],
+          "answer": 3,
+          "explanation": "Prévenir tôt est professionnel et laisse à l'entreprise le temps de s'organiser."
+        },
+        {
+          "id": "q3",
+          "question": "Quel type de préparation est le meilleur la veille au soir ?",
+          "options": [
+            "Une courte révision des histoires clés et des questions, puis une bonne nuit de sommeil",
+            "Bachoter toute la nuit",
+            "Aucune préparation",
+            "Réécrire ton CV de zéro"
+          ],
+          "answer": 0,
+          "explanation": "Une révision légère garde tes réponses fraîches ; le repos compte plus que le bachotage de dernière minute."
+        }
+      ]
+    }
+  ]
+}

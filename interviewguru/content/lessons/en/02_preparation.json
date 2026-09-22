@@ -1,0 +1,322 @@
+{
+  "id": "preparation",
+  "order": 2,
+  "icon": "preparation",
+  "color": "#0EA5E9",
+  "title": "Preparation",
+  "summary": "Walk into every interview ready: know the company, the role, your CV, your questions and your plan for the day.",
+  "topics": [
+    {
+      "id": "company_research",
+      "order": 1,
+      "title": "Company Research",
+      "minutes": 3,
+      "premium": false,
+      "pages": [
+        {
+          "title": "Why research matters",
+          "body": "Interviewers can tell within minutes whether you looked them up. Research lets you connect your experience to their real problems, answer 'Why us?' with specifics and ask sharper questions. It also helps you decide whether you actually want the job. Plan about 45–60 minutes of focused research for a first interview, and more for final rounds.",
+          "tip": "Keep all your findings on one page so you can review them in five minutes before the interview."
+        },
+        {
+          "title": "Where to look",
+          "body": "Start with the company website: the about page, products, recent news and careers section. Then read the latest press releases or annual report highlights, check the company's LinkedIn page for growth and recent hires, and read employee reviews looking for patterns rather than single complaints. If the company sells a product you can try, use it yourself.",
+          "tip": "Search the company name plus 'news' and focus on the last six months."
+        },
+        {
+          "title": "What to note down",
+          "body": "Collect five facts you can actually use: what the company sells and to whom, its main competitors, one recent development such as a launch or expansion, its stated values or mission, and a challenge it seems to face. For each fact, write one sentence on how your skills relate to it. Facts without a link to you are just trivia.",
+          "tip": "If you can't connect a fact to your experience or a question, drop it from your notes."
+        },
+        {
+          "title": "Research your interviewers",
+          "body": "If you know who will interview you, look at their LinkedIn profiles. Note their role, how long they have been there and any shared professional background. Use this to predict what they care about: a manager wants delivery, a peer wants collaboration, a director wants impact. Don't mention personal details you come across; keep everything strictly professional.",
+          "tip": "Ask the recruiter for the interviewers' names and roles if they haven't shared them."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Why should you note how each researched fact relates to you?",
+          "options": ["Interviewers grade you on memorisation", "It makes your notes look thorough", "Facts without a link to your skills are just trivia", "Recruiters ask to see your notes"],
+          "answer": 2,
+          "explanation": "Research only helps when you can connect it to your experience or your questions."
+        },
+        {
+          "id": "q2",
+          "question": "What is the best way to use employee reviews?",
+          "options": ["Quote the harshest review in the interview", "Look for patterns rather than single complaints", "Ignore them completely", "Only read the five-star reviews"],
+          "answer": 1,
+          "explanation": "One review is an anecdote; repeated themes tell you something real about the company."
+        },
+        {
+          "id": "q3",
+          "question": "What should you avoid when researching your interviewers?",
+          "options": ["Mentioning personal details you came across", "Checking their current role", "Noting how long they have worked there", "Asking the recruiter for their names"],
+          "answer": 0,
+          "explanation": "Use what you find to predict their priorities, but keep the conversation professional."
+        }
+      ]
+    },
+    {
+      "id": "role_analysis",
+      "order": 2,
+      "title": "Decoding the Job Description",
+      "minutes": 3,
+      "premium": false,
+      "pages": [
+        {
+          "title": "Read it like a checklist",
+          "body": "A job description is the employer's list of problems they want solved. Copy it into a document and highlight every skill, tool, responsibility and expected outcome. Then sort them into two groups: must-haves, usually listed first or repeated, and nice-to-haves, often marked 'preferred' or 'a plus'. This map shows you what the interview will focus on.",
+          "tip": "Save the job description when you apply; postings are often taken down before the interview."
+        },
+        {
+          "title": "Spot the hidden priorities",
+          "body": "Pay attention to repetition and order. A skill mentioned three times matters more than one mentioned once. Verbs reveal the level: 'support' and 'assist' suggest a junior role, while 'own', 'lead' and 'define' suggest seniority. Phrases like 'fast-paced' or 'ambiguous environment' signal that they will test how you handle change and pressure.",
+          "tip": "Count how often each skill appears; the top two or three are your core interview themes."
+        },
+        {
+          "title": "Match evidence to each requirement",
+          "body": "Build a simple two-column table. On the left, list each must-have requirement. On the right, write one concrete example from your experience that proves it, with a result or number where possible. Where you have no direct example, find a related one that shows you can learn quickly. These examples become the backbone of your interview answers.",
+          "tip": "Aim for at least one story per must-have; a strong story can cover two requirements."
+        },
+        {
+          "title": "Handle the gaps honestly",
+          "body": "You rarely match every line of a job description, and employers know it. For each gap, prepare a short, honest answer: acknowledge it, point to the closest experience you have, and explain how you are closing it, such as a course or side project. Never claim a skill you can't demonstrate; one follow-up question will expose it.",
+          "tip": "Practise your gap answers out loud in a mock interview so they sound calm, not defensive."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Which verb in a job description most suggests a senior role?",
+          "options": ["Assist", "Support", "Own", "Help"],
+          "answer": 2,
+          "explanation": "Verbs like 'own', 'lead' and 'define' point to responsibility and seniority."
+        },
+        {
+          "id": "q2",
+          "question": "What goes in the right-hand column of your evidence table?",
+          "options": ["A concrete example that proves the requirement", "The salary you expect", "The interviewer's name", "A list of your hobbies"],
+          "answer": 0,
+          "explanation": "Each must-have gets a specific example, ideally with a result or number."
+        },
+        {
+          "id": "q3",
+          "question": "What is the best way to handle a requirement you don't meet?",
+          "options": ["Claim you have it and learn it later", "Avoid the topic entirely", "Withdraw your application", "Acknowledge it, show your closest experience and how you are closing the gap"],
+          "answer": 3,
+          "explanation": "Honesty plus a plan to close the gap is credible; bluffing is exposed by follow-up questions."
+        }
+      ]
+    },
+    {
+      "id": "cv_preparation",
+      "order": 3,
+      "title": "Tailoring Your CV",
+      "minutes": 4,
+      "premium": true,
+      "pages": [
+        {
+          "title": "One CV does not fit all",
+          "body": "Sending the same CV to every job lowers your chances. Recruiters often spend under a minute on a first scan, and many companies use applicant tracking systems that filter by keywords. Tailoring means adjusting your summary, the order of your bullet points and your skills section so the most relevant evidence appears first for each role.",
+          "tip": "Keep a master CV with everything, then cut and reorder a copy for each application."
+        },
+        {
+          "title": "Mirror the language",
+          "body": "Use the exact terms from the job description where they truthfully describe your experience. If the posting says 'stakeholder management', don't only write 'worked with other teams'. Include both the full name and the abbreviation for tools and certifications. Keep formatting simple, with standard headings and no text inside images, so tracking systems can read everything.",
+          "tip": "Paste your CV into a plain text file; anything that disappears or scrambles may be unreadable to software."
+        },
+        {
+          "title": "Write achievement bullets",
+          "body": "Replace duties with results. A strong bullet starts with an action verb, describes what you did and shows the outcome: 'Reduced invoice processing time by 30% by automating data entry.' If you lack exact numbers, use scale, frequency or scope, such as team size, number of clients or budget handled. Put your most relevant bullet first under each role.",
+          "tip": "Run your draft through CV review in the app to spot weak, duty-style bullets."
+        },
+        {
+          "title": "Bring it to the interview",
+          "body": "Interviewers will ask about anything on your CV, so reread the exact version you sent before the interview. Be ready to expand on every bullet with context, your specific actions and the result. Bring a few printed copies to in-person interviews and keep a digital copy open for video calls. Make sure dates and job titles match your LinkedIn profile.",
+          "tip": "Save each tailored CV with the company name in the file name so you always know which one they have."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Why should you mirror keywords from the job description?",
+          "options": ["Tracking systems and recruiters scan for them", "It makes the CV longer", "It lets you skip the skills section", "Recruiters prefer copied paragraphs"],
+          "answer": 0,
+          "explanation": "Matching terms help both software filters and quick human scans find your relevant experience."
+        },
+        {
+          "id": "q2",
+          "question": "Which is the strongest CV bullet?",
+          "options": ["Responsible for invoices", "Worked on invoice processing tasks", "Helped the finance team daily", "Reduced invoice processing time by 30% by automating data entry"],
+          "answer": 3,
+          "explanation": "It starts with an action verb, says what you did and shows a measurable result."
+        },
+        {
+          "id": "q3",
+          "question": "Which formatting choice can stop tracking systems from reading your CV?",
+          "options": ["Standard headings", "Text placed inside images", "Simple bullet points", "A clear, common font"],
+          "answer": 1,
+          "explanation": "Software often can't read text inside images, so that content may be lost."
+        }
+      ]
+    },
+    {
+      "id": "questions_to_ask",
+      "order": 4,
+      "title": "Questions to Ask the Interviewer",
+      "minutes": 3,
+      "premium": true,
+      "pages": [
+        {
+          "title": "Why your questions matter",
+          "body": "Almost every interview ends with 'Do you have any questions for us?' Saying 'No, I think you covered everything' signals low interest. Good questions show you have thought seriously about the role, help you judge whether you want the job, and leave a strong final impression. Prepare five or six, because some will be answered during the conversation.",
+          "tip": "Write your questions in your notebook and tick them off as they get answered."
+        },
+        {
+          "title": "Questions about the role",
+          "body": "Ask what success looks like: 'What would you expect me to achieve in the first 90 days?' or 'What does a typical week look like?' Ask about challenges: 'What is the biggest obstacle the person in this role will face?' These questions give you real information and show you are already thinking about how to do the job well.",
+          "tip": "Follow up on their answer with one short comment on how you would approach it."
+        },
+        {
+          "title": "Questions about team and growth",
+          "body": "Ask how the team works: 'How does the team share work and make decisions?' Ask about development: 'How do people in this role usually grow?' Tailor questions to the interviewer: ask a future manager about their management style, a peer about daily collaboration, and a senior leader about the company's direction for the next year or two.",
+          "tip": "Keep one question per interviewer type ready so you never repeat yourself across rounds."
+        },
+        {
+          "title": "Questions to avoid",
+          "body": "In early rounds, avoid leading with salary, holidays or remote-work perks; save those until there is mutual interest, unless the interviewer raises them. Don't ask anything easily found on the company website. Avoid yes/no questions that end the conversation. A strong closing question is: 'Is there anything about my background that makes you hesitate?'",
+          "tip": "Listen carefully to the answer to your closing question and address any concern calmly on the spot."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Why prepare five or six questions instead of just two?",
+          "options": ["Interviewers expect exactly six", "It makes the interview longer", "It avoids talking about the role", "Some will already be answered during the interview"],
+          "answer": 3,
+          "explanation": "Having extra questions means you still have good ones left at the end."
+        },
+        {
+          "id": "q2",
+          "question": "Which question fits best when talking to your future manager?",
+          "options": ["How would you describe your management style?", "What does the company sell?", "How many holidays do I get?", "Is there free parking?"],
+          "answer": 0,
+          "explanation": "Tailor questions to the interviewer; a manager can best describe how they lead."
+        },
+        {
+          "id": "q3",
+          "question": "What is the purpose of asking 'Is there anything about my background that makes you hesitate?'",
+          "options": ["To pressure the interviewer into an offer", "To end the interview early", "To surface and address concerns while you are still in the room", "To ask about salary indirectly"],
+          "answer": 2,
+          "explanation": "It gives you a chance to respond to doubts before the decision is made."
+        }
+      ]
+    },
+    {
+      "id": "dress_code",
+      "order": 5,
+      "title": "What to Wear",
+      "minutes": 3,
+      "premium": true,
+      "pages": [
+        {
+          "title": "Match the company, then go one step up",
+          "body": "The safest rule is to dress one level more formal than what employees wear day to day. If the team wears jeans and T-shirts, choose smart casual. If they wear business casual, consider a jacket or a more formal outfit. Check the company's careers page and social media photos, or simply ask the recruiter what people usually wear.",
+          "tip": "Asking the recruiter about dress code is normal and shows good judgement."
+        },
+        {
+          "title": "Fit, comfort and neatness",
+          "body": "What matters most is not price but that your clothes are clean, ironed and fit well. Choose an outfit you have worn before so you know it is comfortable to sit in for an hour. Avoid anything you keep adjusting. Keep accessories and fragrance subtle and make sure your shoes are clean. Cultural and religious attire is always appropriate; neatness is the standard.",
+          "tip": "Sit down in your outfit in front of a mirror to check how it looks from the interviewer's side."
+        },
+        {
+          "title": "Video interviews",
+          "body": "Dress fully, not just from the waist up, in case you need to stand. Solid, mid-tone colours usually look best on camera; very thin stripes and small busy patterns can flicker. Test your outfit on camera against your background so you don't blend into it. Good lighting on your face and a tidy background are part of how you present.",
+          "tip": "Do a two-minute camera test at the same time of day as the interview to check the light."
+        },
+        {
+          "title": "Prepare it the day before",
+          "body": "Choose and try on your full outfit the day before, including shoes. Check for stains, missing buttons or creases and fix them while there is still time. If you are travelling, pack a small kit: a spare shirt or top, stain wipes and a comb. Deciding in advance removes one source of stress from the day itself.",
+          "tip": "Lay everything out in one place the night before so getting ready takes no decisions."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "What is the safest general dress code rule?",
+          "options": ["Always wear the most formal outfit you own", "Dress one level more formal than employees usually wear", "Wear whatever you wear at home", "Copy the interviewer's profile photo"],
+          "answer": 1,
+          "explanation": "One step above the everyday norm looks respectful without seeming out of place."
+        },
+        {
+          "id": "q2",
+          "question": "Which clothing choice usually works best on camera?",
+          "options": ["Very thin stripes", "Small busy patterns", "Solid, mid-tone colours", "A colour that matches your background"],
+          "answer": 2,
+          "explanation": "Solid mid-tones look clean on camera; fine patterns can flicker and matching colours make you blend in."
+        },
+        {
+          "id": "q3",
+          "question": "Why choose an outfit you have worn before?",
+          "options": ["It is cheaper", "New clothes are not allowed", "Interviewers notice new clothes", "You know it is comfortable to sit in for an hour"],
+          "answer": 3,
+          "explanation": "A tested outfit means no surprises and nothing to keep adjusting during the interview."
+        }
+      ]
+    },
+    {
+      "id": "interview_day_logistics",
+      "order": 6,
+      "title": "The Day Before and the Day Of",
+      "minutes": 3,
+      "premium": true,
+      "pages": [
+        {
+          "title": "Confirm the details",
+          "body": "The day before, reread the invitation: date, time zone, address or video link, interviewers' names and the format. Plan your route and check travel time for the same hour of day, adding a buffer of at least 30 minutes. For video calls, test the link, camera, microphone and connection, and keep a phone number to call if the connection fails.",
+          "tip": "Double-check the time zone in the invitation, especially for remote roles."
+        },
+        {
+          "title": "Pack and review",
+          "body": "Prepare a bag the evening before: printed copies of your CV, ID if the building requires it, a notebook and pen, water and a phone charger. Then do a short review, not a cram session: your key stories, your answers to 'Tell me about yourself' and 'Why this company?', and your questions for them. Stop early enough to sleep well.",
+          "tip": "One short mock interview the evening before is enough; heavy last-minute practice only adds stress."
+        },
+        {
+          "title": "Arrive at the right time",
+          "body": "For in-person interviews, reach the area 15–20 minutes early, but walk into reception about 10 minutes before the start. Arriving much earlier can put pressure on your host. For video interviews, join a minute or two early with everything already tested. If you will be late for any reason, contact the recruiter as soon as you know, before the start time.",
+          "tip": "Save the recruiter's phone number in your contacts before you leave home."
+        },
+        {
+          "title": "Everyone is part of the interview",
+          "body": "Be polite to everyone you meet, from security staff to the receptionist; some companies ask them for their impressions. Silence your phone completely and put it away. While waiting, review your one-page notes instead of scrolling. Greet interviewers with a smile, a clear introduction and eye contact, because the first minute sets the tone for the rest.",
+          "tip": "Use the waiting time to take a few slow breaths and reread your top three stories."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "When should you walk into reception for an in-person interview?",
+          "options": ["An hour early", "About 10 minutes before the start", "Exactly on time", "A few minutes late is fine"],
+          "answer": 1,
+          "explanation": "Arrive nearby early, but check in about 10 minutes before so you don't pressure your host."
+        },
+        {
+          "id": "q2",
+          "question": "What should you do if you are going to be late?",
+          "options": ["Arrive and apologise at the end", "Say nothing and hope they don't notice", "Email to reschedule after the start time", "Contact the recruiter as soon as you know, before the start time"],
+          "answer": 3,
+          "explanation": "Early notice is professional and gives the company time to adjust."
+        },
+        {
+          "id": "q3",
+          "question": "What kind of preparation is best on the evening before?",
+          "options": ["A short review of key stories and questions, then a good night's sleep", "Cramming all night", "No preparation at all", "Rewriting your CV from scratch"],
+          "answer": 0,
+          "explanation": "A light review keeps answers fresh; rest matters more than last-minute cramming."
+        }
+      ]
+    }
+  ]
+}

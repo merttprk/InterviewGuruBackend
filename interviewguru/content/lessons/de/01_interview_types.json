@@ -1,0 +1,322 @@
+{
+  "id": "interview_types",
+  "order": 1,
+  "icon": "interview",
+  "color": "#4F46E5",
+  "title": "Interview-Formate",
+  "summary": "Erfahre, was dich in jedem Interview-Format erwartet – vom kurzen Telefoninterview bis zum Panel-Gespräch.",
+  "topics": [
+    {
+      "id": "phone_interview",
+      "order": 1,
+      "title": "Telefoninterview",
+      "minutes": 3,
+      "premium": false,
+      "pages": [
+        {
+          "title": "Wozu das Telefoninterview dient",
+          "body": "Das Telefoninterview ist meist die erste Auswahlrunde. Recruiter oder Führungskräfte prüfen in 15–30 Minuten drei Dinge: Passen deine Erfahrung und die Stelle zusammen? Sind deine Gehalts- und Standortvorstellungen realistisch? Kannst du dich klar ausdrücken? Es geht selten in die Tiefe – das Ziel ist zu entscheiden, wer in die nächste Runde kommt.",
+          "tip": "Nimm es so ernst wie ein echtes Vorstellungsgespräch. Viele Bewerbende scheiden genau hier aus, weil sie zu locker auftreten."
+        },
+        {
+          "title": "Bereite dein Umfeld vor",
+          "body": "Such dir einen ruhigen Raum, lade dein Handy auf und prüfe vorab den Empfang. Leg dir deinen Lebenslauf, die Stellenanzeige und eine kurze Liste deiner Erfolge bereit – dein Gegenüber sieht deine Notizen nicht, also nutze sie. Stell dir ein Glas Wasser hin und schalte die Benachrichtigungen am Computer aus.",
+          "tip": "Steh beim Sprechen oder sitz aufrecht – deine Stimme klingt dann energischer."
+        },
+        {
+          "title": "Deine Stimme ist deine Körpersprache",
+          "body": "Ohne visuelle Signale transportieren Tonfall und Tempo deine Botschaft. Lächle beim Sprechen – das hört man. Mach vor der Antwort lieber eine kurze Pause, statt die Stille mit „ähm“ zu füllen. Halte deine Antworten bei etwa 60–90 Sekunden und frag zwischendurch nach: „Soll ich mehr zu diesem Projekt erzählen?“",
+          "tip": "Nimm dich mit dem Handy auf, während du eine Frage beantwortest, und hör es dir einmal an."
+        },
+        {
+          "title": "Das Gespräch gut abschließen",
+          "body": "Stell gegen Ende ein oder zwei Fragen zur Stelle und zu den nächsten Schritten: „Wie sieht der weitere Ablauf aus?“ Bedanke dich mit Namen bei deinem Gegenüber. Schick innerhalb weniger Stunden eine kurze E-Mail, in der du dein Interesse bekräftigst und einen Grund nennst, warum du gut passt.",
+          "tip": "Notiere dir während des Gesprächs den Namen deines Gegenübers und die wichtigsten Punkte."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Was ist der Hauptzweck eines Telefoninterviews?",
+          "options": ["Das endgültige Gehalt verhandeln", "Bewerbende nach grundsätzlicher Eignung und Kommunikation filtern", "Fortgeschrittene Fachkenntnisse testen", "Das ganze Team kennenlernen"],
+          "answer": 1,
+          "explanation": "Telefoninterviews sind eine erste Auswahl: grundsätzliche Eignung, Erwartungen und Kommunikation."
+        },
+        {
+          "id": "q2",
+          "question": "Was ist ein echter Vorteil eines Telefoninterviews?",
+          "options": ["Du kannst deine Notizen vor dir liegen haben", "Du kannst dir die Vorbereitung sparen", "Körpersprache spielt überhaupt keine Rolle", "Du kannst beim Spazierengehen antworten"],
+          "answer": 0,
+          "explanation": "Dein Gegenüber sieht dich nicht – Lebenslauf und Notizen können also direkt vor dir liegen."
+        },
+        {
+          "id": "q3",
+          "question": "Wie lang sollte eine typische Antwort am Telefon sein?",
+          "options": ["10 Sekunden", "Etwa 60–90 Sekunden", "Mindestens 5 Minuten", "So lang wie möglich"],
+          "answer": 1,
+          "explanation": "Kurze, strukturierte Antworten halten die Aufmerksamkeit; biete bei Interesse mehr Details an."
+        }
+      ]
+    },
+    {
+      "id": "video_interview",
+      "order": 2,
+      "title": "Videointerview",
+      "minutes": 3,
+      "premium": false,
+      "pages": [
+        {
+          "title": "Zwei Arten von Videointerviews",
+          "body": "Live-Videointerviews finden über Zoom, Teams oder Google Meet mit einer echten Person statt. Bei zeitversetzten (aufgezeichneten) Interviews bekommst du eine Frage angezeigt und hast eine feste Zeit, um deine Antwort aufzunehmen – oft mit nur einem oder gar keinem zweiten Versuch. Beide werden wie ein persönliches Gespräch bewertet, aber für technische Probleme bist du selbst verantwortlich.",
+          "tip": "Frag nach, welche Plattform genutzt wird, und installiere sie am Vortag."
+        },
+        {
+          "title": "Kamera, Licht und Ton",
+          "body": "Stell die Kamera auf Augenhöhe – leg notfalls ein paar Bücher unter den Laptop. Setz dich mit dem Gesicht zum Fenster oder zu einer Lampe, damit das Licht auf dein Gesicht fällt und nicht von hinten kommt. Nutze Kopfhörer mit Mikrofon, um Echo zu vermeiden. Ein schlichter, aufgeräumter Hintergrund ist besser als ein virtueller, der um deine Haare herum flackert.",
+          "tip": "Mach einen Testanruf mit einer befreundeten Person und frag, wie du aussiehst und klingst."
+        },
+        {
+          "title": "In die Kamera schauen",
+          "body": "Blickkontakt bedeutet im Video, in die Linse zu schauen – nicht auf das Gesicht deines Gegenübers auf dem Bildschirm. Schieb das Videofenster nah an die Kamera, damit der Unterschied gering bleibt. Nicke und reagiere etwas deutlicher als im persönlichen Gespräch; feine Signale gehen im Video verloren.",
+          "tip": "Kleb einen kleinen Sticker neben die Linse, der dich daran erinnert, dorthin zu schauen."
+        },
+        {
+          "title": "Wenn etwas schiefgeht",
+          "body": "Bricht die Verbindung ab, wähl dich schnell wieder ein und sag ruhig: „Entschuldigung, die Verbindung war weg – könnten Sie die letzte Frage bitte wiederholen?“ Halte Telefonnummer oder E-Mail-Adresse deines Gegenübers als Plan B bereit. Bei einer technischen Panne ruhig zu bleiben, ist an sich schon ein positives Signal.",
+          "tip": "Schließ andere Apps und pausiere Cloud-Backups, um Bandbreite zu sparen."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Wohin solltest du schauen, um im Videointerview Blickkontakt herzustellen?",
+          "options": ["In die Augen deines Gegenübers auf dem Bildschirm", "Auf dein eigenes Videobild", "In die Kameralinse", "Auf deine Notizen"],
+          "answer": 2,
+          "explanation": "Nur der Blick in die Linse wirkt für dein Gegenüber wie Blickkontakt."
+        },
+        {
+          "id": "q2",
+          "question": "Was ist die beste Beleuchtung?",
+          "options": ["Ein helles Fenster hinter dir", "Licht von vorn, das auf dein Gesicht fällt", "Ein dunkler Raum, damit der Bildschirm leuchtet", "Nur die Deckenlampe"],
+          "answer": 1,
+          "explanation": "Licht von vorn macht dein Gesicht gut sichtbar; Gegenlicht macht dich zur Silhouette."
+        },
+        {
+          "id": "q3",
+          "question": "Mitten in deiner Antwort bricht die Verbindung ab. Was tust du?",
+          "options": ["Warten, bis sie dich anrufen", "Dich schnell wieder einwählen und ruhig um Wiederholung der Frage bitten", "Das Interview beenden", "Später eine Entschuldigungs-E-Mail schicken"],
+          "answer": 1,
+          "explanation": "Wer sich ruhig wieder einwählt, zeigt, dass er gut mit Problemen umgehen kann."
+        }
+      ]
+    },
+    {
+      "id": "face_to_face_interview",
+      "order": 3,
+      "title": "Persönliches Vorstellungsgespräch",
+      "minutes": 3,
+      "premium": false,
+      "pages": [
+        {
+          "title": "Das Gespräch beginnt an der Tür",
+          "body": "Ein persönliches Vorstellungsgespräch beginnt in dem Moment, in dem du ankommst. Empfangsmitarbeitende und Leute, die du im Aufzug triffst, werden oft nach ihrem Eindruck gefragt. Sei 10 Minuten früher da – nicht 30 – und begegne allen höflich. Nutze die Wartezeit, um ruhig zu atmen und deine drei wichtigsten Geschichten noch einmal durchzugehen.",
+          "tip": "Plane deine Anfahrt am Vortag und rechne einen Puffer für Verkehr ein."
+        },
+        {
+          "title": "Der erste Eindruck",
+          "body": "Ein fester (aber nicht zerquetschender) Händedruck, Blickkontakt und ein echtes Lächeln setzen in den ersten Sekunden den Ton. Warte, bis dir ein Platz angeboten wird. Stell deine Tasche auf den Boden, nicht auf den Tisch, und halte dein Handy lautlos und außer Sicht.",
+          "tip": "Nenne dein Gegenüber bei der Begrüßung beim Namen: „Schön, Sie kennenzulernen, Frau Weber.“"
+        },
+        {
+          "title": "Die Stimmung lesen",
+          "body": "Im persönlichen Gespräch bekommst du direktes Feedback. Lehnt sich dein Gegenüber nach vorn, bist du auf dem richtigen Weg; wandert der Blick zur Uhr oder zu den Notizen, komm zum Ende deiner Antwort. Pass dich Energie und Förmlichkeit deines Gegenübers leicht an – das schafft eine gute Verbindung.",
+          "tip": "Nimm ein Notizbuch mit vorbereiteten Fragen mit; kurze Notizen wirken engagiert."
+        },
+        {
+          "title": "Beobachte auch das Unternehmen",
+          "body": "Der Besuch vor Ort ist deine Chance, die Unternehmenskultur einzuschätzen. Wie gehen die Leute miteinander um? Ist die Atmosphäre entspannt oder angespannt? Scheinen sie Freude an ihrer Arbeit zu haben? Auch du entscheidest, ob du dort arbeiten möchtest.",
+          "tip": "Frag, ob du sehen kannst, wo das Team sitzt, falls es nicht angeboten wird."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Wann solltest du zu einem persönlichen Vorstellungsgespräch erscheinen?",
+          "options": ["Auf die Minute pünktlich", "Etwa 10 Minuten früher", "45 Minuten früher", "Ein paar Minuten zu spät ist okay"],
+          "answer": 1,
+          "explanation": "Zehn Minuten früher zeigt Respekt, ohne deine Gastgeber unter Druck zu setzen."
+        },
+        {
+          "id": "q2",
+          "question": "Warum solltest du am Empfang höflich sein?",
+          "options": ["Das spielt keine Rolle", "Der Eindruck wird womöglich an das Recruiting-Team weitergegeben", "Der Empfang trifft die Einstellungsentscheidung", "Um einen besseren Parkplatz zu bekommen"],
+          "answer": 1,
+          "explanation": "Viele Unternehmen fragen das Empfangspersonal, wie sich Bewerbende verhalten haben."
+        },
+        {
+          "id": "q3",
+          "question": "Dein Gegenüber schaut immer wieder auf die Uhr, während du sprichst. Was tust du?",
+          "options": ["Schneller reden", "Deine Antwort knapp zum Abschluss bringen", "Fragen, ob du langweilst", "Es ignorieren"],
+          "answer": 1,
+          "explanation": "Das ist ein Signal, auf den Punkt zu kommen; bei Interesse kannst du mehr Details anbieten."
+        }
+      ]
+    },
+    {
+      "id": "group_interview",
+      "order": 4,
+      "title": "Gruppeninterview",
+      "minutes": 3,
+      "premium": true,
+      "pages": [
+        {
+          "title": "Worauf Beobachter achten",
+          "body": "In Gruppeninterviews und Assessment-Centern bearbeiten mehrere Bewerbende gemeinsam eine Aufgabe, während Beobachter zusehen. Gesucht wird nicht die lauteste Person. Beobachtet wird, wie du zuhörst, an Ideen anderer anknüpfst, die Gruppe auf Kurs hältst und zu einem Ergebnis beiträgst.",
+          "tip": "Die Qualität deiner Beiträge zählt mehr als deine Redezeit."
+        },
+        {
+          "title": "Hilfreiche Rollen, die du übernehmen kannst",
+          "body": "Du kannst etwas beitragen, ohne zu dominieren: die Diskussion zusammenfassen („Bisher sind wir uns bei A und B einig“), die Zeit im Blick behalten („Wir haben noch 10 Minuten – wollen wir entscheiden?“) oder ruhigere Teilnehmende einbeziehen („Ali, was meinst du?“). Genau dieses Verhalten notieren die Beobachter.",
+          "tip": "Anzubieten, die Zeit im Blick zu behalten, ist ein einfacher und gut sichtbarer Beitrag."
+        },
+        {
+          "title": "Zusammenarbeiten statt konkurrieren",
+          "body": "Behandle die anderen Bewerbenden wie Kolleginnen und Kollegen. Sie zu kritisieren oder zu unterbrechen, geht nach hinten los. Wenn du anderer Meinung bist, würdige erst den Punkt: „Das mit den Kosten ist ein guter Hinweis; ein Risiko, das ich sehe, ist …“. Gruppen, die zu einer klaren Entscheidung kommen, lassen jedes Mitglied besser aussehen.",
+          "tip": "Sprich andere mit Namen an – merk sie dir bei der Vorstellungsrunde."
+        },
+        {
+          "title": "Fallaufgaben und Präsentationen",
+          "body": "Viele Gruppenrunden enden mit einer kurzen Präsentation. Legt früh fest, wer welchen Teil präsentiert. Halte die Struktur einfach: Problem, Optionen, Empfehlung, nächste Schritte. Wenn du präsentierst, würdige das Team: „Wir haben entschieden …“.",
+          "tip": "Schreib die wichtigsten Zahlen aus der Fallstudie auf Papier, damit die ganze Gruppe sie sieht."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Was schätzen Beobachter in einem Gruppeninterview am meisten?",
+          "options": ["Am meisten zu reden", "Zuhören und an Ideen anderer anknüpfen", "Jede Diskussion zu gewinnen", "Schweigen, um Fehler zu vermeiden"],
+          "answer": 1,
+          "explanation": "Bewertet werden Zusammenarbeit und konstruktive Beiträge."
+        },
+        {
+          "id": "q2",
+          "question": "Wie kannst du gut beitragen, ohne zu dominieren?",
+          "options": ["Unterbrechen, um deine Idee als Erstes einzubringen", "Zwischenstände zusammenfassen und die Zeit im Blick behalten", "Schwache Ideen kritisieren", "Allein präsentieren"],
+          "answer": 1,
+          "explanation": "Zusammenfassen und Zeitmanagement helfen der Gruppe und fallen positiv auf."
+        },
+        {
+          "id": "q3",
+          "question": "Wie solltest du einer anderen bewerbenden Person widersprechen?",
+          "options": ["Sagen, dass sie falschliegt", "Ihren Punkt würdigen und dann deine Bedenken ergänzen", "Ihre Idee ignorieren", "Die Beobachter entscheiden lassen"],
+          "answer": 1,
+          "explanation": "Wer erst würdigt, hält die Diskussion konstruktiv."
+        }
+      ]
+    },
+    {
+      "id": "technical_interview",
+      "order": 5,
+      "title": "Fachinterview",
+      "minutes": 4,
+      "premium": true,
+      "pages": [
+        {
+          "title": "Was getestet wird",
+          "body": "Fachinterviews prüfen, ob du die Arbeit wirklich beherrschst: Programmieren, Finanzmodellierung, Design, technische Berechnungen oder Fachwissen. Deine Denkweise ist dabei genauso wichtig wie das Endergebnis. Ein klarer Lösungsweg mit einem kleinen Fehler schneidet oft besser ab als eine richtige Antwort, die du schweigend erarbeitest.",
+          "tip": "Denk von der ersten Minute an laut."
+        },
+        {
+          "title": "Eine verlässliche Routine zur Problemlösung",
+          "body": "1) Gib die Aufgabe in eigenen Worten wieder und stell Rückfragen. 2) Geh ein einfaches Beispiel durch. 3) Beschreib zuerst eine einfache Lösung und verbessere sie dann. 4) Setz sie Schritt für Schritt um oder rechne sie durch. 5) Teste sie mit einem Grenzfall. Diese Routine hält dich ruhig, auch wenn du die Antwort nicht sofort weißt.",
+          "tip": "Frag nach Rahmenbedingungen: Datenmenge, Fristen, Budget, Genauigkeit."
+        },
+        {
+          "title": "Wenn du nicht weiterkommst",
+          "body": "Sag, was du weißt und wo du hängst: „Für eine sortierte Liste kann ich es lösen; ich überlege gerade, wie ich mit Duplikaten umgehe.“ Oft bekommst du Hinweise – nutze sie und bedanke dich. Bluffe nie bei etwas, das du nicht weißt; erklär lieber, wie du es herausfinden würdest.",
+          "tip": "Mehr als 20 Sekunden Stille wirken lang – kommentiere weiter, was du denkst."
+        },
+        {
+          "title": "So bereitest du dich vor",
+          "body": "Wiederhole die Grundlagen aus der Stellenanzeige und übe mit Aufgaben unter Zeitdruck. Geh deine eigenen Projekte noch einmal durch: Du musst jede Entscheidung erklären können, die du getroffen hast. Übe bei System- oder Fallfragen, zuerst eine Struktur auf Papier zu skizzieren, bevor du in die Details gehst.",
+          "tip": "Übe mit dem Probeinterview hier in der App und wähle den Typ „Fachlich“."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Was zählt in einem Fachinterview neben der Antwort am meisten?",
+          "options": ["Nur die Geschwindigkeit", "Deine Denkweise", "Die neuesten Tools zu nutzen", "Auswendig gelernte Definitionen"],
+          "answer": 1,
+          "explanation": "Bewertet wird, wie du denkst, kommunizierst und mit Problemen umgehst."
+        },
+        {
+          "id": "q2",
+          "question": "Was solltest du zuerst tun, wenn du eine Aufgabe bekommst?",
+          "options": ["Sofort loslegen", "Sie in eigenen Worten wiedergeben und Rückfragen stellen", "Sagen, dass du sie schon kennst", "Nach der Lösung fragen"],
+          "answer": 1,
+          "explanation": "Wer zuerst nachfragt, vermeidet es, das falsche Problem zu lösen."
+        },
+        {
+          "id": "q3",
+          "question": "Du kennst ein Konzept nicht, nach dem gefragt wird. Was ist die beste Reaktion?",
+          "options": ["Selbstbewusst raten", "Es zugeben und erklären, wie du es herausfinden würdest", "Das Thema wechseln", "Schweigen"],
+          "answer": 1,
+          "explanation": "Ehrlichkeit plus Lernbereitschaft kommt gut an; Bluffen wird schnell durchschaut."
+        }
+      ]
+    },
+    {
+      "id": "panel_interview",
+      "order": 6,
+      "title": "Panel-Interview",
+      "minutes": 3,
+      "premium": true,
+      "pages": [
+        {
+          "title": "Mehrere Interviewende, eine Entscheidung",
+          "body": "Bei einem Panel-Interview führen drei bis fünf Personen das Gespräch gemeinsam – zum Beispiel eine Führungskraft, ein künftiges Teammitglied und jemand aus der Personalabteilung. Jede Person konzentriert sich meist auf einen anderen Bereich. Die Entscheidung fällt gemeinsam, also musst du den ganzen Raum überzeugen, nicht nur die ranghöchste Person.",
+          "tip": "Frag vorab beim Recruiting nach Namen und Rollen der Panel-Mitglieder."
+        },
+        {
+          "title": "Wohin du schaust",
+          "body": "Beginne deine Antwort mit Blick auf die Person, die gefragt hat, bezieh dann im Verlauf die anderen mit deinem Blick ein und kehr zum Schluss zur fragenden Person zurück. So bleiben alle bei dir, und du wirkst souverän.",
+          "tip": "Notiere die Namen in Sitzordnung in deinem Notizbuch."
+        },
+        {
+          "title": "Antworten auf jede Rolle zuschneiden",
+          "body": "Eine technische Leitung will Tiefe, die Personalabteilung Werte und Teamarbeit, eine Führungskraft Ergebnisse. Kommt eine Frage von einer bestimmten Person, betone den Teil deiner Geschichte, der für ihre Rolle zählt.",
+          "tip": "Bereite für jedes Panel-Mitglied eine starke Geschichte vor, die zu seinem wahrscheinlichen Interesse passt."
+        },
+        {
+          "title": "Bleib konsistent",
+          "body": "Panels stellen manchmal ähnliche Fragen auf unterschiedliche Weise, um deine Konsistenz zu prüfen. Halte deine Geschichten und Zahlen identisch. Bedanke dich am Ende bei jedem Mitglied und schick wenn möglich eine kurze Nachricht, die etwas aus dem Gespräch aufgreift.",
+          "tip": "Übersieh die stillen Panel-Mitglieder nicht – sie haben oft großen Einfluss."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Wen solltest du ansprechen, wenn du eine Frage im Panel beantwortest?",
+          "options": ["Nur die ranghöchste Person", "Nur die Person, die gefragt hat", "Mit der fragenden Person beginnen, alle einbeziehen, mit der fragenden Person enden", "Auf deine Notizen schauen"],
+          "answer": 2,
+          "explanation": "So bleibt das ganze Panel dabei, und du respektierst trotzdem die fragende Person."
+        },
+        {
+          "id": "q2",
+          "question": "Warum solltest du für die Panel-Mitglieder unterschiedliche Schwerpunkte vorbereiten?",
+          "options": ["Jede Rolle achtet auf andere Dinge", "Um sie zu verwirren", "Panels bevorzugen lange Antworten", "Das ist nicht nötig"],
+          "answer": 0,
+          "explanation": "Fachleute, Personalabteilung und Management suchen jeweils nach anderen Belegen."
+        },
+        {
+          "id": "q3",
+          "question": "Das Panel stellt eine Frage, die einer früheren ähnelt. Was tust du?",
+          "options": ["Eine völlig neue Geschichte erzählen", "Bei deinen früheren Fakten bleiben", "Darauf hinweisen, dass sie sich wiederholen", "Die Frage überspringen"],
+          "answer": 1,
+          "explanation": "Panels prüfen Konsistenz; Widersprüche schaden dem Vertrauen."
+        }
+      ]
+    }
+  ]
+}

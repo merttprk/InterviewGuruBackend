@@ -1,0 +1,270 @@
+{
+  "id": "stress_management",
+  "order": 7,
+  "icon": "calm",
+  "color": "#14B8A6",
+  "title": "Como lidar com o estresse da entrevista",
+  "summary": "Formas práticas de manter a calma antes, durante e depois das entrevistas, e de seguir firme em uma longa busca por emprego.",
+  "topics": [
+    {
+      "id": "preparation_techniques",
+      "order": 1,
+      "title": "A preparação como alívio do estresse",
+      "minutes": 3,
+      "premium": false,
+      "pages": [
+        {
+          "title": "A incerteza alimenta o nervosismo",
+          "body": "Boa parte da ansiedade em entrevistas vem de não saber o que vai acontecer. A preparação reduz essa incerteza. Quando você conhece a empresa, praticou suas principais histórias e planejou a logística, sobram menos incógnitas para a sua mente se preocupar. Um pouco de nervosismo vai continuar, e tudo bem: um pouco de adrenalina mantém você alerta e focado.",
+          "tip": "Anote exatamente o que preocupa você; a maioria dos itens vira uma tarefa de preparação."
+        },
+        {
+          "title": "Prepare seu material principal",
+          "body": "Você não precisa de uma resposta para cada pergunta possível. Prepare cinco ou seis histórias fortes que mostrem suas principais habilidades, como resolver um problema, liderar, lidar com conflitos e aprender com um erro. A maioria das perguntas comportamentais pode ser respondida com uma delas. Saber que você tem esse repertório pronto faz as perguntas inesperadas parecerem bem menos ameaçadoras.",
+          "tip": "Escreva cada história em três tópicos, não como um roteiro completo."
+        },
+        {
+          "title": "Elimine o estresse logístico",
+          "body": "Pequenos problemas práticos geram muito estresse no dia. Na véspera, separe a roupa, imprima ou salve seu CV, confirme o horário e o fuso horário e planeje o trajeto ou teste o link da videochamada. Leve água e uma cópia das suas anotações. Com a logística resolvida, sua energia pode ir para a conversa.",
+          "tip": "Programe dois alarmes e acrescente 20 minutos de folga ao tempo de deslocamento."
+        },
+        {
+          "title": "Planeje a última hora",
+          "body": "Decida com antecedência como vai passar a hora anterior à entrevista. Evite estudar informações novas de última hora; em vez disso, revise rapidamente suas histórias, faça um lanche leve e dê uma caminhada curta, se puder. Muitas pessoas acham que uma rotina tranquilizadora, como uma playlist ou um exercício de respiração, ajuda a chegar focado em vez de apressado.",
+          "tip": "Faça uma entrevista simulada rápida no dia anterior, não na hora anterior."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Por que a preparação reduz o estresse da entrevista?",
+          "options": ["Porque elimina completamente todo o nervosismo", "Porque reduz a incerteza, deixando menos motivos de preocupação", "Porque deixa a entrevista mais curta", "Porque garante uma oferta"],
+          "answer": 1,
+          "explanation": "A preparação reduz as incógnitas que alimentam a ansiedade, embora algum nervosismo permaneça."
+        },
+        {
+          "id": "q2",
+          "question": "Quantas histórias principais você deve preparar?",
+          "options": ["Uma história perfeita", "Cinco ou seis que cubram suas principais habilidades", "Um roteiro separado para cada pergunta possível", "Nenhuma — improvisar é melhor"],
+          "answer": 1,
+          "explanation": "Um pequeno conjunto de histórias versáteis cobre a maioria das perguntas comportamentais."
+        },
+        {
+          "id": "q3",
+          "question": "O que você deve evitar na hora anterior à entrevista?",
+          "options": ["Um lanche leve", "Uma caminhada curta", "Revisar rapidamente suas histórias", "Estudar informações novas de última hora"],
+          "answer": 3,
+          "explanation": "Estudar de última hora aumenta o estresse; uma rotina tranquila ajuda você a chegar focado."
+        }
+      ]
+    },
+    {
+      "id": "breathing_exercises",
+      "order": 2,
+      "title": "Técnicas de respiração",
+      "minutes": 3,
+      "premium": false,
+      "pages": [
+        {
+          "title": "Por que a respiração ajuda",
+          "body": "Quando você fica nervoso, a respiração costuma ficar rápida e curta, o que pode deixar você ainda mais tenso. Desacelerar a respiração, especialmente tornando a expiração mais longa que a inspiração, é uma forma simples que muitas pessoas usam para se acalmar. A grande vantagem é que dá para fazer isso em qualquer lugar, inclusive numa sala de espera, sem que ninguém perceba.",
+          "tip": "Pratique essas técnicas em dias comuns para que pareçam naturais quando você precisar."
+        },
+        {
+          "title": "Respiração quadrada",
+          "body": "A respiração quadrada usa quatro etapas iguais. Inspire pelo nariz contando até quatro, segure por quatro, expire devagar por quatro e segure por quatro novamente. Repita o ciclo de quatro a seis vezes. A contagem constante dá à sua mente algo simples para focar, o que ajuda a afastar a atenção dos pensamentos ansiosos.",
+          "tip": "Desenhe um quadrado imaginário com os olhos, um lado por etapa."
+        },
+        {
+          "title": "A técnica 4-7-8",
+          "body": "O padrão 4-7-8 enfatiza uma expiração longa. Inspire suavemente pelo nariz contando até quatro, segure por sete e expire devagar pela boca por oito. Comece com três ou quatro ciclos. Se segurar por sete for desconfortável, encurte todas as contagens, mantendo a expiração como a mais longa. Pare e respire normalmente se sentir tontura.",
+          "tip": "Use-a na noite anterior à entrevista para ajudar a relaxar."
+        },
+        {
+          "title": "Respirando durante a entrevista",
+          "body": "Você não consegue fazer exercícios completos no meio da conversa, mas pode usar uma respiração lenta. Antes de responder a uma pergunta difícil, respire com calma enquanto pensa; isso passa a impressão de reflexão, não de nervosismo. Se perceber que está acelerando, faça uma pausa no fim de uma frase e solte todo o ar antes de continuar. Ninguém vai notar, mas você vai se sentir mais firme.",
+          "tip": "Combine uma respiração lenta com um gole de água para ganhar alguns segundos naturais."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Qual é o padrão da respiração quadrada?",
+          "options": ["Inspirar 4, segurar 4, expirar 4, segurar 4", "Inspirar 4, segurar 7, expirar 8", "Inspirar 2, expirar 2, repetindo rápido", "Prender a respiração o máximo possível"],
+          "answer": 0,
+          "explanation": "A respiração quadrada usa quatro etapas iguais de quatro tempos cada."
+        },
+        {
+          "id": "q2",
+          "question": "Na técnica 4-7-8, qual etapa é a mais longa?",
+          "options": ["A inspiração", "A retenção", "A expiração", "Todas são iguais"],
+          "answer": 2,
+          "explanation": "A expiração de oito tempos é a etapa mais longa e o coração da técnica."
+        },
+        {
+          "id": "q3",
+          "question": "Como você pode usar a respiração durante a própria entrevista?",
+          "options": ["Fazendo um ciclo completo de respiração quadrada antes de cada resposta", "Respirando devagar uma vez antes de responder a uma pergunta difícil", "Prendendo a respiração para parar de falar rápido", "As técnicas de respiração só funcionam antes da entrevista"],
+          "answer": 1,
+          "explanation": "Uma única respiração calma passa uma impressão de reflexão e ajuda você a se manter firme."
+        }
+      ]
+    },
+    {
+      "id": "mindfulness",
+      "order": 3,
+      "title": "Manter-se presente sob pressão",
+      "minutes": 3,
+      "premium": true,
+      "pages": [
+        {
+          "title": "Para onde vai a sua atenção",
+          "body": "Sob pressão, a mente tende a pular para a frente ('E se perguntarem sobre o meu período sem trabalhar?') ou olhar para trás ('Aquela última resposta foi péssima'). As duas coisas afastam a atenção da pergunta que está à sua frente. Manter-se presente significa trazer o foco de volta ao momento atual — a pessoa, a pergunta, a sua próxima frase — sempre que perceber que ele se dispersou.",
+          "tip": "Trate cada pergunta como um novo começo, independentemente do que aconteceu antes."
+        },
+        {
+          "title": "Técnicas de ancoragem",
+          "body": "Exercícios simples de ancoragem ajudam você a voltar ao presente. Sinta os dois pés apoiados no chão e perceba a cadeira sustentando você. Ou experimente o exercício 5-4-3-2-1 na sala de espera: identifique cinco coisas que você vê, quatro que pode tocar, três que ouve, duas cujo cheiro sente e uma cujo gosto percebe. Acionar os sentidos interrompe a espiral de pensamentos.",
+          "tip": "Pressione levemente os pés contra o chão quando sentir uma onda de nervosismo."
+        },
+        {
+          "title": "Ouça com atenção total",
+          "body": "Uma das melhores formas de se manter presente é dar ao entrevistador toda a sua atenção. Em vez de planejar a resposta enquanto ele ainda está falando, ouça a pergunta inteira e repare nas palavras-chave. Depois, reserve um instante antes de responder. Ouvir com atenção total melhora suas respostas e mantém a mente ocupada demais para se preocupar.",
+          "tip": "Se perder o fio, pergunte: 'Você poderia repetir a pergunta, por favor?'"
+        },
+        {
+          "title": "Lidando com um tropeço",
+          "body": "Todo mundo tropeça em algum momento: um branco, uma palavra que some, uma resposta confusa. Reconheça rapidamente e siga em frente: 'Deixe-me explicar isso de forma mais clara.' Não leve o erro para a próxima resposta. O entrevistador se lembra muito mais de como você se recupera do que do tropeço em si. Retomar com calma é um forte sinal de equilíbrio.",
+          "tip": "Deixe um copo de água por perto; um gole dá a você um momento natural para se recompor."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "O que significa 'manter-se presente' em uma entrevista?",
+          "options": ["Chegar no horário", "Decorar todas as suas respostas", "Trazer o foco de volta à pergunta e à conversa atuais", "Ignorar as reações do entrevistador"],
+          "answer": 2,
+          "explanation": "Manter-se presente significa trazer a atenção de volta ao momento sempre que ela se dispersar."
+        },
+        {
+          "id": "q2",
+          "question": "O que é o exercício 5-4-3-2-1?",
+          "options": ["Uma contagem de respiração", "Uma forma de classificar suas respostas", "Um exercício de ancoragem que usa os cinco sentidos", "Um método para cronometrar respostas"],
+          "answer": 2,
+          "explanation": "Identificar o que você vê, toca, ouve, cheira e saboreia traz a atenção de volta ao presente."
+        },
+        {
+          "id": "q3",
+          "question": "Você tropeça em uma resposta. Qual é a melhor abordagem?",
+          "options": ["Reconhecer rapidamente, reformular e seguir em frente", "Pedir desculpas repetidamente", "Continuar pensando nisso durante as próximas respostas", "Pedir para encerrar a entrevista"],
+          "answer": 0,
+          "explanation": "Uma recuperação rápida e calma deixa uma impressão mais forte do que o tropeço."
+        }
+      ]
+    },
+    {
+      "id": "learning_from_rejection",
+      "order": 4,
+      "title": "Aprendendo com a rejeição",
+      "minutes": 3,
+      "premium": true,
+      "pages": [
+        {
+          "title": "A rejeição faz parte do processo",
+          "body": "Quase todo mundo enfrenta rejeições durante a busca por emprego, muitas vezes várias. Um 'não' raramente é um veredito sobre o seu valor. As decisões de contratação dependem de muitos fatores que você não vê nem controla: candidatos internos, mudanças de orçamento, um perfil um pouco diferente. É normal ficar decepcionado. Dê a si mesmo um tempo e depois volte a atenção para o que você pode aprender.",
+          "tip": "Reserve um tempo definido para sentir a decepção e, em seguida, dê um pequeno próximo passo."
+        },
+        {
+          "title": "Peça feedback",
+          "body": "Responda à rejeição com educação e peça um feedback breve: 'Obrigado por me avisar. Se tiver um momento, eu agradeceria qualquer feedback que possa me ajudar a melhorar.' Nem toda empresa vai responder, e tudo bem. Quando respondem, o feedback é valioso. Mantenha a cordialidade em qualquer caso; as mesmas pessoas podem considerar você para vagas futuras.",
+          "tip": "Seja breve ao pedir feedback e nunca discuta a decisão."
+        },
+        {
+          "title": "Separe fatos de narrativas",
+          "body": "Depois de uma rejeição, é fácil contar uma história para si mesmo: 'Não sou bom o suficiente' ou 'Sempre vou mal em entrevistas.' Procure os fatos. Quais perguntas foram bem? Onde você hesitou? A vaga tinha forte aderência à sua experiência? Anotar o que realmente aconteceu ajuda você a reagir com melhorias específicas, e não com autocrítica genérica.",
+          "tip": "Escreva três fatos sobre a entrevista antes de tirar qualquer conclusão."
+        },
+        {
+          "title": "Transforme lições em ação",
+          "body": "Procure padrões ao longo de várias entrevistas, em vez de reagir a uma só. Se você costuma travar nas perguntas sobre salário, prepare essa resposta. Se raramente passa da primeira etapa, talvez seu CV ou o foco das candidaturas precise de ajustes. Escolha uma mudança concreta, pratique-a e aplique-a na próxima entrevista. Assim, cada rejeição se torna um passo à frente, e não um retrocesso.",
+          "tip": "Faça uma entrevista simulada com as perguntas que derrubaram você da última vez."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "O que uma rejeição geralmente reflete?",
+          "options": ["Que você não é empregável", "Que você deve parar de se candidatar", "Que você fez tudo errado", "Muitos fatores, alguns fora do seu controle"],
+          "answer": 3,
+          "explanation": "As decisões de contratação dependem de muitos fatores que você não vê, não só do seu desempenho."
+        },
+        {
+          "id": "q2",
+          "question": "Como você deve responder a um e-mail de rejeição?",
+          "options": ["Pedindo que reconsiderem", "Agradecendo com educação e pedindo um feedback breve", "Não respondendo", "Explicando por que a decisão deles está errada"],
+          "answer": 1,
+          "explanation": "Uma resposta cordial com pedido de feedback mantém a porta aberta e pode trazer percepções úteis."
+        },
+        {
+          "id": "q3",
+          "question": "Qual é a melhor forma de aprender com as rejeições?",
+          "options": ["Procurar padrões e escolher uma mudança concreta para praticar", "Mudar tudo depois de cada rejeição", "Focar apenas na sua pior entrevista", "Supor que vai melhorar sem mudar nada"],
+          "answer": 0,
+          "explanation": "Padrões ao longo das entrevistas mostram o que realmente precisa de ajuste; uma mudança focada é administrável."
+        }
+      ]
+    },
+    {
+      "id": "resilience",
+      "order": 5,
+      "title": "Construindo resiliência na busca por emprego",
+      "minutes": 4,
+      "premium": true,
+      "pages": [
+        {
+          "title": "Trate como um projeto",
+          "body": "Uma busca por emprego pode levar semanas ou meses, e a incerteza cansa. Tratá-la como um projeto estruturado ajuda. Defina um horário regular para candidaturas e prática e pare quando ele terminar. Concentre-se nas ações que você controla, como candidaturas enviadas, contatos feitos e entrevistas simuladas concluídas, e não em resultados que você não controla, como ofertas.",
+          "tip": "Defina uma meta semanal de ações, não de resultados."
+        },
+        {
+          "title": "Proteja sua rotina",
+          "body": "Rotinas básicas fazem uma diferença real na energia e no humor. Mantenha horários regulares de sono e refeições, saia de casa todos os dias e movimente o corpo de um jeito que você goste. Planeje atividades que não tenham nada a ver com a busca por emprego. Elas não são distrações do seu objetivo; mantêm você descansado o bastante para ter um bom desempenho nas entrevistas.",
+          "tip": "Programe pelo menos uma atividade prazerosa, sem relação com trabalho, por semana."
+        },
+        {
+          "title": "Conte com outras pessoas",
+          "body": "Buscar emprego sozinho faz os reveses pesarem mais. Compartilhe seu progresso com um amigo, alguém da família ou outra pessoa que também esteja procurando emprego, e considere participar de um grupo ou comunidade de busca de emprego. Outras pessoas podem oferecer incentivo, ajuda na prática e indicações de vagas. Se o estresse começar a parecer insuportável ou afetar o dia a dia, conversar com um psicólogo ou outro profissional qualificado pode ajudar.",
+          "tip": "Encontre um parceiro de busca de emprego e conversem uma vez por semana."
+        },
+        {
+          "title": "Perceba seu progresso",
+          "body": "O progresso na busca por emprego costuma ser invisível até que uma oferta chegue. Torne-o visível. Registre o que você fez e aprendeu: respostas mais fortes, entrevistas melhores, novos contatos, habilidades praticadas. Comemore pequenas vitórias, como chegar a uma segunda etapa ou receber um feedback positivo. Olhar para trás e ver o quanto você avançou ajuda a seguir em frente.",
+          "tip": "Anote uma vitória, por menor que seja, no fim de cada semana."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Que tipo de meta semanal fortalece a resiliência?",
+          "options": ["Número de ofertas recebidas", "Ações que você controla, como candidaturas e sessões de prática", "Nível salarial alcançado", "Número de rejeições evitadas"],
+          "answer": 1,
+          "explanation": "Focar em ações controláveis mantém você motivado, independentemente dos resultados."
+        },
+        {
+          "id": "q2",
+          "question": "Por que manter atividades sem relação com trabalho durante a busca?",
+          "options": ["Porque mantêm você descansado e capaz de ter um bom desempenho", "Porque são uma forma de evitar se candidatar", "Porque os entrevistadores perguntam sobre hobbies", "Porque encurtam a busca"],
+          "answer": 0,
+          "explanation": "Descanso e lazer preservam a energia de que você precisa para as entrevistas."
+        },
+        {
+          "id": "q3",
+          "question": "O estresse começa a afetar seu dia a dia. Qual é um bom passo?",
+          "options": ["Guardar isso para si", "Candidatar-se a mais vagas para se distrair", "Abandonar a busca de vez", "Conversar com um psicólogo ou outro profissional qualificado"],
+          "answer": 3,
+          "explanation": "Buscar apoio de uma pessoa qualificada é um passo sensato e prático."
+        }
+      ]
+    }
+  ]
+}

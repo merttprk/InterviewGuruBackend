@@ -1,0 +1,374 @@
+{
+  "id": "common_questions",
+  "order": 3,
+  "icon": "questions",
+  "color": "#F59E0B",
+  "title": "Häufige Fragen",
+  "summary": "Entwickle klare, souveräne Antworten auf die Fragen, die fast jedes Vorstellungsgespräch bringt – von „Erzählen Sie etwas über sich“ bis zum Gehalt.",
+  "topics": [
+    {
+      "id": "tell_me_about_yourself",
+      "order": 1,
+      "title": "Erzählen Sie etwas über sich",
+      "minutes": 3,
+      "premium": false,
+      "pages": [
+        {
+          "title": "Was eigentlich gefragt wird",
+          "body": "„Erzählen Sie etwas über sich“ ist keine Bitte um deine Lebensgeschichte. Dein Gegenüber möchte einen kurzen, relevanten Überblick, der erklärt, warum du für diese Stelle gut geeignet bist. Oft ist es die erste Frage und gibt damit den Ton für alles Weitere vor. Plane 60–90 Sekunden ein und konzentrier dich auf deinen beruflichen Weg, nicht auf Privates wie Familie oder Heimatort.",
+          "tip": "Bereite diese Antwort zuerst vor; eine Version davon brauchst du in fast jedem Gespräch."
+        },
+        {
+          "title": "Gegenwart: wo du heute stehst",
+          "body": "Nutze die Struktur Gegenwart–Vergangenheit–Zukunft. Beginne mit der Gegenwart: deine aktuelle Rolle oder Situation und ein Erfolg, der für diese Stelle zählt. Zum Beispiel: „Ich leite den Kundensupport bei einem Softwareunternehmen und führe ein Team von sechs Leuten. Letztes Jahr haben wir die durchschnittliche Antwortzeit von einem ganzen Tag auf vier Stunden gesenkt.“ Bleib konkret und nah an der Stelle.",
+          "tip": "Wähl den Erfolg, der am besten zur Stellenanzeige passt – nicht den, der dir am liebsten ist."
+        },
+        {
+          "title": "Vergangenheit: wie du hierhergekommen bist",
+          "body": "Geh dann kurz auf die Vergangenheit ein: die Erfahrungen, durch die du die Fähigkeiten für diese Stelle aufgebaut hast. Wähl ein oder zwei aus, nicht deinen ganzen Werdegang. „Davor war ich drei Jahre im Support tätig, habe dort unsere ersten Hilfe-Artikel geschrieben und neue Kolleginnen und Kollegen eingearbeitet.“ Wenn du gerade deinen Abschluss gemacht hast, nutze Studium, Praktika oder Projekte statt früherer Jobs.",
+          "tip": "Lass alles aus deiner Vergangenheit weg, was nicht zu dieser Stelle hinführt."
+        },
+        {
+          "title": "Zukunft: warum diese Stelle",
+          "body": "Schließ mit der Zukunft ab: was du als Nächstes willst und warum dieser Job passt. „Jetzt möchte ich in den Bereich Customer Success wechseln, wo ich Kunden langfristig begleiten kann – deshalb ist mir diese Stelle ins Auge gefallen.“ So gibst du das Gespräch ganz natürlich zurück und lädst zu Nachfragen zu den Erfahrungen ein, die du hervorgehoben hast.",
+          "tip": "Nimm deine Antwort im Probeinterview auf und streich alles, was nicht auf die Stelle hinführt."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Welcher Reihenfolge folgt die empfohlene Struktur?",
+          "options": ["Vergangenheit, Zukunft, Gegenwart", "Gegenwart, Vergangenheit, Zukunft", "Zukunft, Gegenwart, Vergangenheit", "Hobbys, Familie, Karriere"],
+          "answer": 1,
+          "explanation": "Beginne damit, wo du heute stehst, erklär, wie du dorthin gekommen bist, und sag dann, wohin du willst."
+        },
+        {
+          "id": "q2",
+          "question": "Was sollte der Zukunftsteil deiner Antwort leisten?",
+          "options": ["Deine Gehaltsvorstellung nennen", "Deine Hobbys beschreiben", "Deine Ausbildung wiederholen", "Erklären, was du als Nächstes willst und warum diese Stelle passt"],
+          "answer": 3,
+          "explanation": "Der Zukunftsteil verbindet deine Ziele mit dieser Stelle und gibt das Gespräch zurück."
+        },
+        {
+          "id": "q3",
+          "question": "Welches Detail gehört am wenigsten in deine Antwort?",
+          "options": ["Deine Familie und dein Heimatort", "Ein relevanter Erfolg in deiner aktuellen Rolle", "Fähigkeiten aus einem früheren Job", "Warum dich diese Stelle reizt"],
+          "answer": 0,
+          "explanation": "Die Frage zielt auf deinen beruflichen Weg; Privates kostet Zeit, die dir für das Wesentliche fehlt."
+        }
+      ]
+    },
+    {
+      "id": "why_this_company",
+      "order": 2,
+      "title": "Warum möchten Sie hier arbeiten?",
+      "minutes": 3,
+      "premium": false,
+      "pages": [
+        {
+          "title": "Was die Frage prüft",
+          "body": "„Warum möchten Sie hier arbeiten?“ prüft drei Dinge: ob du das Unternehmen recherchiert hast, ob deine Motivation über „irgendein Job“ hinausgeht und ob du wahrscheinlich bleiben wirst. Eine allgemeine Antwort wie „Es ist ein tolles Unternehmen mit einer tollen Kultur“ fällt bei allen dreien durch. Deine Antwort braucht Details, die auf keinen anderen Arbeitgeber zutreffen würden.",
+          "tip": "Wenn deine Antwort auch mit dem Namen eines Wettbewerbers noch Sinn ergibt, mach sie konkreter."
+        },
+        {
+          "title": "Die Antwort in drei Teilen",
+          "body": "Bau deine Antwort aus drei Verbindungen auf: das Unternehmen, die Stelle und du. Nenn zuerst etwas Konkretes über das Unternehmen, etwa ein Produkt, einen Markt oder einen aktuellen Schritt. Verbinde es dann mit den Aufgaben der Stelle. Zeig schließlich, warum dir das wichtig ist – anhand deiner Erfahrung oder deiner Ziele. Ein bis zwei Sätze pro Teil reichen.",
+          "tip": "Nutze deine Recherche-Notizen, um das eine Detail zu wählen, das am besten zu deiner Erfahrung passt."
+        },
+        {
+          "title": "Ein Beispiel",
+          "body": "„Ich verfolge Ihren Einstieg in Zahlungslösungen für kleine Unternehmen und finde es gut, dass Sie für Inhaberinnen und Inhaber entwickeln, die bisher zu kurz gekommen sind. In dieser Rolle wäre ich im Onboarding-Team – genau dort, wo ich in den letzten zwei Jahren die Registrierungs-Conversion verbessert habe. Diese Arbeit möchte ich in einem Unternehmen fortsetzen, in dem sie zentral für die Strategie ist.“",
+          "tip": "Achte darauf, wie jeder Satz eine Verbindung abdeckt: Unternehmen, Stelle, dann du."
+        },
+        {
+          "title": "Fehler, die du vermeiden solltest",
+          "body": "Stell keine Vorteile an den Anfang: Gehalt, Standort oder Extras klingen als Hauptgrund egozentrisch, auch wenn sie dir wichtig sind. Schmeichle nicht ohne Substanz; „Sie sind Marktführer“ sagt nichts aus. Kritisiere nicht deinen aktuellen Arbeitgeber, um zu erklären, warum du gehst. Und sag nicht einfach das Leitbild auf; interpretiere es und zeig, was es für dich in der Praxis bedeutet.",
+          "tip": "Heb praktische Gründe wie den Standort für spätere Gespräche auf, statt sie zur Hauptantwort zu machen."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Warum fällt „Es ist ein tolles Unternehmen mit einer tollen Kultur“ als Antwort durch?",
+          "options": ["Sie ist zu lang", "Sie erwähnt die Kultur", "Sie trifft auf jeden Arbeitgeber zu", "Sie ist zu konkret"],
+          "answer": 2,
+          "explanation": "Eine starke Antwort enthält Details, die nur auf dieses Unternehmen zutreffen."
+        },
+        {
+          "id": "q2",
+          "question": "Was sind die drei Verbindungen einer starken Antwort?",
+          "options": ["Gehalt, Standort und Extras", "Das Unternehmen, die Stelle und du", "Mission, Vision und Werte", "Vergangenheit, Gegenwart und Zukunft"],
+          "answer": 1,
+          "explanation": "Verbinde etwas Konkretes über das Unternehmen mit der Stelle und dann mit deiner eigenen Erfahrung oder deinen Zielen."
+        },
+        {
+          "id": "q3",
+          "question": "Welcher Grund sollte nicht am Anfang deiner Antwort stehen?",
+          "options": ["Ein aktueller Schritt des Unternehmens, den du bewunderst", "Wie die Stelle deine Erfahrung nutzt", "Deine beruflichen Ziele", "Das Leistungspaket"],
+          "answer": 3,
+          "explanation": "Mit Extras einzusteigen, wirkt egozentrisch – auch wenn Zusatzleistungen ein legitimer Faktor sind."
+        }
+      ]
+    },
+    {
+      "id": "strengths",
+      "order": 3,
+      "title": "Deine Stärken",
+      "minutes": 3,
+      "premium": true,
+      "pages": [
+        {
+          "title": "Wähl Stärken, die hier zählen",
+          "body": "Such dir zwei oder drei Stärken aus, auf die die Stellenanzeige erkennbar Wert legt – nicht einfach die, auf die du am stolzesten bist. Eine Datenanalystin könnte Genauigkeit, verständliches Erklären von Zahlen und Neugier wählen. Ein Vertriebler vielleicht Durchhaltevermögen und Beziehungsaufbau. Hilft eine Stärke in dieser Rolle nicht, hilft sie auch deiner Antwort nicht, egal wie wahr sie ist.",
+          "tip": "Gleich deine Stärken mit den Muss-Kriterien ab, die du in der Stellenanzeige markiert hast."
+        },
+        {
+          "title": "Sei konkret, nicht allgemein",
+          "body": "„Fleißig“, „teamfähig“ und „leidenschaftlich“ behauptet fast jeder von sich, deshalb haben sie wenig Gewicht. Formuliere jede Stärke präzise: Statt „guter Kommunikator“ sag „Ich erkläre technische Probleme verständlich für Kunden ohne Technikhintergrund“. Je enger die Beschreibung, desto glaubwürdiger klingt sie – und desto leichter kann sich dein Gegenüber vorstellen, wie du den Job machst.",
+          "tip": "Frag dich, wobei man dich konkret beobachten würde, wenn diese Stärke sichtbar wird."
+        },
+        {
+          "title": "Beleg sie mit einem Beispiel",
+          "body": "Eine Stärke ohne Beleg ist nur eine Meinung. Lass auf jede ein kurzes Beispiel folgen: die Situation, was du getan hast und das Ergebnis. „Ich kann komplexe Abläufe gut vereinfachen. In meiner letzten Stelle habe ich unseren zwanzigseitigen Einarbeitungsleitfaden in eine Checkliste mit fünf Schritten umgeschrieben, und neue Mitarbeitende waren zwei Wochen schneller voll einsatzfähig.“ Zahlen machen die Geschichte einprägsam.",
+          "tip": "Bereite pro Stärke ein Beispiel vor und halte jedes unter einer Minute."
+        },
+        {
+          "title": "Tritt selbstbewusst auf",
+          "body": "Viele verkaufen sich unter Wert, weil es sich wie Angeben anfühlt, über Stärken zu sprechen. Das ist es nicht; du beantwortest eine direkte Frage mit Fakten. Nenn die Stärke klar, liefere den Beleg und verbinde sie mit der Stelle: „Deshalb könnte ich Ihre neuen Support-Mitarbeitenden schnell einarbeiten.“ Vermeide falsche Bescheidenheit genauso wie Übertreibung.",
+          "tip": "Üb deine wichtigste Stärke laut, bis sie natürlich klingt und nicht auswendig gelernt."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Wie solltest du auswählen, welche Stärken du nennst?",
+          "options": ["Die wählen, auf die die Stelle erkennbar Wert legt", "So viele wie möglich aufzählen", "Die wählen, die deine Freunde nennen", "Die beliebtesten Stärken nehmen"],
+          "answer": 0,
+          "explanation": "Eine Stärke hilft deiner Antwort nur, wenn sie für genau diese Stelle zählt."
+        },
+        {
+          "id": "q2",
+          "question": "Warum ist „teamfähig“ für sich allein eine schwache Stärke?",
+          "options": ["Interviewende mögen keine Teamarbeit", "Es ist zu technisch", "Es klingt zu bescheiden", "Fast jeder behauptet es, deshalb hat es wenig Gewicht"],
+          "answer": 3,
+          "explanation": "Allgemeine Etiketten heben dich nicht ab; präzise Beschreibungen schon."
+        },
+        {
+          "id": "q3",
+          "question": "Was macht eine Stärke glaubwürdig?",
+          "options": ["Sie mehrmals zu wiederholen", "Sie im Lebenslauf aufzuführen", "Ein konkretes Beispiel mit Ergebnis", "Sie möglichst allgemein zu halten"],
+          "answer": 2,
+          "explanation": "Ein Beleg macht aus einer Behauptung einen Nachweis – besonders mit einem messbaren Ergebnis."
+        }
+      ]
+    },
+    {
+      "id": "weaknesses",
+      "order": 4,
+      "title": "Deine Schwächen",
+      "minutes": 4,
+      "premium": true,
+      "pages": [
+        {
+          "title": "Warum danach gefragt wird",
+          "body": "Die Frage nach Schwächen prüft Selbstreflexion und Ehrlichkeit – sie soll dich nicht aufs Glatteis führen. Dein Gegenüber möchte sehen, dass du weißt, wo du dich verbessern kannst, und aktiv daran arbeitest. Antworten wie „Ich bin Perfektionist“ oder „Ich arbeite zu viel“ klingen einstudiert und ausweichend und lassen vermuten, dass dir Selbstreflexion fehlt oder du nicht ehrlich bist.",
+          "tip": "Denk an Feedback, das du tatsächlich bekommen hast; das ist die beste Quelle für eine echte Antwort."
+        },
+        {
+          "title": "Wähl eine echte, aber unkritische Schwäche",
+          "body": "Such dir etwas Echtes aus, das für die Stelle nicht zentral ist. Ein Softwareentwickler könnte Präsentieren vor Publikum nennen; eine Buchhalterin sollte nicht mangelnde Sorgfalt nennen. Gute Optionen sind Delegieren, Nein sagen zu Zusatzaufgaben, Präsentieren vor großen Gruppen oder ein bestimmtes Tool, das du noch nicht beherrschst. Vermeide alles, was Zweifel an Integrität, Zuverlässigkeit oder den Kernfähigkeiten der Stelle weckt.",
+          "tip": "Gleich deine gewählte Schwäche mit den Muss-Kriterien der Stellenanzeige ab, bevor du sie nutzt."
+        },
+        {
+          "title": "Zeig die Verbesserung",
+          "body": "Der wichtigste Teil ist, was du dagegen tust. Geh in drei Schritten vor: Nenn die Schwäche, gib ein kurzes Beispiel, wie sie deine Arbeit beeinflusst hat, und beschreib dann konkrete Maßnahmen und Fortschritte. „Früher habe ich zu viel übernommen. Heute gehe ich meine Auslastung jede Woche mit meiner Führungskraft durch und setze bei neuen Anfragen klare Prioritäten.“",
+          "tip": "Nenn eine konkrete Gewohnheit, ein Tool oder einen Kurs – nicht nur „Ich arbeite daran“."
+        },
+        {
+          "title": "Kurz und nach vorn gerichtet",
+          "body": "Verwende etwa 20 % deiner Antwort auf die Schwäche und 80 % auf die Verbesserung. Erklär nicht zu viel, entschuldige dich nicht und zähl nicht mehrere Schwächen auf einmal auf. Ende mit deinem Fortschritt, damit dein Gegenüber sich an Entwicklung erinnert und nicht an das Problem. Falls nach einer zweiten Schwäche gefragt wird, halte eine weitere mit derselben Struktur bereit.",
+          "tip": "Teste deine Antwort im Probeinterview, um zu prüfen, ob sie ehrlich klingt und nicht auswendig gelernt."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Warum ist „Ich bin Perfektionist“ meist eine schwache Antwort?",
+          "options": ["Sie ist zu ehrlich", "Sie klingt einstudiert und ausweichend", "Sie ist zu lang", "Sie ist zu technisch"],
+          "answer": 1,
+          "explanation": "Verkleidete Stärken lassen auf fehlende Selbstreflexion oder Ehrlichkeit schließen."
+        },
+        {
+          "id": "q2",
+          "question": "Welche Schwäche wäre für eine Buchhalterin riskant?",
+          "options": ["Präsentieren vor großen Gruppen", "Arbeit delegieren", "Mangelnde Sorgfalt", "Nein sagen zu Zusatzprojekten"],
+          "answer": 2,
+          "explanation": "Sorgfalt ist eine Kernkompetenz in der Buchhaltung – ein Mangel daran ist für diese Stelle kritisch."
+        },
+        {
+          "id": "q3",
+          "question": "Wie solltest du deine Antwort aufteilen?",
+          "options": ["80 % Schwäche, 20 % Verbesserung", "Halb Schwäche, halb Verbesserung", "Nur die Schwäche beschreiben", "Etwa 20 % Schwäche, 80 % Verbesserung"],
+          "answer": 3,
+          "explanation": "Leg den Fokus darauf, was du dagegen tust, damit dein Gegenüber sich an deine Entwicklung erinnert."
+        }
+      ]
+    },
+    {
+      "id": "star_method",
+      "order": 5,
+      "title": "Die STAR-Methode",
+      "minutes": 4,
+      "premium": true,
+      "pages": [
+        {
+          "title": "Wofür STAR steht",
+          "body": "STAR ist eine Struktur für verhaltensbezogene Fragen wie „Erzählen Sie von einer Situation, in der …“. Es steht für Situation, Task (Aufgabe), Action (Handlung) und Result (Ergebnis). So bleibt deine Geschichte fokussiert, und du endest sicher mit einem Ergebnis. Auf den folgenden Seiten bauen wir ein vollständiges Beispiel zur Frage: „Erzählen Sie von einer Situation, in der Sie eine knappe Deadline bewältigt haben.“",
+          "tip": "Wenn du „Erzählen Sie von einer Situation …“ hörst, ist das dein Signal für STAR."
+        },
+        {
+          "title": "Situation und Aufgabe",
+          "body": "Die Situation beschreibt in ein, zwei Sätzen den Rahmen: „Zwei Wochen vor dem Launch für einen wichtigen Kunden hat unser leitender Designer das Unternehmen verlassen.“ Die Aufgabe erklärt deine Verantwortung: „Als Projektkoordinatorin musste ich sicherstellen, dass trotzdem alle Launch-Materialien pünktlich geliefert werden.“ Halte beides kurz; zusammen sollten sie etwa 20 % deiner Antwort ausmachen.",
+          "tip": "Streich Hintergrunddetails, die dein Gegenüber nicht braucht, um deine Herausforderung zu verstehen."
+        },
+        {
+          "title": "Handlung",
+          "body": "Die Handlung ist das Herzstück der Geschichte und sollte etwa 60 % deiner Antwort einnehmen. Sag „ich“, nicht „wir“, damit klar ist, was du getan hast. „Ich habe die restliche Arbeit in Tagesaufgaben aufgeteilt, innerhalb von zwei Tagen einen freiberuflichen Designer an Bord geholt und jeden Morgen einen 15-minütigen Check-in eingeführt, um Probleme früh zu erkennen. Außerdem habe ich mit dem Kunden vereinbart, welche Punkte in eine zweite Phase verschoben werden können.“",
+          "tip": "Zähl deine Handlungen als klare Schritte auf; das zeigt strukturiertes Denken."
+        },
+        {
+          "title": "Ergebnis",
+          "body": "Das Ergebnis schließt die Geschichte mit einem klaren, idealerweise messbaren Ausgang ab: „Wir haben alle Kernpunkte zum Launch-Termin geliefert, der Kunde hat seinen Vertrag um ein weiteres Jahr verlängert, und der tägliche Check-in wurde in unserem Team zum Standard.“ Ergänze, was du gelernt hast, wenn es relevant ist. Das Ergebnis sollte etwa 20 % deiner Antwort ausmachen; ohne es wirkt selbst eine starke Geschichte unvollständig.",
+          "tip": "Schreib vorab fünf STAR-Geschichten und üb sie im Probeinterview."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Welcher Teil einer STAR-Antwort sollte die meiste Zeit einnehmen?",
+          "options": ["Situation", "Aufgabe (Task)", "Handlung (Action)", "Ergebnis (Result)"],
+          "answer": 2,
+          "explanation": "Die Handlung sollte etwa 60 % der Antwort ausmachen, denn sie zeigt, was du tatsächlich getan hast."
+        },
+        {
+          "id": "q2",
+          "question": "Warum solltest du im Handlungsteil „ich“ statt „wir“ sagen?",
+          "options": ["Damit dein Gegenüber weiß, was du persönlich getan hast", "Weil Teamarbeit keine Rolle spielt", "Um die Geschichte kürzer zu machen", "Weil „wir“ grammatikalisch falsch ist"],
+          "answer": 0,
+          "explanation": "Bewertet wirst du, also muss dein eigener Beitrag klar erkennbar sein."
+        },
+        {
+          "id": "q3",
+          "question": "Welches Detail aus dem Beispiel gehört zum Ergebnis?",
+          "options": ["Der leitende Designer hat das Unternehmen verlassen", "Ein freiberuflicher Designer wurde an Bord geholt", "Tägliche Check-ins wurden eingeführt", "Der Kunde hat seinen Vertrag um ein weiteres Jahr verlängert"],
+          "answer": 3,
+          "explanation": "Die Vertragsverlängerung ist das Ergebnis; die anderen Punkte gehören zur Situation oder zu den Handlungen."
+        }
+      ]
+    },
+    {
+      "id": "teamwork_examples",
+      "order": 6,
+      "title": "Fragen zu Teamarbeit und Konflikten",
+      "minutes": 3,
+      "premium": true,
+      "pages": [
+        {
+          "title": "Worauf es ankommt",
+          "body": "Fragen wie „Erzählen Sie von einer Meinungsverschiedenheit mit einem Kollegen“ oder „Beschreiben Sie eine Situation in einem schwierigen Team“ prüfen, wie du dich verhältst, wenn es nicht rundläuft. Dein Gegenüber sucht nach Belegen, dass du professionell bleibst, zuhörst, das gemeinsame Ziel im Blick behältst und Lösungen findest, ohne jedes Problem an die Führungskraft weiterzugeben.",
+          "tip": "Bereite vor jedem Gespräch mindestens eine Konfliktgeschichte und eine erfolgreiche Teamgeschichte vor."
+        },
+        {
+          "title": "Wähl die richtige Geschichte",
+          "body": "Wähl eine echte, berufliche Meinungsverschiedenheit über Prioritäten, Methoden oder Fristen – keinen persönlichen Streit. Der Konflikt sollte bedeutsam genug sein, um interessant zu sein, und konstruktiv gelöst worden sein. Vermeide Geschichten, in denen du komplett recht hattest und die andere Person komplett falsch lag; damit wirkst du unflexibel. Die besten Geschichten zeigen, dass du die Sichtweise der anderen Seite verstanden hast.",
+          "tip": "Wähl eine Geschichte, nach der die Zusammenarbeit besser war und nicht schlechter."
+        },
+        {
+          "title": "Erzähl sie mit STAR",
+          "body": "Nutze STAR und betone deine Handlungen. „Ein Kollege und ich waren uneins, ob wir ein Release für weitere Tests verschieben sollten. Ich habe um ein kurzes Gespräch gebeten, mir seine Bedenken zur Qualität angehört und meine Daten zu den Auswirkungen auf Kunden geteilt. Wir haben vereinbart, die stabilen Funktionen pünktlich zu veröffentlichen und eine riskante Funktion um eine Woche zu verschieben.“ Nenn dann das Ergebnis.",
+          "tip": "Beschreib die Position der anderen Person fair; das macht deine eigenen Handlungen glaubwürdiger."
+        },
+        {
+          "title": "Typische Fallen vermeiden",
+          "body": "Sag nie, dass du noch nie einen Konflikt hattest; das klingt unrealistisch oder so, als würdest du Problemen ausweichen. Kritisiere keine ehemaligen Kolleginnen oder Kollegen und gib keine vertraulichen Details preis. Mach die Geschichte nicht nur zum Problem; verwende die meiste Zeit darauf, wie es gelöst wurde. Schließ mit einem positiven Ergebnis oder einer Erkenntnis ab, etwa einer besseren Zusammenarbeit oder einem neuen Prozess.",
+          "tip": "Lass Namen weg; „ein Kollege aus der Finanzabteilung“ reicht völlig."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Welche Geschichte eignet sich am besten für eine Konfliktfrage?",
+          "options": ["Ein persönlicher Streit mit einem Nachbarn", "Eine Situation, in der du komplett recht hattest und die andere Person falschlag", "Eine berufliche Meinungsverschiedenheit über Prioritäten, die du konstruktiv gelöst hast", "Ein Konflikt, den du gemeldet hast, ohne ihn lösen zu wollen"],
+          "answer": 2,
+          "explanation": "Eine echte berufliche Meinungsverschiedenheit mit konstruktiver Lösung zeigt Reife und Flexibilität."
+        },
+        {
+          "id": "q2",
+          "question": "Warum ist „Ich hatte noch nie einen Konflikt“ eine schlechte Antwort?",
+          "options": ["Sie klingt unrealistisch oder so, als würdest du Problemen ausweichen", "Sie ist zu lang", "Sie verrät vertrauliche Details", "Sie kritisiert Kollegen"],
+          "answer": 0,
+          "explanation": "Jeder hat bei der Arbeit Meinungsverschiedenheiten; dein Gegenüber will sehen, wie du damit umgehst."
+        },
+        {
+          "id": "q3",
+          "question": "Was zeigte im Release-Beispiel ein konstruktives Vorgehen?",
+          "options": ["Sich weigern, irgendetwas zu verschieben", "Die Führungskraft entscheiden lassen", "Alles verspätet veröffentlichen", "Bedenken anhören und sich auf einen Kompromiss einigen"],
+          "answer": 3,
+          "explanation": "Zuhören, Daten teilen und einen Mittelweg finden hat den Konflikt ohne Eskalation gelöst."
+        }
+      ]
+    },
+    {
+      "id": "salary_negotiation",
+      "order": 7,
+      "title": "Gehaltsvorstellung und Verhandlung",
+      "minutes": 4,
+      "premium": true,
+      "pages": [
+        {
+          "title": "Kenne deinen Marktwert",
+          "body": "Informiere dich vor jedem Gespräch über die übliche Gehaltsspanne für Stelle, Level und Standort. Nutze Gehaltsstudien, Stellenanzeigen mit Gehaltsangabe, Berufsverbände und Gespräche mit Leuten in ähnlichen Rollen. Sammle mehrere Quellen und notiere Unter-, Mittel- und Obergrenze. Betrachte das Gesamtpaket einschließlich Bonus, Altersvorsorge, Urlaub und Weiterbildungsbudget – nicht nur das Grundgehalt.",
+          "tip": "Nutze mindestens drei unabhängige Quellen; eine einzelne Zahl kann in die Irre führen."
+        },
+        {
+          "title": "Leg deine Spanne fest",
+          "body": "Leg dir drei Zahlen zurecht, bevor jemand fragt: deine Schmerzgrenze (das Minimum, das du akzeptieren würdest), dein Zielgehalt und eine ambitionierte, aber begründbare Obergrenze. Nenn eine Spanne, deren untere Grenze nahe an deinem Ziel liegt, nicht an deinem Minimum – denn Angebote landen meist eher am unteren Ende. Halte die Spanne recht eng, etwa 10–20 %, damit sie fundiert klingt.",
+          "tip": "Verrate nie deine Schmerzgrenze; sie ist für deine Entscheidung da, nicht fürs Gespräch."
+        },
+        {
+          "title": "Antwort auf „Was sind Ihre Gehaltsvorstellungen?“",
+          "body": "Wirst du früh gefragt, kannst du höflich umlenken: „Ich würde gern erst mehr über die Aufgaben erfahren. Können Sie mir sagen, welche Spanne budgetiert ist?“ Wird nachgehakt, nenn selbstbewusst deine recherchierte Spanne: „Nach meiner Recherche zu vergleichbaren Stellen stelle ich mir 55.000 bis 62.000 vor.“ Die erste glaubwürdige Zahl setzt den Anker für die Diskussion, also sollte deine gut begründet sein. Rechtfertige sie nicht mit privaten Ausgaben.",
+          "tip": "Nenn deine Spanne einmal klar, hör dann auf zu reden und lass dein Gegenüber antworten."
+        },
+        {
+          "title": "Das Angebot verhandeln",
+          "body": "Wenn ein Angebot kommt, bedanke dich und bitte um ein, zwei Tage Bedenkzeit. Liegt es unter deinem Ziel, antworte mit Begeisterung und einem konkreten Gegenvorschlag: „Ich freue mich sehr auf diese Stelle. Mit meiner Erfahrung in der Leitung ähnlicher Projekte – könnten wir näher an 60.000 herankommen?“ Ist das Grundgehalt fix, verhandle über anderes: Startdatum, Bonus, zusätzliche Urlaubstage oder Weiterbildung.",
+          "tip": "Üb deinen Gegenvorschlag im Probeinterview laut, bevor das echte Gespräch ansteht."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Wo sollte die untere Grenze der Spanne liegen, die du nennst?",
+          "options": ["Bei deiner Schmerzgrenze", "Nahe an deinem Zielgehalt", "Unter deinem Minimum, um flexibel zu wirken", "Beim höchsten Gehalt, das du gefunden hast"],
+          "answer": 1,
+          "explanation": "Angebote landen oft am unteren Ende deiner Spanne, deshalb sollte es nahe an deinem Ziel liegen."
+        },
+        {
+          "id": "q2",
+          "question": "Warum ist die erste glaubwürdige Zahl so wichtig?",
+          "options": ["Sie ist rechtlich bindend", "Arbeitgeber akzeptieren sie immer", "Sie beendet die Verhandlung", "Sie setzt den Anker für die weitere Diskussion"],
+          "answer": 3,
+          "explanation": "Spätere Angebote und Gegenangebote bewegen sich meist um die erste gut begründete Zahl."
+        },
+        {
+          "id": "q3",
+          "question": "Was kannst du verhandeln, wenn das Grundgehalt fix ist?",
+          "options": ["Nichts weiter", "Nur deinen Jobtitel", "Startdatum, Bonus, zusätzliche Urlaubstage oder Weiterbildung", "Den Terminkalender deines Gegenübers"],
+          "answer": 2,
+          "explanation": "Das Gesamtpaket hat mehrere Bestandteile, und viele lassen sich anpassen, auch wenn das Grundgehalt feststeht."
+        }
+      ]
+    }
+  ]
+}

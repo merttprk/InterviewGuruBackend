@@ -1,0 +1,270 @@
+{
+  "id": "stress_management",
+  "order": 7,
+  "icon": "calm",
+  "color": "#14B8A6",
+  "title": "Mengelola Stres Wawancara",
+  "summary": "Cara praktis untuk tetap tenang sebelum, selama, dan setelah wawancara, serta tetap semangat selama proses pencarian kerja yang panjang.",
+  "topics": [
+    {
+      "id": "preparation_techniques",
+      "order": 1,
+      "title": "Persiapan sebagai Pereda Stres",
+      "minutes": 3,
+      "premium": false,
+      "pages": [
+        {
+          "title": "Ketidakpastian memicu rasa gugup",
+          "body": "Sebagian besar kecemasan saat wawancara muncul karena kamu tidak tahu apa yang akan terjadi. Persiapan mengecilkan ketidakpastian itu. Saat kamu sudah mengenal perusahaannya, sudah melatih cerita-cerita utamamu, dan sudah merencanakan logistiknya, hal yang perlu dikhawatirkan pikiranmu jadi jauh lebih sedikit. Sedikit rasa gugup akan tetap ada, dan itu wajar: sedikit adrenalin justru membuatmu waspada dan fokus.",
+          "tip": "Tulis apa tepatnya yang kamu khawatirkan; sebagian besar akan berubah menjadi tugas persiapan."
+        },
+        {
+          "title": "Siapkan materi utamamu",
+          "body": "Kamu tidak perlu jawaban untuk setiap pertanyaan yang mungkin muncul. Siapkan lima atau enam cerita kuat yang menunjukkan keterampilan utamamu, seperti menyelesaikan masalah, memimpin, menangani konflik, dan belajar dari kesalahan. Sebagian besar pertanyaan perilaku bisa dijawab dengan salah satunya. Mengetahui bahwa kamu sudah punya bekal ini membuat pertanyaan tak terduga terasa jauh lebih ringan.",
+          "tip": "Tulis setiap cerita dalam tiga poin singkat, bukan naskah lengkap."
+        },
+        {
+          "title": "Hilangkan stres logistik",
+          "body": "Masalah praktis kecil bisa menimbulkan stres besar di hari-H. Malam sebelumnya, siapkan pakaianmu, cetak atau simpan CV-mu, pastikan jam dan zona waktunya, lalu rencanakan rute perjalanan atau uji tautan video kamu. Bawa air minum dan salinan catatanmu. Saat urusan logistik sudah beres, energimu bisa sepenuhnya tercurah ke percakapan.",
+          "tip": "Pasang dua alarm dan tambahkan cadangan waktu 20 menit untuk perjalananmu."
+        },
+        {
+          "title": "Rencanakan satu jam terakhir",
+          "body": "Tentukan dari awal bagaimana kamu akan menghabiskan satu jam sebelum wawancara. Hindari menghafal informasi baru secara mendadak; sebaiknya, tinjau cerita-ceritamu sebentar, makan camilan ringan, dan jalan kaki sebentar kalau memungkinkan. Banyak orang merasa rutinitas yang menenangkan, seperti playlist favorit atau latihan pernapasan, membantu mereka datang dengan fokus, bukan terburu-buru.",
+          "tip": "Lakukan simulasi wawancara singkat sehari sebelumnya, bukan sejam sebelumnya."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Mengapa persiapan mengurangi stres wawancara?",
+          "options": ["Persiapan menghilangkan rasa gugup sepenuhnya", "Persiapan mengurangi ketidakpastian sehingga lebih sedikit yang perlu dikhawatirkan", "Persiapan membuat wawancara lebih singkat", "Persiapan menjamin kamu mendapat tawaran kerja"],
+          "answer": 1,
+          "explanation": "Persiapan mengecilkan hal-hal tak pasti yang memicu kecemasan, meskipun sedikit rasa gugup tetap ada."
+        },
+        {
+          "id": "q2",
+          "question": "Berapa banyak cerita utama yang sebaiknya kamu siapkan?",
+          "options": ["Satu cerita yang sempurna", "Lima atau enam yang mencakup keterampilan utamamu", "Naskah terpisah untuk setiap pertanyaan yang mungkin muncul", "Tidak ada — improvisasi lebih baik"],
+          "answer": 1,
+          "explanation": "Sekumpulan kecil cerita yang serbaguna sudah mencakup sebagian besar pertanyaan perilaku."
+        },
+        {
+          "id": "q3",
+          "question": "Apa yang sebaiknya kamu hindari dalam satu jam sebelum wawancara?",
+          "options": ["Camilan ringan", "Jalan kaki sebentar", "Meninjau cerita-ceritamu secara singkat", "Menghafal informasi baru secara mendadak"],
+          "answer": 3,
+          "explanation": "Menghafal mendadak menambah stres; rutinitas yang tenang membantumu datang dengan fokus."
+        }
+      ]
+    },
+    {
+      "id": "breathing_exercises",
+      "order": 2,
+      "title": "Teknik Pernapasan",
+      "minutes": 3,
+      "premium": false,
+      "pages": [
+        {
+          "title": "Mengapa pernapasan membantu",
+          "body": "Saat kamu gugup, napas sering menjadi cepat dan dangkal, yang bisa membuatmu makin tegang. Memperlambat napas, terutama membuat embusan lebih panjang daripada tarikan, adalah cara sederhana yang dipakai banyak orang untuk merasa lebih tenang. Keuntungan besarnya, kamu bisa melakukannya di mana saja, termasuk di ruang tunggu, tanpa ada yang menyadarinya.",
+          "tip": "Latih teknik-teknik ini di hari biasa agar terasa alami saat kamu membutuhkannya."
+        },
+        {
+          "title": "Box breathing",
+          "body": "Box breathing terdiri dari empat langkah yang sama panjang. Tarik napas lewat hidung selama empat hitungan, tahan empat hitungan, embuskan perlahan selama empat hitungan, lalu tahan lagi empat hitungan. Ulangi siklus ini empat sampai enam kali. Hitungan yang teratur memberi pikiranmu sesuatu yang sederhana untuk difokuskan, sehingga perhatianmu teralih dari pikiran-pikiran cemas.",
+          "tip": "Bayangkan kamu menggambar persegi dengan matamu, satu sisi untuk tiap langkah."
+        },
+        {
+          "title": "Teknik 4-7-8",
+          "body": "Pola 4-7-8 menekankan embusan napas yang panjang. Tarik napas pelan lewat hidung selama empat hitungan, tahan tujuh hitungan, lalu embuskan perlahan lewat mulut selama delapan hitungan. Mulailah dengan tiga atau empat putaran. Kalau menahan tujuh hitungan terasa tidak nyaman, persingkat semua hitungan sambil tetap menjadikan embusan yang paling panjang. Berhenti dan bernapaslah normal jika kamu merasa pusing.",
+          "tip": "Gunakan teknik ini pada malam sebelum wawancara untuk membantumu rileks."
+        },
+        {
+          "title": "Bernapas selama wawancara",
+          "body": "Kamu tidak bisa melakukan latihan lengkap di tengah percakapan, tetapi kamu bisa mengambil satu napas pelan. Sebelum menjawab pertanyaan sulit, tarik napas dengan tenang sambil berpikir; ini terlihat bijak, bukan gugup. Kalau kamu sadar bicaramu makin cepat, berhentilah sejenak di akhir kalimat dan embuskan napas sepenuhnya sebelum melanjutkan. Tidak ada yang akan menyadarinya, tetapi kamu akan merasa lebih mantap.",
+          "tip": "Padukan napas pelan dengan seteguk air untuk mendapat beberapa detik jeda yang alami."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Bagaimana pola box breathing?",
+          "options": ["Tarik 4, tahan 4, embuskan 4, tahan 4", "Tarik 4, tahan 7, embuskan 8", "Tarik 2, embuskan 2, diulang dengan cepat", "Tahan napas selama mungkin"],
+          "answer": 0,
+          "explanation": "Box breathing terdiri dari empat langkah yang sama, masing-masing empat hitungan."
+        },
+        {
+          "id": "q2",
+          "question": "Dalam teknik 4-7-8, langkah mana yang paling panjang?",
+          "options": ["Tarikan napas", "Menahan napas", "Embusan napas", "Semuanya sama panjang"],
+          "answer": 2,
+          "explanation": "Embusan delapan hitungan adalah langkah terpanjang sekaligus inti dari teknik ini."
+        },
+        {
+          "id": "q3",
+          "question": "Bagaimana kamu bisa memanfaatkan pernapasan selama wawancara berlangsung?",
+          "options": ["Lakukan satu siklus box breathing penuh sebelum setiap jawaban", "Ambil satu napas pelan sebelum menjawab pertanyaan sulit", "Tahan napas agar berhenti bicara terlalu cepat", "Teknik pernapasan hanya berguna sebelum wawancara"],
+          "answer": 1,
+          "explanation": "Satu tarikan napas yang tenang terlihat bijak dan membantumu tetap mantap."
+        }
+      ]
+    },
+    {
+      "id": "mindfulness",
+      "order": 3,
+      "title": "Tetap Hadir Saat Tertekan",
+      "minutes": 3,
+      "premium": true,
+      "pages": [
+        {
+          "title": "Ke mana perhatianmu tertuju",
+          "body": "Saat tertekan, pikiranmu cenderung melompat ke depan (‘Bagaimana kalau mereka bertanya soal jeda karierku?’) atau menoleh ke belakang (‘Jawaban tadi parah sekali’). Keduanya menarik perhatianmu dari pertanyaan yang sedang dihadapi. Tetap hadir berarti mengembalikan fokusmu ke saat ini — orangnya, pertanyaannya, kalimatmu berikutnya — setiap kali kamu sadar pikiranmu mulai melayang.",
+          "tip": "Anggap setiap pertanyaan sebagai awal yang baru, apa pun yang terjadi sebelumnya."
+        },
+        {
+          "title": "Teknik grounding",
+          "body": "Latihan grounding sederhana membantumu kembali ke saat ini. Rasakan kedua telapak kakimu menapak rata di lantai dan sadari kursi yang menopangmu. Atau coba latihan 5-4-3-2-1 di ruang tunggu: sebutkan lima hal yang kamu lihat, empat yang bisa kamu sentuh, tiga yang kamu dengar, dua yang kamu cium, dan satu yang kamu kecap. Melibatkan pancaindra akan memutus pikiran yang terus berputar.",
+          "tip": "Tekan kakimu perlahan ke lantai saat gelombang rasa gugup datang."
+        },
+        {
+          "title": "Dengarkan sepenuhnya",
+          "body": "Salah satu cara terbaik untuk tetap hadir adalah memberi pewawancara perhatian penuh. Alih-alih menyusun jawaban saat mereka masih bicara, dengarkan seluruh pertanyaannya dan perhatikan kata-kata kuncinya. Lalu beri jeda sejenak sebelum menjawab. Mendengarkan sepenuhnya membuat jawabanmu lebih baik dan membuat pikiranmu terlalu sibuk untuk cemas.",
+          "tip": "Kalau kamu kehilangan alur, tanyakan: ‘Boleh diulang pertanyaannya?’"
+        },
+        {
+          "title": "Menghadapi saat tersandung",
+          "body": "Semua orang pernah tersandung: pikiran mendadak kosong, lupa kata, atau jawaban yang berantakan. Akui sebentar lalu lanjutkan: ‘Izinkan saya menjelaskannya dengan lebih jelas.’ Jangan bawa kesalahan itu ke jawaban berikutnya. Pewawancara jauh lebih mengingat caramu bangkit daripada saat kamu tersandung. Kembali tenang dengan cepat adalah sinyal kuat bahwa kamu mampu menguasai diri.",
+          "tip": "Siapkan segelas air di dekatmu; seteguk air memberimu momen alami untuk menata ulang."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Apa arti ‘tetap hadir’ dalam wawancara?",
+          "options": ["Datang tepat waktu", "Menghafal semua jawabanmu", "Mengembalikan fokusmu ke pertanyaan dan percakapan saat ini", "Mengabaikan reaksi pewawancara"],
+          "answer": 2,
+          "explanation": "Tetap hadir berarti mengembalikan perhatian ke saat ini setiap kali pikiran melayang."
+        },
+        {
+          "id": "q2",
+          "question": "Apa itu latihan 5-4-3-2-1?",
+          "options": ["Hitungan pernapasan", "Cara memberi peringkat pada jawabanmu", "Latihan grounding dengan memakai pancaindra", "Metode untuk mengatur durasi jawaban"],
+          "answer": 2,
+          "explanation": "Menyebutkan hal yang kamu lihat, sentuh, dengar, cium, dan kecap mengembalikan perhatian ke saat ini."
+        },
+        {
+          "id": "q3",
+          "question": "Kamu tersandung saat menjawab. Apa pendekatan terbaik?",
+          "options": ["Akui sebentar, ulangi dengan kalimat lain, lalu lanjutkan", "Minta maaf berulang kali", "Terus memikirkannya selama menjawab pertanyaan berikutnya", "Minta wawancara dihentikan"],
+          "answer": 0,
+          "explanation": "Bangkit dengan cepat dan tenang meninggalkan kesan yang lebih kuat daripada saat kamu tersandung."
+        }
+      ]
+    },
+    {
+      "id": "learning_from_rejection",
+      "order": 4,
+      "title": "Belajar dari Penolakan",
+      "minutes": 3,
+      "premium": true,
+      "pages": [
+        {
+          "title": "Penolakan adalah bagian dari proses",
+          "body": "Hampir semua orang mengalami penolakan selama mencari kerja, sering kali berkali-kali. Jawaban ‘tidak’ jarang merupakan penilaian atas nilai dirimu. Keputusan rekrutmen bergantung pada banyak faktor yang tidak bisa kamu lihat atau kendalikan: kandidat internal, perubahan anggaran, atau profil yang sedikit berbeda. Wajar kalau kamu merasa kecewa. Beri dirimu sedikit waktu, lalu arahkan perhatianmu pada apa yang bisa kamu pelajari.",
+          "tip": "Beri dirimu waktu tertentu untuk merasa kecewa, lalu ambil satu langkah kecil berikutnya."
+        },
+        {
+          "title": "Minta masukan",
+          "body": "Balas penolakan dengan sopan dan minta masukan singkat: ‘Terima kasih atas kabarnya. Jika ada waktu, saya akan sangat menghargai masukan yang bisa membantu saya berkembang.’ Tidak semua perusahaan akan membalas, dan itu tidak apa-apa. Jika mereka membalas, masukannya sangat berharga. Tetaplah bersikap baik apa pun hasilnya; orang yang sama mungkin akan mempertimbangkanmu untuk posisi lain di masa depan.",
+          "tip": "Buat permintaan masukanmu singkat dan jangan pernah membantah keputusannya."
+        },
+        {
+          "title": "Pisahkan fakta dari cerita",
+          "body": "Setelah ditolak, mudah sekali menceritakan sesuatu pada dirimu sendiri: ‘Aku tidak cukup bagus’ atau ‘Aku selalu gagal wawancara.’ Carilah faktanya. Pertanyaan mana yang berjalan lancar? Di mana kamu ragu-ragu? Apakah posisinya benar-benar cocok dengan pengalamanmu? Menuliskan apa yang benar-benar terjadi membantumu merespons dengan perbaikan yang spesifik, bukan kritik diri yang umum.",
+          "tip": "Tulis tiga fakta tentang wawancara itu sebelum menarik kesimpulan apa pun."
+        },
+        {
+          "title": "Ubah pelajaran menjadi tindakan",
+          "body": "Cari pola dari beberapa wawancara, bukan bereaksi terhadap satu wawancara saja. Kalau kamu sering tersendat di pertanyaan soal gaji, siapkan jawabannya. Kalau kamu jarang lolos tahap pertama, CV atau target lamaranmu mungkin perlu diperbaiki. Pilih satu perubahan konkret, latih, lalu terapkan di wawancara berikutnya. Dengan begitu, setiap penolakan menjadi langkah maju, bukan kemunduran.",
+          "tip": "Lakukan simulasi wawancara untuk pertanyaan-pertanyaan yang membuatmu tersandung sebelumnya."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Apa yang biasanya tercermin dari sebuah penolakan?",
+          "options": ["Bahwa kamu tidak layak dipekerjakan", "Bahwa kamu sebaiknya berhenti melamar", "Bahwa semua yang kamu lakukan salah", "Banyak faktor, sebagian di luar kendalimu"],
+          "answer": 3,
+          "explanation": "Keputusan rekrutmen bergantung pada banyak faktor yang tidak terlihat, bukan hanya performamu."
+        },
+        {
+          "id": "q2",
+          "question": "Bagaimana sebaiknya kamu membalas email penolakan?",
+          "options": ["Minta mereka mempertimbangkan ulang", "Ucapkan terima kasih dengan sopan dan minta masukan singkat", "Tidak perlu membalas sama sekali", "Jelaskan mengapa keputusan mereka salah"],
+          "answer": 1,
+          "explanation": "Balasan yang sopan disertai permintaan masukan menjaga pintu tetap terbuka dan bisa memberi wawasan berguna."
+        },
+        {
+          "id": "q3",
+          "question": "Apa cara terbaik untuk belajar dari penolakan?",
+          "options": ["Cari pola dan pilih satu perubahan konkret untuk dilatih", "Ubah segalanya setiap kali ditolak", "Fokus hanya pada wawancara terburukmu", "Berasumsi kamu akan membaik tanpa mengubah apa pun"],
+          "answer": 0,
+          "explanation": "Pola dari berbagai wawancara menunjukkan apa yang benar-benar perlu diperbaiki; satu perubahan yang terfokus lebih mudah dijalankan."
+        }
+      ]
+    },
+    {
+      "id": "resilience",
+      "order": 5,
+      "title": "Membangun Ketangguhan Selama Mencari Kerja",
+      "minutes": 4,
+      "premium": true,
+      "pages": [
+        {
+          "title": "Perlakukan seperti proyek",
+          "body": "Mencari kerja bisa memakan waktu berminggu-minggu atau berbulan-bulan, dan ketidakpastian itu melelahkan. Memperlakukannya sebagai proyek yang terstruktur akan membantu. Tetapkan jam kerja rutin untuk melamar dan berlatih, lalu berhenti saat jamnya selesai. Fokus pada tindakan yang bisa kamu kendalikan, seperti lamaran yang terkirim, kontak yang terjalin, dan simulasi wawancara yang selesai, bukan hasil yang di luar kendalimu, seperti tawaran kerja.",
+          "tip": "Tetapkan target mingguan berupa tindakan, bukan hasil."
+        },
+        {
+          "title": "Jaga rutinitasmu",
+          "body": "Rutinitas dasar sangat berpengaruh pada energi dan suasana hati. Jaga jam tidur dan makan yang teratur, keluar rumah setiap hari, dan gerakkan tubuhmu dengan cara yang kamu sukai. Rencanakan kegiatan yang sama sekali tidak berhubungan dengan pencarian kerja. Ini bukan pengalih dari tujuanmu; justru membuatmu cukup istirahat untuk tampil baik saat wawancara.",
+          "tip": "Jadwalkan setidaknya satu kegiatan menyenangkan tanpa urusan kerja setiap minggu."
+        },
+        {
+          "title": "Andalkan orang lain",
+          "body": "Mencari kerja sendirian membuat kemunduran terasa lebih berat. Ceritakan perkembanganmu kepada teman, anggota keluarga, atau sesama pencari kerja, dan pertimbangkan untuk bergabung dengan grup atau komunitas pencari kerja. Orang lain bisa memberi semangat, membantumu berlatih, dan membagikan info lowongan. Jika stres mulai terasa berlebihan atau mengganggu kehidupan sehari-hari, berbicara dengan konselor atau tenaga profesional lain yang kompeten bisa membantu.",
+          "tip": "Cari teman seperjuangan dalam mencari kerja dan saling kabari seminggu sekali."
+        },
+        {
+          "title": "Sadari kemajuanmu",
+          "body": "Kemajuan dalam mencari kerja sering tidak terlihat sampai tawaran datang. Buatlah kemajuan itu terlihat. Catat apa saja yang sudah kamu lakukan dan pelajari: jawaban yang makin kuat, wawancara yang makin baik, kontak baru, keterampilan yang sudah kamu latih. Rayakan kemenangan kecil, seperti lolos ke tahap kedua atau mendapat masukan positif. Melihat kembali seberapa jauh kamu melangkah membantumu terus bertahan.",
+          "tip": "Tulis satu pencapaian, sekecil apa pun, di akhir setiap minggu."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Target mingguan seperti apa yang mendukung ketangguhan?",
+          "options": ["Jumlah tawaran kerja yang diterima", "Tindakan yang bisa kamu kendalikan, seperti lamaran dan sesi latihan", "Tingkat gaji yang dicapai", "Jumlah penolakan yang berhasil dihindari"],
+          "answer": 1,
+          "explanation": "Fokus pada tindakan yang bisa dikendalikan menjaga motivasimu, apa pun hasilnya."
+        },
+        {
+          "id": "q2",
+          "question": "Mengapa tetap melakukan kegiatan di luar urusan kerja selama mencari kerja?",
+          "options": ["Kegiatan itu membuatmu cukup istirahat dan mampu tampil baik", "Kegiatan itu jadi cara untuk menghindari melamar", "Pewawancara akan bertanya soal hobi", "Kegiatan itu mempersingkat proses pencarian"],
+          "answer": 0,
+          "explanation": "Istirahat dan kesenangan menjaga energi yang kamu butuhkan untuk wawancara."
+        },
+        {
+          "id": "q3",
+          "question": "Stres mulai mengganggu kehidupan sehari-harimu. Langkah apa yang baik?",
+          "options": ["Pendam sendiri", "Lamar lebih banyak pekerjaan untuk mengalihkan pikiran", "Berhenti mencari kerja untuk selamanya", "Bicara dengan konselor atau tenaga profesional lain yang kompeten"],
+          "answer": 3,
+          "explanation": "Mendapat dukungan dari orang yang kompeten adalah langkah yang bijak dan praktis."
+        }
+      ]
+    }
+  ]
+}

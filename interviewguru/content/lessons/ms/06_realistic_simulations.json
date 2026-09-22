@@ -1,0 +1,270 @@
+{
+  "id": "realistic_simulations",
+  "order": 6,
+  "icon": "simulation",
+  "color": "#EC4899",
+  "title": "Latihan & Simulasi",
+  "summary": "Jadikan latihan sebagai kemajuan sebenar dengan mensimulasikan temu duga, merakam diri anda dan memperbaiki diri melalui pelan yang jelas.",
+  "topics": [
+    {
+      "id": "mock_interview_practice",
+      "order": 1,
+      "title": "Cara Menjalankan Temu Duga Olok-olok",
+      "minutes": 3,
+      "premium": false,
+      "pages": [
+        {
+          "title": "Mengapa simulasi lebih berkesan daripada latihan dalam fikiran",
+          "body": "Jawapan yang kedengaran sempurna dalam fikiran sering kali berantakan apabila dituturkan. Temu duga olok-olok mendedahkan kelemahannya: cerita yang terlalu panjang, angka yang anda tidak ingat, soalan yang langsung tidak dijangka. Berlatih dalam keadaan yang realistik juga menjadikan temu duga sebenar terasa biasa, sekali gus mengurangkan rasa gemuruh. Dua atau tiga simulasi penuh sebelum temu duga penting jauh lebih bernilai daripada berjam-jam membaca dalam diam.",
+          "tip": "Jadualkan temu duga olok-olok dalam kalendar anda seperti temu janji sebenar."
+        },
+        {
+          "title": "Jadikannya realistik",
+          "body": "Tiru format yang sebenar. Jika temu duga sebenar melalui video, berlatihlah melalui video; jika secara bersemuka, duduk di meja berhadapan dengan rakan latihan anda. Berpakaianlah seperti pada hari tersebut dan patuhi had masa, biasanya 30–45 minit. Jangan berhenti untuk memulakan semula jawapan — dalam temu duga sebenar anda tidak boleh berbuat demikian, jadi belajarlah untuk pulih di tengah-tengah ayat.",
+          "tip": "Gunakan ciri temu duga olok-olok di sini apabila tiada rakan latihan."
+        },
+        {
+          "title": "Pilih soalan yang sesuai",
+          "body": "Bina set soalan daripada tiga sumber: soalan lazim (‘Ceritakan tentang diri anda’, ‘Mengapa jawatan ini?’), soalan tingkah laku yang sepadan dengan huraian tugas, dan satu atau dua soalan sukar yang paling anda takuti. Minta rakan anda menambah sekurang-kurangnya satu soalan yang belum pernah anda lihat. Menangani kejutan dengan tenang ialah kemahiran yang hanya boleh dilatih dengan berdepan kejutan.",
+          "tip": "Simpan senarai soalan yang membuatkan anda teragak-agak."
+        },
+        {
+          "title": "Beri taklimat kepada rakan latihan anda",
+          "body": "Rakan, mentor atau rakan sekerja boleh menjadi penemu duga yang baik jika anda memberi mereka taklimat. Berikan huraian tugas, senarai soalan anda dan perkara yang perlu diperhatikan, seperti kata pengisi atau panjang jawapan. Minta mereka kekal dalam watak sepanjang sesi dan simpan semua maklum balas hingga ke akhir, supaya alirannya terasa seperti temu duga sebenar.",
+          "tip": "Minta rakan anda bertanya susulan ‘Boleh berikan contoh yang khusus?’ sekurang-kurangnya sekali."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Mengapa anda perlu mengelak daripada memulakan semula jawapan semasa temu duga olok-olok?",
+          "options": ["Ia membazirkan masa rakan anda", "Anda tidak boleh memulakan semula dalam temu duga sebenar, jadi anda perlu berlatih untuk pulih", "Memulakan semula menjadikan jawapan terlalu pendek", "Temu duga olok-olok tiada had masa"],
+          "answer": 1,
+          "explanation": "Temu duga sebenar tidak membenarkan ulangan, jadi berlatihlah untuk pulih di tengah-tengah jawapan."
+        },
+        {
+          "id": "q2",
+          "question": "Apakah yang perlu ada dalam set soalan anda?",
+          "options": ["Hanya soalan yang sudah dapat anda jawab dengan baik", "Hanya soalan teknikal", "Soalan lazim, soalan khusus jawatan dan beberapa soalan sukar atau tidak dijangka", "Soalan yang dipilih secara rawak dari internet"],
+          "answer": 2,
+          "explanation": "Gabungan soalan lazim, soalan yang sepadan dengan jawatan dan soalan sukar menyediakan anda untuk julat soalan sebenar."
+        },
+        {
+          "id": "q3",
+          "question": "Bilakah rakan latihan anda patut memberi maklum balas?",
+          "options": ["Pada akhir sesi", "Selepas setiap ayat", "Hanya jika anda meminta dua kali", "Tidak perlu — mendengar sahaja sudah memadai"],
+          "answer": 0,
+          "explanation": "Menyimpan maklum balas hingga ke akhir mengekalkan simulasi yang realistik."
+        }
+      ]
+    },
+    {
+      "id": "recording_setup",
+      "order": 2,
+      "title": "Merakam Diri Anda",
+      "minutes": 3,
+      "premium": false,
+      "pages": [
+        {
+          "title": "Mengapa perlu merakam",
+          "body": "Anda tidak dapat melihat wajah sendiri atau mendengar suara sendiri seperti yang dialami penemu duga. Rakaman menunjukkan tabiat yang tidak pernah anda sedari: menyentuh rambut, mengalihkan pandangan sebelum setiap jawapan, menyebut ‘sebenarnya’ dua belas kali. Kebanyakan orang berasa janggal apabila menonton rakaman buat kali pertama, dan itu perkara biasa. Rasa janggal itu cepat hilang, dan pandangan yang anda peroleh sukar didapati dengan cara lain.",
+          "tip": "Tonton rakaman pertama anda sekali untuk membiasakan diri, kemudian sekali lagi untuk menganalisisnya."
+        },
+        {
+          "title": "Persediaan yang ringkas",
+          "body": "Telefon anda sudah memadai. Letakkannya pada paras mata di atas timbunan buku atau pendirian murah, kira-kira sepanjang lengan dari anda, dengan bingkai dari dada ke atas. Duduk menghadap tingkap atau lampu supaya wajah anda terang. Rakam di bilik yang senyap dan buat ujian sepuluh saat untuk memeriksa bunyi sebelum bermula.",
+          "tip": "Hidupkan mod pesawat supaya panggilan dan pemberitahuan tidak mengganggu anda."
+        },
+        {
+          "title": "Apa yang perlu dirakam",
+          "body": "Mulakan dengan klip pendek: jawab satu soalan bagi setiap rakaman, maksimum dua minit. Pilih soalan yang pasti akan anda hadapi, seperti ‘Ceritakan tentang diri anda’ dan satu cerita tingkah laku yang penting. Setelah selesa, rakam temu duga olok-olok penuh dari mula hingga akhir. Merakam soalan yang sama pada hari yang berbeza membolehkan anda membandingkan versi dan melihat kemajuan sebenar.",
+          "tip": "Namakan setiap fail dengan soalan dan tarikhnya supaya anda boleh membandingkannya kemudian."
+        },
+        {
+          "title": "Latihan audio sahaja dan melalui skrin",
+          "body": "Untuk temu duga telefon, rakam audio sahaja, kerana suara anda sahaja yang diterima oleh penemu duga. Untuk temu duga video, rakam melalui platform sebenar atau dengan kamera komputer riba anda, supaya anda melihat dengan tepat apa yang akan dilihat oleh penemu duga, termasuk latar belakang dan arah pandangan anda. Menyesuaikan rakaman dengan format sebenar menjadikan maklum balas jauh lebih berguna.",
+          "tip": "Padamkan rakaman lama setelah anda mencatat pengajarannya supaya semuanya kekal ringkas."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Bagaimanakah anda patut membingkai diri semasa merakam?",
+          "options": ["Seluruh badan dari hujung bilik", "Rakaman dekat wajah sahaja", "Dari dada ke atas, kamera pada paras mata", "Dari bawah, kamera di atas meja"],
+          "answer": 2,
+          "explanation": "Bingkai dari dada ke atas pada paras mata sepadan dengan apa yang biasanya dilihat oleh penemu duga."
+        },
+        {
+          "id": "q2",
+          "question": "Apakah cara yang baik untuk memulakan latihan merakam?",
+          "options": ["Klip pendek dengan satu soalan setiap satu", "Sesi dua jam pada hari pertama", "Merakam panjang lebar hanya jawapan paling lemah anda", "Menunggu sehingga anda benar-benar yakin"],
+          "answer": 0,
+          "explanation": "Klip pendek dengan satu soalan mudah disemak dan dibandingkan."
+        },
+        {
+          "id": "q3",
+          "question": "Bagaimanakah anda patut berlatih untuk temu duga telefon?",
+          "options": ["Rakam video dengan latar belakang maya", "Rakam audio sahaja", "Langsung tidak perlu merakam", "Merakam sambil berjalan di luar"],
+          "answer": 1,
+          "explanation": "Penemu duga telefon hanya mendengar suara anda, jadi latihan audio sahaja sepadan dengan formatnya."
+        }
+      ]
+    },
+    {
+      "id": "self_analysis",
+      "order": 3,
+      "title": "Menyemak Rakaman Anda",
+      "minutes": 4,
+      "premium": true,
+      "pages": [
+        {
+          "title": "Semak dalam beberapa pusingan berasingan",
+          "body": "Cuba menilai semuanya serentak boleh membebankan. Sebaliknya, tonton rakaman yang sama tiga kali dengan fokus yang berbeza setiap kali. Pertama, kandungan: adakah anda menjawab soalan? Kedua, suara: rentak, kelantangan dan kata pengisi. Ketiga, bahasa badan, dengan bunyi dimatikan. Setiap pusingan adalah singkat, dan secara keseluruhan ia memberi gambaran yang jauh lebih jelas daripada sekali tonton.",
+          "tip": "Mematikan bunyi menjadikan gerak isyarat dan ekspresi wajah lebih mudah diperhatikan."
+        },
+        {
+          "title": "Semak kandungan",
+          "body": "Tanya diri anda: adakah saya menjawab soalan sebenar dalam dua ayat pertama? Adakah cerita saya mempunyai situasi, tindakan dan hasil yang jelas? Adakah saya menyertakan angka atau hasil yang khusus? Adakah ia kurang daripada dua minit? Tulis jawapan anda dalam satu baris. Jika anda tidak dapat meringkaskan jawapan anda sendiri dalam satu baris, kemungkinan besar penemu duga juga tidak dapat.",
+          "tip": "Ambil masa setiap jawapan; kebanyakan jawapan yang mantap adalah antara satu hingga dua minit."
+        },
+        {
+          "title": "Semak suara dan bahasa badan",
+          "body": "Kira kata pengisi dalam satu jawapan — ‘emm’, ‘macam’, ‘kan’. Perhatikan sama ada anda bercakap lebih laju apabila gemuruh atau suara anda semakin perlahan di hujung ayat. Dengan bunyi dimatikan, perhatikan mata, tangan dan postur anda. Adakah anda memandang kamera? Adakah tangan anda menyokong kata-kata anda atau tidak senang diam? Pilih satu tabiat yang paling mengganggu untuk diperbaiki dahulu.",
+          "tip": "Gantikan kata pengisi dengan jeda senyap yang singkat; ia kedengaran lebih yakin."
+        },
+        {
+          "title": "Berlaku adil kepada diri sendiri",
+          "body": "Penilaian kendiri paling berkesan apabila jujur tetapi seimbang. Bagi setiap rakaman, tulis dua perkara yang berjalan lancar sebelum menyenaraikan perkara yang perlu diperbaiki. Ini bukan sekadar soal semangat: mengetahui kekuatan anda memberitahu anda apa yang perlu diteruskan. Fokus pada corak merentas beberapa rakaman dan bukannya satu detik janggal yang mungkin tidak berulang lagi.",
+          "tip": "Simpan nota anda di satu tempat supaya anda dapat mengenal pasti corak yang berulang."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Mengapa rakaman perlu disemak dalam beberapa pusingan berasingan?",
+          "options": ["Jumlah masanya lebih singkat daripada sekali tonton", "Memberi tumpuan kepada satu aspek pada satu masa memberi gambaran yang lebih jelas", "Penemu duga menilai calon dengan cara ini", "Supaya anda boleh melangkau bahagian yang anda tidak suka"],
+          "answer": 1,
+          "explanation": "Kandungan, suara dan bahasa badan lebih mudah dinilai satu demi satu."
+        },
+        {
+          "id": "q2",
+          "question": "Apakah semakan yang berguna untuk kandungan jawapan?",
+          "options": ["Sama ada ia berlangsung sekurang-kurangnya lima minit", "Sama ada ia menggunakan perbendaharaan kata yang mengagumkan", "Sama ada ia menyebut setiap pekerjaan yang pernah anda sandang", "Sama ada anda dapat meringkaskannya dalam satu baris"],
+          "answer": 3,
+          "explanation": "Jika anda tidak dapat meringkaskannya dalam satu baris, mesejnya mungkin tidak jelas."
+        },
+        {
+          "id": "q3",
+          "question": "Apakah yang patut anda tulis sebelum menyenaraikan penambahbaikan?",
+          "options": ["Dua perkara yang berjalan lancar", "Skor keseluruhan anda daripada sepuluh", "Setiap kesilapan mengikut urutan", "Tiada — terus mula memperbaiki"],
+          "answer": 0,
+          "explanation": "Mencatat kekuatan dahulu mengekalkan penilaian yang seimbang dan menunjukkan apa yang perlu diteruskan."
+        }
+      ]
+    },
+    {
+      "id": "feedback_areas",
+      "order": 4,
+      "title": "Mendapatkan Maklum Balas yang Berguna",
+      "minutes": 3,
+      "premium": true,
+      "pages": [
+        {
+          "title": "Tanya soalan yang khusus",
+          "body": "‘Bagaimana prestasi saya?’ biasanya hanya mendapat jawapan sopan ‘Okey!’ yang tidak memberitahu anda apa-apa. Sebaliknya, tanya soalan yang terarah: ‘Adakah jawapan saya untuk soalan tentang konflik jelas?’, ‘Adakah saya kedengaran yakin atau terlalu dihafal?’, ‘Jawapan mana yang anda akan ingat esok?’ Soalan yang khusus memudahkan orang untuk berterus terang dan memberi anda maklumat yang benar-benar boleh digunakan.",
+          "tip": "Sediakan tiga soalan maklum balas sebelum setiap sesi latihan."
+        },
+        {
+          "title": "Empat aspek yang perlu diliputi",
+          "body": "Maklum balas yang berguna meliputi empat aspek. Kandungan: adakah contoh yang diberikan relevan dan konkrit? Struktur: adakah setiap jawapan mudah diikuti? Penyampaian: rentak, nada, kata pengisi dan hubungan mata. Tanggapan keseluruhan: adakah mereka akan membawa anda ke pusingan seterusnya, dan mengapa? Bertanya tentang keempat-empat aspek ini menghalang maklum balas daripada hanya tertumpu pada isu yang paling ketara.",
+          "tip": "Kongsikan empat aspek ini dengan rakan anda sebelum sesi bermula."
+        },
+        {
+          "title": "Pilih sumber maklum balas yang pelbagai",
+          "body": "Setiap orang memerhatikan perkara yang berbeza. Rakan sesuai untuk menilai penyampaian dan keyakinan. Seseorang yang bekerja dalam bidang sasaran anda boleh menilai sama ada contoh anda relevan. Mentor atau penasihat kerjaya boleh mengenal pasti corak yang lebih besar. Alat automatik menambah data objektif tentang rentak dan kata pengisi. Menggabungkan dua atau tiga sumber memberi anda gambaran yang lebih lengkap dan kurang berat sebelah.",
+          "tip": "Gunakan ciri semakan CV supaya CV dan jawapan anda menyampaikan cerita yang sama."
+        },
+        {
+          "title": "Terima maklum balas dengan baik",
+          "body": "Dengar tanpa mempertahankan diri. Ambil nota, minta contoh jika sesuatu perkara kurang jelas, dan ucapkan terima kasih, walaupun maklum balas itu pedih. Anda tidak perlu bersetuju dengan semuanya; cari komen yang dibangkitkan oleh lebih daripada seorang. Perkara yang berulang itulah biasanya yang paling berbaloi untuk diberi perhatian.",
+          "tip": "Katakan ‘Boleh tunjukkan di mana perkara itu berlaku?’ dan bukannya menjelaskan diri anda."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Soalan maklum balas yang manakah paling berguna?",
+          "options": ["Bagaimana prestasi saya?", "Tadi okey tak?", "Anda suka tak?", "Adakah jawapan saya untuk soalan tentang konflik jelas?"],
+          "answer": 3,
+          "explanation": "Soalan yang khusus menghasilkan jawapan yang jujur dan boleh diambil tindakan."
+        },
+        {
+          "id": "q2",
+          "question": "Mengapa perlu menggunakan lebih daripada satu sumber maklum balas?",
+          "options": ["Setiap orang memerhatikan perkara yang berbeza", "Satu sumber sentiasa salah", "Ia menjadikan latihan lebih pantas", "Penemu duga mewajibkannya"],
+          "answer": 0,
+          "explanation": "Menggabungkan sumber memberi gambaran yang lebih lengkap dan kurang berat sebelah."
+        },
+        {
+          "id": "q3",
+          "question": "Maklum balas yang manakah paling perlu diberi perhatian?",
+          "options": ["Yang anda bersetuju", "Komen yang paling keras", "Perkara yang diulang oleh lebih daripada seorang", "Komen terbaharu sahaja"],
+          "answer": 2,
+          "explanation": "Komen yang berulang biasanya mencerminkan corak sebenar yang wajar diperbaiki."
+        }
+      ]
+    },
+    {
+      "id": "improvement_plan",
+      "order": 5,
+      "title": "Membina Pelan Penambahbaikan",
+      "minutes": 4,
+      "premium": true,
+      "pages": [
+        {
+          "title": "Daripada nota kepada keutamaan",
+          "body": "Selepas beberapa sesi latihan, anda akan mempunyai senarai nota yang panjang. Jangan cuba memperbaiki semuanya. Kumpulkan nota mengikut tema, seperti cerita yang kurang jelas, pembukaan yang lemah atau tabiat ketika gemuruh, kemudian susun mengikut impak. Pilih dua atau tiga perubahan yang paling dapat meningkatkan tanggapan penemu duga terhadap anda, dan ketepikan yang lain buat sementara waktu.",
+          "tip": "Tanya diri anda: perubahan mana yang akan disedari penemu duga terlebih dahulu?"
+        },
+        {
+          "title": "Tetapkan matlamat yang konkrit",
+          "body": "Matlamat yang kabur seperti ‘lebih yakin’ sukar dilatih. Jadikan setiap keutamaan sesuatu yang boleh diperhatikan dan diukur: ‘Menjawab \"Ceritakan tentang diri anda\" dalam masa kurang daripada 90 saat’, ‘Kurang daripada tiga kata pengisi bagi setiap jawapan’, ‘Menyertakan satu angka dalam setiap cerita tingkah laku’. Matlamat yang konkrit memberitahu anda dengan tepat apa yang perlu dilatih dan bila anda telah berjaya.",
+          "tip": "Tulis setiap matlamat sebagai sesuatu yang boleh disemak oleh orang asing pada rakaman anda."
+        },
+        {
+          "title": "Berlatih dalam kitaran pendek dan berfokus",
+          "body": "Bekerja dalam kitaran kecil: latih satu matlamat, rakam, semak, laraskan. Lima belas minit berfokus setiap hari lebih baik daripada sesi tiga jam seminggu sekali. Rakam semula soalan yang sama sehingga matlamat tercapai, kemudian beralih ke yang seterusnya. Lebih kurang setiap minggu, jalankan temu duga olok-olok penuh untuk memastikan setiap penambahbaikan kekal apabila digabungkan.",
+          "tip": "Jalankan temu duga olok-olok penuh pada setiap hujung minggu untuk menguji semuanya sekali gus."
+        },
+        {
+          "title": "Jejaki kemajuan dan laraskan",
+          "body": "Simpan log ringkas: tarikh, soalan, matlamat dan hasil. Membandingkan rakaman pertama dan terbaharu anda memberi motivasi dan menunjukkan apa yang berkesan. Jika sesuatu matlamat tidak menunjukkan peningkatan selepas seminggu, ubah pendekatan — tulis cerita itu, ringkaskannya atau berlatih dengan rakan yang lain. Setelah sesuatu matlamat menjadi tabiat, gantikannya dengan keutamaan seterusnya.",
+          "tip": "Simpan rakaman pertama anda sebagai penanda aras untuk dibandingkan kemudian."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Berapa banyak perubahan yang patut anda fokuskan pada satu masa?",
+          "options": ["Semua yang ada dalam senarai anda", "Dua atau tiga perubahan berimpak tinggi", "Hanya satu setiap bulan", "Tiada sehingga temu duga sebenar"],
+          "answer": 1,
+          "explanation": "Memberi tumpuan kepada beberapa perubahan berimpak tinggi menghasilkan peningkatan yang ketara dengan lebih cepat."
+        },
+        {
+          "id": "q2",
+          "question": "Yang manakah matlamat yang konkrit dan boleh diukur?",
+          "options": ["Lebih yakin", "Kelihatan profesional", "Menjawab ‘Ceritakan tentang diri anda’ dalam masa kurang daripada 90 saat", "Buat lebih baik lain kali"],
+          "answer": 2,
+          "explanation": "Matlamat yang boleh diukur memberitahu anda dengan tepat apa yang perlu dilatih dan bila anda telah berjaya."
+        },
+        {
+          "id": "q3",
+          "question": "Sesuatu matlamat tidak menunjukkan peningkatan selepas seminggu. Apakah yang patut anda lakukan?",
+          "options": ["Berputus asa", "Terus mengulangi pendekatan yang sama", "Menunggu temu duga sebenar", "Mengubah pendekatan, seperti meringkaskan cerita atau mencuba rakan latihan baharu"],
+          "answer": 3,
+          "explanation": "Jika sesuatu tidak berkesan, laraskan kaedahnya dan bukannya terus mengulanginya."
+        }
+      ]
+    }
+  ]
+}

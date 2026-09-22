@@ -1,0 +1,270 @@
+{
+  "id": "realistic_simulations",
+  "order": 6,
+  "icon": "simulation",
+  "color": "#EC4899",
+  "title": "Latihan & Simulasi",
+  "summary": "Ubah latihan jadi kemajuan nyata dengan menyimulasikan wawancara, merekam dirimu, dan berkembang lewat rencana yang jelas.",
+  "topics": [
+    {
+      "id": "mock_interview_practice",
+      "order": 1,
+      "title": "Cara Menjalankan Simulasi Wawancara",
+      "minutes": 3,
+      "premium": false,
+      "pages": [
+        {
+          "title": "Kenapa simulasi lebih efektif daripada latihan di kepala",
+          "body": "Jawaban yang terdengar sempurna di kepala sering berantakan saat diucapkan. Simulasi wawancara memperlihatkan celahnya: cerita yang terlalu panjang, angka yang kamu lupa, pertanyaan yang sama sekali tidak kamu duga. Berlatih dalam kondisi yang realistis juga membuat wawancara sungguhan terasa familier, sehingga rasa gugup berkurang. Dua atau tiga simulasi lengkap sebelum wawancara penting jauh lebih berharga daripada berjam-jam membaca dalam hati.",
+          "tip": "Jadwalkan simulasi wawancara di kalendermu seperti janji temu sungguhan."
+        },
+        {
+          "title": "Buat serealistis mungkin",
+          "body": "Tiru format yang sebenarnya. Kalau wawancara aslinya lewat video, berlatihlah lewat video; kalau tatap muka, duduklah di meja berhadapan dengan partner latihanmu. Berpakaianlah seperti di hari-H dan patuhi batas waktu, biasanya 30–45 menit. Jangan berhenti untuk mengulang jawaban — di wawancara sungguhan kamu tidak bisa melakukannya, jadi latih dirimu untuk bangkit kembali di tengah kalimat.",
+          "tip": "Gunakan fitur simulasi wawancara di sini saat tidak ada partner latihan."
+        },
+        {
+          "title": "Pilih pertanyaan yang tepat",
+          "body": "Susun daftar pertanyaan dari tiga sumber: pertanyaan umum (‘Ceritakan tentang dirimu’, ‘Kenapa posisi ini?’), pertanyaan perilaku yang sesuai dengan deskripsi pekerjaan, dan satu atau dua pertanyaan sulit yang paling kamu takuti. Minta partnermu menambahkan setidaknya satu pertanyaan yang belum pernah kamu lihat. Menghadapi kejutan dengan tenang adalah keterampilan yang hanya bisa dilatih dengan benar-benar menghadapi kejutan.",
+          "tip": "Catat terus pertanyaan yang membuatmu ragu saat menjawab."
+        },
+        {
+          "title": "Beri arahan pada partner latihanmu",
+          "body": "Teman, mentor, atau rekan kerja bisa jadi pewawancara yang baik kalau kamu memberi mereka arahan. Berikan deskripsi pekerjaan, daftar pertanyaanmu, dan hal-hal yang perlu diperhatikan, seperti kata pengisi atau panjang jawaban. Minta mereka tetap dalam peran selama sesi dan menyimpan semua masukan sampai akhir, supaya alurnya terasa seperti wawancara sungguhan.",
+          "tip": "Minta partnermu bertanya lanjutan ‘Bisa beri contoh yang spesifik?’ setidaknya sekali."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Kenapa kamu sebaiknya tidak mengulang jawaban saat simulasi wawancara?",
+          "options": ["Itu membuang waktu partnermu", "Kamu tidak bisa mengulang di wawancara sungguhan, jadi kamu perlu berlatih bangkit kembali", "Mengulang membuat jawaban terlalu pendek", "Simulasi wawancara tidak punya batas waktu"],
+          "answer": 1,
+          "explanation": "Wawancara sungguhan tidak memberi kesempatan mengulang, jadi latih dirimu untuk bangkit kembali di tengah jawaban."
+        },
+        {
+          "id": "q2",
+          "question": "Apa saja yang perlu ada dalam daftar pertanyaanmu?",
+          "options": ["Hanya pertanyaan yang sudah bisa kamu jawab dengan baik", "Hanya pertanyaan teknis", "Pertanyaan umum, pertanyaan khusus posisi, dan beberapa pertanyaan sulit atau tak terduga", "Pertanyaan yang dipilih acak dari internet"],
+          "answer": 2,
+          "explanation": "Campuran pertanyaan umum, yang sesuai posisi, dan yang sulit menyiapkanmu untuk ragam pertanyaan yang sebenarnya."
+        },
+        {
+          "id": "q3",
+          "question": "Kapan partner latihanmu sebaiknya memberi masukan?",
+          "options": ["Di akhir sesi", "Setelah setiap kalimat", "Hanya kalau kamu meminta dua kali", "Tidak pernah — cukup mendengarkan saja"],
+          "answer": 0,
+          "explanation": "Menyimpan masukan sampai akhir menjaga simulasi tetap realistis."
+        }
+      ]
+    },
+    {
+      "id": "recording_setup",
+      "order": 2,
+      "title": "Merekam Dirimu Sendiri",
+      "minutes": 3,
+      "premium": false,
+      "pages": [
+        {
+          "title": "Kenapa perlu merekam",
+          "body": "Kamu tidak bisa melihat wajahmu atau mendengar suaramu seperti yang dialami pewawancara. Rekaman memperlihatkan kebiasaan yang tidak pernah kamu sadari: memegang rambut, membuang pandangan sebelum setiap jawaban, mengucapkan ‘pada dasarnya’ dua belas kali. Kebanyakan orang merasa canggung saat pertama kali menonton rekamannya, dan itu wajar. Rasa canggung itu cepat hilang, dan wawasan yang kamu dapat sulit diperoleh dengan cara lain.",
+          "tip": "Tonton rekaman pertamamu sekali hanya untuk membiasakan diri, lalu sekali lagi untuk menganalisisnya."
+        },
+        {
+          "title": "Pengaturan sederhana",
+          "body": "Ponselmu sudah cukup. Letakkan sejajar mata di atas tumpukan buku atau penyangga murah, sekitar satu lengan jauhnya, dengan bingkai dari dada ke atas. Duduklah menghadap jendela atau lampu supaya wajahmu terang. Rekam di ruangan yang tenang dan lakukan tes sepuluh detik untuk mengecek suara sebelum mulai.",
+          "tip": "Aktifkan mode pesawat supaya telepon dan notifikasi tidak mengganggu."
+        },
+        {
+          "title": "Apa yang perlu direkam",
+          "body": "Mulailah dengan klip pendek: jawab satu pertanyaan per rekaman, maksimal dua menit. Pilih pertanyaan yang pasti akan kamu hadapi, seperti ‘Ceritakan tentang dirimu’ dan satu cerita perilaku yang penting. Setelah nyaman, rekam simulasi wawancara lengkap dari awal sampai akhir. Merekam pertanyaan yang sama di hari yang berbeda memungkinkanmu membandingkan versi dan melihat kemajuan nyata.",
+          "tip": "Beri nama setiap file dengan pertanyaan dan tanggalnya supaya mudah dibandingkan nanti."
+        },
+        {
+          "title": "Latihan audio saja dan lewat layar",
+          "body": "Untuk wawancara telepon, rekam audionya saja, karena suaramu adalah satu-satunya yang ditangkap pewawancara. Untuk wawancara video, rekam lewat platform yang akan dipakai atau dengan kamera laptopmu, supaya kamu melihat persis apa yang akan dilihat pewawancara, termasuk latar belakang dan arah pandanganmu. Menyesuaikan rekaman dengan format sebenarnya membuat masukannya jauh lebih berguna.",
+          "tip": "Hapus rekaman lama setelah kamu mencatat pelajarannya supaya tetap simpel."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Bagaimana sebaiknya bingkai gambarmu saat merekam?",
+          "options": ["Seluruh badan dari seberang ruangan", "Close-up wajah saja", "Dari dada ke atas, kamera sejajar mata", "Dari bawah, kamera di atas meja"],
+          "answer": 2,
+          "explanation": "Bingkai dari dada ke atas dengan kamera sejajar mata sesuai dengan yang biasanya dilihat pewawancara."
+        },
+        {
+          "id": "q2",
+          "question": "Apa cara yang baik untuk memulai latihan merekam?",
+          "options": ["Klip pendek berisi satu pertanyaan masing-masing", "Sesi dua jam di hari pertama", "Merekam panjang lebar hanya jawaban terlemahmu", "Menunggu sampai kamu benar-benar percaya diri"],
+          "answer": 0,
+          "explanation": "Klip pendek berisi satu pertanyaan mudah ditinjau dan dibandingkan."
+        },
+        {
+          "id": "q3",
+          "question": "Bagaimana cara berlatih untuk wawancara telepon?",
+          "options": ["Rekam video dengan latar belakang virtual", "Rekam audio saja", "Tidak usah merekam sama sekali", "Merekam sambil berjalan di luar"],
+          "answer": 1,
+          "explanation": "Pewawancara telepon hanya mendengar suaramu, jadi latihan audio saja sesuai dengan formatnya."
+        }
+      ]
+    },
+    {
+      "id": "self_analysis",
+      "order": 3,
+      "title": "Meninjau Rekamanmu",
+      "minutes": 4,
+      "premium": true,
+      "pages": [
+        {
+          "title": "Tinjau dalam beberapa putaran terpisah",
+          "body": "Mencoba menilai semuanya sekaligus itu melelahkan. Sebagai gantinya, tonton rekaman yang sama tiga kali dengan fokus berbeda setiap kali. Pertama, isi: apakah kamu menjawab pertanyaannya? Kedua, suara: tempo, volume, dan kata pengisi. Ketiga, bahasa tubuh, dengan suara dimatikan. Setiap putaran singkat, dan jika digabungkan memberimu gambaran yang jauh lebih jelas daripada sekali tonton.",
+          "tip": "Mematikan suara membuat gerakan tangan dan ekspresi wajah jauh lebih mudah diperhatikan."
+        },
+        {
+          "title": "Periksa isinya",
+          "body": "Tanyakan pada dirimu: apakah aku menjawab pertanyaan yang sebenarnya dalam dua kalimat pertama? Apakah ceritaku punya situasi, tindakan, dan hasil yang jelas? Apakah aku menyertakan angka atau hasil yang spesifik? Apakah durasinya di bawah dua menit? Tulis jawabanmu dalam satu baris. Kalau kamu tidak bisa merangkum jawabanmu sendiri dalam satu baris, kemungkinan besar pewawancara juga tidak bisa.",
+          "tip": "Hitung durasi setiap jawaban; kebanyakan jawaban yang kuat berada di antara satu dan dua menit."
+        },
+        {
+          "title": "Periksa suara dan bahasa tubuh",
+          "body": "Hitung kata pengisi dalam satu jawaban — ‘emm’, ‘kayak’, ‘gitu lho’. Perhatikan apakah kamu berbicara lebih cepat saat gugup atau suaramu melemah di akhir kalimat. Dengan suara dimatikan, amati mata, tangan, dan postur tubuhmu. Apakah kamu menatap kamera? Apakah tanganmu mendukung ucapanmu atau malah gelisah? Pilih satu kebiasaan yang paling mengganggu untuk diperbaiki lebih dulu.",
+          "tip": "Ganti kata pengisi dengan jeda singkat tanpa suara; itu terdengar lebih percaya diri."
+        },
+        {
+          "title": "Bersikap adil pada dirimu",
+          "body": "Evaluasi diri paling efektif jika jujur tapi seimbang. Untuk setiap rekaman, tulis dua hal yang berjalan baik sebelum mencatat apa yang perlu diperbaiki. Ini bukan sekadar soal semangat: mengetahui kekuatanmu memberitahumu apa yang perlu terus dilakukan. Fokuslah pada pola di beberapa rekaman, bukan pada satu momen canggung yang mungkin tidak akan terulang.",
+          "tip": "Simpan catatanmu di satu tempat supaya kamu bisa melihat pola yang berulang."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Kenapa rekaman perlu ditinjau dalam beberapa putaran terpisah?",
+          "options": ["Total waktunya lebih singkat daripada sekali tonton", "Fokus pada satu aspek setiap kali memberi gambaran yang lebih jelas", "Pewawancara menilai kandidat dengan cara ini", "Supaya kamu bisa melewati bagian yang tidak kamu sukai"],
+          "answer": 1,
+          "explanation": "Isi, suara, dan bahasa tubuh lebih mudah dinilai satu per satu."
+        },
+        {
+          "id": "q2",
+          "question": "Apa cara yang berguna untuk memeriksa isi jawaban?",
+          "options": ["Apakah durasinya minimal lima menit", "Apakah memakai kosakata yang mengesankan", "Apakah menyebutkan semua pekerjaan yang pernah kamu jalani", "Apakah kamu bisa merangkumnya dalam satu baris"],
+          "answer": 3,
+          "explanation": "Kalau kamu tidak bisa merangkumnya dalam satu baris, pesannya kemungkinan kurang jelas."
+        },
+        {
+          "id": "q3",
+          "question": "Apa yang perlu kamu tulis sebelum mencatat hal yang perlu diperbaiki?",
+          "options": ["Dua hal yang berjalan baik", "Skor keseluruhanmu dari sepuluh", "Semua kesalahan secara berurutan", "Tidak ada — langsung saja perbaiki"],
+          "answer": 0,
+          "explanation": "Mencatat kekuatan lebih dulu menjaga evaluasi tetap seimbang dan menunjukkan apa yang perlu terus dilakukan."
+        }
+      ]
+    },
+    {
+      "id": "feedback_areas",
+      "order": 4,
+      "title": "Mendapatkan Masukan yang Berguna",
+      "minutes": 3,
+      "premium": true,
+      "pages": [
+        {
+          "title": "Ajukan pertanyaan yang spesifik",
+          "body": "‘Bagaimana penampilanku?’ biasanya hanya dijawab ‘Bagus kok!’ dengan sopan, dan itu tidak memberitahumu apa-apa. Ajukan pertanyaan yang terarah: ‘Apakah jawabanku untuk pertanyaan soal konflik sudah jelas?’, ‘Apakah aku terdengar percaya diri atau terlalu dihafal?’, ‘Jawaban mana yang akan kamu ingat besok?’ Pertanyaan spesifik memudahkan orang untuk jujur dan memberimu informasi yang benar-benar bisa kamu pakai.",
+          "tip": "Siapkan tiga pertanyaan masukan sebelum setiap sesi latihan."
+        },
+        {
+          "title": "Empat aspek yang perlu dibahas",
+          "body": "Masukan yang berguna mencakup empat aspek. Isi: apakah contohnya relevan dan konkret? Struktur: apakah setiap jawaban mudah diikuti? Penyampaian: tempo, nada, kata pengisi, dan kontak mata. Kesan keseluruhan: apakah mereka akan meloloskanmu ke tahap berikutnya, dan kenapa? Menanyakan keempatnya mencegah masukan hanya berfokus pada masalah yang paling kelihatan.",
+          "tip": "Bagikan keempat aspek ini pada partnermu sebelum sesi dimulai."
+        },
+        {
+          "title": "Pilih sumber masukan yang beragam",
+          "body": "Setiap orang menangkap hal yang berbeda. Teman cocok untuk menilai penyampaian dan rasa percaya diri. Orang yang bekerja di bidang incaranmu bisa menilai apakah contohmu relevan. Mentor atau konsultan karier bisa melihat pola yang lebih besar. Alat otomatis menambahkan data objektif soal tempo dan kata pengisi. Menggabungkan dua atau tiga sumber memberimu gambaran yang lebih lengkap dan tidak bias.",
+          "tip": "Gunakan fitur review CV supaya CV dan jawabanmu menceritakan kisah yang sama."
+        },
+        {
+          "title": "Terima masukan dengan baik",
+          "body": "Dengarkan tanpa membela diri. Buat catatan, minta contoh kalau ada poin yang kurang jelas, dan ucapkan terima kasih, bahkan saat masukannya terasa pedas. Kamu tidak harus setuju dengan semuanya; cari komentar yang muncul dari lebih dari satu orang. Poin yang berulang itulah yang biasanya paling layak kamu perhatikan.",
+          "tip": "Katakan ‘Bisa tunjukkan di bagian mana itu terjadi?’ alih-alih menjelaskan dirimu."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Pertanyaan masukan mana yang paling berguna?",
+          "options": ["Bagaimana penampilanku?", "Tadi oke nggak?", "Kamu suka nggak?", "Apakah jawabanku untuk pertanyaan soal konflik sudah jelas?"],
+          "answer": 3,
+          "explanation": "Pertanyaan spesifik menghasilkan jawaban yang jujur dan bisa ditindaklanjuti."
+        },
+        {
+          "id": "q2",
+          "question": "Kenapa perlu memakai lebih dari satu sumber masukan?",
+          "options": ["Setiap orang menangkap hal yang berbeda", "Satu sumber selalu salah", "Membuat latihan lebih cepat", "Pewawancara mewajibkannya"],
+          "answer": 0,
+          "explanation": "Menggabungkan beberapa sumber memberi gambaran yang lebih lengkap dan tidak bias."
+        },
+        {
+          "id": "q3",
+          "question": "Poin masukan mana yang paling perlu diperhatikan?",
+          "options": ["Yang kamu setujui", "Komentar yang paling keras", "Poin yang diulang oleh lebih dari satu orang", "Hanya komentar terbaru"],
+          "answer": 2,
+          "explanation": "Komentar yang berulang biasanya mencerminkan pola nyata yang layak diperbaiki."
+        }
+      ]
+    },
+    {
+      "id": "improvement_plan",
+      "order": 5,
+      "title": "Menyusun Rencana Perbaikan",
+      "minutes": 4,
+      "premium": true,
+      "pages": [
+        {
+          "title": "Dari catatan ke prioritas",
+          "body": "Setelah beberapa sesi latihan, kamu akan punya daftar catatan yang panjang. Jangan coba memperbaiki semuanya. Kelompokkan catatan ke dalam tema, seperti cerita yang kurang jelas, pembuka yang lemah, atau kebiasaan saat gugup, lalu urutkan berdasarkan dampaknya. Pilih dua atau tiga perubahan yang paling meningkatkan kesan pewawancara terhadapmu, dan kesampingkan sisanya untuk sementara.",
+          "tip": "Tanyakan pada dirimu: perubahan mana yang paling dulu disadari pewawancara?"
+        },
+        {
+          "title": "Tetapkan target yang konkret",
+          "body": "Target yang samar seperti ‘lebih percaya diri’ sulit dilatih. Ubah setiap prioritas menjadi sesuatu yang bisa diamati dan diukur: ‘Menjawab \"Ceritakan tentang dirimu\" dalam waktu kurang dari 90 detik’, ‘Kurang dari tiga kata pengisi per jawaban’, ‘Menyertakan satu angka di setiap cerita perilaku’. Target yang konkret memberitahumu persis apa yang perlu dilatih dan kapan kamu berhasil.",
+          "tip": "Tulis setiap target sebagai sesuatu yang bisa dicek orang asing dari rekamanmu."
+        },
+        {
+          "title": "Berlatih dalam siklus singkat dan terfokus",
+          "body": "Bekerjalah dalam siklus kecil: latih satu target, rekam, tinjau, sesuaikan. Lima belas menit yang terfokus setiap hari lebih efektif daripada sesi tiga jam seminggu sekali. Rekam ulang pertanyaan yang sama sampai targetnya tercapai, lalu lanjut ke yang berikutnya. Kira-kira setiap minggu, jalankan simulasi wawancara lengkap untuk memastikan semua perbaikan tetap bertahan saat digabungkan.",
+          "tip": "Jalankan simulasi wawancara lengkap di akhir setiap minggu untuk menguji semuanya sekaligus."
+        },
+        {
+          "title": "Pantau kemajuan dan sesuaikan",
+          "body": "Buat catatan sederhana: tanggal, pertanyaan, target, dan hasil. Membandingkan rekaman pertama dan terbarumu itu memotivasi dan menunjukkan apa yang berhasil. Kalau sebuah target tidak membaik setelah seminggu, ubah pendekatannya — tulis ceritanya, sederhanakan, atau berlatih dengan partner lain. Begitu sebuah target sudah jadi kebiasaan, ganti dengan prioritas berikutnya.",
+          "tip": "Simpan rekaman pertamamu sebagai tolok ukur untuk dibandingkan nanti."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Berapa banyak perubahan yang sebaiknya kamu fokuskan sekaligus?",
+          "options": ["Semua yang ada di daftarmu", "Dua atau tiga perubahan berdampak besar", "Hanya satu per bulan", "Tidak ada sampai wawancara sungguhan"],
+          "answer": 1,
+          "explanation": "Berfokus pada sedikit perubahan berdampak besar menghasilkan peningkatan yang terlihat lebih cepat."
+        },
+        {
+          "id": "q2",
+          "question": "Mana yang merupakan target konkret dan terukur?",
+          "options": ["Lebih percaya diri", "Terlihat profesional", "Menjawab ‘Ceritakan tentang dirimu’ dalam waktu kurang dari 90 detik", "Lebih baik lain kali"],
+          "answer": 2,
+          "explanation": "Target yang terukur memberitahumu persis apa yang perlu dilatih dan kapan kamu berhasil."
+        },
+        {
+          "id": "q3",
+          "question": "Sebuah target tidak membaik setelah seminggu. Apa yang sebaiknya kamu lakukan?",
+          "options": ["Menyerah saja", "Terus mengulang pendekatan yang persis sama", "Menunggu wawancara sungguhan", "Mengubah pendekatan, misalnya menyederhanakan cerita atau mencoba partner baru"],
+          "answer": 3,
+          "explanation": "Kalau sesuatu tidak berhasil, sesuaikan metodenya alih-alih terus mengulanginya."
+        }
+      ]
+    }
+  ]
+}

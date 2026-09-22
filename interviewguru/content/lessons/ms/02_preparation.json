@@ -1,0 +1,322 @@
+{
+  "id": "preparation",
+  "order": 2,
+  "icon": "preparation",
+  "color": "#0EA5E9",
+  "title": "Persediaan",
+  "summary": "Hadiri setiap temu duga dengan bersedia: kenali syarikat, jawatan, CV anda, soalan anda dan rancangan anda untuk hari tersebut.",
+  "topics": [
+    {
+      "id": "company_research",
+      "order": 1,
+      "title": "Kajian Syarikat",
+      "minutes": 3,
+      "premium": false,
+      "pages": [
+        {
+          "title": "Mengapa kajian penting",
+          "body": "Penemu duga dapat mengetahui dalam beberapa minit sama ada anda telah mengkaji tentang mereka. Kajian membolehkan anda mengaitkan pengalaman anda dengan masalah sebenar mereka, menjawab 'Mengapa syarikat kami?' secara spesifik dan mengemukakan soalan yang lebih tajam. Ia juga membantu anda memutuskan sama ada anda benar-benar mahukan pekerjaan itu. Peruntukkan kira-kira 45–60 minit kajian yang fokus untuk temu duga pertama, dan lebih lama untuk pusingan akhir.",
+          "tip": "Simpan semua dapatan anda dalam satu halaman supaya anda boleh menyemaknya dalam lima minit sebelum temu duga."
+        },
+        {
+          "title": "Di mana hendak mencari",
+          "body": "Mulakan dengan laman web syarikat: halaman tentang kami, produk, berita terkini dan bahagian kerjaya. Kemudian baca kenyataan akhbar terkini atau sorotan laporan tahunan, semak halaman LinkedIn syarikat untuk melihat pertumbuhan dan pengambilan pekerja baharu, dan baca ulasan pekerja dengan mencari corak, bukan aduan tunggal. Jika syarikat menjual produk yang boleh anda cuba, gunakannya sendiri.",
+          "tip": "Cari nama syarikat bersama perkataan 'berita' dan fokus pada enam bulan terakhir."
+        },
+        {
+          "title": "Apa yang perlu dicatat",
+          "body": "Kumpulkan lima fakta yang benar-benar boleh anda gunakan: apa yang dijual oleh syarikat dan kepada siapa, pesaing utamanya, satu perkembangan terkini seperti pelancaran atau pengembangan, nilai atau misi yang dinyatakan, dan satu cabaran yang kelihatan sedang dihadapinya. Bagi setiap fakta, tulis satu ayat tentang kaitannya dengan kemahiran anda. Fakta tanpa kaitan dengan anda hanyalah trivia.",
+          "tip": "Jika anda tidak dapat mengaitkan sesuatu fakta dengan pengalaman atau soalan anda, buang daripada nota anda."
+        },
+        {
+          "title": "Kaji penemu duga anda",
+          "body": "Jika anda tahu siapa yang akan menemu duga anda, lihat profil LinkedIn mereka. Catat jawatan mereka, berapa lama mereka telah berada di situ dan sebarang latar belakang profesional yang dikongsi bersama. Gunakan maklumat ini untuk meramal apa yang mereka utamakan: pengurus mahukan hasil kerja, rakan setugas mahukan kerjasama, pengarah mahukan impak. Jangan sebut butiran peribadi yang anda temui; pastikan semuanya kekal profesional.",
+          "tip": "Minta nama dan jawatan penemu duga daripada perekrut jika mereka belum memaklumkannya."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Mengapa anda perlu mencatat kaitan setiap fakta kajian dengan diri anda?",
+          "options": ["Penemu duga menilai anda berdasarkan hafalan", "Ia menjadikan nota anda kelihatan teliti", "Fakta tanpa kaitan dengan kemahiran anda hanyalah trivia", "Perekrut meminta untuk melihat nota anda"],
+          "answer": 2,
+          "explanation": "Kajian hanya membantu apabila anda dapat mengaitkannya dengan pengalaman atau soalan anda."
+        },
+        {
+          "id": "q2",
+          "question": "Apakah cara terbaik untuk menggunakan ulasan pekerja?",
+          "options": ["Memetik ulasan paling kasar semasa temu duga", "Mencari corak, bukan aduan tunggal", "Mengabaikannya sepenuhnya", "Hanya membaca ulasan lima bintang"],
+          "answer": 1,
+          "explanation": "Satu ulasan hanyalah anekdot; tema yang berulang memberitahu sesuatu yang sebenar tentang syarikat."
+        },
+        {
+          "id": "q3",
+          "question": "Apakah yang perlu anda elakkan semasa mengkaji penemu duga anda?",
+          "options": ["Menyebut butiran peribadi yang anda temui", "Menyemak jawatan semasa mereka", "Mencatat berapa lama mereka telah bekerja di situ", "Meminta nama mereka daripada perekrut"],
+          "answer": 0,
+          "explanation": "Gunakan dapatan anda untuk meramal keutamaan mereka, tetapi pastikan perbualan kekal profesional."
+        }
+      ]
+    },
+    {
+      "id": "role_analysis",
+      "order": 2,
+      "title": "Menghuraikan Deskripsi Tugas",
+      "minutes": 3,
+      "premium": false,
+      "pages": [
+        {
+          "title": "Baca seperti senarai semak",
+          "body": "Deskripsi tugas ialah senarai masalah yang ingin diselesaikan oleh majikan. Salin ke dalam dokumen dan serlahkan setiap kemahiran, alat, tanggungjawab dan hasil yang dijangka. Kemudian bahagikan kepada dua kumpulan: wajib, yang biasanya disenaraikan dahulu atau diulang, dan kelebihan tambahan, yang sering ditanda 'diutamakan' atau 'satu kelebihan'. Peta ini menunjukkan apa yang akan menjadi fokus temu duga.",
+          "tip": "Simpan deskripsi tugas semasa anda memohon; iklan jawatan kosong sering diturunkan sebelum temu duga."
+        },
+        {
+          "title": "Kenal pasti keutamaan tersembunyi",
+          "body": "Beri perhatian kepada pengulangan dan susunan. Kemahiran yang disebut tiga kali lebih penting daripada yang disebut sekali. Kata kerja mendedahkan tahap: 'menyokong' dan 'membantu' menunjukkan jawatan junior, manakala 'bertanggungjawab penuh', 'memimpin' dan 'menetapkan' menunjukkan kekananan. Frasa seperti 'persekitaran pantas' atau 'persekitaran yang tidak menentu' menandakan mereka akan menguji cara anda menangani perubahan dan tekanan.",
+          "tip": "Kira berapa kali setiap kemahiran muncul; dua atau tiga teratas ialah tema teras temu duga anda."
+        },
+        {
+          "title": "Padankan bukti dengan setiap keperluan",
+          "body": "Bina jadual dua lajur yang ringkas. Di sebelah kiri, senaraikan setiap keperluan wajib. Di sebelah kanan, tulis satu contoh konkrit daripada pengalaman anda yang membuktikannya, dengan hasil atau angka jika boleh. Jika anda tiada contoh langsung, cari contoh berkaitan yang menunjukkan anda cepat belajar. Contoh-contoh ini menjadi tulang belakang jawapan temu duga anda.",
+          "tip": "Sasarkan sekurang-kurangnya satu cerita bagi setiap keperluan wajib; satu cerita yang kukuh boleh merangkumi dua keperluan."
+        },
+        {
+          "title": "Tangani kekurangan dengan jujur",
+          "body": "Anda jarang memenuhi setiap baris deskripsi tugas, dan majikan tahu hal itu. Bagi setiap kekurangan, sediakan jawapan yang ringkas dan jujur: akuinya, tunjukkan pengalaman paling hampir yang anda ada, dan terangkan bagaimana anda menutupnya, seperti melalui kursus atau projek sampingan. Jangan sekali-kali mengaku mempunyai kemahiran yang tidak dapat anda buktikan; satu soalan susulan akan mendedahkannya.",
+          "tip": "Latih jawapan tentang kekurangan anda dengan kuat dalam temu duga olok-olok supaya kedengaran tenang, bukan defensif."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Kata kerja manakah dalam deskripsi tugas yang paling menunjukkan jawatan kanan?",
+          "options": ["Membantu", "Menyokong", "Bertanggungjawab penuh", "Menolong"],
+          "answer": 2,
+          "explanation": "Kata kerja seperti 'bertanggungjawab penuh', 'memimpin' dan 'menetapkan' menunjukkan tanggungjawab dan kekananan."
+        },
+        {
+          "id": "q2",
+          "question": "Apakah yang diisi dalam lajur kanan jadual bukti anda?",
+          "options": ["Contoh konkrit yang membuktikan keperluan tersebut", "Gaji yang anda jangkakan", "Nama penemu duga", "Senarai hobi anda"],
+          "answer": 0,
+          "explanation": "Setiap keperluan wajib mendapat satu contoh spesifik, sebaik-baiknya dengan hasil atau angka."
+        },
+        {
+          "id": "q3",
+          "question": "Apakah cara terbaik untuk menangani keperluan yang tidak anda penuhi?",
+          "options": ["Mengaku memilikinya dan mempelajarinya kemudian", "Mengelak topik itu sepenuhnya", "Menarik balik permohonan anda", "Mengakuinya, menunjukkan pengalaman paling hampir dan cara anda menutup kekurangan itu"],
+          "answer": 3,
+          "explanation": "Kejujuran berserta rancangan untuk menutup kekurangan itu meyakinkan; berpura-pura akan terdedah melalui soalan susulan."
+        }
+      ]
+    },
+    {
+      "id": "cv_preparation",
+      "order": 3,
+      "title": "Menyesuaikan CV Anda",
+      "minutes": 4,
+      "premium": true,
+      "pages": [
+        {
+          "title": "Satu CV tidak sesuai untuk semua",
+          "body": "Menghantar CV yang sama untuk setiap jawatan mengurangkan peluang anda. Perekrut sering meluangkan kurang daripada seminit untuk imbasan pertama, dan banyak syarikat menggunakan sistem penjejakan pemohon (ATS) yang menapis berdasarkan kata kunci. Menyesuaikan bermaksud mengubah ringkasan, susunan poin dan bahagian kemahiran anda supaya bukti yang paling relevan muncul dahulu bagi setiap jawatan.",
+          "tip": "Simpan satu CV induk yang mengandungi segala-galanya, kemudian potong dan susun semula salinannya untuk setiap permohonan."
+        },
+        {
+          "title": "Cerminkan bahasanya",
+          "body": "Gunakan istilah yang sama seperti dalam deskripsi tugas selagi ia benar-benar menggambarkan pengalaman anda. Jika iklan menyebut 'pengurusan pihak berkepentingan', jangan hanya tulis 'bekerja dengan pasukan lain'. Sertakan nama penuh dan singkatan bagi alat dan pensijilan. Kekalkan format yang ringkas, dengan tajuk standard dan tiada teks di dalam imej, supaya sistem penjejakan dapat membaca semuanya.",
+          "tip": "Tampal CV anda ke dalam fail teks biasa; apa-apa yang hilang atau bercelaru mungkin tidak dapat dibaca oleh perisian."
+        },
+        {
+          "title": "Tulis poin berasaskan pencapaian",
+          "body": "Gantikan senarai tugas dengan hasil. Poin yang kukuh bermula dengan kata kerja tindakan, menerangkan apa yang anda lakukan dan menunjukkan hasilnya: 'Mengurangkan masa pemprosesan invois sebanyak 30% dengan mengautomasikan kemasukan data.' Jika anda tiada angka tepat, gunakan skala, kekerapan atau skop, seperti saiz pasukan, bilangan pelanggan atau bajet yang diuruskan. Letakkan poin paling relevan di tempat pertama bagi setiap jawatan.",
+          "tip": "Semak draf anda melalui semakan CV dalam aplikasi untuk mengesan poin yang lemah dan hanya menyenaraikan tugas."
+        },
+        {
+          "title": "Bawa ke temu duga",
+          "body": "Penemu duga akan bertanya tentang apa sahaja dalam CV anda, jadi baca semula versi tepat yang anda hantar sebelum temu duga. Bersedia untuk menghuraikan setiap poin dengan konteks, tindakan khusus anda dan hasilnya. Bawa beberapa salinan bercetak untuk temu duga bersemuka dan buka salinan digital semasa panggilan video. Pastikan tarikh dan jawatan sepadan dengan profil LinkedIn anda.",
+          "tip": "Simpan setiap CV yang disesuaikan dengan nama syarikat dalam nama fail supaya anda sentiasa tahu versi mana yang mereka terima."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Mengapa anda perlu mencerminkan kata kunci daripada deskripsi tugas?",
+          "options": ["Sistem penjejakan dan perekrut mengimbas kata kunci tersebut", "Ia menjadikan CV lebih panjang", "Ia membolehkan anda melangkau bahagian kemahiran", "Perekrut lebih suka perenggan yang disalin"],
+          "answer": 0,
+          "explanation": "Istilah yang sepadan membantu penapis perisian dan imbasan pantas manusia menemui pengalaman anda yang relevan."
+        },
+        {
+          "id": "q2",
+          "question": "Poin CV manakah yang paling kukuh?",
+          "options": ["Bertanggungjawab atas invois", "Mengerjakan tugas pemprosesan invois", "Membantu pasukan kewangan setiap hari", "Mengurangkan masa pemprosesan invois sebanyak 30% dengan mengautomasikan kemasukan data"],
+          "answer": 3,
+          "explanation": "Ia bermula dengan kata kerja tindakan, menyatakan apa yang anda lakukan dan menunjukkan hasil yang boleh diukur."
+        },
+        {
+          "id": "q3",
+          "question": "Pilihan format manakah yang boleh menghalang sistem penjejakan daripada membaca CV anda?",
+          "options": ["Tajuk standard", "Teks yang diletakkan di dalam imej", "Poin yang ringkas", "Fon yang jelas dan biasa"],
+          "answer": 1,
+          "explanation": "Perisian sering tidak dapat membaca teks di dalam imej, jadi kandungan itu mungkin hilang."
+        }
+      ]
+    },
+    {
+      "id": "questions_to_ask",
+      "order": 4,
+      "title": "Soalan untuk Penemu Duga",
+      "minutes": 3,
+      "premium": true,
+      "pages": [
+        {
+          "title": "Mengapa soalan anda penting",
+          "body": "Hampir setiap temu duga berakhir dengan 'Ada apa-apa soalan untuk kami?' Menjawab 'Tidak, saya rasa semuanya sudah dijelaskan' menandakan minat yang rendah. Soalan yang baik menunjukkan anda telah memikirkan jawatan itu dengan serius, membantu anda menilai sama ada anda mahukan pekerjaan itu, dan meninggalkan kesan akhir yang kuat. Sediakan lima atau enam soalan, kerana sesetengahnya akan terjawab semasa perbualan.",
+          "tip": "Tulis soalan anda dalam buku nota dan tandakan apabila ia terjawab."
+        },
+        {
+          "title": "Soalan tentang jawatan",
+          "body": "Tanya bagaimana rupa kejayaan: 'Apakah yang anda harapkan saya capai dalam 90 hari pertama?' atau 'Bagaimanakah minggu kerja yang biasa?' Tanya tentang cabaran: 'Apakah halangan terbesar yang akan dihadapi oleh orang dalam jawatan ini?' Soalan-soalan ini memberi anda maklumat sebenar dan menunjukkan anda sudah memikirkan cara melaksanakan tugas itu dengan baik.",
+          "tip": "Susuli jawapan mereka dengan satu komen ringkas tentang cara anda akan mendekatinya."
+        },
+        {
+          "title": "Soalan tentang pasukan dan perkembangan",
+          "body": "Tanya cara pasukan bekerja: 'Bagaimanakah pasukan membahagikan kerja dan membuat keputusan?' Tanya tentang pembangunan: 'Biasanya bagaimanakah orang dalam jawatan ini berkembang?' Sesuaikan soalan dengan penemu duga: tanya bakal pengurus tentang gaya pengurusan mereka, rakan setugas tentang kerjasama harian, dan pemimpin kanan tentang hala tuju syarikat untuk setahun dua akan datang.",
+          "tip": "Sediakan satu soalan bagi setiap jenis penemu duga supaya anda tidak mengulanginya dalam pusingan berikutnya."
+        },
+        {
+          "title": "Soalan yang perlu dielakkan",
+          "body": "Dalam pusingan awal, elakkan memulakan dengan soal gaji, cuti atau kemudahan kerja jarak jauh; simpan sehingga ada minat daripada kedua-dua pihak, melainkan penemu duga yang membangkitkannya. Jangan tanya apa-apa yang mudah ditemui di laman web syarikat. Elakkan soalan ya/tidak yang menamatkan perbualan. Soalan penutup yang kukuh ialah: 'Adakah apa-apa tentang latar belakang saya yang membuatkan anda ragu-ragu?'",
+          "tip": "Dengar jawapan kepada soalan penutup anda dengan teliti dan tangani sebarang kebimbangan dengan tenang ketika itu juga."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Mengapa menyediakan lima atau enam soalan dan bukannya dua sahaja?",
+          "options": ["Penemu duga menjangkakan tepat enam", "Ia menjadikan temu duga lebih panjang", "Ia mengelakkan perbincangan tentang jawatan", "Sesetengahnya akan terjawab semasa temu duga"],
+          "answer": 3,
+          "explanation": "Dengan soalan tambahan, anda masih mempunyai soalan yang baik pada akhirnya."
+        },
+        {
+          "id": "q2",
+          "question": "Soalan manakah yang paling sesuai semasa bercakap dengan bakal pengurus anda?",
+          "options": ["Bagaimanakah anda menggambarkan gaya pengurusan anda?", "Apakah yang dijual oleh syarikat ini?", "Berapa hari cuti yang saya dapat?", "Adakah tempat letak kereta percuma?"],
+          "answer": 0,
+          "explanation": "Sesuaikan soalan dengan penemu duga; seorang pengurus paling tahu cara mereka memimpin."
+        },
+        {
+          "id": "q3",
+          "question": "Apakah tujuan bertanya 'Adakah apa-apa tentang latar belakang saya yang membuatkan anda ragu-ragu?'",
+          "options": ["Mendesak penemu duga supaya memberi tawaran", "Menamatkan temu duga lebih awal", "Mengetengahkan dan menangani kebimbangan semasa anda masih berada di dalam bilik", "Bertanya tentang gaji secara tidak langsung"],
+          "answer": 2,
+          "explanation": "Ia memberi anda peluang untuk menjawab keraguan sebelum keputusan dibuat."
+        }
+      ]
+    },
+    {
+      "id": "dress_code",
+      "order": 5,
+      "title": "Apa yang Perlu Dipakai",
+      "minutes": 3,
+      "premium": true,
+      "pages": [
+        {
+          "title": "Ikut syarikat, kemudian naik satu tahap",
+          "body": "Peraturan paling selamat ialah berpakaian satu tahap lebih formal daripada pakaian harian pekerja. Jika pasukan memakai jean dan kemeja-T, pilih smart casual. Jika mereka memakai business casual, pertimbangkan jaket atau pakaian yang lebih formal. Semak halaman kerjaya dan foto media sosial syarikat, atau tanya sahaja perekrut apa yang biasa dipakai di sana.",
+          "tip": "Bertanya kepada perekrut tentang kod pakaian adalah perkara biasa dan menunjukkan pertimbangan yang baik."
+        },
+        {
+          "title": "Muat, selesa dan kemas",
+          "body": "Yang paling penting bukan harga, tetapi pakaian anda bersih, bergosok dan muat dengan baik. Pilih pakaian yang pernah anda pakai supaya anda tahu ia selesa untuk duduk selama sejam. Elakkan apa-apa yang perlu dibetulkan berulang kali. Pastikan aksesori dan wangian tidak berlebihan dan kasut anda bersih. Pakaian budaya dan keagamaan sentiasa sesuai; kekemasan ialah piawaiannya.",
+          "tip": "Duduk dengan pakaian anda di hadapan cermin untuk melihat rupanya dari sudut penemu duga."
+        },
+        {
+          "title": "Temu duga video",
+          "body": "Berpakaian lengkap, bukan hanya dari pinggang ke atas, sekiranya anda perlu berdiri. Warna kosong dengan ton sederhana biasanya paling cantik di kamera; jalur yang sangat halus dan corak kecil yang sibuk boleh kelihatan berkelip. Uji pakaian anda di kamera dengan latar belakang anda supaya anda tidak tenggelam dengannya. Pencahayaan yang baik pada wajah dan latar belakang yang kemas juga sebahagian daripada penampilan anda.",
+          "tip": "Lakukan ujian kamera selama dua minit pada waktu yang sama dengan temu duga untuk menyemak pencahayaan."
+        },
+        {
+          "title": "Sediakan sehari sebelumnya",
+          "body": "Pilih dan cuba keseluruhan pakaian anda sehari sebelumnya, termasuk kasut. Periksa kesan kotoran, butang yang tercabut atau kedutan dan betulkan selagi masih ada masa. Jika anda perlu bermusafir, bawa kit kecil: kemeja atau baju ganti, tisu pembersih kotoran dan sikat. Membuat keputusan lebih awal menghapuskan satu punca tekanan pada hari tersebut.",
+          "tip": "Susun semuanya di satu tempat pada malam sebelumnya supaya bersiap tidak memerlukan sebarang keputusan."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Apakah peraturan kod pakaian umum yang paling selamat?",
+          "options": ["Sentiasa memakai pakaian paling formal yang anda ada", "Berpakaian satu tahap lebih formal daripada kebiasaan pekerja", "Memakai apa sahaja yang anda pakai di rumah", "Meniru foto profil penemu duga"],
+          "answer": 1,
+          "explanation": "Satu tahap di atas kebiasaan harian kelihatan hormat tanpa nampak janggal."
+        },
+        {
+          "id": "q2",
+          "question": "Pilihan pakaian manakah yang biasanya paling sesuai di kamera?",
+          "options": ["Jalur yang sangat halus", "Corak kecil yang sibuk", "Warna kosong dengan ton sederhana", "Warna yang sama dengan latar belakang anda"],
+          "answer": 2,
+          "explanation": "Warna kosong bertona sederhana kelihatan bersih di kamera; corak halus boleh berkelip dan warna yang sama membuatkan anda tenggelam dengan latar."
+        },
+        {
+          "id": "q3",
+          "question": "Mengapa memilih pakaian yang pernah anda pakai?",
+          "options": ["Ia lebih murah", "Pakaian baharu tidak dibenarkan", "Penemu duga perasan pakaian baharu", "Anda tahu ia selesa untuk duduk selama sejam"],
+          "answer": 3,
+          "explanation": "Pakaian yang telah diuji bermakna tiada kejutan dan tiada apa yang perlu dibetulkan semasa temu duga."
+        }
+      ]
+    },
+    {
+      "id": "interview_day_logistics",
+      "order": 6,
+      "title": "Sehari Sebelum dan Pada Hari Temu Duga",
+      "minutes": 3,
+      "premium": true,
+      "pages": [
+        {
+          "title": "Sahkan butirannya",
+          "body": "Sehari sebelumnya, baca semula jemputan: tarikh, zon waktu, alamat atau pautan video, nama penemu duga dan formatnya. Rancang laluan anda dan semak masa perjalanan pada waktu yang sama, dengan tambahan masa sekurang-kurangnya 30 minit. Untuk panggilan video, uji pautan, kamera, mikrofon dan sambungan, dan simpan nombor telefon untuk dihubungi jika sambungan terputus.",
+          "tip": "Semak semula zon waktu dalam jemputan, terutamanya untuk jawatan jarak jauh."
+        },
+        {
+          "title": "Kemas dan ulang kaji",
+          "body": "Sediakan beg pada malam sebelumnya: salinan bercetak CV anda, kad pengenalan jika bangunan memerlukannya, buku nota dan pen, air dan pengecas telefon. Kemudian buat ulang kaji ringkas, bukan belajar saat akhir: cerita utama anda, jawapan anda untuk 'Ceritakan tentang diri anda' dan 'Mengapa syarikat ini?', serta soalan anda untuk mereka. Berhenti cukup awal supaya dapat tidur lena.",
+          "tip": "Satu temu duga olok-olok yang ringkas pada malam sebelumnya sudah memadai; latihan berat saat akhir hanya menambah tekanan."
+        },
+        {
+          "title": "Tiba pada masa yang tepat",
+          "body": "Untuk temu duga bersemuka, tiba di kawasan berhampiran 15–20 minit lebih awal, tetapi masuk ke kaunter penyambut tetamu kira-kira 10 minit sebelum bermula. Tiba terlalu awal boleh memberi tekanan kepada tuan rumah anda. Untuk temu duga video, sertai seminit dua lebih awal dengan semuanya sudah diuji. Jika anda akan lewat atas sebarang sebab, hubungi perekrut sebaik sahaja anda tahu, sebelum masa bermula.",
+          "tip": "Simpan nombor telefon perekrut dalam kenalan anda sebelum keluar dari rumah."
+        },
+        {
+          "title": "Semua orang adalah sebahagian daripada temu duga",
+          "body": "Bersopan santun dengan semua orang yang anda temui, daripada pengawal keselamatan hingga penyambut tetamu; sesetengah syarikat meminta pandangan mereka. Senyapkan telefon anda sepenuhnya dan simpan. Semasa menunggu, semak nota satu halaman anda dan bukannya menatal telefon. Sapa penemu duga dengan senyuman, pengenalan diri yang jelas dan hubungan mata, kerana minit pertama menentukan suasana seterusnya.",
+          "tip": "Gunakan masa menunggu untuk menarik nafas perlahan beberapa kali dan membaca semula tiga cerita terbaik anda."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Bilakah anda patut masuk ke kaunter penyambut tetamu untuk temu duga bersemuka?",
+          "options": ["Sejam lebih awal", "Kira-kira 10 minit sebelum bermula", "Tepat pada masanya", "Lewat beberapa minit tidak mengapa"],
+          "answer": 1,
+          "explanation": "Tiba berhampiran lebih awal, tetapi daftar masuk kira-kira 10 minit sebelumnya supaya tidak memberi tekanan kepada tuan rumah anda."
+        },
+        {
+          "id": "q2",
+          "question": "Apakah yang perlu anda lakukan jika anda akan lewat?",
+          "options": ["Tiba dan memohon maaf pada akhirnya", "Berdiam diri dan berharap mereka tidak perasan", "Menghantar e-mel untuk menjadualkan semula selepas masa bermula", "Menghubungi perekrut sebaik sahaja anda tahu, sebelum masa bermula"],
+          "answer": 3,
+          "explanation": "Makluman awal adalah profesional dan memberi syarikat masa untuk menyesuaikan diri."
+        },
+        {
+          "id": "q3",
+          "question": "Persediaan jenis apakah yang terbaik pada malam sebelumnya?",
+          "options": ["Ulang kaji ringkas cerita utama dan soalan, kemudian tidur yang lena", "Belajar sepanjang malam", "Tiada persediaan langsung", "Menulis semula CV anda dari awal"],
+          "answer": 0,
+          "explanation": "Ulang kaji ringan memastikan jawapan kekal segar; rehat lebih penting daripada belajar saat akhir."
+        }
+      ]
+    }
+  ]
+}

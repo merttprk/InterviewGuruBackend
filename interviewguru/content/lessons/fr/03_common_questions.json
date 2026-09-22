@@ -1,0 +1,479 @@
+{
+  "id": "common_questions",
+  "order": 3,
+  "icon": "questions",
+  "color": "#F59E0B",
+  "title": "Questions fréquentes",
+  "summary": "Prépare des réponses claires et assurées aux questions que presque tous les recruteurs posent, de « Parle-moi de toi » jusqu'au salaire.",
+  "topics": [
+    {
+      "id": "tell_me_about_yourself",
+      "order": 1,
+      "title": "Parle-moi de toi",
+      "minutes": 3,
+      "premium": false,
+      "pages": [
+        {
+          "title": "Ce qu'on te demande vraiment",
+          "body": "« Parle-moi de toi » n'est pas une invitation à raconter ta vie. Le recruteur attend un aperçu court et pertinent qui explique pourquoi tu es un bon candidat pour ce poste. C'est souvent la première question, elle donne donc le ton pour toute la suite. Vise 60–90 secondes et concentre-toi sur ton parcours professionnel, pas sur des détails personnels comme ta famille ou ta ville d'origine.",
+          "tip": "Prépare cette réponse en premier : tu en utiliseras une version dans presque chaque entretien."
+        },
+        {
+          "title": "Présent : où tu en es aujourd'hui",
+          "body": "Utilise une structure présent–passé–futur. Commence par le présent : ton poste ou ta situation actuelle et une réussite qui compte pour ce poste. Par exemple : « Je suis responsable du support client dans un éditeur de logiciels et je manage une équipe de six personnes. L'an dernier, nous avons réduit le délai moyen de réponse d'une journée entière à quatre heures. » Reste concret et pertinent par rapport au poste.",
+          "tip": "Choisis la réussite qui correspond le mieux à l'offre d'emploi, pas celle que tu préfères."
+        },
+        {
+          "title": "Passé : comment tu en es arrivé là",
+          "body": "Ensuite, évoque brièvement le passé : les expériences qui t'ont apporté les compétences dont ce poste a besoin. Choisis-en une ou deux, pas tout ton historique. « Avant cela, j'ai passé trois ans comme agent de support, où j'ai rédigé les premiers articles de notre centre d'aide et formé les nouvelles recrues. » Si tu viens d'obtenir ton diplôme, appuie-toi sur tes études, tes stages ou tes projets plutôt que sur des emplois précédents.",
+          "tip": "Laisse de côté tout ce qui, dans ton passé, ne mène pas vers ce poste."
+        },
+        {
+          "title": "Futur : pourquoi ce poste",
+          "body": "Termine par le futur : ce que tu recherches maintenant et pourquoi ce poste te correspond. « Aujourd'hui, je souhaite évoluer vers le customer success, pour accompagner des clients sur le long terme, et c'est pour cela que ce poste a retenu mon attention. » Cette conclusion rend naturellement la parole et invite à des questions sur les expériences que tu as choisi de mettre en avant.",
+          "tip": "Enregistre ta réponse lors d'un entretien d'entraînement et supprime tout ce qui ne pointe pas vers le poste."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Quel ordre suit la structure recommandée ?",
+          "options": [
+            "Passé, futur, présent",
+            "Présent, passé, futur",
+            "Futur, présent, passé",
+            "Loisirs, famille, carrière"
+          ],
+          "answer": 1,
+          "explanation": "Commence par où tu en es aujourd'hui, explique comment tu y es arrivé, puis dis où tu veux aller."
+        },
+        {
+          "id": "q2",
+          "question": "À quoi doit servir la partie « futur » de ta réponse ?",
+          "options": [
+            "Annoncer tes prétentions salariales",
+            "Décrire tes loisirs",
+            "Répéter ta formation",
+            "Expliquer ce que tu recherches et pourquoi ce poste te correspond"
+          ],
+          "answer": 3,
+          "explanation": "La partie « futur » relie tes objectifs à ce poste et rend la parole au recruteur."
+        },
+        {
+          "id": "q3",
+          "question": "Quel détail a le moins sa place dans ta réponse ?",
+          "options": [
+            "Ta famille et ta ville d'origine",
+            "Une réussite pertinente dans ton poste actuel",
+            "Des compétences acquises dans un emploi précédent",
+            "Ce qui t'attire dans ce poste"
+          ],
+          "answer": 0,
+          "explanation": "La question porte sur ton parcours professionnel : les détails personnels prennent du temps sur l'essentiel."
+        }
+      ]
+    },
+    {
+      "id": "why_this_company",
+      "order": 2,
+      "title": "Pourquoi veux-tu travailler ici ?",
+      "minutes": 3,
+      "premium": false,
+      "pages": [
+        {
+          "title": "Ce que la question évalue",
+          "body": "« Pourquoi veux-tu travailler ici ? » vérifie trois choses : si tu t'es renseigné sur l'entreprise, si ta motivation va au-delà du besoin de trouver n'importe quel emploi, et si tu es susceptible de rester. Une réponse générique comme « C'est une super entreprise avec une super culture » échoue sur les trois points. Ta réponse doit contenir des éléments précis qui ne pourraient s'appliquer à aucun autre employeur.",
+          "tip": "Si ta réponse restait valable avec le nom d'un concurrent, rends-la plus précise."
+        },
+        {
+          "title": "La réponse en trois temps",
+          "body": "Construis ta réponse autour de trois maillons : l'entreprise, le poste et toi. D'abord, cite un élément précis sur l'entreprise, comme un produit, un marché ou une initiative récente. Ensuite, relie-le à ce qu'implique le poste. Enfin, montre pourquoi cela compte pour toi, en t'appuyant sur ton expérience ou tes objectifs. Une ou deux phrases par maillon suffisent.",
+          "tip": "Utilise tes notes de recherche sur l'entreprise pour choisir le détail qui se relie le mieux à ton expérience."
+        },
+        {
+          "title": "Un exemple",
+          "body": "« J'ai suivi votre développement dans les paiements pour les petites entreprises, et j'apprécie que vous conceviez des solutions pour des commerçants longtemps mal servis. Ce poste me placerait dans l'équipe onboarding, précisément là où j'ai passé les deux dernières années à améliorer la conversion des inscriptions. Je veux continuer ce travail dans une entreprise où il est au cœur de la stratégie. »",
+          "tip": "Remarque que chaque phrase couvre un maillon : l'entreprise, le poste, puis toi."
+        },
+        {
+          "title": "Les erreurs à éviter",
+          "body": "Ne commence pas par les avantages : le salaire, le lieu ou les avantages en nature paraissent égocentriques comme raison principale, même s'ils comptent pour toi. Ne flatte pas sans fond ; « Vous êtes le leader du secteur » ne dit rien. Ne critique pas ton employeur actuel pour expliquer ton départ. Et ne récite pas la mission de l'entreprise : interprète-la et montre ce qu'elle signifie concrètement pour toi.",
+          "tip": "Garde les raisons pratiques, comme le lieu de travail, pour des échanges ultérieurs, pas pour ta réponse principale."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Pourquoi « C'est une super entreprise avec une super culture » ne fonctionne-t-il pas comme réponse ?",
+          "options": [
+            "C'est trop long",
+            "Cela mentionne la culture",
+            "Cela pourrait s'appliquer à n'importe quel employeur",
+            "C'est trop précis"
+          ],
+          "answer": 2,
+          "explanation": "Une bonne réponse contient des détails qui ne s'appliquent qu'à cette entreprise."
+        },
+        {
+          "id": "q2",
+          "question": "Quels sont les trois maillons d'une bonne réponse ?",
+          "options": [
+            "Le salaire, le lieu et les avantages",
+            "L'entreprise, le poste et toi",
+            "La mission, la vision et les valeurs",
+            "Le passé, le présent et le futur"
+          ],
+          "answer": 1,
+          "explanation": "Relie un élément précis de l'entreprise au poste, puis à ton expérience ou à tes objectifs."
+        },
+        {
+          "id": "q3",
+          "question": "Quelle raison ne doit pas ouvrir ta réponse ?",
+          "options": [
+            "Une initiative récente de l'entreprise que tu admires",
+            "La façon dont le poste valorise ton expérience",
+            "Tes objectifs de carrière",
+            "Le package d'avantages"
+          ],
+          "answer": 3,
+          "explanation": "Commencer par les avantages paraît égocentrique, même s'ils sont un critère légitime."
+        }
+      ]
+    },
+    {
+      "id": "strengths",
+      "order": 3,
+      "title": "Tes points forts",
+      "minutes": 3,
+      "premium": true,
+      "pages": [
+        {
+          "title": "Choisis des points forts qui comptent ici",
+          "body": "Choisis deux ou trois points forts que l'offre d'emploi valorise clairement, pas simplement ceux dont tu es le plus fier. Un data analyst pourrait choisir la rigueur, la capacité à expliquer clairement les chiffres et la curiosité. Un commercial pourrait choisir la résilience et le sens du relationnel. Si un point fort n'aide pas dans ce poste, il n'aidera pas non plus ta réponse, aussi vrai soit-il.",
+          "tip": "Compare tes points forts avec les critères indispensables que tu as surlignés dans l'offre d'emploi."
+        },
+        {
+          "title": "Sois précis, pas générique",
+          "body": "« Travailleur », « esprit d'équipe » et « passionné » sont revendiqués par presque tout le monde, ils ont donc peu de poids. Rends chaque point fort précis : au lieu de « bon communicant », dis « j'explique clairement des problèmes techniques à des clients non techniques ». Plus la description est ciblée, plus elle est crédible, et plus il est facile pour le recruteur de t'imaginer dans le poste.",
+          "tip": "Demande-toi ce qu'on te verrait concrètement faire si ce point fort était en action."
+        },
+        {
+          "title": "Prouve-le avec un exemple",
+          "body": "Un point fort sans preuve n'est qu'une opinion. Fais suivre chacun d'un court exemple : la situation, ce que tu as fait et le résultat. « Je sais simplifier des processus complexes. Dans mon dernier poste, j'ai transformé notre guide d'intégration de vingt pages en une checklist en cinq étapes, et les nouvelles recrues ont atteint leur pleine productivité deux semaines plus tôt. » Les chiffres rendent l'histoire mémorable.",
+          "tip": "Prépare un exemple par point fort et garde chacun sous la minute."
+        },
+        {
+          "title": "Exprime-le avec assurance",
+          "body": "Beaucoup de gens se sous-estiment parce que parler de leurs points forts leur donne l'impression de se vanter. Ce n'est pas le cas : tu réponds à une question directe avec des faits. Énonce le point fort simplement, apporte la preuve et relie-le au poste : « C'est pourquoi je pourrais rendre vos nouvelles recrues du support rapidement opérationnelles. » Évite autant la fausse modestie que l'exagération.",
+          "tip": "Entraîne-toi à voix haute sur ton principal point fort jusqu'à ce qu'il sonne naturel plutôt qu'appris par cœur."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Comment choisir les points forts à mentionner ?",
+          "options": [
+            "Choisis ceux que le poste valorise clairement",
+            "Cites-en le plus possible",
+            "Choisis ceux que tes amis mentionnent",
+            "Utilise les points forts les plus populaires"
+          ],
+          "answer": 0,
+          "explanation": "Un point fort n'aide ta réponse que s'il compte pour ce poste précis."
+        },
+        {
+          "id": "q2",
+          "question": "Pourquoi « esprit d'équipe » est-il un point fort faible s'il est cité seul ?",
+          "options": [
+            "Les recruteurs n'aiment pas le travail d'équipe",
+            "C'est trop technique",
+            "Cela paraît trop modeste",
+            "Presque tout le monde le revendique, il a donc peu de poids"
+          ],
+          "answer": 3,
+          "explanation": "Les étiquettes génériques ne te distinguent pas ; les descriptions précises, si."
+        },
+        {
+          "id": "q3",
+          "question": "Qu'est-ce qui rend un point fort crédible ?",
+          "options": [
+            "Le répéter plusieurs fois",
+            "L'indiquer sur ton CV",
+            "Un exemple précis avec un résultat",
+            "Le garder vague"
+          ],
+          "answer": 2,
+          "explanation": "Les éléments concrets transforment une affirmation en preuve, surtout avec un résultat mesurable."
+        }
+      ]
+    },
+    {
+      "id": "weaknesses",
+      "order": 4,
+      "title": "Tes points faibles",
+      "minutes": 4,
+      "premium": true,
+      "pages": [
+        {
+          "title": "Pourquoi on te pose la question",
+          "body": "Les recruteurs posent des questions sur tes points faibles pour évaluer ta lucidité et ton honnêteté, pas pour te piéger. Ils veulent voir que tu sais où tu peux progresser et que tu y travailles activement. Des réponses comme « Je suis perfectionniste » ou « Je travaille trop » paraissent récitées et évasives, et suggèrent que tu manques de recul sur toi-même ou que tu n'es pas sincère.",
+          "tip": "Pense aux retours qu'on t'a réellement faits : c'est la meilleure source pour une réponse authentique."
+        },
+        {
+          "title": "Choisis un point faible réel mais pas critique",
+          "body": "Choisis quelque chose d'authentique qui n'est pas central pour le poste. Un développeur pourrait évoquer la prise de parole en public ; un comptable ne devrait pas évoquer le souci du détail. Parmi les bonnes options : déléguer, savoir dire non à du travail supplémentaire, présenter devant de grands groupes ou un outil précis que tu ne maîtrises pas encore. Évite tout ce qui ferait douter de ton intégrité, de ta fiabilité ou des compétences clés du poste.",
+          "tip": "Compare le point faible choisi avec les critères indispensables de l'offre d'emploi avant de l'utiliser."
+        },
+        {
+          "title": "Montre ta progression",
+          "body": "Le plus important, c'est ce que tu fais pour t'améliorer. Suis trois étapes : nomme le point faible, donne un bref exemple de son impact sur ton travail, puis décris des actions concrètes et tes progrès. « J'avais tendance à accepter trop de tâches. Aujourd'hui, je fais le point chaque semaine sur ma charge de travail avec mon manager, et je réponds aux nouvelles demandes avec des priorités claires. »",
+          "tip": "Mentionne une habitude, un outil ou une formation précis, pas seulement « j'y travaille »."
+        },
+        {
+          "title": "Reste bref et tourné vers l'avenir",
+          "body": "Consacre environ 20 % de ta réponse au point faible et 80 % à ta progression. Ne te justifie pas trop et ne t'excuse pas, et ne cite pas plusieurs points faibles à la fois. Termine sur les progrès accomplis pour que le recruteur retienne ton évolution, pas le problème. Si on te demande un deuxième point faible, prépares-en un autre qui suit la même structure.",
+          "tip": "Teste ta réponse sur les points faibles lors d'un entretien d'entraînement pour vérifier qu'elle paraît sincère et non récitée."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Pourquoi « Je suis perfectionniste » est-il généralement une réponse faible ?",
+          "options": [
+            "C'est trop honnête",
+            "Cela paraît récité et évasif",
+            "C'est trop long",
+            "C'est trop technique"
+          ],
+          "answer": 1,
+          "explanation": "Les qualités déguisées en défauts suggèrent un manque de lucidité ou d'honnêteté."
+        },
+        {
+          "id": "q2",
+          "question": "Quel point faible serait risqué à mentionner pour un comptable ?",
+          "options": [
+            "Parler en public devant de grands groupes",
+            "Déléguer le travail",
+            "Le souci du détail",
+            "Dire non à des projets supplémentaires"
+          ],
+          "answer": 2,
+          "explanation": "Le souci du détail est une compétence clé en comptabilité : c'est donc un point faible critique pour ce poste."
+        },
+        {
+          "id": "q3",
+          "question": "Comment répartir ta réponse ?",
+          "options": [
+            "80 % point faible, 20 % progression",
+            "Moitié point faible, moitié progression",
+            "Décrire uniquement le point faible",
+            "Environ 20 % point faible, 80 % progression"
+          ],
+          "answer": 3,
+          "explanation": "Mets l'accent sur ce que tu fais pour t'améliorer afin que le recruteur retienne ton évolution."
+        }
+      ]
+    },
+    {
+      "id": "star_method",
+      "order": 5,
+      "title": "La méthode STAR",
+      "minutes": 4,
+      "premium": true,
+      "pages": [
+        {
+          "title": "Ce que signifie STAR",
+          "body": "STAR est une structure pour les questions comportementales comme « Parle-moi d'une fois où… ». L'acronyme anglais correspond à Situation, Tâche, Action et Résultat. Elle garde ton récit ciblé et garantit que tu termines sur un résultat. Au fil de ces pages, nous construirons un exemple complet pour répondre à la question : « Parle-moi d'une fois où tu as dû tenir un délai très serré. »",
+          "tip": "Quand tu entends « Parle-moi d'une fois où… », c'est le signal pour utiliser STAR."
+        },
+        {
+          "title": "Situation et Tâche",
+          "body": "La Situation plante le décor en une ou deux phrases : « Deux semaines avant le lancement d'un client important, notre designer principale a quitté l'entreprise. » La Tâche explique ta responsabilité : « En tant que coordinateur du projet, je devais m'assurer que tous les supports du lancement soient livrés à temps. » Reste bref sur les deux : ensemble, elles devraient représenter environ 20 % de ta réponse.",
+          "tip": "Supprime les détails de contexte dont le recruteur n'a pas besoin pour comprendre ton défi."
+        },
+        {
+          "title": "Action",
+          "body": "L'Action est le cœur du récit et devrait représenter environ 60 % de ta réponse. Dis « je », pas « nous », pour que le recruteur sache ce que tu as fait. « J'ai découpé le travail restant en tâches quotidiennes, fait venir un designer freelance en deux jours et mis en place un point de 15 minutes chaque matin pour repérer les problèmes tôt. J'ai aussi convenu avec le client des éléments qui pouvaient passer à une deuxième phase. »",
+          "tip": "Présente tes actions comme des étapes claires : cela montre une pensée structurée."
+        },
+        {
+          "title": "Résultat",
+          "body": "Le Résultat conclut le récit avec une issue claire, idéalement mesurable : « Nous avons livré tous les éléments essentiels à la date de lancement, le client a renouvelé son contrat pour un an de plus et le point quotidien est devenu une pratique standard dans notre équipe. » Ajoute ce que tu as appris si c'est pertinent. Le résultat devrait représenter environ 20 % de ta réponse ; sans lui, même une excellente histoire paraît inachevée.",
+          "tip": "Rédige cinq histoires STAR à l'avance et entraîne-toi lors d'un entretien d'entraînement."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Quelle partie d'une réponse STAR doit prendre le plus de temps ?",
+          "options": [
+            "Situation",
+            "Tâche",
+            "Action",
+            "Résultat"
+          ],
+          "answer": 2,
+          "explanation": "L'Action devrait représenter environ 60 % de la réponse, car elle montre ce que tu as réellement fait."
+        },
+        {
+          "id": "q2",
+          "question": "Pourquoi dire « je » plutôt que « nous » dans la partie Action ?",
+          "options": [
+            "Pour que le recruteur sache ce que tu as fait personnellement",
+            "Parce que le travail d'équipe n'a pas d'importance",
+            "Pour raccourcir l'histoire",
+            "Parce que « nous » est grammaticalement incorrect"
+          ],
+          "answer": 0,
+          "explanation": "C'est toi que le recruteur évalue : ta contribution personnelle doit donc être claire."
+        },
+        {
+          "id": "q3",
+          "question": "Dans l'exemple détaillé, quel élément relève du Résultat ?",
+          "options": [
+            "La designer principale a quitté l'entreprise",
+            "Un designer freelance a été recruté",
+            "Des points quotidiens ont été mis en place",
+            "Le client a renouvelé son contrat pour un an de plus"
+          ],
+          "answer": 3,
+          "explanation": "Le renouvellement est le résultat ; les autres éléments relèvent de la situation ou des actions."
+        }
+      ]
+    },
+    {
+      "id": "teamwork_examples",
+      "order": 6,
+      "title": "Questions sur le travail d'équipe et les conflits",
+      "minutes": 3,
+      "premium": true,
+      "pages": [
+        {
+          "title": "Ce qu'ils recherchent",
+          "body": "Des questions comme « Parle-moi d'un désaccord avec un collègue » ou « Décris une fois où tu as travaillé dans une équipe difficile » évaluent ton comportement quand les choses ne se passent pas bien. Les recruteurs veulent la preuve que tu restes professionnel, que tu écoutes, que tu te concentres sur l'objectif commun et que tu sais trouver une solution sans remonter chaque problème à un manager.",
+          "tip": "Prépare au moins une histoire de conflit et une histoire de réussite en équipe avant chaque entretien."
+        },
+        {
+          "title": "Choisis la bonne histoire",
+          "body": "Choisis un désaccord réel et professionnel portant sur des priorités, des méthodes ou des délais, pas un différend personnel. Le conflit doit être assez significatif pour être intéressant et avoir été résolu de façon constructive. Évite les histoires où tu avais entièrement raison et l'autre personne entièrement tort : elles te font paraître rigide. Les meilleures histoires montrent que tu as compris le point de vue de l'autre.",
+          "tip": "Choisis une histoire où la relation de travail en est sortie renforcée, pas abîmée."
+        },
+        {
+          "title": "Raconte-la avec STAR",
+          "body": "Utilise STAR et mets l'accent sur tes actions. « Un collègue et moi n'étions pas d'accord sur l'opportunité de retarder une mise en production pour faire plus de tests. J'ai demandé une courte réunion, écouté ses inquiétudes sur la qualité et partagé mes données sur l'impact client. Nous avons convenu de livrer à temps les fonctionnalités stables et de décaler d'une semaine une fonctionnalité risquée. » Présente ensuite le résultat.",
+          "tip": "Décris équitablement la position de l'autre personne : cela rend tes propres actions plus crédibles."
+        },
+        {
+          "title": "Évite les pièges courants",
+          "body": "Ne dis jamais que tu n'as jamais eu de conflit : cela paraît irréaliste ou suggère que tu évites les problèmes. Ne critique pas d'anciens collègues et ne révèle pas d'informations confidentielles. Ne centre pas l'histoire uniquement sur le problème : consacre la majeure partie du temps à la façon dont il a été résolu. Termine sur un résultat positif ou une leçon, comme une meilleure relation de travail ou un nouveau processus.",
+          "tip": "Ne cite pas de noms : « un collègue de la finance » est un niveau de détail suffisant."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Quelle histoire fonctionne le mieux pour une question sur les conflits ?",
+          "options": [
+            "Un différend personnel avec un voisin",
+            "Une fois où tu avais entièrement raison et l'autre personne tort",
+            "Un désaccord professionnel sur des priorités que tu as résolu de façon constructive",
+            "Un conflit que tu as signalé sans essayer de le résoudre"
+          ],
+          "answer": 2,
+          "explanation": "Un vrai désaccord professionnel résolu de façon constructive montre de la maturité et de la souplesse."
+        },
+        {
+          "id": "q2",
+          "question": "Pourquoi « Je n'ai jamais eu de conflit » est-il une mauvaise réponse ?",
+          "options": [
+            "Cela paraît irréaliste ou suggère que tu évites les problèmes",
+            "C'est trop long",
+            "Cela révèle des informations confidentielles",
+            "Cela critique des collègues"
+          ],
+          "answer": 0,
+          "explanation": "Tout le monde connaît des désaccords au travail ; les recruteurs veulent voir comment tu les gères."
+        },
+        {
+          "id": "q3",
+          "question": "Dans l'exemple de la mise en production, qu'est-ce qui a montré une approche constructive ?",
+          "options": [
+            "Refuser de retarder quoi que ce soit",
+            "Demander au manager de trancher",
+            "Tout livrer en retard",
+            "Écouter les inquiétudes et convenir d'un compromis"
+          ],
+          "answer": 3,
+          "explanation": "Écouter, partager des données et trouver un terrain d'entente ont résolu le conflit sans escalade."
+        }
+      ]
+    },
+    {
+      "id": "salary_negotiation",
+      "order": 7,
+      "title": "Prétentions salariales et négociation",
+      "minutes": 4,
+      "premium": true,
+      "pages": [
+        {
+          "title": "Renseigne-toi sur ta valeur sur le marché",
+          "body": "Avant tout entretien, connais la fourchette de rémunération habituelle pour le poste, le niveau et la localisation. Utilise des études de rémunération, des offres d'emploi qui affichent le salaire, des associations professionnelles et des échanges avec des personnes occupant des postes similaires. Rassemble plusieurs sources et note les valeurs basse, médiane et haute. Prends en compte le package complet, y compris la prime, les cotisations retraite, les congés et le budget formation, pas seulement le salaire de base.",
+          "tip": "Utilise au moins trois sources indépendantes : un chiffre isolé peut être trompeur."
+        },
+        {
+          "title": "Définis ta fourchette",
+          "body": "Fixe trois chiffres avant qu'on te pose la question : ton seuil de refus (le minimum que tu accepterais), ton objectif et un plafond ambitieux mais défendable. Annonce une fourchette dont le bas est proche de ton objectif, pas de ton minimum, car les offres ont tendance à se situer vers le bas. Garde une fourchette assez resserrée, d'environ 10–20 % d'écart, pour qu'elle paraisse bien documentée.",
+          "tip": "Ne révèle jamais ton seuil de refus : il sert à ta décision, pas à la discussion."
+        },
+        {
+          "title": "Répondre à « Quelles sont tes prétentions salariales ? »",
+          "body": "Si on te pose la question tôt, tu peux poliment réorienter : « J'aimerais d'abord en savoir plus sur les responsabilités. Pourriez-vous me communiquer la fourchette budgétée ? » Si on insiste, donne ta fourchette avec assurance : « D'après mes recherches sur des postes similaires, je vise entre 55 000 et 62 000. » Le premier chiffre crédible sert d'ancrage à la discussion, alors assure-toi que le tien est bien étayé. Ne le justifie pas par tes dépenses personnelles.",
+          "tip": "Annonce ta fourchette une fois, clairement, puis arrête de parler et laisse-les répondre."
+        },
+        {
+          "title": "Négocier l'offre",
+          "body": "Quand une offre arrive, remercie et demande un jour ou deux pour l'examiner. Si elle est inférieure à ton objectif, réponds avec enthousiasme et une contre-proposition précise : « Ce poste m'enthousiasme. Compte tenu de mon expérience dans la conduite de projets similaires, pourrions-nous nous rapprocher de 60 000 ? » Si le salaire de base est fixe, négocie d'autres éléments : la date de début, la prime, des congés supplémentaires ou de la formation.",
+          "tip": "Répète ta contre-proposition à voix haute lors d'un entretien d'entraînement avant le véritable appel."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Où doit se situer le bas de la fourchette que tu annonces ?",
+          "options": [
+            "À ton seuil de refus",
+            "Près de ton chiffre objectif",
+            "En dessous de ton minimum pour paraître flexible",
+            "Au salaire le plus élevé que tu as trouvé"
+          ],
+          "answer": 1,
+          "explanation": "Les offres se situent souvent vers le bas de ta fourchette, qui doit donc être proche de ton objectif."
+        },
+        {
+          "id": "q2",
+          "question": "Pourquoi le premier chiffre crédible compte-t-il autant ?",
+          "options": [
+            "Il est juridiquement contraignant",
+            "Les employeurs l'acceptent toujours",
+            "Il met fin à la négociation",
+            "Il sert d'ancrage au reste de la discussion"
+          ],
+          "answer": 3,
+          "explanation": "Les offres et contre-propositions suivantes ont tendance à graviter autour du premier chiffre bien étayé."
+        },
+        {
+          "id": "q3",
+          "question": "Si le salaire de base est fixe, que peux-tu encore négocier ?",
+          "options": [
+            "Rien d'autre",
+            "Uniquement l'intitulé de ton poste",
+            "La date de début, la prime, des congés supplémentaires ou de la formation",
+            "L'agenda du recruteur"
+          ],
+          "answer": 2,
+          "explanation": "Le package complet comporte plusieurs éléments, et beaucoup peuvent être ajustés même quand le salaire de base ne peut pas l'être."
+        }
+      ]
+    }
+  ]
+}

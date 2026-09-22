@@ -1,0 +1,322 @@
+{
+  "id": "technical_skills",
+  "order": 5,
+  "icon": "technical",
+  "color": "#8B5CF6",
+  "title": "Temu Duga Teknikal Mengikut Bidang",
+  "summary": "Bersedia untuk pusingan teknikal dalam bidang anda, daripada soalan pengekodan dan penilaian hinggalah temu duga kes dan ujian aptitud.",
+  "topics": [
+    {
+      "id": "analysis_method",
+      "order": 1,
+      "title": "Menstruktur Sebarang Masalah Teknikal",
+      "minutes": 3,
+      "premium": false,
+      "pages": [
+        {
+          "title": "Jelaskan sebelum menyelesaikan",
+          "body": "Apa pun bidang anda, langkah pertamanya sama: pastikan anda memahami masalah tersebut. Nyatakan semula soalan dengan perkataan anda sendiri, tanya tentang input, kekangan dan output yang dijangka, serta sahkan sebarang andaian. Penemu duga sering sengaja memberikan masalah yang kabur untuk melihat sama ada anda bertanya. Terus melompat kepada penyelesaian berisiko menyebabkan anda menyelesaikan masalah yang salah dengan baik.",
+          "tip": "Nyatakan andaian anda dengan jelas: 'Saya andaikan data ini muat dalam memori — adakah itu munasabah?'"
+        },
+        {
+          "title": "Pecahkan kepada beberapa bahagian",
+          "body": "Masalah besar menjadi lebih mudah diurus apabila dipecahkan kepada langkah-langkah kecil. Gariskan rancangan anda sebelum bermula: 'Pertama saya kira beban, kemudian semak dengan hadnya, kemudian tentukan saiz komponen.' Ini menunjukkan pemikiran yang berstruktur dan membolehkan penemu duga membetulkan hala tuju anda lebih awal. Mulakan dengan pendekatan ringkas yang berfungsi sebelum mengoptimumkan atau menambah kerumitan.",
+          "tip": "Tulis langkah-langkahnya supaya anda dan penemu duga sama-sama dapat mengikutinya."
+        },
+        {
+          "title": "Berfikir secara lantang",
+          "body": "Penemu duga menilai penaakulan anda, bukan sekadar jawapan akhir. Terangkan apa yang anda lakukan dan sebabnya, termasuk pilihan yang anda tolak: 'Saya boleh gunakan lookup table di sini, tetapi formula lebih mudah untuk julat ini.' Jika anda tersekat, nyatakan apa yang telah anda cuba dan di mana anda tersangkut. Penemu duga sering memberikan petunjuk kepada calon yang berkomunikasi dengan jelas.",
+          "tip": "Diam yang lama terasa lebih lama bagi penemu duga; teruskan menerangkan walaupun anda kurang pasti."
+        },
+        {
+          "title": "Semak dan renungkan",
+          "body": "Apabila anda mendapat jawapan, ujinya. Cuba contoh mudah, kes ekstrem atau semakan kewajaran pantas: adakah nombor itu mempunyai unit yang betul dan saiz yang munasabah? Kemudian rumuskan penyelesaian anda dan nyatakan batasannya atau cara anda akan menambah baiknya jika ada lebih masa. Mengesan kesilapan sendiri lebih mengagumkan penemu duga berbanding tidak pernah melakukan kesilapan.",
+          "tip": "Sentiasa tanya diri anda, 'Adakah jawapan ini masuk akal dalam dunia sebenar?'"
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Apakah yang perlu anda lakukan dahulu apabila diberi masalah teknikal?",
+          "options": ["Terus mula mengira", "Menjelaskan masalah, kekangan dan andaian", "Meminta jawapannya", "Menerangkan pekerjaan anda sebelum ini"],
+          "answer": 1,
+          "explanation": "Menjelaskan soalan memastikan anda menyelesaikan masalah yang betul, dan penemu duga sering menguji perkara ini."
+        },
+        {
+          "id": "q2",
+          "question": "Mengapakah anda perlu berfikir secara lantang semasa menjawab soalan teknikal?",
+          "options": ["Untuk mengisi masa sehingga temu duga tamat", "Penemu duga hanya menilai jawapan akhir", "Ia membolehkan penemu duga menilai penaakulan anda dan memberi petunjuk", "Ia menghalang soalan susulan"],
+          "answer": 2,
+          "explanation": "Penaakulan anda yang dinilai, dan komunikasi yang jelas mengundang petunjuk yang berguna."
+        },
+        {
+          "id": "q3",
+          "question": "Apakah langkah akhir yang baik selepas mendapat jawapan?",
+          "options": ["Mengujinya dengan contoh atau semakan kewajaran", "Teruskan tanpa sebarang ulasan", "Meminta masalah yang lebih sukar", "Menulis semula dari awal"],
+          "answer": 0,
+          "explanation": "Menyemak dengan contoh dan semakan kewajaran dapat mengesan kesilapan serta menunjukkan ketelitian."
+        }
+      ]
+    },
+    {
+      "id": "software_engineering",
+      "order": 2,
+      "title": "Temu Duga Kejuruteraan Perisian",
+      "minutes": 4,
+      "premium": false,
+      "pages": [
+        {
+          "title": "Pusingan pengekodan",
+          "body": "Kebanyakan temu duga perisian merangkumi pengekodan secara langsung dalam editor kongsi atau papan putih. Anda dinilai dari segi penyelesaian masalah, kualiti kod dan komunikasi. Jelaskan input dan kes ekstrem, huraikan penyelesaian brute-force, kemudian tambah baiknya. Tulis kod yang kemas dan mudah dibaca dengan nama yang bermakna. Setelah selesai, telusuri satu kes ujian baris demi baris dan nyatakan kerumitan masa dan ruangnya.",
+          "tip": "Berlatih dalam editor biasa tanpa autocomplete; banyak alat temu duga tidak menyediakannya."
+        },
+        {
+          "title": "Struktur data dan algoritma",
+          "body": "Topik teras muncul berulang kali: array dan string, hash map, stack dan queue, linked list, tree, graph, pengisihan dan carian, serta rekursi. Ketahui kerumitan masa lazim bagi operasi biasa, seperti carian purata masa malar dalam hash map. Belajar mengenal pasti corak seperti two pointers, sliding window dan breadth-first search, dan bukannya menghafal masalah satu per satu.",
+          "tip": "Apabila anda melihat carian berulang dalam sesuatu masalah, pertimbangkan sama ada hash map boleh membantu."
+        },
+        {
+          "title": "Asas reka bentuk sistem",
+          "body": "Untuk jawatan peringkat pertengahan dan kanan, jangkakan pusingan reka bentuk sistem: 'Reka bentuk sebuah URL shortener.' Mulakan dengan keperluan dan skala, kemudian lakarkan komponen utama — klien, API, perkhidmatan, pangkalan data, cache. Bincangkan kompromi (trade-off), seperti SQL berbanding NoSQL, atau konsistensi berbanding ketersediaan. Jarang ada satu jawapan yang betul; penemu duga mahu melihat pilihan yang bersebab dan kesedaran tentang kesesakan (bottleneck).",
+          "tip": "Anggarkan skala terlebih dahulu, seperti bilangan permintaan sesaat dan saiz data."
+        },
+        {
+          "title": "Semakan kod dan perbincangan",
+          "body": "Sesetengah syarikat menunjukkan kod sedia ada dan meminta anda menyemaknya. Cari pepijat, penamaan yang tidak jelas, pengendalian ralat yang tiada, isu keselamatan dan ujian yang tidak disediakan. Berikan maklum balas dengan hormat dan terangkan mengapa sesuatu perubahan itu penting. Anda juga mungkin ditanya tentang projek lepas anda: bersedialah untuk menerangkan keputusan reka bentuk anda, apa yang tidak berjalan lancar dan apa yang akan anda lakukan secara berbeza.",
+          "tip": "Sediakan satu projek yang boleh anda terangkan secara mendalam, termasuk kompromi yang dibuat."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Selepas menulis penyelesaian anda dalam pusingan pengekodan, apakah yang perlu anda lakukan?",
+          "options": ["Menghantarnya serta-merta tanpa ulasan", "Menelusuri satu kes ujian dan menyatakan kerumitannya", "Meminta penemu duga mengujinya", "Memadamnya dan memulakan pendekatan baharu"],
+          "answer": 1,
+          "explanation": "Menguji kod anda dan menyatakan kerumitannya menunjukkan ketelitian dan kefahaman."
+        },
+        {
+          "id": "q2",
+          "question": "Bagaimanakah anda patut memulakan soalan reka bentuk sistem?",
+          "options": ["Memilih jenama pangkalan data", "Menulis kod untuk API", "Menjelaskan keperluan dan menganggarkan skala", "Melukis gambar rajah kelas yang terperinci"],
+          "answer": 2,
+          "explanation": "Keperluan dan skala membentuk setiap keputusan reka bentuk seterusnya."
+        },
+        {
+          "id": "q3",
+          "question": "Apakah yang perlu anda cari apabila diminta menyemak kod?",
+          "options": ["Hanya format dan inden", "Nama penulisnya", "Sama ada ia menggunakan versi bahasa terbaharu", "Pepijat, penamaan yang tidak jelas, pengendalian ralat, isu keselamatan dan ujian"],
+          "answer": 3,
+          "explanation": "Semakan yang baik merangkumi ketepatan, kejelasan, keteguhan, keselamatan dan pengujian."
+        }
+      ]
+    },
+    {
+      "id": "finance",
+      "order": 3,
+      "title": "Temu Duga Kewangan dan Perakaunan",
+      "minutes": 4,
+      "premium": true,
+      "pages": [
+        {
+          "title": "Tiga penyata kewangan",
+          "body": "Jangkakan soalan tentang bagaimana penyata pendapatan, kunci kira-kira dan penyata aliran tunai saling berkait. Pendapatan bersih mengalir daripada penyata pendapatan ke bahagian atas penyata aliran tunai dan masuk ke pendapatan tertahan dalam kunci kira-kira. Soalan klasik: 'Susut nilai meningkat sebanyak 10 — terangkan kesannya pada ketiga-tiga penyata.' Latih jawapan ini secara lantang sehingga ia menjadi automatik.",
+          "tip": "Sentiasa ingat bahawa kunci kira-kira mesti seimbang pada akhir penerangan anda."
+        },
+        {
+          "title": "Asas penilaian",
+          "body": "Kuasai kaedah penilaian utama: aliran tunai terdiskaun (DCF), syarikat setanding dan transaksi terdahulu. Bersedialah untuk menerangkan perbezaan antara enterprise value dan equity value, serta mengapa DCF mendiskaunkan aliran tunai bebas masa hadapan menggunakan kadar seperti kos modal purata berwajaran (WACC). Penemu duga lebih mementingkan kefahaman anda tentang sebab setiap kaedah digunakan berbanding formula yang dihafal.",
+          "tip": "Pastikan anda boleh menerangkan setiap kaedah dalam dua ayat kepada orang yang bukan pakar."
+        },
+        {
+          "title": "Ujian Excel dan pemodelan",
+          "body": "Banyak jawatan kewangan merangkumi ujian Excel bermasa: membina model ringkas, membersihkan data atau menjawab soalan daripada set data. Kuasai fungsi lookup, SUMIFS, pivot table, rujukan mutlak dan relatif, serta pembinaan carta asas. Asingkan dan labelkan input, pengiraan dan output dengan jelas. Model yang kemas dan mudah disemak mendapat markah lebih baik berbanding model bijak yang tidak dapat difahami sesiapa.",
+          "tip": "Pelajari pintasan papan kekunci untuk navigasi; ia menjimatkan minit berharga apabila masa terhad."
+        },
+        {
+          "title": "Kesedaran pasaran",
+          "body": "Anda mungkin ditanya, 'Ceritakan tentang syarikat atau urus niaga yang anda ikuti' atau 'Pada pendapat anda, ke mana arah kadar faedah?' Ikuti berita kewangan secara berkala selama beberapa minggu sebelum temu duga. Sediakan satu syarikat dan satu trend pasaran terkini yang boleh anda bincangkan dengan angka dan pendapat yang jelas. Tidak mengapa jika anda kurang pasti; tunjukkan penaakulan anda.",
+          "tip": "Sediakan pitch pelaburan ringkas: syarikat tersebut, pandangan anda dan dua sebab sokongan."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Ke manakah pendapatan bersih pergi selepas penyata pendapatan?",
+          "options": ["Hanya ke kunci kira-kira sebagai tunai", "Ke bahagian atas penyata aliran tunai dan masuk ke pendapatan tertahan", "Tidak ke mana-mana; ia kekal dalam penyata pendapatan", "Terus ke enterprise value"],
+          "answer": 1,
+          "explanation": "Pendapatan bersih menghubungkan ketiga-tiga penyata melalui aliran tunai dan pendapatan tertahan."
+        },
+        {
+          "id": "q2",
+          "question": "Manakah antara berikut merupakan salah satu kaedah penilaian utama?",
+          "options": ["Aliran tunai terdiskaun", "Pengambilan pekerja garis lurus", "Penggajian catatan bergu", "Pengiraan inventori"],
+          "answer": 0,
+          "explanation": "DCF, syarikat setanding dan transaksi terdahulu ialah kaedah terasnya."
+        },
+        {
+          "id": "q3",
+          "question": "Apakah yang menjadikan sesebuah model mendapat markah baik dalam ujian Excel?",
+          "options": ["Menyembunyikan semua formula", "Menggunakan seberapa banyak fungsi yang boleh", "Input, pengiraan dan output yang diasingkan dengan jelas dan berlabel", "Meletakkan segala-galanya dalam satu sel"],
+          "answer": 2,
+          "explanation": "Struktur yang kemas dan mudah disemak lebih dihargai berbanding kebijaksanaan."
+        }
+      ]
+    },
+    {
+      "id": "engineering_roles",
+      "order": 4,
+      "title": "Temu Duga Kejuruteraan",
+      "minutes": 4,
+      "premium": true,
+      "pages": [
+        {
+          "title": "Asas dan pengiraan",
+          "body": "Temu duga kejuruteraan mekanikal, elektrik dan awam sering menguji prinsip teras dengan pengiraan pantas: tegasan dan terikan, pemindahan haba, hukum Ohm, kuasa, pembebanan rasuk atau aliran bendalir. Tunjukkan kaedah anda dengan jelas, tulis unit pada setiap langkah dan nyatakan andaian. Pendekatan yang betul lebih penting daripada aritmetik yang tepat. Buat anggaran dahulu supaya anda dapat mengesan jawapan yang jauh tersasar.",
+          "tip": "Ulang kaji formula asas bidang anda seminggu sebelumnya."
+        },
+        {
+          "title": "Keselamatan diutamakan",
+          "body": "Soalan keselamatan kerap ditanya dan dipandang serius. Anda mungkin ditanya bagaimana anda akan bertindak terhadap situasi tidak selamat di tapak atau apa yang akan anda lakukan jika sesuatu reka bentuk tidak memenuhi margin keselamatan. Tunjukkan bahawa anda akan menghentikan kerja, membuat eskalasi dan mengikut prosedur, bukannya mengambil jalan pintas kerana tekanan tarikh akhir. Sebutkan penilaian risiko, faktor keselamatan dan langkah perlindungan yang berkaitan.",
+          "tip": "Jangan sekali-kali mencadangkan untuk mengorbankan keselamatan demi jadual, walaupun secara hipotetikal."
+        },
+        {
+          "title": "Piawaian dan kod",
+          "body": "Kerja kejuruteraan mematuhi kod dan piawaian, seperti kod bangunan kebangsaan, peraturan elektrik atau piawaian antarabangsa ISO. Anda tidak perlu menghafalnya, tetapi anda harus dapat menerangkan cara anda menggunakannya: menyemak reka bentuk, mendokumentasikan pematuhan dan sentiasa mengikuti perkembangan terkini. Jika anda menyebut sesuatu piawaian, pastikan anda memahami skopnya, kerana soalan susulan berkemungkinan besar akan ditanya.",
+          "tip": "Namakan piawaian yang benar-benar anda gunakan dalam sesuatu projek dan terangkan caranya."
+        },
+        {
+          "title": "Membincangkan projek",
+          "body": "Jangkakan soalan terperinci tentang projek daripada pekerjaan, latihan industri atau universiti. Terangkan masalahnya, peranan khusus anda, keputusan reka bentuk utama, alat yang digunakan dan hasilnya, sebaik-baiknya dengan angka. Berterus teranglah tentang apa yang tidak berjalan lancar dan apa yang anda pelajari. Bawa lukisan atau portfolio jika sesuai, tetapi pastikan tiada maklumat sulit disertakan.",
+          "tip": "Semakan CV boleh membantu anda memperkemas huraian projek sebelum temu duga."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Apakah yang paling penting semasa menyelesaikan pengiraan dalam temu duga kejuruteraan?",
+          "options": ["Kaedah yang jelas dengan unit dan andaian yang dinyatakan", "Aritmetik mental yang sempurna tanpa menulis", "Selesai lebih cepat daripada penemu duga", "Menggunakan formula yang paling canggih"],
+          "answer": 0,
+          "explanation": "Kaedah, unit dan andaian menunjukkan pemikiran kejuruteraan yang mantap."
+        },
+        {
+          "id": "q2",
+          "question": "Bagaimanakah anda patut menjawab soalan tentang situasi tidak selamat di tapak?",
+          "options": ["Siapkan tugas dengan cepat dan laporkan kemudian", "Abaikan jika tarikh akhir sudah hampir", "Hentikan kerja, buat eskalasi dan ikut prosedur", "Minta rakan sekerja menanganinya secara senyap"],
+          "answer": 2,
+          "explanation": "Penemu duga mencari komitmen yang jelas untuk mengutamakan keselamatan berbanding tarikh akhir."
+        },
+        {
+          "id": "q3",
+          "question": "Apakah yang perlu anda berhati-hati apabila membawa portfolio?",
+          "options": ["Bahawa ia dicetak berwarna", "Bahawa tiada maklumat sulit disertakan", "Bahawa ia mempunyai lebih daripada lima puluh halaman", "Bahawa ia hanya menunjukkan kerja universiti"],
+          "answer": 1,
+          "explanation": "Berkongsi bahan sulit daripada majikan terdahulu ialah petanda amaran yang serius."
+        }
+      ]
+    },
+    {
+      "id": "case_interviews",
+      "order": 5,
+      "title": "Temu Duga Kes",
+      "minutes": 4,
+      "premium": true,
+      "pages": [
+        {
+          "title": "Apakah temu duga kes",
+          "body": "Firma perundingan dan banyak jawatan perniagaan menggunakan temu duga kes: anda diberi masalah perniagaan, seperti 'Keuntungan sebuah peruncit telah menurun — mengapa?', dan menyelesaikannya bersama penemu duga. Mereka menilai pemikiran berstruktur, keselesaan dengan angka, deria perniagaan dan komunikasi. Kes sama ada dipimpin oleh penemu duga, di mana mereka membimbing setiap langkah, atau dipimpin oleh calon, di mana anda yang memacu analisis.",
+          "tip": "Catat semua angka dan fakta yang diberikan dalam soalan."
+        },
+        {
+          "title": "Bina satu struktur",
+          "body": "Selepas menjelaskan objektif, ambil sedikit masa untuk membina rangka kerja yang memecahkan masalah kepada bahagian-bahagian yang berbeza. Untuk keuntungan yang menurun, pecahkan kepada hasil dan kos, kemudian perincikan setiap satu dengan lebih lanjut. Sesuaikan rangka kerja dengan kes tersebut dan bukannya memaksakan templat yang dihafal. Bentangkan struktur anda dengan jelas sebelum pergi lebih mendalam, dan tanya bahagian mana yang ingin diterokai oleh penemu duga terlebih dahulu.",
+          "tip": "Minta tiga puluh saat untuk menyusun fikiran anda; itu perkara biasa dan memang dijangka."
+        },
+        {
+          "title": "Anggaran dan saiz pasaran",
+          "body": "Soalan saiz pasaran bertanya perkara seperti, 'Berapa banyak cawan kopi dijual di sebuah bandar setiap hari?' Pecahkan masalah kepada langkah-langkah logik: jumlah penduduk, peratusan peminum kopi, cawan bagi setiap orang dan seterusnya. Nyatakan andaian, gunakan nombor bulat dan kira langkah demi langkah. Penemu duga mementingkan logik anda; pendekatan yang munasabah lebih penting daripada angka yang tepat.",
+          "tip": "Semak kewajaran angka akhir anda dengan sesuatu yang anda ketahui daripada kehidupan seharian."
+        },
+        {
+          "title": "Pemikiran berasaskan hipotesis",
+          "body": "Calon yang kuat membentuk hipotesis awal dan mengujinya: 'Saya mengesyaki peningkatan kos adalah pemacu utama — biar saya semak data kos.' Kemas kini pandangan anda apabila maklumat baharu diperoleh. Akhiri dengan cadangan yang jelas: jawapan anda, dua atau tiga sebab sokongan, risiko dan langkah seterusnya. Bercakaplah seolah-olah anda sedang membentangkan kepada ketua pegawai eksekutif klien.",
+          "tip": "Latih kes secara langsung dalam temu duga olok-olok untuk membina kepantasan dan struktur."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Bagaimanakah anda patut menggunakan rangka kerja dalam temu duga kes?",
+          "options": ["Gunakan satu templat hafalan untuk setiap kes", "Elakkan struktur supaya kelihatan kreatif", "Sesuaikan rangka kerja dengan masalah yang khusus", "Biarkan penemu duga membinanya untuk anda"],
+          "answer": 2,
+          "explanation": "Struktur yang disesuaikan menunjukkan pemikiran sebenar; templat yang dipaksakan kelihatan mekanikal."
+        },
+        {
+          "id": "q2",
+          "question": "Dalam soalan saiz pasaran, apakah yang paling penting?",
+          "options": ["Pendekatan logik dengan andaian yang dinyatakan", "Mengetahui angka rasmi yang tepat", "Menggunakan perpuluhan yang jitu", "Menjawab dalam masa kurang daripada sepuluh saat"],
+          "answer": 0,
+          "explanation": "Penemu duga menilai logik dan andaian anda, bukan angka yang tepat."
+        },
+        {
+          "id": "q3",
+          "question": "Bagaimanakah anda patut menamatkan temu duga kes?",
+          "options": ["Dengan merumuskan setiap angka yang anda kira", "Dengan meminta jawapan daripada penemu duga", "Dengan mengatakan analisis lanjut diperlukan", "Dengan cadangan yang jelas, sebab, risiko dan langkah seterusnya"],
+          "answer": 3,
+          "explanation": "Cadangan yang tegas dan sedia untuk dibentangkan kepada klien ialah penutup yang dijangka."
+        }
+      ]
+    },
+    {
+      "id": "test_types",
+      "order": 6,
+      "title": "Tugasan Bawa Pulang dan Ujian Aptitud",
+      "minutes": 3,
+      "premium": true,
+      "pages": [
+        {
+          "title": "Tugasan bawa pulang",
+          "body": "Tugasan bawa pulang memberi anda beberapa jam atau hari untuk menyiapkan kerja yang realistik, seperti aplikasi kecil, analisis atau laporan. Baca taklimat dengan teliti dan serahkan tepat seperti yang diminta sebelum menambah perkara tambahan. Patuhi had masa yang dicadangkan. Sertakan nota ringkas yang menerangkan pendekatan anda, andaian dan perkara yang akan anda tambah baik jika ada lebih masa.",
+          "tip": "Tanya perekrut bagaimana tugasan itu akan dinilai sebelum anda bermula."
+        },
+        {
+          "title": "Penaakulan berangka dan lisan",
+          "body": "Ujian berangka menggunakan jadual dan carta untuk menguji peratusan, nisbah dan tafsiran data. Ujian lisan memberikan satu petikan dan bertanya sama ada sesuatu kenyataan itu benar, palsu atau tidak dapat ditentukan daripada teks. Untuk soalan lisan, gunakan hanya maklumat yang diberikan, bukan pengetahuan luar. Ujian latihan mudah didapati, dan kebiasaan dengan formatnya sangat meningkatkan kepantasan dan ketepatan.",
+          "tip": "Dalam ujian lisan, 'tidak dapat ditentukan' adalah betul apabila petikan tidak mengesahkan atau menyangkal kenyataan tersebut."
+        },
+        {
+          "title": "Ujian personaliti dan situasi",
+          "body": "Soal selidik personaliti bertanya bagaimana anda biasanya bertindak, manakala ujian pertimbangan situasi menunjukkan senario tempat kerja dengan beberapa kemungkinan respons. Jawab dengan jujur dan konsisten; banyak alat dapat mengesan jawapan yang bercanggah. Ingat keperluan jawatan tersebut, tetapi jangan cuba mereka personaliti yang berbeza. Untuk ujian situasi, pilih respons yang profesional, bekerjasama dan menangani masalah secara langsung.",
+          "tip": "Baca nilai-nilai syarikat terlebih dahulu; ujian situasi sering mencerminkannya."
+        },
+        {
+          "title": "Mengurus masa anda",
+          "body": "Kebanyakan ujian aptitud mempunyai had masa yang ketat dan direka supaya hanya sedikit orang dapat menjawab setiap soalan. Semak bilangan soalan dan bahagikan masa untuk menetapkan rentak kasar. Jangan tersekat: langkau soalan sukar dan kembali jika masa mengizinkan. Ketahui sama ada jawapan salah akan dikenakan penalti; jika tidak, jawab setiap soalan. Ambil ujian di tempat yang tenang dengan sambungan yang stabil.",
+          "tip": "Sediakan kalkulator dan kertas conteng jika dibenarkan."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Apakah yang perlu anda sertakan bersama tugasan bawa pulang?",
+          "options": ["Permintaan gaji yang lebih tinggi", "Nota ringkas tentang pendekatan, andaian dan penambahbaikan yang mungkin", "Ciri tambahan sebagai ganti ciri yang diminta", "Tiada apa-apa selain kod atau fail"],
+          "answer": 1,
+          "explanation": "Menerangkan penaakulan anda membantu penilai memahami dan menghargai kerja anda."
+        },
+        {
+          "id": "q2",
+          "question": "Dalam ujian penaakulan lisan, maklumat apakah yang patut anda gunakan?",
+          "options": ["Pengetahuan am anda tentang topik tersebut", "Apa yang paling mungkin berlaku dalam kehidupan sebenar", "Hanya maklumat yang diberikan dalam petikan", "Jawapan yang anda rasa disukai majikan"],
+          "answer": 2,
+          "explanation": "Ujian penaakulan lisan menilai kenyataan semata-mata berdasarkan petikan."
+        },
+        {
+          "id": "q3",
+          "question": "Apakah yang perlu anda lakukan jika tersekat pada soalan sukar dalam ujian bermasa?",
+          "options": ["Langkau dan kembali jika masa mengizinkan", "Terus mencubanya sehingga dapat diselesaikan", "Tamatkan ujian lebih awal", "Teka secara rawak untuk setiap soalan yang tinggal"],
+          "answer": 0,
+          "explanation": "Melangkau soalan mengekalkan rentak anda supaya anda dapat menjawab lebih banyak soalan secara keseluruhan."
+        }
+      ]
+    }
+  ]
+}

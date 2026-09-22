@@ -1,0 +1,270 @@
+{
+  "id": "stress_management",
+  "order": 7,
+  "icon": "calm",
+  "color": "#14B8A6",
+  "title": "Mengurus Tekanan Temu Duga",
+  "summary": "Cara praktikal untuk kekal tenang sebelum, semasa dan selepas temu duga, serta terus bersemangat sepanjang proses mencari kerja yang panjang.",
+  "topics": [
+    {
+      "id": "preparation_techniques",
+      "order": 1,
+      "title": "Persediaan sebagai Pelega Tekanan",
+      "minutes": 3,
+      "premium": false,
+      "pages": [
+        {
+          "title": "Ketidakpastian mencetuskan rasa gemuruh",
+          "body": "Kebanyakan kebimbangan temu duga datang daripada tidak tahu apa yang akan berlaku. Persediaan mengurangkan ketidakpastian itu. Apabila anda sudah mengenali syarikat tersebut, telah berlatih cerita-cerita utama anda dan telah merancang urusan logistik, lebih sedikit perkara yang perlu dirisaukan oleh fikiran anda. Sedikit rasa gemuruh akan tetap ada, dan itu tidak mengapa: sedikit adrenalin membuatkan anda lebih peka dan fokus.",
+          "tip": "Tuliskan apa sebenarnya yang anda risaukan; kebanyakannya akan menjadi tugasan persediaan."
+        },
+        {
+          "title": "Sediakan bahan utama anda",
+          "body": "Anda tidak perlu jawapan untuk setiap soalan yang mungkin ditanya. Sediakan lima atau enam cerita kukuh yang menunjukkan kemahiran utama anda, seperti menyelesaikan masalah, memimpin, menangani konflik dan belajar daripada kesilapan. Kebanyakan soalan tingkah laku boleh dijawab dengan salah satu daripadanya. Mengetahui bahawa anda sudah mempunyai bekalan ini menjadikan soalan yang tidak dijangka terasa jauh kurang menakutkan.",
+          "tip": "Tulis setiap cerita dalam tiga poin ringkas, bukan skrip penuh."
+        },
+        {
+          "title": "Hapuskan tekanan logistik",
+          "body": "Masalah praktikal yang kecil boleh menimbulkan tekanan besar pada hari tersebut. Pada malam sebelumnya, sediakan pakaian anda, cetak atau simpan CV anda, sahkan masa dan zon waktu, dan rancang laluan perjalanan atau uji pautan video anda. Bawa air dan salinan nota anda. Apabila urusan logistik sudah selesai, tenaga anda boleh ditumpukan sepenuhnya kepada perbualan.",
+          "tip": "Tetapkan dua penggera dan tambah masa penimbal 20 minit pada masa perjalanan anda."
+        },
+        {
+          "title": "Rancang satu jam terakhir",
+          "body": "Tentukan lebih awal bagaimana anda akan menggunakan satu jam sebelum temu duga. Elakkan menghafal maklumat baharu saat-saat akhir; sebaliknya, semak semula cerita-cerita anda secara ringkas, makan snek ringan dan berjalan kaki sebentar jika boleh. Ramai orang mendapati rutin yang menenangkan, seperti senarai main lagu atau latihan pernafasan, membantu mereka tiba dengan fokus dan tidak tergesa-gesa.",
+          "tip": "Buat temu duga olok-olok ringkas sehari sebelumnya, bukan sejam sebelumnya."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Mengapakah persediaan mengurangkan tekanan temu duga?",
+          "options": ["Ia menghapuskan semua rasa gemuruh sepenuhnya", "Ia mengurangkan ketidakpastian, jadi kurang perkara yang perlu dirisaukan", "Ia menjadikan temu duga lebih singkat", "Ia menjamin tawaran kerja"],
+          "answer": 1,
+          "explanation": "Persediaan mengurangkan perkara yang tidak diketahui yang mencetuskan kebimbangan, walaupun sedikit rasa gemuruh tetap ada."
+        },
+        {
+          "id": "q2",
+          "question": "Berapa banyak cerita utama yang patut anda sediakan?",
+          "options": ["Satu cerita yang sempurna", "Lima atau enam yang merangkumi kemahiran utama anda", "Skrip berasingan untuk setiap soalan yang mungkin ditanya", "Tiada — berimprovisasi lebih baik"],
+          "answer": 1,
+          "explanation": "Sekumpulan kecil cerita yang serba boleh sudah merangkumi kebanyakan soalan tingkah laku."
+        },
+        {
+          "id": "q3",
+          "question": "Apakah yang patut anda elakkan dalam satu jam sebelum temu duga?",
+          "options": ["Snek ringan", "Berjalan kaki sebentar", "Menyemak semula cerita anda secara ringkas", "Menghafal maklumat baharu saat-saat akhir"],
+          "answer": 3,
+          "explanation": "Menghafal saat-saat akhir menambah tekanan; rutin yang tenang membantu anda tiba dengan fokus."
+        }
+      ]
+    },
+    {
+      "id": "breathing_exercises",
+      "order": 2,
+      "title": "Teknik Pernafasan",
+      "minutes": 3,
+      "premium": false,
+      "pages": [
+        {
+          "title": "Mengapa pernafasan membantu",
+          "body": "Apabila anda berasa gemuruh, pernafasan sering menjadi laju dan cetek, dan ini boleh membuatkan anda lebih tegang. Memperlahankan pernafasan, terutamanya dengan menjadikan hembusan lebih panjang daripada tarikan, ialah cara mudah yang digunakan ramai orang untuk berasa lebih tenang. Kelebihan besarnya ialah anda boleh melakukannya di mana-mana sahaja, termasuk di ruang menunggu, tanpa disedari sesiapa.",
+          "tip": "Latih teknik-teknik ini pada hari biasa supaya ia terasa semula jadi apabila anda memerlukannya."
+        },
+        {
+          "title": "Pernafasan kotak",
+          "body": "Pernafasan kotak menggunakan empat langkah yang sama panjang. Tarik nafas melalui hidung selama empat kiraan, tahan selama empat, hembus perlahan-lahan selama empat, kemudian tahan lagi selama empat. Ulang kitaran ini empat hingga enam kali. Kiraan yang tetap memberi fikiran anda sesuatu yang mudah untuk difokuskan, lalu membantu mengalihkan perhatian daripada fikiran yang cemas.",
+          "tip": "Bayangkan anda melukis segi empat sama dengan mata anda, satu sisi bagi setiap langkah."
+        },
+        {
+          "title": "Teknik 4-7-8",
+          "body": "Corak 4-7-8 menekankan hembusan nafas yang panjang. Tarik nafas perlahan melalui hidung selama empat kiraan, tahan selama tujuh, kemudian hembus perlahan-lahan melalui mulut selama lapan. Mulakan dengan tiga atau empat pusingan. Jika menahan selama tujuh kiraan terasa tidak selesa, pendekkan semua kiraan sambil mengekalkan hembusan sebagai yang paling panjang. Berhenti dan bernafas seperti biasa jika anda berasa pening.",
+          "tip": "Gunakannya pada malam sebelum temu duga untuk membantu anda bertenang."
+        },
+        {
+          "title": "Bernafas semasa temu duga",
+          "body": "Anda tidak boleh melakukan latihan penuh di tengah-tengah perbualan, tetapi anda boleh mengambil satu nafas perlahan. Sebelum menjawab soalan yang sukar, tarik nafas dengan tenang sambil berfikir; ia kelihatan bernas, bukan gemuruh. Jika anda perasan percakapan anda semakin laju, berhenti seketika di hujung ayat dan hembus nafas sepenuhnya sebelum meneruskan. Tiada siapa akan perasan, tetapi anda akan berasa lebih stabil.",
+          "tip": "Gabungkan nafas perlahan dengan seteguk air untuk mendapat beberapa saat jeda yang semula jadi."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Apakah corak pernafasan kotak?",
+          "options": ["Tarik 4, tahan 4, hembus 4, tahan 4", "Tarik 4, tahan 7, hembus 8", "Tarik 2, hembus 2, diulang dengan laju", "Tahan nafas selama yang boleh"],
+          "answer": 0,
+          "explanation": "Pernafasan kotak menggunakan empat langkah yang sama, setiap satu empat kiraan."
+        },
+        {
+          "id": "q2",
+          "question": "Dalam teknik 4-7-8, langkah manakah yang paling panjang?",
+          "options": ["Tarikan nafas", "Menahan nafas", "Hembusan nafas", "Semuanya sama panjang"],
+          "answer": 2,
+          "explanation": "Hembusan lapan kiraan ialah langkah paling panjang dan teras kepada teknik ini."
+        },
+        {
+          "id": "q3",
+          "question": "Bagaimanakah anda boleh menggunakan pernafasan semasa temu duga itu sendiri?",
+          "options": ["Lakukan satu kitaran penuh pernafasan kotak sebelum setiap jawapan", "Ambil satu nafas perlahan sebelum menjawab soalan yang sukar", "Tahan nafas untuk berhenti bercakap terlalu laju", "Teknik pernafasan hanya berkesan sebelum temu duga"],
+          "answer": 1,
+          "explanation": "Satu nafas yang tenang kelihatan bernas dan membantu anda kekal stabil."
+        }
+      ]
+    },
+    {
+      "id": "mindfulness",
+      "order": 3,
+      "title": "Kekal Hadir di Bawah Tekanan",
+      "minutes": 3,
+      "premium": true,
+      "pages": [
+        {
+          "title": "Ke mana perhatian anda pergi",
+          "body": "Di bawah tekanan, fikiran anda cenderung melompat ke hadapan (‘Bagaimana jika mereka bertanya tentang jurang kerjaya saya?’) atau menoleh ke belakang (‘Jawapan tadi teruk sekali’). Kedua-duanya menarik perhatian anda daripada soalan di hadapan anda. Kekal hadir bermaksud membawa fokus anda kembali kepada saat ini — orang itu, soalan itu, ayat anda yang seterusnya — setiap kali anda sedar fikiran anda mula melayang.",
+          "tip": "Anggap setiap soalan sebagai permulaan baharu, walau apa pun yang berlaku sebelumnya."
+        },
+        {
+          "title": "Teknik membumikan diri",
+          "body": "Latihan membumikan diri yang mudah membantu anda kembali kepada saat ini. Rasai kedua-dua kaki anda rata di atas lantai dan sedari kerusi yang menyokong anda. Atau cuba latihan 5-4-3-2-1 di ruang menunggu: namakan lima perkara yang anda lihat, empat yang boleh anda sentuh, tiga yang anda dengar, dua yang anda hidu dan satu yang anda rasa. Menggunakan pancaindera anda memutuskan fikiran yang terus berpusar.",
+          "tip": "Tekan kaki anda perlahan-lahan ke lantai apabila gelombang gemuruh datang."
+        },
+        {
+          "title": "Dengar sepenuhnya",
+          "body": "Salah satu cara terbaik untuk kekal hadir ialah memberikan perhatian penuh kepada penemu duga. Daripada merancang jawapan semasa mereka masih bercakap, dengar keseluruhan soalan dan perhatikan kata kuncinya. Kemudian ambil masa seketika sebelum menjawab. Mendengar sepenuhnya memperbaik jawapan anda dan membuatkan fikiran anda terlalu sibuk untuk risau.",
+          "tip": "Jika anda hilang fokus, tanya: ‘Boleh ulang soalan itu, sila?’"
+        },
+        {
+          "title": "Menangani saat tersasul",
+          "body": "Semua orang pernah tersasul: fikiran tiba-tiba kosong, terlupa perkataan, atau jawapan yang berterabur. Akui secara ringkas dan teruskan: ‘Izinkan saya menerangkannya dengan lebih jelas.’ Jangan bawa kesilapan itu ke jawapan seterusnya. Penemu duga lebih mengingati cara anda bangkit berbanding kesilapan itu sendiri. Kembali tenang dengan segera ialah petanda kuat bahawa anda boleh mengawal diri.",
+          "tip": "Letakkan segelas air berdekatan; seteguk air memberi anda saat semula jadi untuk bertenang semula."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Apakah maksud ‘kekal hadir’ dalam temu duga?",
+          "options": ["Tiba tepat pada masanya", "Menghafal semua jawapan anda", "Membawa fokus anda kembali kepada soalan dan perbualan semasa", "Mengabaikan reaksi penemu duga"],
+          "answer": 2,
+          "explanation": "Kekal hadir bermaksud mengembalikan perhatian kepada saat ini setiap kali ia melayang."
+        },
+        {
+          "id": "q2",
+          "question": "Apakah latihan 5-4-3-2-1?",
+          "options": ["Kiraan pernafasan", "Cara menilai kedudukan jawapan anda", "Latihan membumikan diri menggunakan pancaindera anda", "Kaedah untuk menetapkan masa jawapan"],
+          "answer": 2,
+          "explanation": "Menamakan perkara yang anda lihat, sentuh, dengar, hidu dan rasa membawa perhatian kembali kepada saat ini."
+        },
+        {
+          "id": "q3",
+          "question": "Anda tersasul semasa menjawab. Apakah pendekatan terbaik?",
+          "options": ["Akui secara ringkas, ungkapkan semula dan teruskan", "Meminta maaf berulang kali", "Terus memikirkannya semasa menjawab soalan seterusnya", "Minta untuk menamatkan temu duga"],
+          "answer": 0,
+          "explanation": "Bangkit dengan cepat dan tenang meninggalkan kesan yang lebih kuat daripada kesilapan itu."
+        }
+      ]
+    },
+    {
+      "id": "learning_from_rejection",
+      "order": 4,
+      "title": "Belajar daripada Penolakan",
+      "minutes": 3,
+      "premium": true,
+      "pages": [
+        {
+          "title": "Penolakan ialah sebahagian daripada proses",
+          "body": "Hampir semua orang menghadapi penolakan semasa mencari kerja, selalunya berkali-kali. Jawapan ‘tidak’ jarang sekali merupakan penilaian terhadap nilai diri anda. Keputusan pengambilan bergantung pada banyak faktor yang tidak dapat anda lihat atau kawal: calon dalaman, perubahan bajet, atau profil yang sedikit berbeza. Adalah normal untuk berasa kecewa. Beri diri anda sedikit masa, kemudian alihkan perhatian kepada perkara yang boleh anda pelajari.",
+          "tip": "Beri diri anda tempoh masa tertentu untuk berasa kecewa, kemudian ambil satu langkah kecil yang seterusnya."
+        },
+        {
+          "title": "Minta maklum balas",
+          "body": "Balas penolakan dengan sopan dan minta maklum balas ringkas: ‘Terima kasih kerana memaklumkan. Jika ada masa, saya amat menghargai sebarang maklum balas yang boleh membantu saya memperbaiki diri.’ Bukan semua syarikat akan membalas, dan itu tidak mengapa. Jika mereka membalas, maklum balas itu sangat berharga. Kekal bersopan walau apa pun hasilnya; orang yang sama mungkin akan mempertimbangkan anda untuk jawatan lain pada masa hadapan.",
+          "tip": "Pastikan permintaan maklum balas anda ringkas dan jangan sekali-kali mempertikaikan keputusan itu."
+        },
+        {
+          "title": "Asingkan fakta daripada andaian",
+          "body": "Selepas ditolak, mudah sekali untuk mereka cerita kepada diri sendiri: ‘Saya tidak cukup bagus’ atau ‘Saya selalu gagal temu duga.’ Sebaliknya, carilah fakta. Soalan manakah yang berjalan dengan baik? Di manakah anda teragak-agak? Adakah jawatan itu benar-benar sepadan dengan pengalaman anda? Menulis apa yang sebenarnya berlaku membantu anda bertindak balas dengan penambahbaikan yang khusus, bukan kritikan diri yang umum.",
+          "tip": "Tulis tiga fakta tentang temu duga itu sebelum membuat sebarang kesimpulan."
+        },
+        {
+          "title": "Jadikan pengajaran sebagai tindakan",
+          "body": "Cari corak merentasi beberapa temu duga dan bukannya bertindak balas terhadap satu sahaja. Jika anda sering tersekat pada soalan gaji, sediakan jawapan untuknya. Jika anda jarang melepasi pusingan pertama, CV atau sasaran permohonan anda mungkin perlu diperbaik. Pilih satu perubahan yang konkrit, latihnya, dan gunakannya dalam temu duga anda yang seterusnya. Setiap penolakan kemudiannya menjadi langkah ke hadapan, bukan kemunduran.",
+          "tip": "Jalankan temu duga olok-olok untuk soalan-soalan yang menyukarkan anda kali lepas."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Apakah yang biasanya ditunjukkan oleh sesuatu penolakan?",
+          "options": ["Bahawa anda tidak layak diambil bekerja", "Bahawa anda patut berhenti memohon", "Bahawa semua yang anda lakukan salah", "Banyak faktor, sesetengahnya di luar kawalan anda"],
+          "answer": 3,
+          "explanation": "Keputusan pengambilan bergantung pada banyak faktor yang tidak dapat anda lihat, bukan hanya prestasi anda."
+        },
+        {
+          "id": "q2",
+          "question": "Bagaimanakah anda patut membalas e-mel penolakan?",
+          "options": ["Minta mereka mempertimbangkan semula", "Ucapkan terima kasih dengan sopan dan minta maklum balas ringkas", "Tidak perlu membalas langsung", "Terangkan mengapa keputusan mereka salah"],
+          "answer": 1,
+          "explanation": "Balasan yang sopan bersama permintaan maklum balas memastikan pintu kekal terbuka dan mungkin memberi pandangan berguna."
+        },
+        {
+          "id": "q3",
+          "question": "Apakah cara terbaik untuk belajar daripada penolakan?",
+          "options": ["Cari corak dan pilih satu perubahan konkrit untuk dilatih", "Ubah segala-galanya selepas setiap penolakan", "Fokus hanya pada temu duga anda yang paling teruk", "Menganggap anda akan bertambah baik tanpa mengubah apa-apa"],
+          "answer": 0,
+          "explanation": "Corak merentasi temu duga menunjukkan apa yang benar-benar perlu diperbaik; satu perubahan yang terfokus lebih mudah diurus."
+        }
+      ]
+    },
+    {
+      "id": "resilience",
+      "order": 5,
+      "title": "Membina Daya Tahan Semasa Mencari Kerja",
+      "minutes": 4,
+      "premium": true,
+      "pages": [
+        {
+          "title": "Anggap ia seperti projek",
+          "body": "Mencari kerja boleh mengambil masa berminggu-minggu atau berbulan-bulan, dan ketidakpastian itu memenatkan. Menganggapnya sebagai projek yang berstruktur akan membantu. Tetapkan waktu kerja tetap untuk permohonan dan latihan, dan berhenti apabila waktunya tamat. Fokus pada tindakan yang boleh anda kawal, seperti permohonan yang dihantar, kenalan yang dihubungi dan temu duga olok-olok yang diselesaikan, dan bukannya hasil yang di luar kawalan anda, seperti tawaran kerja.",
+          "tip": "Tetapkan sasaran mingguan dalam bentuk tindakan, bukan keputusan."
+        },
+        {
+          "title": "Jaga rutin anda",
+          "body": "Rutin asas memberi kesan sebenar kepada tenaga dan emosi. Kekalkan waktu tidur dan makan yang teratur, keluar rumah setiap hari dan gerakkan badan dengan cara yang anda gemari. Rancang aktiviti yang langsung tiada kaitan dengan pencarian kerja. Ini bukan gangguan daripada matlamat anda; sebaliknya ia memastikan anda cukup rehat untuk memberikan prestasi yang baik dalam temu duga.",
+          "tip": "Jadualkan sekurang-kurangnya satu aktiviti menyeronokkan yang bebas daripada urusan kerja setiap minggu."
+        },
+        {
+          "title": "Bergantung pada orang lain",
+          "body": "Mencari kerja bersendirian membuatkan kegagalan terasa lebih berat. Kongsi kemajuan anda dengan kawan, ahli keluarga atau rakan pencari kerja, dan pertimbangkan untuk menyertai kumpulan atau komuniti pencari kerja. Orang lain boleh memberi galakan, membantu anda berlatih dan berkongsi maklumat jawatan kosong. Jika tekanan mula terasa terlalu berat atau menjejaskan kehidupan harian, bercakap dengan kaunselor atau profesional lain yang bertauliah boleh membantu.",
+          "tip": "Cari rakan seperjuangan mencari kerja dan saling bertanya khabar seminggu sekali."
+        },
+        {
+          "title": "Sedari kemajuan anda",
+          "body": "Kemajuan dalam mencari kerja selalunya tidak kelihatan sehinggalah tawaran tiba. Jadikannya kelihatan. Simpan rekod tentang apa yang telah anda lakukan dan pelajari: jawapan yang lebih kukuh, temu duga yang lebih baik, kenalan baharu, kemahiran yang telah anda latih. Raikan kejayaan kecil, seperti mara ke pusingan kedua atau menerima maklum balas positif. Melihat kembali sejauh mana anda telah melangkah membantu anda terus bertahan.",
+          "tip": "Tulis satu kejayaan, walau sekecil mana pun, pada setiap hujung minggu."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Apakah jenis sasaran mingguan yang menyokong daya tahan?",
+          "options": ["Bilangan tawaran yang diterima", "Tindakan yang boleh anda kawal, seperti permohonan dan sesi latihan", "Tahap gaji yang dicapai", "Bilangan penolakan yang berjaya dielakkan"],
+          "answer": 1,
+          "explanation": "Fokus pada tindakan yang boleh dikawal memastikan anda kekal bermotivasi walau apa pun hasilnya."
+        },
+        {
+          "id": "q2",
+          "question": "Mengapakah perlu mengekalkan aktiviti bukan kerja semasa mencari kerja?",
+          "options": ["Ia memastikan anda cukup rehat dan mampu memberikan prestasi yang baik", "Ia cara untuk mengelak daripada memohon", "Penemu duga akan bertanya tentang hobi", "Ia memendekkan tempoh pencarian"],
+          "answer": 0,
+          "explanation": "Rehat dan keseronokan memelihara tenaga yang anda perlukan untuk temu duga."
+        },
+        {
+          "id": "q3",
+          "question": "Tekanan mula menjejaskan kehidupan harian anda. Apakah langkah yang baik?",
+          "options": ["Simpan sendiri", "Mohon lebih banyak kerja untuk mengalihkan perhatian", "Berhenti mencari kerja buat selama-lamanya", "Bercakap dengan kaunselor atau profesional lain yang bertauliah"],
+          "answer": 3,
+          "explanation": "Mendapatkan sokongan daripada individu yang bertauliah ialah langkah yang wajar dan praktikal."
+        }
+      ]
+    }
+  ]
+}

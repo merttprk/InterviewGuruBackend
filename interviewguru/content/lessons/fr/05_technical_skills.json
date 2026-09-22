@@ -1,0 +1,412 @@
+{
+  "id": "technical_skills",
+  "order": 5,
+  "icon": "technical",
+  "color": "#8B5CF6",
+  "title": "Entretiens techniques par domaine",
+  "summary": "Prépare-toi aux épreuves techniques de ton domaine, des questions de code et de valorisation aux études de cas et aux tests d'aptitude.",
+  "topics": [
+    {
+      "id": "analysis_method",
+      "order": 1,
+      "title": "Structurer n'importe quel problème technique",
+      "minutes": 3,
+      "premium": false,
+      "pages": [
+        {
+          "title": "Clarifie avant de résoudre",
+          "body": "Quel que soit ton domaine, la première étape est la même : assure-toi de bien comprendre le problème. Reformule-le avec tes propres mots, pose des questions sur les données d'entrée, les contraintes et le résultat attendu, et confirme tes hypothèses. Les recruteurs laissent souvent les problèmes volontairement flous pour voir si tu poses des questions. Te lancer directement dans une solution, c'est risquer de très bien résoudre le mauvais problème.",
+          "tip": "Énonce tes hypothèses à voix haute : « Je pars du principe que les données tiennent en mémoire, ça te paraît raisonnable ? »"
+        },
+        {
+          "title": "Découpe-le en étapes",
+          "body": "Les gros problèmes deviennent gérables quand tu les découpes en étapes plus petites. Présente ton plan avant de te lancer : « D'abord je calcule la charge, ensuite je la compare à la limite, puis je dimensionne le composant. » Cela montre une pensée structurée et permet au recruteur de corriger ta trajectoire tôt. Commence par une approche simple qui fonctionne avant d'optimiser ou d'ajouter de la complexité.",
+          "tip": "Note les étapes pour que toi et le recruteur puissiez les suivre."
+        },
+        {
+          "title": "Réfléchis à voix haute",
+          "body": "Les recruteurs évaluent ton raisonnement, pas seulement la réponse finale. Explique ce que tu fais et pourquoi, y compris les options que tu écartes : « Je pourrais utiliser une table de correspondance ici, mais une formule est plus simple pour cette plage. » Si tu bloques, dis ce que tu as essayé et où tu coinces. Les recruteurs donnent souvent des indices aux candidats qui communiquent clairement.",
+          "tip": "Les longs silences paraissent encore plus longs au recruteur ; continue à expliquer même si tu n'es pas sûr de toi."
+        },
+        {
+          "title": "Vérifie et prends du recul",
+          "body": "Quand tu obtiens une réponse, teste-la. Essaie un exemple simple, un cas limite ou un rapide contrôle de cohérence : le résultat a-t-il les bonnes unités et un ordre de grandeur plausible ? Résume ensuite ta solution et mentionne ses limites ou la façon dont tu l'améliorerais avec plus de temps. Repérer ta propre erreur impressionne davantage les recruteurs que de n'en faire aucune.",
+          "tip": "Demande-toi toujours : « Cette réponse a-t-elle du sens dans la vraie vie ? »"
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Que dois-tu faire en premier face à un problème technique ?",
+          "options": [
+            "Commencer à calculer immédiatement",
+            "Clarifier le problème, les contraintes et les hypothèses",
+            "Demander la réponse",
+            "Expliquer ton ancien poste"
+          ],
+          "answer": 1,
+          "explanation": "Clarifier garantit que tu résous le bon problème, et les recruteurs l'évaluent souvent."
+        },
+        {
+          "id": "q2",
+          "question": "Pourquoi faut-il réfléchir à voix haute pendant une question technique ?",
+          "options": [
+            "Cela permet de meubler jusqu'à la fin de l'entretien",
+            "Les recruteurs ne notent que la réponse finale",
+            "Cela permet aux recruteurs d'évaluer ton raisonnement et de te donner des indices",
+            "Cela évite les questions de suivi"
+          ],
+          "answer": 2,
+          "explanation": "C'est ton raisonnement qui est évalué, et une communication claire t'attire des indices utiles."
+        },
+        {
+          "id": "q3",
+          "question": "Quelle est une bonne dernière étape une fois la réponse trouvée ?",
+          "options": [
+            "La tester avec un exemple ou un contrôle de cohérence",
+            "Passer à la suite sans commentaire",
+            "Demander un problème plus difficile",
+            "La réécrire entièrement"
+          ],
+          "answer": 0,
+          "explanation": "Vérifier avec des exemples et des contrôles de cohérence permet de repérer les erreurs et montre ta rigueur."
+        }
+      ]
+    },
+    {
+      "id": "software_engineering",
+      "order": 2,
+      "title": "Entretiens en génie logiciel",
+      "minutes": 4,
+      "premium": false,
+      "pages": [
+        {
+          "title": "L'épreuve de code",
+          "body": "La plupart des entretiens en développement logiciel incluent du code en direct sur un éditeur partagé ou un tableau blanc. Tu es évalué sur ta résolution de problèmes, la qualité de ton code et ta communication. Clarifie les entrées et les cas limites, décris une solution naïve (force brute), puis améliore-la. Écris un code propre et lisible avec des noms explicites. Une fois terminé, déroule un cas de test ligne par ligne et indique la complexité en temps et en espace.",
+          "tip": "Entraîne-toi sur un éditeur basique sans autocomplétion ; beaucoup d'outils d'entretien n'en ont pas."
+        },
+        {
+          "title": "Structures de données et algorithmes",
+          "body": "Les sujets clés reviennent sans cesse : tableaux et chaînes, tables de hachage, piles et files, listes chaînées, arbres, graphes, tri et recherche, et récursivité. Connais la complexité en temps typique des opérations courantes, comme la recherche en temps constant en moyenne dans une table de hachage. Apprends à reconnaître des schémas comme les deux pointeurs, les fenêtres glissantes ou le parcours en largeur, plutôt que de mémoriser des problèmes isolés.",
+          "tip": "Quand un problème comporte des recherches répétées, demande-toi si une table de hachage peut aider."
+        },
+        {
+          "title": "Les bases de la conception de systèmes",
+          "body": "Pour les postes confirmés et seniors, attends-toi à une épreuve de conception de systèmes : « Conçois un raccourcisseur d'URL. » Commence par les exigences et l'échelle, puis esquisse les principaux composants : clients, API, services, base de données, cache. Discute des compromis, comme SQL ou NoSQL, cohérence ou disponibilité. Il y a rarement une seule bonne réponse ; les recruteurs veulent voir des choix argumentés et une conscience des goulots d'étranglement.",
+          "tip": "Estime d'abord l'échelle, par exemple le nombre de requêtes par seconde et le volume de données."
+        },
+        {
+          "title": "Revue de code et échanges techniques",
+          "body": "Certaines entreprises te montrent du code existant et te demandent de le relire. Cherche les bugs, les noms peu clairs, l'absence de gestion des erreurs, les failles de sécurité et les tests manquants. Formule tes retours avec respect et explique pourquoi chaque changement compte. On peut aussi t'interroger sur tes projets passés : sois prêt à expliquer tes choix de conception, ce qui a mal tourné et ce que tu ferais différemment.",
+          "tip": "Prépare un projet que tu peux expliquer en profondeur, compromis compris."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Après avoir écrit ta solution lors d'une épreuve de code, que dois-tu faire ?",
+          "options": [
+            "La soumettre immédiatement sans commentaire",
+            "Dérouler un cas de test et indiquer sa complexité",
+            "Demander au recruteur de la tester",
+            "La supprimer et repartir sur une autre approche"
+          ],
+          "answer": 1,
+          "explanation": "Tester ton code et indiquer sa complexité montre ta rigueur et ta compréhension."
+        },
+        {
+          "id": "q2",
+          "question": "Comment dois-tu commencer une question de conception de systèmes ?",
+          "options": [
+            "Choisir une marque de base de données",
+            "Écrire le code de l'API",
+            "Clarifier les exigences et estimer l'échelle",
+            "Dessiner un diagramme de classes détaillé"
+          ],
+          "answer": 2,
+          "explanation": "Les exigences et l'échelle orientent toutes les décisions de conception qui suivent."
+        },
+        {
+          "id": "q3",
+          "question": "Que dois-tu chercher quand on te demande de relire du code ?",
+          "options": [
+            "Uniquement la mise en forme et l'indentation",
+            "Le nom de l'auteur",
+            "S'il utilise la version la plus récente du langage",
+            "Les bugs, les noms peu clairs, la gestion des erreurs, les failles de sécurité et les tests"
+          ],
+          "answer": 3,
+          "explanation": "Une bonne revue couvre l'exactitude, la clarté, la robustesse, la sécurité et les tests."
+        }
+      ]
+    },
+    {
+      "id": "finance",
+      "order": 3,
+      "title": "Entretiens en finance et comptabilité",
+      "minutes": 4,
+      "premium": true,
+      "pages": [
+        {
+          "title": "Les trois états financiers",
+          "body": "Attends-toi à des questions sur les liens entre le compte de résultat, le bilan et le tableau des flux de trésorerie. Le résultat net passe du compte de résultat au haut du tableau des flux de trésorerie, puis aux réserves (bénéfices non distribués) au bilan. Une question classique : « Les amortissements augmentent de 10, explique-moi l'impact sur les états financiers. » Entraîne-toi à voix haute jusqu'à ce que ça devienne automatique.",
+          "tip": "N'oublie jamais que le bilan doit être équilibré à la fin de ton raisonnement."
+        },
+        {
+          "title": "Les bases de la valorisation",
+          "body": "Connais les principales méthodes de valorisation : actualisation des flux de trésorerie, comparables boursiers et transactions comparables. Sois prêt à expliquer la différence entre valeur d'entreprise et valeur des fonds propres, et pourquoi le DCF actualise les flux de trésorerie disponibles futurs avec un taux comme le coût moyen pondéré du capital. Les recruteurs s'intéressent davantage à ta compréhension de l'intérêt de chaque méthode qu'à des formules apprises par cœur.",
+          "tip": "Sois capable d'expliquer chaque méthode en deux phrases à un non-spécialiste."
+        },
+        {
+          "title": "Tests Excel et modélisation",
+          "body": "De nombreux postes en finance incluent un test Excel chronométré : construire un modèle simple, nettoyer des données ou répondre à des questions à partir d'un jeu de données. Maîtrise les fonctions de recherche, SUMIFS, les tableaux croisés dynamiques, les références absolues et relatives, et les graphiques de base. Sépare et étiquette clairement les données d'entrée, les calculs et les résultats. Un modèle propre et vérifiable obtient un meilleur score qu'un modèle astucieux que personne ne peut suivre.",
+          "tip": "Apprends les raccourcis clavier de navigation ; ils te font gagner de précieuses minutes quand le temps presse."
+        },
+        {
+          "title": "Connaissance des marchés",
+          "body": "On peut te demander : « Parle-moi d'une entreprise ou d'une opération que tu as suivie » ou « Selon toi, où vont les taux d'intérêt ? » Suis l'actualité financière régulièrement pendant quelques semaines avant tes entretiens. Prépare une entreprise et une tendance récente du marché dont tu peux parler chiffres à l'appui, avec un avis clair. Ce n'est pas grave d'avoir des doutes ; montre ton raisonnement.",
+          "tip": "Prépare un court pitch d'investissement : l'entreprise, ton avis et deux arguments qui le soutiennent."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Où va le résultat net après le compte de résultat ?",
+          "options": [
+            "Uniquement au bilan sous forme de trésorerie",
+            "En haut du tableau des flux de trésorerie et dans les réserves",
+            "Nulle part ailleurs ; il reste dans le compte de résultat",
+            "Directement dans la valeur d'entreprise"
+          ],
+          "answer": 1,
+          "explanation": "Le résultat net relie les trois états via les flux de trésorerie et les réserves."
+        },
+        {
+          "id": "q2",
+          "question": "Laquelle de ces méthodes est l'une des principales méthodes de valorisation ?",
+          "options": [
+            "L'actualisation des flux de trésorerie",
+            "Le recrutement linéaire",
+            "La paie en partie double",
+            "L'inventaire des stocks"
+          ],
+          "answer": 0,
+          "explanation": "Le DCF, les comparables boursiers et les transactions comparables sont les méthodes de référence."
+        },
+        {
+          "id": "q3",
+          "question": "Qu'est-ce qui permet à un modèle d'obtenir un bon score à un test Excel ?",
+          "options": [
+            "Masquer toutes les formules",
+            "Utiliser le plus de fonctions possible",
+            "Des données d'entrée, calculs et résultats clairement séparés et étiquetés",
+            "Tout mettre dans une seule cellule"
+          ],
+          "answer": 2,
+          "explanation": "Une structure propre et vérifiable est plus appréciée que l'astuce."
+        }
+      ]
+    },
+    {
+      "id": "engineering_roles",
+      "order": 4,
+      "title": "Entretiens d'ingénieur",
+      "minutes": 4,
+      "premium": true,
+      "pages": [
+        {
+          "title": "Fondamentaux et calculs",
+          "body": "Les entretiens en génie mécanique, électrique et civil testent souvent les principes de base avec des calculs rapides : contrainte et déformation, transfert thermique, loi d'Ohm, puissance, charge sur une poutre ou écoulement des fluides. Montre clairement ta méthode, écris les unités à chaque étape et énonce tes hypothèses. La bonne démarche compte plus que l'arithmétique exacte. Fais d'abord une estimation pour repérer une réponse complètement à côté.",
+          "tip": "Révise les formules fondamentales de ta discipline la semaine précédente."
+        },
+        {
+          "title": "La sécurité avant tout",
+          "body": "Les questions de sécurité sont fréquentes et prises très au sérieux. On peut te demander comment tu réagirais face à une situation dangereuse sur un chantier ou ce que tu ferais si une conception ne respectait pas les marges de sécurité. Montre que tu arrêterais le travail, que tu ferais remonter le problème et que tu suivrais les procédures plutôt que de bâcler sous la pression des délais. Mentionne l'évaluation des risques, les coefficients de sécurité et les mesures de protection adaptées.",
+          "tip": "Ne suggère jamais de compromettre la sécurité pour tenir un planning, même de façon hypothétique."
+        },
+        {
+          "title": "Normes et réglementations",
+          "body": "Le travail d'ingénieur suit des codes et des normes, comme les réglementations nationales de construction, les normes électriques ou les normes internationales ISO. Tu n'as pas besoin de les réciter, mais tu dois expliquer comment tu les utilises : vérifier des conceptions, documenter la conformité et te tenir à jour. Si tu cites une norme, assure-toi de savoir ce qu'elle couvre, car des questions de suivi sont probables.",
+          "tip": "Cite les normes que tu as réellement utilisées dans un projet et explique comment."
+        },
+        {
+          "title": "Parler de tes projets",
+          "body": "Attends-toi à des questions détaillées sur un projet mené au travail, en stage ou à l'université. Explique le problème, ton rôle précis, les principaux choix de conception, les outils utilisés et les résultats, idéalement chiffrés. Sois honnête sur ce qui a mal tourné et sur ce que tu as appris. Apporte des plans ou un portfolio si c'est pertinent, mais vérifie qu'il ne contient rien de confidentiel.",
+          "tip": "L'analyse de CV peut t'aider à affiner la description de tes projets avant l'entretien."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Qu'est-ce qui compte le plus quand tu résous un calcul lors d'un entretien d'ingénieur ?",
+          "options": [
+            "Une méthode claire, avec les unités et des hypothèses énoncées",
+            "Un calcul mental parfait sans rien écrire",
+            "Finir plus vite que le recruteur",
+            "Utiliser la formule la plus avancée"
+          ],
+          "answer": 0,
+          "explanation": "La méthode, les unités et les hypothèses montrent une vraie rigueur d'ingénieur."
+        },
+        {
+          "id": "q2",
+          "question": "Comment répondre à une question sur une situation dangereuse sur un chantier ?",
+          "options": [
+            "Finir la tâche rapidement et signaler le problème plus tard",
+            "L'ignorer si l'échéance est proche",
+            "Arrêter le travail, faire remonter le problème et suivre les procédures",
+            "Demander discrètement à un collègue de s'en occuper"
+          ],
+          "answer": 2,
+          "explanation": "Les recruteurs attendent un engagement clair en faveur de la sécurité plutôt que des délais."
+        },
+        {
+          "id": "q3",
+          "question": "À quoi dois-tu faire attention quand tu apportes un portfolio ?",
+          "options": [
+            "Qu'il soit imprimé en couleur",
+            "Qu'il ne contienne rien de confidentiel",
+            "Qu'il fasse plus de cinquante pages",
+            "Qu'il ne montre que des travaux universitaires"
+          ],
+          "answer": 1,
+          "explanation": "Partager des documents confidentiels d'anciens employeurs est un signal d'alerte sérieux."
+        }
+      ]
+    },
+    {
+      "id": "case_interviews",
+      "order": 5,
+      "title": "Études de cas",
+      "minutes": 4,
+      "premium": true,
+      "pages": [
+        {
+          "title": "Qu'est-ce qu'une étude de cas ?",
+          "body": "Le conseil et de nombreux postes en entreprise utilisent les études de cas : on te soumet un problème business, comme « Les bénéfices d'un distributeur ont baissé, pourquoi ? », et tu le traites avec le recruteur. On évalue ta pensée structurée, ton aisance avec les chiffres, ton sens des affaires et ta communication. Les cas sont soit menés par le recruteur, qui te guide à chaque étape, soit menés par le candidat, qui pilote l'analyse.",
+          "tip": "Note tous les chiffres et les faits donnés dans l'énoncé."
+        },
+        {
+          "title": "Construis une structure",
+          "body": "Après avoir clarifié l'objectif, prends un moment pour construire un cadre qui découpe le problème en parties distinctes. Pour une baisse des bénéfices, sépare revenus et coûts, puis détaille chacun. Adapte les cadres au cas au lieu de plaquer un modèle appris par cœur. Présente clairement ta structure avant d'entrer dans le détail et demande au recruteur quel axe il souhaite explorer en premier.",
+          "tip": "Demande trente secondes pour organiser tes idées ; c'est normal et attendu."
+        },
+        {
+          "title": "Estimations et taille de marché",
+          "body": "Les questions de taille de marché ressemblent à : « Combien de cafés sont vendus chaque jour dans une ville ? » Découpe le problème en étapes logiques : population, part de buveurs de café, tasses par personne, etc. Énonce tes hypothèses, utilise des chiffres ronds et calcule étape par étape. Le recruteur s'intéresse à ta logique ; une démarche raisonnable compte plus que le chiffre exact.",
+          "tip": "Confronte le chiffre final à quelque chose que tu connais dans la vie quotidienne."
+        },
+        {
+          "title": "Raisonner par hypothèses",
+          "body": "Les bons candidats formulent tôt une hypothèse et la testent : « Je pense que la hausse des coûts est le facteur principal ; je vais vérifier les données de coûts. » Ajuste ton point de vue à mesure que de nouvelles informations arrivent. Termine par une recommandation claire : ta réponse, deux ou trois arguments, les risques et les prochaines étapes. Exprime-toi comme si tu présentais au PDG d'un client.",
+          "tip": "Entraîne-toi sur des cas en direct lors d'un entretien d'entraînement pour gagner en rapidité et en structure."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Comment utiliser les cadres d'analyse dans une étude de cas ?",
+          "options": [
+            "Appliquer le même modèle appris par cœur à tous les cas",
+            "Éviter toute structure pour paraître créatif",
+            "Adapter un cadre au problème précis",
+            "Laisser le recruteur le construire à ta place"
+          ],
+          "answer": 2,
+          "explanation": "Une structure sur mesure montre une vraie réflexion ; un modèle plaqué paraît mécanique."
+        },
+        {
+          "id": "q2",
+          "question": "Dans une question de taille de marché, qu'est-ce qui compte le plus ?",
+          "options": [
+            "Une démarche logique avec des hypothèses énoncées",
+            "Connaître le chiffre officiel exact",
+            "Utiliser des décimales précises",
+            "Répondre en moins de dix secondes"
+          ],
+          "answer": 0,
+          "explanation": "Les recruteurs évaluent ta logique et tes hypothèses, pas le chiffre exact."
+        },
+        {
+          "id": "q3",
+          "question": "Comment conclure une étude de cas ?",
+          "options": [
+            "En récapitulant chaque chiffre calculé",
+            "En demandant la réponse au recruteur",
+            "En disant qu'il faut davantage d'analyses",
+            "Par une recommandation claire, des arguments, les risques et les prochaines étapes"
+          ],
+          "answer": 3,
+          "explanation": "On attend une recommandation tranchée, prête à être présentée au client."
+        }
+      ]
+    },
+    {
+      "id": "test_types",
+      "order": 6,
+      "title": "Devoirs à la maison et tests d'aptitude",
+      "minutes": 3,
+      "premium": true,
+      "pages": [
+        {
+          "title": "Les devoirs à la maison",
+          "body": "Les devoirs à la maison te laissent quelques heures ou quelques jours pour réaliser un travail concret, comme une petite application, une analyse ou un rapport. Lis attentivement la consigne et livre exactement ce qui est demandé avant d'ajouter des extras. Respecte la durée indicative. Joins une courte note expliquant ton approche, tes hypothèses et ce que tu améliorerais avec plus de temps.",
+          "tip": "Demande au recruteur comment le devoir sera évalué avant de commencer."
+        },
+        {
+          "title": "Raisonnement numérique et verbal",
+          "body": "Les tests numériques utilisent des tableaux et des graphiques pour évaluer les pourcentages, les ratios et l'interprétation de données. Les tests verbaux présentent un texte et demandent si des affirmations sont vraies, fausses ou impossibles à déterminer d'après le texte. Pour les questions verbales, n'utilise que les informations fournies, pas tes connaissances extérieures. On trouve facilement des tests d'entraînement, et te familiariser avec le format améliore nettement ta rapidité et ta précision.",
+          "tip": "Dans les tests verbaux, « impossible à dire » est la bonne réponse quand le texte ne confirme ni ne contredit l'affirmation."
+        },
+        {
+          "title": "Tests de personnalité et mises en situation",
+          "body": "Les questionnaires de personnalité te demandent comment tu te comportes habituellement, et les tests de jugement situationnel présentent des scénarios professionnels avec plusieurs réponses possibles. Réponds honnêtement et de façon cohérente ; beaucoup d'outils détectent les réponses contradictoires. Garde en tête les exigences du poste, mais n'essaie pas de t'inventer une autre personnalité. Pour les mises en situation, choisis des réponses professionnelles, collaboratives et qui traitent directement le problème.",
+          "tip": "Lis les valeurs de l'entreprise à l'avance ; les mises en situation les reflètent souvent."
+        },
+        {
+          "title": "Gérer ton temps",
+          "body": "La plupart des tests d'aptitude sont strictement chronométrés et conçus pour que peu de personnes terminent toutes les questions. Vérifie le nombre de questions et répartis le temps pour fixer un rythme approximatif. Ne reste pas bloqué : passe les questions difficiles et reviens-y s'il te reste du temps. Renseigne-toi pour savoir si les mauvaises réponses sont pénalisées ; si ce n'est pas le cas, réponds à toutes les questions. Passe les tests dans un endroit calme avec une connexion stable.",
+          "tip": "Garde une calculatrice et du papier brouillon à portée de main s'ils sont autorisés."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Que dois-tu joindre à un devoir à la maison ?",
+          "options": [
+            "Une demande de salaire plus élevé",
+            "Une courte note sur ton approche, tes hypothèses et les améliorations possibles",
+            "Des fonctionnalités supplémentaires à la place de celles demandées",
+            "Rien d'autre que le code ou le fichier"
+          ],
+          "answer": 1,
+          "explanation": "Expliquer ton raisonnement aide les évaluateurs à comprendre et à apprécier ton travail."
+        },
+        {
+          "id": "q2",
+          "question": "Dans un test de raisonnement verbal, quelles informations dois-tu utiliser ?",
+          "options": [
+            "Tes connaissances générales sur le sujet",
+            "Ce qui semble le plus probable dans la vraie vie",
+            "Uniquement les informations données dans le texte",
+            "La réponse que l'employeur préfère, selon toi"
+          ],
+          "answer": 2,
+          "explanation": "Les tests de raisonnement verbal évaluent les affirmations uniquement au regard du texte."
+        },
+        {
+          "id": "q3",
+          "question": "Que faire si tu bloques sur une question difficile lors d'un test chronométré ?",
+          "options": [
+            "La passer et y revenir s'il te reste du temps",
+            "Rester dessus jusqu'à la résoudre",
+            "Terminer le test plus tôt",
+            "Répondre au hasard à toutes les questions restantes"
+          ],
+          "answer": 0,
+          "explanation": "Passer une question te permet de garder ton rythme et de répondre à plus de questions au total."
+        }
+      ]
+    }
+  ]
+}

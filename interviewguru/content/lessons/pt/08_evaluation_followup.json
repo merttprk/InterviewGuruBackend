@@ -1,0 +1,270 @@
+{
+  "id": "evaluation_followup",
+  "order": 8,
+  "icon": "followup",
+  "color": "#F97316",
+  "title": "Depois da entrevista",
+  "summary": "Faça o acompanhamento de forma profissional, aprenda com cada entrevista e lide com ofertas com confiança.",
+  "topics": [
+    {
+      "id": "email_structure",
+      "order": 1,
+      "title": "Como escrever um e-mail de agradecimento",
+      "minutes": 3,
+      "premium": false,
+      "pages": [
+        {
+          "title": "Por que um e-mail de agradecimento importa",
+          "body": "Um e-mail curto de agradecimento é uma forma simples e de pouco esforço para se destacar. Ele demonstra cortesia, confirma o seu interesse e dá mais uma chance de lembrar ao entrevistador por que você se encaixa na vaga. Raramente ele garante a vaga sozinho, mas, quando dois candidatos estão empatados, uma mensagem atenciosa pode deixar a impressão final mais forte.",
+          "tip": "Envie em até 24 horas, de preferência no mesmo dia."
+        },
+        {
+          "title": "Uma estrutura simples",
+          "body": "Limite-se a quatro partes curtas. Um assunto como 'Obrigado — entrevista para Coordenador de Marketing'. Um agradecimento pelo tempo, usando o nome do entrevistador. Uma ou duas frases ligando um tema discutido às suas habilidades. Uma frase de encerramento confirmando seu interesse e sua disponibilidade para as próximas etapas. O e-mail inteiro deve caber na tela de um celular.",
+          "tip": "Procure ficar abaixo de 150 palavras; entrevistadores ocupados valorizam a objetividade."
+        },
+        {
+          "title": "Personalize",
+          "body": "E-mails de agradecimento genéricos são fáceis de identificar. Mencione algo específico da conversa: um projeto que a pessoa descreveu, um desafio que a equipe enfrenta ou uma pergunta que despertou seu interesse. Por exemplo: 'Gostei muito de saber sobre o novo programa de integração; minha experiência reformulando materiais de treinamento pode ajudar nisso.' Detalhes específicos mostram que você estava ouvindo.",
+          "tip": "Anote dois pontos da conversa logo após a entrevista para poder usá-los."
+        },
+        {
+          "title": "Erros comuns",
+          "body": "Evite copiar a mesma mensagem para todos os membros da banca; ajuste pelo menos uma frase para cada pessoa. Confira os nomes, a ortografia e o título da vaga. Não use o e-mail para rediscutir longamente uma resposta fraca nem para perguntar sobre salário. Mantenha um tom cordial e profissional, e não envie vários lembretes se não receber resposta de imediato.",
+          "tip": "Leia o e-mail em voz alta uma vez antes de enviar para pegar erros."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Quando você deve enviar um e-mail de agradecimento?",
+          "options": ["Em até 24 horas após a entrevista", "Depois de uma semana", "Só se receber uma oferta", "Antes da entrevista"],
+          "answer": 0,
+          "explanation": "Enviar em até um dia mantém você fresco na memória do entrevistador."
+        },
+        {
+          "id": "q2",
+          "question": "O que torna um e-mail de agradecimento pessoal?",
+          "options": ["Usar um modelo longo e formal", "Mencionar um ponto específico da conversa", "Anexar seu CV de novo", "Listar todas as suas qualificações"],
+          "answer": 1,
+          "explanation": "Um detalhe específico mostra que você ouviu e conecta a conversa às suas habilidades."
+        },
+        {
+          "id": "q3",
+          "question": "Como você deve agradecer a uma banca de três entrevistadores?",
+          "options": ["Enviar um e-mail idêntico aos três", "Agradecer apenas à pessoa mais sênior", "Não agradecer a uma banca", "Ajustar pelo menos uma frase para cada pessoa"],
+          "answer": 3,
+          "explanation": "Personalizar cada mensagem evita um e-mail obviamente copiado."
+        }
+      ]
+    },
+    {
+      "id": "email_examples",
+      "order": 2,
+      "title": "Modelos de e-mail de acompanhamento",
+      "minutes": 4,
+      "premium": false,
+      "pages": [
+        {
+          "title": "Modelo de agradecimento",
+          "body": "Assunto: Obrigado — entrevista para [Cargo]. 'Olá, [Nome], obrigado por dedicar seu tempo para conversar comigo hoje. Gostei especialmente de discutir [tema], o que reforçou meu interesse pela vaga. Minha experiência em [habilidade relevante] me ajudaria a contribuir rapidamente. Fico à disposição caso precise de mais alguma informação. Atenciosamente, [Seu nome].'",
+          "tip": "Substitua todos os colchetes; um [Nome] esquecido desfaz a boa impressão."
+        },
+        {
+          "title": "Perguntando sobre o andamento",
+          "body": "Se a data prometida para a decisão já passou, espere dois ou três dias úteis e escreva: 'Olá, [Nome], espero que esteja bem. Estou retomando o contato sobre minha entrevista para [Cargo] no dia [data]. Continuo muito interessado na vaga e agradeceria qualquer atualização sobre o cronograma. Obrigado, [Seu nome].' Seja breve, positivo e paciente.",
+          "tip": "Faça no máximo um acompanhamento por semana para não parecer insistente."
+        },
+        {
+          "title": "Respondendo a uma rejeição",
+          "body": "Uma resposta cordial mantém a porta aberta: 'Olá, [Nome], obrigado por me avisar. Embora eu esteja decepcionado, gostei muito de conhecer [a equipe ou a empresa]. Se tiver um momento, qualquer feedback será bem-vindo. Espero que possamos manter contato para oportunidades futuras. Um abraço, [Seu nome].' Muitos candidatos nunca respondem, então isso se destaca.",
+          "tip": "Conecte-se com o entrevistador em uma rede profissional depois de responder."
+        },
+        {
+          "title": "Desistindo de um processo",
+          "body": "Se você aceitar outra oferta ou perder o interesse, avise a empresa sem demora: 'Olá, [Nome], obrigado por me considerar para a vaga de [Cargo]. Decidi retirar minha candidatura, pois aceitei outra posição. Agradeço pelo seu tempo e espero que nossos caminhos se cruzem novamente. Tudo de bom, [Seu nome].' Desistir com educação protege a sua reputação.",
+          "tip": "Você não precisa dar motivos detalhados; uma breve explicação basta."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "A data da decisão passou sem notícias. Quando você deve fazer o acompanhamento?",
+          "options": ["Imediatamente, na mesma manhã", "Depois de dois ou três dias úteis", "Nunca — apenas espere", "Todos os dias até responderem"],
+          "answer": 1,
+          "explanation": "Um acompanhamento breve e paciente alguns dias depois é educado e eficaz."
+        },
+        {
+          "id": "q2",
+          "question": "Por que responder a um e-mail de rejeição?",
+          "options": ["Para pedir que mudem a decisão", "Para expressar sua frustração", "Porque mantém a porta aberta e pode trazer feedback", "Porque é exigido por lei"],
+          "answer": 2,
+          "explanation": "Uma resposta cordial deixa uma boa impressão para oportunidades futuras."
+        },
+        {
+          "id": "q3",
+          "question": "O que um e-mail de desistência deve incluir?",
+          "options": ["Uma comparação detalhada das duas ofertas", "Nada — basta parar de responder", "Um pedido de salário maior", "Um breve agradecimento e uma declaração clara de que você está desistindo"],
+          "answer": 3,
+          "explanation": "Uma desistência curta e educada protege a sua reputação."
+        }
+      ]
+    },
+    {
+      "id": "performance_analysis",
+      "order": 3,
+      "title": "Avaliando o seu desempenho",
+      "minutes": 3,
+      "premium": true,
+      "pages": [
+        {
+          "title": "Faça o balanço enquanto está fresco",
+          "body": "Até uma hora depois da entrevista, reserve dez minutos para anotar o que você lembra: as perguntas feitas, como respondeu, os nomes dos entrevistadores e tudo o que descobriu sobre a vaga. Os detalhes se perdem rápido. Essas anotações ajudam no e-mail de agradecimento, preparam você para a próxima etapa e mostram o que praticar.",
+          "tip": "Use o app de notas do celular no caminho de volta se não puder se sentar logo."
+        },
+        {
+          "title": "Três perguntas simples",
+          "body": "Revise a entrevista com três perguntas. O que foi bem? Quais respostas soaram claras e tiveram uma reação positiva? O que não foi bem? Onde você hesitou ou se estendeu demais? O que eu faria diferente? Seja específico: 'Esqueci de mencionar o resultado de vendas na minha história de liderança' é muito mais útil do que 'Fui mal.'",
+          "tip": "Escreva pelo menos tantos pontos positivos quanto negativos."
+        },
+        {
+          "title": "Olhe para o processo como um todo",
+          "body": "Avalie mais do que as suas respostas. Sua preparação cobriu os temas certos? Suas perguntas para o entrevistador foram bem pensadas? A logística correu bem? Reflita também sobre a empresa: a vaga, a equipe e a cultura correspondem ao que você quer? Uma entrevista é uma avaliação de mão dupla, e as suas impressões contam na sua decisão.",
+          "tip": "Dê uma nota de 1 a 10 ao seu interesse pela vaga logo depois da entrevista."
+        },
+        {
+          "title": "Evite analisar demais",
+          "body": "É fácil ficar dias repassando um momento constrangedor. Lembre-se de que os entrevistadores geralmente formam uma impressão geral, em vez de se fixar em uma única resposta, e que os candidatos costumam se julgar com mais rigor do que os entrevistadores. Depois de escrever suas anotações e escolher os pontos de ação, deixe para lá. Coloque sua energia na próxima candidatura ou sessão de prática.",
+          "tip": "Transforme sua resposta mais fraca em uma pergunta para a próxima entrevista simulada."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Qual é o melhor momento para fazer o balanço depois de uma entrevista?",
+          "options": ["Na semana seguinte", "Em até uma hora, enquanto os detalhes estão frescos", "Só depois de saber o resultado", "Logo antes da próxima entrevista"],
+          "answer": 1,
+          "explanation": "Os detalhes se perdem rápido, então faça as anotações logo em seguida."
+        },
+        {
+          "id": "q2",
+          "question": "Qual anotação de autoavaliação é a mais útil?",
+          "options": ["Fui mal", "Foi mais ou menos", "Esqueci de mencionar o resultado de vendas na minha história de liderança", "Eles não gostaram de mim"],
+          "answer": 2,
+          "explanation": "Anotações específicas apontam para melhorias específicas."
+        },
+        {
+          "id": "q3",
+          "question": "Além das suas respostas, o que mais você deve avaliar?",
+          "options": ["Se a vaga, a equipe e a cultura correspondem ao que você quer", "A roupa do entrevistador", "Quanto tempo durou a visita ao escritório", "Nada mais importa"],
+          "answer": 0,
+          "explanation": "Entrevistas são de mão dupla; a sua impressão sobre a empresa também importa."
+        }
+      ]
+    },
+    {
+      "id": "handling_offers",
+      "order": 4,
+      "title": "Lidando com ofertas e negociando",
+      "minutes": 4,
+      "premium": true,
+      "pages": [
+        {
+          "title": "Olhe para o pacote completo",
+          "body": "Uma oferta é mais do que o salário-base. Considere bônus, contribuições para previdência ou aposentadoria, plano de saúde e outros seguros, férias remuneradas, trabalho flexível ou remoto, verba para treinamento e participação acionária, se houver. Pese também a vaga em si, as oportunidades de crescimento, o deslocamento e a equipe. Peça a oferta completa por escrito para comparar as opções com precisão e evitar mal-entendidos.",
+          "tip": "Liste cada item em uma tabela simples para comparar as ofertas lado a lado."
+        },
+        {
+          "title": "Peça um prazo",
+          "body": "Você não precisa aceitar na hora. Agradeça com entusiasmo e peça um prazo: 'Obrigado, fico muito feliz em receber esta oferta. Posso ter até sexta-feira para analisar os detalhes?' Alguns dias a uma semana é um pedido comum e razoável. Use esse tempo para analisar o pacote, pesquisar a remuneração típica para a função e preparar perguntas.",
+          "tip": "Demonstre entusiasmo pela vaga mesmo ao pedir um prazo."
+        },
+        {
+          "title": "Negocie com educação",
+          "body": "Negociar é comum e, quando feito com respeito, raramente prejudica uma oferta. Baseie seu pedido em pesquisas sobre os valores de mercado e no valor que você agrega. Seja específico e positivo: 'Estou animado com a vaga. Com base na minha experiência e na remuneração típica de posições semelhantes, seria possível um salário de [valor]?' Se o salário for fixo, pergunte sobre outros itens, como férias, flexibilidade ou treinamento.",
+          "tip": "Cite um valor específico em vez de pedir 'um pouco mais'."
+        },
+        {
+          "title": "Aceite ou recuse com elegância",
+          "body": "Ao aceitar, confirme por escrito e verifique a data de início e as principais condições. Ao recusar, responda logo e com cortesia: 'Obrigado pela oferta e pelo seu tempo. Depois de pensar com cuidado, decidi aceitar outra posição. Gostei muito de conhecer a equipe e espero que possamos manter contato.' Recusar com educação preserva os relacionamentos para o futuro.",
+          "tip": "Não peça demissão do emprego atual até ter a oferta por escrito."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "O que você deve avaliar ao receber uma oferta?",
+          "options": ["Apenas o salário-base", "Apenas o título do cargo", "O pacote completo, incluindo benefícios, flexibilidade e crescimento", "Apenas a pressa que eles têm pela resposta"],
+          "answer": 2,
+          "explanation": "Benefícios, flexibilidade, crescimento e a vaga em si somam valor a uma oferta."
+        },
+        {
+          "id": "q2",
+          "question": "Um empregador pede que você decida sobre uma oferta. Qual é uma resposta razoável?",
+          "options": ["Aceitar imediatamente sem ler", "Agradecer e pedir alguns dias para analisar os detalhes", "Recusar para conseguir uma oferta melhor", "Ignorar a mensagem por duas semanas"],
+          "answer": 1,
+          "explanation": "Pedir um prazo curto e definido é comum e razoável."
+        },
+        {
+          "id": "q3",
+          "question": "O salário é fixo. O que você ainda pode negociar?",
+          "options": ["Outros itens, como férias, flexibilidade ou treinamento", "Absolutamente nada", "A decisão do entrevistador", "Apenas o título do cargo"],
+          "answer": 0,
+          "explanation": "Quando o salário não pode mudar, outras partes do pacote muitas vezes podem."
+        }
+      ]
+    },
+    {
+      "id": "tracking_progress",
+      "order": 5,
+      "title": "Acompanhando sua busca por emprego",
+      "minutes": 3,
+      "premium": true,
+      "pages": [
+        {
+          "title": "Por que acompanhar sua busca",
+          "body": "Quando você se candidata a muitas vagas, os detalhes se misturam rapidamente. Você pode esquecer qual versão do CV enviou, com quem falou ou quando deve fazer o acompanhamento. Um controle simples reúne tudo em um só lugar, evita confusões constrangedoras e mostra onde sua busca está funcionando e onde está travada. Ele também torna o progresso visível nas semanas mais paradas.",
+          "tip": "Comece a registrar desde a sua primeira candidatura, não depois da décima."
+        },
+        {
+          "title": "O que registrar",
+          "body": "Uma planilha ou um app de notas é suficiente. Para cada candidatura, registre a empresa, a vaga, a data de envio, a versão do CV, a pessoa de contato, a etapa atual, a próxima ação e a data dela. Acrescente uma coluna de observações para perguntas da entrevista, informações salariais e impressões. Salve também a descrição da vaga, já que os anúncios costumam ser removidos quando a vaga é encerrada.",
+          "tip": "Guarde a versão do criador de CV que você usou para cada vaga, para que suas respostas batam com o que a empresa leu."
+        },
+        {
+          "title": "Use etapas e próximos passos",
+          "body": "Atribua uma etapa a cada candidatura: enviada, triagem, entrevista, etapa final, oferta ou encerrada. Cada candidatura em aberto também deve ter um próximo passo com data, como 'Fazer acompanhamento em 12 de maio' ou 'Preparar estudo de caso'. Revise seu controle no início de cada semana para que nada seja esquecido e todas as oportunidades continuem avançando.",
+          "tip": "Use cores para as etapas e visualize seu funil de relance."
+        },
+        {
+          "title": "Aprenda com os seus números",
+          "body": "Depois de um mês, observe os padrões. Se você envia muitas candidaturas, mas recebe poucas respostas, talvez seu CV ou o foco das candidaturas precise de ajustes. Se consegue entrevistas, mas raramente chega à etapa final, concentre-se na prática de entrevistas. Se as etapas finais não viram ofertas, revise seu fechamento e seu acompanhamento. O seu controle mostra onde investir esforço a seguir.",
+          "tip": "Calcule todo mês a parcela de candidaturas que chega à entrevista."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Por que salvar a descrição da vaga junto com cada candidatura?",
+          "options": ["Porque os anúncios costumam ser removidos quando a vaga é encerrada", "Porque os empregadores pedem que você a devolva", "Porque ela substitui o seu CV", "Porque é necessária para calcular o salário"],
+          "answer": 0,
+          "explanation": "Você vai precisar dela para se preparar para as entrevistas, e ela pode sumir da internet."
+        },
+        {
+          "id": "q2",
+          "question": "O que toda candidatura em aberto deve ter no seu controle?",
+          "options": ["Uma foto do escritório", "Um próximo passo com data", "O telefone pessoal do entrevistador", "Uma decisão final já tomada"],
+          "answer": 1,
+          "explanation": "Um próximo passo com data mantém cada oportunidade avançando."
+        },
+        {
+          "id": "q3",
+          "question": "Você consegue muitas entrevistas, mas raramente chega à etapa final. Onde deve se concentrar?",
+          "options": ["Em enviar mais candidaturas", "Em mudar de carreira", "Na prática de entrevistas", "Em escrever e-mails de agradecimento mais longos"],
+          "answer": 2,
+          "explanation": "O padrão mostra que a etapa de entrevista é onde o esforço trará mais retorno."
+        }
+      ]
+    }
+  ]
+}

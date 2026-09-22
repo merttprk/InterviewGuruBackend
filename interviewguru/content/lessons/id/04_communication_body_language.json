@@ -1,0 +1,322 @@
+{
+  "id": "communication_body_language",
+  "order": 4,
+  "icon": "communication",
+  "color": "#10B981",
+  "title": "Komunikasi & Bahasa Tubuh",
+  "summary": "Pelajari cara kata-kata, suara, dan tubuhmu bekerja sama agar pewawancara mengingat apa yang kamu katakan, bukan seberapa gugup kamu terlihat.",
+  "topics": [
+    {
+      "id": "speaking_techniques",
+      "order": 1,
+      "title": "Berbicara dengan Jelas dan Ringkas",
+      "minutes": 3,
+      "premium": false,
+      "pages": [
+        {
+          "title": "Mulai dengan jawabannya",
+          "body": "Pewawancara paling mengingat kalimat pertama, jadi letakkan poin utamamu di sana. Kalau ditanya kenapa kamu menginginkan posisi ini, mulailah dengan 'Karena posisi ini menggabungkan analisis data dengan pekerjaan bersama klien, dan itulah yang paling saya nikmati,' lalu tambahkan detail pendukung. Memulai dengan latar belakang dan perlahan-lahan menuju inti membuat pendengar harus bekerja keras, dan sering kali mereka sudah kehilangan minat sebelum kamu sampai ke poinnya.",
+          "tip": "Sebelum setiap jawaban, sebutkan dalam hati satu poin yang ingin kamu tanamkan di ingatan mereka."
+        },
+        {
+          "title": "Gunakan struktur sederhana",
+          "body": "Struktur membuat jawabanmu mudah diikuti. Untuk pertanyaan tentang pengalaman, gunakan situasi, tindakan, hasil. Untuk pertanyaan pendapat, gunakan poin, alasan, contoh, poin. Beri penanda sambil berbicara: 'Ada dua alasan. Pertama… Kedua…' Memberi nomor pada idemu memberi tahu pewawancara berapa lama kamu akan berbicara dan membantumu tetap fokus saat rasa gugup datang.",
+          "tip": "Kalau kamu menjanjikan 'tiga alasan', pastikan kamu bisa menyebutkan ketiganya."
+        },
+        {
+          "title": "Buang kata pengisi",
+          "body": "Kata-kata seperti 'pada dasarnya', 'semacam' dan 'kamu tahu kan' melemahkan isi yang kuat. Gantilah dengan jeda singkat; diam terdengar lebih percaya diri daripada kata pengisi. Hindari istilah internal dan singkatan yang mungkin tidak diketahui pewawancara — katakan 'database pelanggan kami', bukan nama kode sebuah sistem. Kata-kata yang sederhana dan spesifik membuat pencapaianmu terdengar lebih kredibel, bukan kurang mengesankan.",
+          "tip": "Rekam satu jawaban dalam simulasi wawancara dan hitung berapa kata pengisi yang kamu ucapkan."
+        },
+        {
+          "title": "Tahu kapan harus berhenti",
+          "body": "Sebagian besar jawaban paling efektif dalam satu hingga dua menit. Jawaban yang panjang mengubur poin terbaikmu dan memakan waktu untuk pertanyaan lain. Akhiri dengan kalimat penutup yang jelas dan terhubung kembali ke posisi tersebut, lalu berhentilah berbicara. Kalau kamu ragu apakah jawabanmu sudah cukup, tanyakan: 'Apakah Anda ingin saya menjelaskan bagian tertentu lebih dalam?'",
+          "tip": "Jangan mengulang jawaban setelah selesai; berhenti dengan percaya diri lebih baik daripada tambahan yang gugup."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Di mana sebaiknya poin utamamu diletakkan dalam sebuah jawaban?",
+          "options": ["Di bagian paling akhir, sebagai kesimpulan", "Di kalimat pertama", "Hanya jika pewawancara memintanya", "Di tengah, setelah detail latar belakang"],
+          "answer": 1,
+          "explanation": "Memulai dengan jawaban membuatnya mudah diikuti dan mudah diingat."
+        },
+        {
+          "id": "q2",
+          "question": "Apa pengganti yang lebih baik untuk kata pengisi seperti \"pada dasarnya\"?",
+          "options": ["Berbicara lebih cepat", "Menambahkan istilah teknis", "Jeda singkat", "Mengulang pertanyaan"],
+          "answer": 2,
+          "explanation": "Diam sejenak terdengar lebih percaya diri daripada kata pengisi."
+        },
+        {
+          "id": "q3",
+          "question": "Berapa lama sebaiknya sebagian besar jawaban wawancara?",
+          "options": ["Sekitar satu hingga dua menit", "Kurang dari sepuluh detik", "Lima menit atau lebih", "Selama yang dibutuhkan untuk membahas setiap detail"],
+          "answer": 0,
+          "explanation": "Satu hingga dua menit menjaga poin terbaikmu tetap menonjol dan menyisakan waktu untuk pertanyaan lain."
+        }
+      ]
+    },
+    {
+      "id": "active_listening",
+      "order": 2,
+      "title": "Mendengarkan Secara Aktif",
+      "minutes": 3,
+      "premium": false,
+      "pages": [
+        {
+          "title": "Mendengarkan adalah keterampilan yang diperhatikan",
+          "body": "Pewawancara menilai caramu mendengarkan sama pentingnya dengan caramu berbicara, karena hal itu menggambarkan bagaimana kamu akan bekerja dengan rekan kerja dan klien. Banyak jawaban lemah muncul karena kandidat menjawab pertanyaan yang ia duga, bukan pertanyaan yang benar-benar diajukan. Berikan perhatian penuh kepada pewawancara, jangan menyusun jawaban saat mereka masih berbicara, dan biarkan mereka menyelesaikan kalimatnya.",
+          "tip": "Jangan pernah memotong pembicaraan, bahkan ketika kamu sudah tahu arah pertanyaannya."
+        },
+        {
+          "title": "Tunjukkan bahwa kamu mendengarkan",
+          "body": "Tunjukkan perhatian lewat isyarat kecil yang alami: sesekali mengangguk, jaga ekspresi wajah tetap terlibat, dan gunakan tanggapan singkat seperti 'Begitu' atau 'Masuk akal'. Condongkan badan sedikit ke depan saat pewawancara menjelaskan posisi atau timnya. Di video, isyarat ini perlu sedikit lebih jelas, karena gerakan halus mudah terlewat di layar kecil.",
+          "tip": "Simpan ponselmu di tempat yang tidak terlihat agar kamu tidak tergoda meliriknya."
+        },
+        {
+          "title": "Klarifikasi sebelum menjawab",
+          "body": "Kalau pertanyaannya terlalu luas atau kurang jelas, ajukan pertanyaan klarifikasi singkat: 'Maksud Anda konflik dengan atasan atau dengan rekan setim?' Mengulang pertanyaan yang rumit dengan kata-katamu sendiri juga memberimu beberapa detik untuk berpikir: 'Jadi Anda ingin tahu bagaimana saya menentukan prioritas ketika dua tenggat waktu bertabrakan?' Klarifikasi menunjukkan kepedulian dan ketelitian; menebak berisiko menghasilkan jawaban panjang untuk pertanyaan yang salah.",
+          "tip": "Satu pertanyaan klarifikasi itu cerdas; menanyakannya di setiap pertanyaan terlihat seperti mengulur waktu."
+        },
+        {
+          "title": "Manfaatkan apa yang kamu dengar",
+          "body": "Kandidat terbaik menyelipkan kembali kata-kata pewawancara ke dalam jawaban berikutnya. Kalau mereka menyebut timnya berkembang pesat, hubungkan pengalamanmu dengan pertumbuhan: 'Anda tadi menyebut rekrutmen yang cepat — di pekerjaan saya sebelumnya, saya membantu orientasi enam rekan kerja baru.' Di akhir sesi, singgung sesuatu yang spesifik dari ucapan mereka saat kamu mengajukan pertanyaan. Ini membuktikan kamu mendengarkan dan membuat percakapan terasa dua arah.",
+          "tip": "Catat satu atau dua frasa kunci yang digunakan pewawancara tentang posisi tersebut."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Apa penyebab umum jawaban lemah yang berkaitan dengan mendengarkan?",
+          "options": ["Terlalu sering mengangguk", "Membuat catatan singkat", "Menanyakan langkah selanjutnya", "Menjawab pertanyaan yang kamu duga, bukan yang diajukan"],
+          "answer": 3,
+          "explanation": "Kandidat sering menjawab pertanyaan yang mereka asumsikan, bukan mendengarkan pertanyaan yang sebenarnya."
+        },
+        {
+          "id": "q2",
+          "question": "Apa yang sebaiknya kamu lakukan jika pertanyaannya terlalu luas atau kurang jelas?",
+          "options": ["Ajukan pertanyaan klarifikasi singkat", "Tebak dan berikan jawaban panjang", "Lewati saja dan lanjutkan", "Minta pewawancara mengulanginya tiga kali"],
+          "answer": 0,
+          "explanation": "Klarifikasi singkat memastikan kamu menjawab pertanyaan yang tepat."
+        },
+        {
+          "id": "q3",
+          "question": "Bagaimana cara menunjukkan bahwa kamu mendengarkan sepanjang wawancara?",
+          "options": ["Dengan mengulang CV-mu kata demi kata", "Dengan merujuk kembali hal-hal spesifik yang dikatakan pewawancara", "Dengan berbicara lebih banyak daripada pewawancara", "Dengan menyetujui setiap pernyataan"],
+          "answer": 1,
+          "explanation": "Menyelipkan poin-poin pewawancara ke dalam jawabanmu membuktikan kamu mendengarkan secara aktif."
+        }
+      ]
+    },
+    {
+      "id": "eye_contact",
+      "order": 3,
+      "title": "Kontak Mata",
+      "minutes": 3,
+      "premium": true,
+      "pages": [
+        {
+          "title": "Mengapa kontak mata penting",
+          "body": "Kontak mata yang stabil menandakan rasa percaya diri, kejujuran, dan minat. Terlalu sedikit bisa membuatmu tampak gugup atau menghindar; menatap terus-menerus terasa mengintimidasi. Usahakan menjaga kontak mata hampir sepanjang waktu saat mendengarkan dan sedikit lebih jarang saat berbicara, karena mengalihkan pandangan sebentar untuk berpikir itu wajar. Kebiasaan ini berbeda di setiap budaya, jadi sesuaikan diri dengan gaya pewawancara secara halus.",
+          "tip": "Ikuti tingkat kontak mata pewawancara, alih-alih memaksakan aturan yang kaku."
+        },
+        {
+          "title": "Aturan beberapa detik",
+          "body": "Tahan kontak mata sekitar tiga sampai lima detik setiap kali, lalu alihkan pandangan sebentar — ke samping atau ke catatanmu — sebelum kembali menatap. Ritme ini terasa alami dan tidak terkesan memelototi. Kalau kontak mata langsung membuatmu tidak nyaman, lihatlah area di antara kedua mata atau pangkal hidung; dari jarak normal, hasilnya terlihat sama.",
+          "tip": "Latih ritme ini dalam percakapan sehari-hari seminggu sebelum wawancaramu."
+        },
+        {
+          "title": "Panel dan kelompok",
+          "body": "Jika ada beberapa pewawancara, tatap terutama orang yang mengajukan pertanyaan, khususnya di awal dan akhir jawabanmu. Di tengah jawaban, alihkan pandangan ke anggota panel lain untuk melibatkan mereka. Mengabaikan panelis yang lebih pendiam adalah kesalahan umum; bisa jadi mereka punya pengaruh besar dalam keputusan. Kembalilah menatap penanya saat kamu mengakhiri jawaban.",
+          "tip": "Akhiri setiap jawaban dengan menatap orang yang mengajukan pertanyaan."
+        },
+        {
+          "title": "Kontak mata di video",
+          "body": "Di video, menatap wajah pewawancara di layar membuatmu terlihat seperti sedang melihat ke bawah atau ke samping. Untuk menciptakan kontak mata, tataplah lensa kamera saat berbicara, terutama ketika menyampaikan poin penting. Lirik layar saat mendengarkan agar kamu bisa membaca reaksi mereka. Menempatkan jendela video tepat di bawah kamera akan memperkecil jarak antara keduanya.",
+          "tip": "Tempelkan catatan tempel kecil di samping lensa sebagai pengingat."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Berapa lama biasanya kamu menahan kontak mata sebelum mengalihkan pandangan sebentar?",
+          "options": ["Kurang dari satu detik", "Sekitar tiga sampai lima detik", "Sepanjang jawaban tanpa berhenti", "Sekitar tiga puluh detik"],
+          "answer": 1,
+          "explanation": "Ritme tiga sampai lima detik terasa alami dan tidak terkesan memelototi."
+        },
+        {
+          "id": "q2",
+          "question": "Dalam wawancara panel, ke mana sebaiknya kamu menatap di akhir jawabanmu?",
+          "options": ["Ke orang yang paling senior", "Ke catatanmu", "Ke langit-langit", "Ke orang yang mengajukan pertanyaan"],
+          "answer": 3,
+          "explanation": "Mulai dan akhiri dengan penanya, lalu libatkan yang lain di tengah jawaban."
+        },
+        {
+          "id": "q3",
+          "question": "Bagaimana cara menciptakan kontak mata dalam wawancara video?",
+          "options": ["Menatap wajah pewawancara di layar", "Menatap pratinjau videomu sendiri", "Menatap lensa kamera saat berbicara", "Memejamkan mata agar lebih fokus"],
+          "answer": 2,
+          "explanation": "Lensa kamera adalah titik tempat pewawancara menangkap arah pandanganmu."
+        }
+      ]
+    },
+    {
+      "id": "gestures",
+      "order": 4,
+      "title": "Gerakan Tangan",
+      "minutes": 3,
+      "premium": true,
+      "pages": [
+        {
+          "title": "Tangan membantumu berpikir",
+          "body": "Gerakan tangan yang alami membuatmu terlihat santai dan membantumu menemukan kata-kata, jadi jangan membekukan tanganmu. Penelitian tentang berbicara menunjukkan bahwa gerakan tangan mendukung kelancaran bicara. Tujuannya adalah gerakan yang terkendali dan bermakna: gerakan yang menegaskan poin atau menunjukkan ukuran, urutan, atau perbandingan. Gerakan acak dan berulang mengalihkan perhatian pewawancara dari apa yang kamu katakan dan menandakan kegugupan.",
+          "tip": "Biarkan tanganmu bergerak saat berbicara, lalu kembalikan ke posisi istirahat."
+        },
+        {
+          "title": "Zona gerakan",
+          "body": "Jaga sebagian besar gerakan tangan di area antara dada dan pinggang, kira-kira selebar tubuhmu. Gerakan di zona ini terlihat tenang dan percaya diri. Gerakan yang sangat besar di atas bahu bisa terlihat dramatis di ruangan kecil. Telapak tangan terbuka yang sedikit menghadap ke atas menandakan kejujuran dan keterbukaan, sedangkan menunjuk pewawancara dengan jari bisa terasa agresif.",
+          "tip": "Di video, angkat gerakan tangan sedikit lebih tinggi agar tetap berada di dalam bingkai kamera."
+        },
+        {
+          "title": "Kebiasaan yang perlu dihindari",
+          "body": "Kebiasaan gugup mencuri perhatian: mengetuk-ngetuk pulpen, mengkliknya, menyentuh wajah atau rambut, memainkan perhiasan, atau menyilangkan tangan dengan erat. Tangan yang disilangkan bisa terbaca defensif, meskipun sebenarnya kamu hanya kedinginan. Memegang pulpen yang tidak kamu perlukan mengundang gerakan gelisah. Menyembunyikan tangan sepenuhnya di bawah meja bisa membuatmu terlihat tertutup atau tidak nyaman.",
+          "tip": "Kalau kamu mudah gelisah, jangan memegang apa pun yang tidak akan kamu gunakan."
+        },
+        {
+          "title": "Posisi istirahat yang tenang",
+          "body": "Saat tidak sedang menggerakkan tangan, letakkan tanganmu dengan santai di atas meja atau pangkuan, jari-jari sedikit bertautan. Posisi netral ini membuat setiap gerakan yang kamu gunakan menjadi lebih bermakna. Di awal dan akhir, berikan jabat tangan yang mantap dan singkat jika memang lazim, dan ikuti arahan pewawancara jika cara menyapa berbeda. Jaga tanganmu tetap kering dan rileks.",
+          "tip": "Periksa kebiasaan tanganmu dengan menonton rekaman simulasi wawancara."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Mengapa kamu sebaiknya tidak membekukan tangan sepenuhnya?",
+          "options": ["Pewawancara mewajibkan gerakan tangan", "Gerakan alami membantumu berbicara dengan lancar dan terlihat santai", "Hal itu dianggap tidak sopan di mana pun", "Hal itu membuat jawaban lebih singkat"],
+          "answer": 1,
+          "explanation": "Gerakan yang terkendali dan alami mendukung bicaramu dan terlihat percaya diri."
+        },
+        {
+          "id": "q2",
+          "question": "Di mana sebagian besar gerakan tanganmu sebaiknya berada?",
+          "options": ["Di atas kepala", "Di bawah meja, tidak terlihat", "Di antara dada dan pinggang, kira-kira selebar tubuh", "Mengarah ke pewawancara"],
+          "answer": 2,
+          "explanation": "Zona dada hingga pinggang terlihat tenang dan terkendali."
+        },
+        {
+          "id": "q3",
+          "question": "Manakah kebiasaan gugup yang mengganggu pewawancara?",
+          "options": ["Mengklik pulpen", "Meletakkan tangan di atas meja", "Menggunakan telapak tangan terbuka", "Menunjukkan urutan dengan jari"],
+          "answer": 0,
+          "explanation": "Gerakan berulang seperti mengklik pulpen mengalihkan perhatian dari jawabanmu."
+        }
+      ]
+    },
+    {
+      "id": "posture_tips",
+      "order": 5,
+      "title": "Postur yang Percaya Diri",
+      "minutes": 3,
+      "premium": true,
+      "pages": [
+        {
+          "title": "Postur berbicara lebih dulu",
+          "body": "Sebelum kamu mengucapkan sepatah kata pun, posturmu sudah memberi tahu pewawancara bagaimana perasaanmu. Duduk membungkuk mengisyaratkan energi rendah atau kurang minat; duduk terlalu tegak dan kaku mengisyaratkan kecemasan. Usahakan terlihat santai namun siaga: punggung bersandar atau dekat dengan sandaran kursi, bahu turun dan terbuka, telapak kaki menapak rata di lantai. Postur yang baik juga membantumu bernapas dengan benar, sehingga suaramu lebih stabil.",
+          "tip": "Putar bahumu ke belakang dan ke bawah sekali sebelum masuk ruangan."
+        },
+        {
+          "title": "Duduk dengan baik",
+          "body": "Duduklah agak ke belakang kursi dengan tubuh bagian atas sedikit condong ke depan; ini menandakan keterlibatan tanpa terlihat memaksa. Hindari bersandar terlalu jauh ke belakang, yang bisa terkesan terlalu santai, atau duduk di ujung kursi, yang terlihat gugup. Jaga kakimu tetap diam — menyilangkan pergelangan kaki atau menapakkan telapak kaki rata sama-sama baik. Jangan menyebarkan barang-barangmu di atas meja pewawancara.",
+          "tip": "Condongkan badan sedikit ke depan saat pewawancara membicarakan posisi tersebut."
+        },
+        {
+          "title": "Saat masuk dan menunggu",
+          "body": "Penilaian sering kali dimulai di area resepsionis. Duduklah dengan tegak saat menunggu dan hindari menggulir ponsel sambil menunduk; kamu bisa saja disapa secara tiba-tiba. Saat namamu dipanggil, berdirilah, tersenyum, dan berjalan dengan langkah mantap. Bawa tasmu di tangan kiri agar tangan kananmu bebas untuk bersalaman jika ditawarkan.",
+          "tip": "Perlakukan semua orang yang kamu temui, termasuk staf resepsionis, sebagai bagian dari wawancara."
+        },
+        {
+          "title": "Postur di video",
+          "body": "Di kamera, atur bingkai dari pertengahan dada ke atas dengan sedikit ruang di atas kepala. Duduklah di kursi yang stabil, bukan sofa atau kasur, agar kamu tidak tenggelam. Posisikan layar sejajar mata agar kamu tidak menunduk. Hindari memutar-mutar atau bergoyang di kursi kantor; gerakan itu terlihat berlebihan di kamera dan mengganggu yang menonton.",
+          "tip": "Kunci ketinggian kursi putar dan tapakkan kedua kaki sebelum bergabung ke panggilan."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Postur duduk mana yang paling menunjukkan keterlibatan yang santai?",
+          "options": ["Bersandar jauh ke belakang dengan kaki diselonjorkan", "Duduk di ujung kursi", "Duduk agak ke belakang kursi dengan badan sedikit condong ke depan", "Menopang kepala dengan tangan"],
+          "answer": 2,
+          "explanation": "Sedikit condong ke depan menunjukkan minat sambil tetap santai."
+        },
+        {
+          "id": "q2",
+          "question": "Kapan penilaian postur sering kali dimulai?",
+          "options": ["Hanya setelah kamu duduk di ruang wawancara", "Saat kamu menunggu di resepsionis", "Setelah pertanyaan pertama", "Di akhir, saat kamu mengajukan pertanyaan"],
+          "answer": 1,
+          "explanation": "Kamu mungkin sedang diamati dan bisa disapa tiba-tiba saat menunggu."
+        },
+        {
+          "id": "q3",
+          "question": "Bagaimana cara yang baik untuk mengatur bingkai dirimu di video?",
+          "options": ["Dari pertengahan dada ke atas dengan sedikit ruang di atas kepala", "Hanya wajah, memenuhi seluruh layar", "Seluruh tubuh dari kejauhan", "Kamera mengarah ke atas dari bawah dagu"],
+          "answer": 0,
+          "explanation": "Bingkai dari pertengahan dada sejajar mata terlihat alami dan profesional."
+        }
+      ]
+    },
+    {
+      "id": "voice_control",
+      "order": 6,
+      "title": "Suara, Tempo, dan Nada",
+      "minutes": 4,
+      "premium": true,
+      "pages": [
+        {
+          "title": "Tempo: lebih lambat dari yang kamu kira",
+          "body": "Rasa gugup membuat kebanyakan orang berbicara lebih cepat, dan bicara yang cepat terdengar cemas serta lebih sulit diikuti. Usahakan tempo yang nyaman seperti mengobrol, dan sengaja pelankan saat menyebut angka, nama, dan hasil penting. Jeda setelah poin penting memberinya bobot. Kalau kamu sadar sedang terburu-buru, selesaikan kalimatmu, tarik napas, lalu lanjutkan sedikit lebih lambat.",
+          "tip": "Tarik satu napas pelan sebelum memulai setiap jawaban."
+        },
+        {
+          "title": "Volume dan kejelasan",
+          "body": "Berbicaralah cukup keras agar mudah terdengar dari seberang meja tanpa harus memaksakan suara. Suara yang pelan bisa dianggap kurang percaya diri, terutama di ruangan yang lebih besar atau wawancara panel. Buka mulutmu dengan penuh dan selesaikan akhir kata serta kalimatmu, jangan sampai suaramu menghilang. Di video, uji tingkat suara mikrofonmu sebelum panggilan dimulai.",
+          "tip": "Tanyakan 'Apakah suara saya terdengar jelas?' di awal setiap wawancara jarak jauh."
+        },
+        {
+          "title": "Nada dan energi",
+          "body": "Penyampaian yang datar dan monoton membuat pencapaian yang hebat pun terdengar membosankan. Variasikan tinggi rendah suaramu secara alami dan tunjukkan antusiasme yang tulus saat membicarakan pekerjaan yang kamu nikmati. Tersenyum sambil berbicara membuat nadamu lebih hangat, bahkan di telepon. Hindari mengakhiri pernyataan dengan nada naik yang terdengar seperti pertanyaan; hal itu bisa membuat klaim yang percaya diri terdengar ragu-ragu.",
+          "tip": "Ucapkan pencapaian utamamu sebagai pernyataan, dengan nada yang turun di akhir."
+        },
+        {
+          "title": "Mengelola rasa gugup dalam suaramu",
+          "body": "Kecemasan membuat tenggorokan tegang dan napas menjadi pendek, sehingga suaramu bisa bergetar atau meninggi. Sebelum wawancara, lakukan pemanasan dengan bersenandung atau membaca dengan suara keras selama beberapa menit. Bernapaslah perlahan dari perut, bukan dari dada. Siapkan air minum di dekatmu dan sesap untuk menciptakan jeda yang alami. Berlatih menjawab dengan suara keras membangun kendali yang tidak bisa didapat dari membaca dalam hati.",
+          "tip": "Gunakan fitur simulasi wawancara untuk berlatih menjawab dengan suara keras, lalu dengarkan kembali tempo bicaramu."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Kapan sebaiknya kamu sengaja memperlambat bicara?",
+          "options": ["Saat menyebutkan angka, nama, dan hasil penting", "Hanya saat berbasa-basi", "Tidak pernah; bicara cepat terdengar lebih bersemangat", "Saat menjawab pertanyaan terakhir"],
+          "answer": 0,
+          "explanation": "Memperlambat bicara untuk detail penting membantu pesannya tersampaikan."
+        },
+        {
+          "id": "q2",
+          "question": "Apa efek nada yang naik di akhir pernyataan?",
+          "options": ["Membuatmu terdengar lebih berwibawa", "Membuat klaim yang percaya diri terdengar ragu-ragu", "Mempercepat jalannya wawancara", "Tidak berpengaruh pada pendengar"],
+          "answer": 1,
+          "explanation": "Intonasi yang naik membuat pernyataan terdengar seperti pertanyaan."
+        },
+        {
+          "id": "q3",
+          "question": "Manakah cara yang baik untuk menenangkan suara yang bergetar sebelum wawancara?",
+          "options": ["Minum beberapa gelas kopi", "Hanya membaca jawabanmu dalam hati", "Bersenandung atau membaca dengan suara keras dan bernapas dari perut", "Berbicara sepelan mungkin"],
+          "answer": 2,
+          "explanation": "Pemanasan vokal dan napas perut yang pelan mengurangi ketegangan pada suara."
+        }
+      ]
+    }
+  ]
+}

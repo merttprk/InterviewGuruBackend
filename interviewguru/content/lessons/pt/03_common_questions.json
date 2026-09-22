@@ -1,0 +1,374 @@
+{
+  "id": "common_questions",
+  "order": 3,
+  "icon": "questions",
+  "color": "#F59E0B",
+  "title": "Perguntas frequentes",
+  "summary": "Construa respostas claras e seguras para as perguntas que quase todo entrevistador faz, de 'Fale sobre você' até salário.",
+  "topics": [
+    {
+      "id": "tell_me_about_yourself",
+      "order": 1,
+      "title": "Fale sobre você",
+      "minutes": 3,
+      "premium": false,
+      "pages": [
+        {
+          "title": "O que realmente estão perguntando",
+          "body": "'Fale sobre você' não é um pedido para contar a história da sua vida. O entrevistador quer um panorama curto e relevante que explique por que você é um bom candidato para esta vaga. Muitas vezes é a primeira pergunta, então define o tom de tudo o que vem depois. Busque de 60 a 90 segundos e foque na sua trajetória profissional, não em detalhes pessoais como família ou cidade natal.",
+          "tip": "Prepare esta resposta primeiro; você vai usar alguma versão dela em quase todas as entrevistas."
+        },
+        {
+          "title": "Presente: onde você está agora",
+          "body": "Use uma estrutura de presente, passado e futuro. Comece pelo presente: seu cargo ou situação atual e uma conquista que importe para esta vaga. Por exemplo: 'Sou líder de suporte ao cliente em uma empresa de software e gerencio uma equipe de seis pessoas. No ano passado, reduzimos o tempo médio de resposta de um dia inteiro para quatro horas.' Seja concreto e relevante para a vaga.",
+          "tip": "Escolha a conquista que mais combina com a descrição da vaga, não a que você mais gosta."
+        },
+        {
+          "title": "Passado: como você chegou aqui",
+          "body": "Em seguida, fale brevemente sobre o passado: as experiências que desenvolveram as habilidades de que esta vaga precisa. Escolha uma ou duas, não todo o seu histórico. 'Antes disso, passei três anos como atendente de suporte, onde escrevi os primeiros artigos da nossa central de ajuda e treinei os novos contratados.' Se você se formou recentemente, use seus estudos, estágios ou projetos no lugar de empregos anteriores.",
+          "tip": "Deixe de fora qualquer coisa do seu passado que não leve a esta vaga."
+        },
+        {
+          "title": "Futuro: por que esta vaga",
+          "body": "Termine com o futuro: o que você quer a seguir e por que esta vaga se encaixa. 'Agora quero migrar para customer success, onde posso acompanhar os clientes a longo prazo, e é por isso que esta vaga chamou minha atenção.' Esse fechamento devolve a palavra de forma natural e abre espaço para perguntas sobre as experiências que você escolheu destacar.",
+          "tip": "Grave sua resposta em uma entrevista simulada e corte tudo o que não aponta para a vaga."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Qual ordem a estrutura recomendada segue?",
+          "options": ["Passado, futuro, presente", "Presente, passado, futuro", "Futuro, presente, passado", "Hobbies, família, carreira"],
+          "answer": 1,
+          "explanation": "Comece por onde você está agora, explique como chegou lá e depois diga aonde quer chegar."
+        },
+        {
+          "id": "q2",
+          "question": "O que a parte do 'futuro' da sua resposta deve fazer?",
+          "options": ["Informar sua pretensão salarial", "Descrever seus hobbies", "Repetir sua formação", "Explicar o que você quer a seguir e por que esta vaga se encaixa"],
+          "answer": 3,
+          "explanation": "A parte do futuro liga seus objetivos a esta vaga e devolve a palavra ao entrevistador."
+        },
+        {
+          "id": "q3",
+          "question": "Qual detalhe menos combina com a sua resposta?",
+          "options": ["Sua família e sua cidade natal", "Uma conquista relevante no seu cargo atual", "Habilidades desenvolvidas em um emprego anterior", "Por que esta vaga atrai você"],
+          "answer": 0,
+          "explanation": "A pergunta é sobre a sua trajetória profissional, então detalhes pessoais tomam o tempo do que realmente importa."
+        }
+      ]
+    },
+    {
+      "id": "why_this_company",
+      "order": 2,
+      "title": "Por que você quer trabalhar aqui?",
+      "minutes": 3,
+      "premium": false,
+      "pages": [
+        {
+          "title": "O que a pergunta avalia",
+          "body": "'Por que você quer trabalhar aqui?' verifica três coisas: se você pesquisou sobre a empresa, se a sua motivação vai além de precisar de qualquer emprego e se é provável que você fique. Uma resposta genérica como 'É uma ótima empresa com uma ótima cultura' falha nas três. Sua resposta precisa de detalhes que não poderiam ser ditos sobre nenhum outro empregador.",
+          "tip": "Se a sua resposta ainda fizer sentido com o nome de um concorrente, deixe-a mais específica."
+        },
+        {
+          "title": "A resposta em três partes",
+          "body": "Monte sua resposta a partir de três ligações: a empresa, a vaga e você. Primeiro, cite algo específico da empresa, como um produto, um mercado ou uma iniciativa recente. Segundo, relacione isso ao que a vaga envolve. Terceiro, mostre por que isso importa para você, usando sua experiência ou seus objetivos. Uma ou duas frases por ligação são suficientes.",
+          "tip": "Use suas anotações da pesquisa sobre a empresa para escolher o detalhe que melhor se conecta à sua experiência."
+        },
+        {
+          "title": "Um exemplo",
+          "body": "'Acompanhei a entrada de vocês em pagamentos para pequenas empresas e gosto do fato de estarem criando soluções para empreendedores que sempre foram mal atendidos. Nesta vaga, eu faria parte da equipe de onboarding, que é exatamente onde passei os últimos dois anos melhorando a conversão de cadastros. Quero continuar fazendo esse trabalho em uma empresa onde ele é central para a estratégia.'",
+          "tip": "Repare como cada frase cobre uma ligação: a empresa, a vaga e, por fim, você."
+        },
+        {
+          "title": "Erros a evitar",
+          "body": "Não comece pelos benefícios: salário, localização ou vantagens soam egocêntricos como motivo principal, mesmo que sejam importantes para você. Não elogie sem conteúdo; 'Vocês são líderes do setor' não diz nada. Não critique seu empregador atual para explicar por que está saindo. E não recite a missão da empresa; interprete-a e mostre o que ela significa para você na prática.",
+          "tip": "Guarde motivos práticos, como a localização, para conversas posteriores, e não para a sua resposta principal."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Por que 'É uma ótima empresa com uma ótima cultura' falha como resposta?",
+          "options": ["É longa demais", "Menciona a cultura", "Poderia ser dita sobre qualquer empregador", "É específica demais"],
+          "answer": 2,
+          "explanation": "Uma resposta forte contém detalhes que só se aplicam a esta empresa."
+        },
+        {
+          "id": "q2",
+          "question": "Quais são as três ligações de uma resposta forte?",
+          "options": ["Salário, localização e vantagens", "A empresa, a vaga e você", "Missão, visão e valores", "Passado, presente e futuro"],
+          "answer": 1,
+          "explanation": "Relacione algo específico da empresa à vaga e depois à sua própria experiência ou aos seus objetivos."
+        },
+        {
+          "id": "q3",
+          "question": "Qual motivo não deve abrir a sua resposta?",
+          "options": ["Uma iniciativa recente da empresa que você admira", "Como a vaga aproveita sua experiência", "Seus objetivos de carreira", "O pacote de benefícios"],
+          "answer": 3,
+          "explanation": "Começar pelas vantagens soa egocêntrico, embora os benefícios sejam uma consideração legítima."
+        }
+      ]
+    },
+    {
+      "id": "strengths",
+      "order": 3,
+      "title": "Seus pontos fortes",
+      "minutes": 3,
+      "premium": true,
+      "pages": [
+        {
+          "title": "Escolha pontos fortes que importam aqui",
+          "body": "Escolha dois ou três pontos fortes que a descrição da vaga claramente valoriza, e não simplesmente aqueles de que você mais se orgulha. Um analista de dados pode escolher precisão, clareza ao explicar números e curiosidade. Um vendedor pode escolher resiliência e construção de relacionamentos. Se um ponto forte não ajuda nesta vaga, ele não vai ajudar sua resposta, por mais verdadeiro que seja.",
+          "tip": "Compare seus pontos fortes com os requisitos obrigatórios que você destacou na descrição da vaga."
+        },
+        {
+          "title": "Seja específico, não genérico",
+          "body": "'Esforçado', 'trabalho bem em equipe' e 'apaixonado' são qualidades que quase todo mundo afirma ter, então pesam pouco. Deixe cada ponto forte preciso: em vez de 'bom comunicador', diga 'explico problemas técnicos com clareza para clientes sem conhecimento técnico'. Quanto mais específica a descrição, mais crível ela soa e mais fácil fica para o entrevistador imaginar você fazendo o trabalho.",
+          "tip": "Pergunte-se o que alguém realmente veria você fazendo se esse ponto forte estivesse em ação."
+        },
+        {
+          "title": "Comprove com um exemplo",
+          "body": "Um ponto forte sem evidência é só uma opinião. Acompanhe cada um com um exemplo curto: a situação, o que você fez e o resultado. 'Sou bom em simplificar processos complexos. No meu último emprego, transformei nosso guia de integração de vinte páginas em um checklist de cinco passos, e os novos contratados atingiram a produtividade plena duas semanas mais rápido.' Números tornam a história memorável.",
+          "tip": "Prepare um exemplo para cada ponto forte e mantenha cada um abaixo de um minuto."
+        },
+        {
+          "title": "Transmita com confiança",
+          "body": "Muitas pessoas se subestimam porque falar dos próprios pontos fortes parece se gabar. Não é; você está respondendo a uma pergunta direta com fatos. Diga o ponto forte com naturalidade, apresente a evidência e relacione-o à vaga: 'É por isso que eu conseguiria preparar rapidamente os novos contratados do suporte de vocês.' Evite tanto a falsa modéstia quanto o exagero.",
+          "tip": "Pratique seu principal ponto forte em voz alta até que soe natural, e não decorado."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Como você deve escolher quais pontos fortes mencionar?",
+          "options": ["Escolher os que a vaga claramente valoriza", "Listar o máximo possível", "Escolher os que seus amigos mencionam", "Usar os pontos fortes mais populares"],
+          "answer": 0,
+          "explanation": "Um ponto forte só ajuda sua resposta se for importante para esta vaga específica."
+        },
+        {
+          "id": "q2",
+          "question": "Por que 'trabalho bem em equipe' é um ponto forte fraco quando citado sozinho?",
+          "options": ["Os entrevistadores não gostam de trabalho em equipe", "É técnico demais", "Soa modesto demais", "Quase todo mundo afirma ter, então pesa pouco"],
+          "answer": 3,
+          "explanation": "Rótulos genéricos não diferenciam você; descrições precisas, sim."
+        },
+        {
+          "id": "q3",
+          "question": "O que torna um ponto forte crível?",
+          "options": ["Repeti-lo várias vezes", "Listá-lo no CV", "Um exemplo específico com um resultado", "Mantê-lo amplo"],
+          "answer": 2,
+          "explanation": "A evidência transforma uma afirmação em prova, principalmente com um resultado mensurável."
+        }
+      ]
+    },
+    {
+      "id": "weaknesses",
+      "order": 4,
+      "title": "Seus pontos fracos",
+      "minutes": 4,
+      "premium": true,
+      "pages": [
+        {
+          "title": "Por que perguntam",
+          "body": "Os entrevistadores perguntam sobre pontos fracos para avaliar autoconhecimento e honestidade, não para pegar você desprevenido. Eles querem ver que você sabe onde pode melhorar e que trabalha ativamente nisso. Respostas como 'Sou perfeccionista' ou 'Trabalho demais' soam ensaiadas e evasivas, e sugerem falta de autoconhecimento ou de sinceridade.",
+          "tip": "Pense em feedbacks que você realmente recebeu; eles são a melhor fonte para uma resposta genuína."
+        },
+        {
+          "title": "Escolha um ponto fraco real, mas não crítico",
+          "body": "Escolha algo genuíno que não seja central para a vaga. Um desenvolvedor de software pode mencionar falar em público; um contador não deve mencionar atenção aos detalhes. Boas opções incluem delegar, dizer não a trabalho extra, apresentar para grupos grandes ou uma ferramenta específica que você ainda não domina. Evite qualquer coisa que levante dúvidas sobre integridade, confiabilidade ou as habilidades essenciais da vaga.",
+          "tip": "Compare o ponto fraco escolhido com os requisitos obrigatórios da descrição da vaga antes de usá-lo."
+        },
+        {
+          "title": "Mostre a evolução",
+          "body": "A parte mais importante é o que você está fazendo a respeito. Use três passos: nomeie o ponto fraco, dê um breve exemplo de como ele afetou seu trabalho e depois descreva ações concretas e o progresso. 'Eu costumava assumir tarefas demais. Hoje reviso minha carga de trabalho toda semana com meu gestor e, quando chegam novas demandas, negocio com prioridades claras.'",
+          "tip": "Mencione um hábito, uma ferramenta ou um curso específico, não apenas 'estou trabalhando nisso'."
+        },
+        {
+          "title": "Seja breve e olhe para a frente",
+          "body": "Dedique cerca de 20% da resposta ao ponto fraco e 80% à evolução. Não explique demais nem peça desculpas, e não liste vários pontos fracos de uma vez. Termine falando do progresso que você fez, para que o entrevistador se lembre do crescimento, e não do problema. Se pedirem um segundo ponto fraco, tenha outro pronto com a mesma estrutura.",
+          "tip": "Teste sua resposta sobre pontos fracos em uma entrevista simulada para conferir se soa honesta, e não roteirizada."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Por que 'Sou perfeccionista' costuma ser uma resposta fraca?",
+          "options": ["É honesta demais", "Soa ensaiada e evasiva", "É longa demais", "É técnica demais"],
+          "answer": 1,
+          "explanation": "Pontos fortes disfarçados de fraquezas sugerem falta de autoconhecimento ou de honestidade."
+        },
+        {
+          "id": "q2",
+          "question": "Qual ponto fraco seria arriscado para um contador mencionar?",
+          "options": ["Falar em público para grupos grandes", "Delegar tarefas", "Atenção aos detalhes", "Dizer não a projetos extras"],
+          "answer": 2,
+          "explanation": "Atenção aos detalhes é uma habilidade essencial em contabilidade, então é um ponto fraco crítico para essa função."
+        },
+        {
+          "id": "q3",
+          "question": "Como você deve dividir sua resposta?",
+          "options": ["80% ponto fraco, 20% evolução", "Metade ponto fraco, metade evolução", "Descrever apenas o ponto fraco", "Cerca de 20% ponto fraco, 80% evolução"],
+          "answer": 3,
+          "explanation": "Mantenha o foco no que você está fazendo a respeito para que o entrevistador se lembre do crescimento."
+        }
+      ]
+    },
+    {
+      "id": "star_method",
+      "order": 5,
+      "title": "O método STAR",
+      "minutes": 4,
+      "premium": true,
+      "pages": [
+        {
+          "title": "O que significa STAR",
+          "body": "STAR é uma estrutura para perguntas comportamentais como 'Conte sobre uma vez em que...'. A sigla vem do inglês e significa Situação, Tarefa, Ação e Resultado. Ela mantém sua história focada e garante que você termine com um desfecho. Ao longo destas páginas, vamos montar um exemplo completo respondendo à pergunta: 'Conte sobre uma vez em que você lidou com um prazo apertado.'",
+          "tip": "Quando ouvir 'Conte sobre uma vez em que', esse é o sinal para usar o STAR."
+        },
+        {
+          "title": "Situação e Tarefa",
+          "body": "A Situação contextualiza em uma ou duas frases: 'Duas semanas antes do lançamento de um grande cliente, nosso designer principal saiu da empresa.' A Tarefa explica a sua responsabilidade: 'Como coordenador do projeto, eu precisava garantir que todos os materiais do lançamento continuassem sendo entregues no prazo.' Seja breve nas duas; juntas, devem ocupar cerca de 20% da resposta.",
+          "tip": "Corte detalhes de contexto de que o entrevistador não precisa para entender o seu desafio."
+        },
+        {
+          "title": "Ação",
+          "body": "A Ação é o coração da história e deve ocupar cerca de 60% da resposta. Diga 'eu', não 'nós', para que o entrevistador saiba o que você fez. 'Dividi o trabalho restante em tarefas diárias, contratei um designer freelancer em dois dias e criei uma reunião rápida de 15 minutos toda manhã para identificar problemas cedo. Também combinei com o cliente quais itens poderiam passar para uma segunda fase.'",
+          "tip": "Apresente suas ações como passos claros; isso demonstra pensamento estruturado."
+        },
+        {
+          "title": "Resultado",
+          "body": "O Resultado fecha a história com um desfecho claro, de preferência mensurável: 'Entregamos todos os itens essenciais na data do lançamento, o cliente renovou o contrato por mais um ano e a reunião diária virou prática padrão na nossa equipe.' Acrescente o que você aprendeu, se for relevante. O resultado deve ocupar cerca de 20% da resposta; sem ele, até uma ótima história parece inacabada.",
+          "tip": "Escreva cinco histórias no formato STAR com antecedência e pratique-as em uma entrevista simulada."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Qual parte de uma resposta STAR deve ocupar mais tempo?",
+          "options": ["Situação", "Tarefa", "Ação", "Resultado"],
+          "answer": 2,
+          "explanation": "A Ação deve ocupar cerca de 60% da resposta, porque mostra o que você realmente fez."
+        },
+        {
+          "id": "q2",
+          "question": "Por que você deve dizer 'eu' em vez de 'nós' na parte da Ação?",
+          "options": ["Para que o entrevistador saiba o que você fez pessoalmente", "Porque o trabalho em equipe não importa", "Para deixar a história mais curta", "Porque 'nós' é gramaticalmente errado"],
+          "answer": 0,
+          "explanation": "O entrevistador está avaliando você, então a sua própria contribuição precisa ficar clara."
+        },
+        {
+          "id": "q3",
+          "question": "No exemplo desenvolvido, qual detalhe pertence ao Resultado?",
+          "options": ["O designer principal saiu da empresa", "Um designer freelancer foi contratado", "Foram criadas reuniões diárias", "O cliente renovou o contrato por mais um ano"],
+          "answer": 3,
+          "explanation": "A renovação é o desfecho; os outros itens são a situação ou as ações."
+        }
+      ]
+    },
+    {
+      "id": "teamwork_examples",
+      "order": 6,
+      "title": "Perguntas sobre trabalho em equipe e conflitos",
+      "minutes": 3,
+      "premium": true,
+      "pages": [
+        {
+          "title": "O que eles procuram",
+          "body": "Perguntas como 'Conte sobre uma divergência com um colega' ou 'Descreva uma vez em que você trabalhou em uma equipe difícil' avaliam como você se comporta quando as coisas não vão bem. Os entrevistadores querem evidências de que você mantém o profissionalismo, escuta, foca no objetivo comum e consegue chegar a uma solução sem levar todo problema ao gestor.",
+          "tip": "Prepare pelo menos uma história de conflito e uma história de sucesso em equipe antes de qualquer entrevista."
+        },
+        {
+          "title": "Escolha a história certa",
+          "body": "Escolha uma divergência real e profissional sobre prioridades, métodos ou prazos, não uma briga pessoal. O conflito deve ser relevante o bastante para ser interessante e ter sido resolvido de forma construtiva. Evite histórias em que você estava totalmente certo e a outra pessoa totalmente errada; elas fazem você parecer inflexível. As melhores histórias mostram que você entendeu o ponto de vista do outro lado.",
+          "tip": "Escolha uma história em que a relação de trabalho terminou melhor, e não pior."
+        },
+        {
+          "title": "Conte com o STAR",
+          "body": "Use o STAR e dê ênfase às suas ações. 'Um colega e eu discordávamos sobre adiar um lançamento para fazer mais testes. Pedi uma reunião rápida, ouvi as preocupações dele com a qualidade e compartilhei meus dados sobre o impacto nos clientes. Combinamos lançar as funcionalidades estáveis no prazo e adiar em uma semana uma funcionalidade mais arriscada.' Depois, apresente o resultado.",
+          "tip": "Descreva a posição da outra pessoa de forma justa; isso torna suas próprias ações mais críveis."
+        },
+        {
+          "title": "Evite armadilhas comuns",
+          "body": "Nunca diga que nunca teve um conflito; isso soa irreal ou sugere que você foge dos problemas. Não critique ex-colegas nem revele informações confidenciais. Não faça a história girar só em torno do problema; dedique a maior parte do tempo a como ele foi resolvido. Termine com um desfecho positivo ou uma lição, como uma relação de trabalho melhor ou um novo processo.",
+          "tip": "Não cite nomes; 'um colega do financeiro' já é detalhe suficiente."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Qual história funciona melhor para uma pergunta sobre conflito?",
+          "options": ["Uma briga pessoal com um vizinho", "Uma vez em que você estava totalmente certo e a outra pessoa, errada", "Uma divergência profissional sobre prioridades que você resolveu de forma construtiva", "Um conflito que você relatou sem tentar resolver"],
+          "answer": 2,
+          "explanation": "Uma divergência real no trabalho com uma solução construtiva demonstra maturidade e flexibilidade."
+        },
+        {
+          "id": "q2",
+          "question": "Por que 'Nunca tive um conflito' é uma resposta ruim?",
+          "options": ["Soa irreal ou sugere que você foge dos problemas", "É longa demais", "Revela informações confidenciais", "Critica os colegas"],
+          "answer": 0,
+          "explanation": "Todo mundo enfrenta divergências no trabalho; os entrevistadores querem ver como você lida com elas."
+        },
+        {
+          "id": "q3",
+          "question": "No exemplo do lançamento, o que demonstrou uma abordagem construtiva?",
+          "options": ["Recusar-se a adiar qualquer coisa", "Pedir ao gestor que decidisse", "Lançar tudo com atraso", "Ouvir as preocupações e chegar a um meio-termo"],
+          "answer": 3,
+          "explanation": "Ouvir, compartilhar dados e encontrar um meio-termo resolveu o conflito sem precisar escalar."
+        }
+      ]
+    },
+    {
+      "id": "salary_negotiation",
+      "order": 7,
+      "title": "Pretensão salarial e negociação",
+      "minutes": 4,
+      "premium": true,
+      "pages": [
+        {
+          "title": "Pesquise o seu valor de mercado",
+          "body": "Antes de qualquer entrevista, conheça a faixa salarial típica para a função, o nível e a localização. Use pesquisas salariais, anúncios de vagas que informam a remuneração, associações profissionais e conversas com pessoas em funções parecidas. Reúna várias fontes e anote os valores mínimo, médio e máximo. Considere o pacote completo, incluindo bônus, contribuições para previdência, férias e verba para capacitação, e não apenas o salário-base.",
+          "tip": "Use pelo menos três fontes independentes; um único número pode enganar."
+        },
+        {
+          "title": "Defina a sua faixa",
+          "body": "Decida três números antes que alguém pergunte: o seu limite mínimo (o menor valor que você aceitaria), o seu valor-alvo e um teto ambicioso, mas defensável. Apresente uma faixa cujo piso esteja próximo do seu valor-alvo, não do seu mínimo, porque as propostas tendem a ficar perto da parte de baixo. Mantenha a faixa relativamente estreita, com cerca de 10% a 20% de amplitude, para que soe bem pesquisada.",
+          "tip": "Nunca revele o seu limite mínimo; ele serve para a sua decisão, não para a conversa."
+        },
+        {
+          "title": "Respondendo a 'Qual é a sua pretensão salarial?'",
+          "body": "Se perguntarem cedo, você pode redirecionar com educação: 'Gostaria de entender melhor as responsabilidades primeiro. Vocês poderiam compartilhar a faixa prevista para a vaga?' Se insistirem, apresente a faixa que você pesquisou com confiança: 'Com base na minha pesquisa sobre funções semelhantes, busco algo entre 55.000 e 62.000.' O primeiro número crível ancora a conversa, então garanta que o seu esteja bem fundamentado. Não o justifique com despesas pessoais.",
+          "tip": "Diga sua faixa uma vez, com clareza, e depois pare de falar e deixe que respondam."
+        },
+        {
+          "title": "Negociando a proposta",
+          "body": "Quando a proposta chegar, agradeça e peça um ou dois dias para analisá-la. Se estiver abaixo do seu valor-alvo, responda com entusiasmo e uma contraproposta específica: 'Estou muito animado com esta vaga. Considerando minha experiência liderando projetos semelhantes, poderíamos chegar mais perto de 60.000?' Se o salário-base for fixo, negocie outros itens: data de início, bônus, dias extras de férias ou treinamentos.",
+          "tip": "Ensaie sua contraproposta em voz alta em uma entrevista simulada antes da ligação de verdade."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Onde deve ficar o piso da faixa que você apresenta?",
+          "options": ["No seu limite mínimo", "Próximo do seu valor-alvo", "Abaixo do seu mínimo, para parecer flexível", "No maior salário que você encontrou"],
+          "answer": 1,
+          "explanation": "As propostas costumam ficar perto do piso da sua faixa, então ele deve estar próximo do seu valor-alvo."
+        },
+        {
+          "id": "q2",
+          "question": "Por que o primeiro número crível importa tanto?",
+          "options": ["Ele tem valor jurídico", "Os empregadores sempre o aceitam", "Ele encerra a negociação", "Ele ancora o restante da conversa"],
+          "answer": 3,
+          "explanation": "As propostas e contrapropostas seguintes tendem a girar em torno do primeiro valor bem fundamentado."
+        },
+        {
+          "id": "q3",
+          "question": "Se o salário-base for fixo, o que ainda dá para negociar?",
+          "options": ["Mais nada", "Apenas o nome do cargo", "Data de início, bônus, dias extras de férias ou treinamentos", "A agenda do entrevistador"],
+          "answer": 2,
+          "explanation": "O pacote completo tem várias partes, e muitas podem ser ajustadas mesmo quando o salário-base não pode."
+        }
+      ]
+    }
+  ]
+}

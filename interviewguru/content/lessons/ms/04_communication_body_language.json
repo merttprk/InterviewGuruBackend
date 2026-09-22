@@ -1,0 +1,322 @@
+{
+  "id": "communication_body_language",
+  "order": 4,
+  "icon": "communication",
+  "color": "#10B981",
+  "title": "Komunikasi & Bahasa Badan",
+  "summary": "Pelajari cara kata-kata, suara dan badan anda bekerjasama supaya penemu duga mengingati apa yang anda katakan, bukan betapa gementarnya anda kelihatan.",
+  "topics": [
+    {
+      "id": "speaking_techniques",
+      "order": 1,
+      "title": "Bercakap dengan Jelas dan Ringkas",
+      "minutes": 3,
+      "premium": false,
+      "pages": [
+        {
+          "title": "Mulakan dengan jawapan",
+          "body": "Penemu duga paling mengingati ayat pertama, jadi letakkan perkara utama anda di situ. Jika ditanya mengapa anda mahukan jawatan ini, mulakan dengan 'Kerana jawatan ini menggabungkan analisis data dengan kerja bersama pelanggan, dan itulah yang paling saya gemari,' kemudian tambah butiran sokongan. Bermula dengan latar belakang dan perlahan-lahan menuju ke inti menyukarkan pendengar, dan mereka sering hilang minat sebelum anda sampai ke perkara utama.",
+          "tip": "Sebelum setiap jawapan, sebut dalam hati satu perkara yang anda mahu mereka ingat."
+        },
+        {
+          "title": "Gunakan struktur yang ringkas",
+          "body": "Struktur menjadikan anda mudah diikuti. Untuk soalan tentang pengalaman, gunakan situasi, tindakan, hasil. Untuk soalan pendapat, gunakan perkara, sebab, contoh, perkara. Beri penanda semasa bercakap: 'Ada dua sebab. Pertama… Kedua…' Menomborkan idea anda memberitahu penemu duga berapa lama anda akan bercakap dan membantu anda kekal fokus apabila rasa gementar melanda.",
+          "tip": "Jika anda menjanjikan 'tiga sebab', pastikan anda boleh menyebut ketiga-tiganya."
+        },
+        {
+          "title": "Buang perkataan pengisi",
+          "body": "Perkataan seperti 'sebenarnya', 'macam' dan 'awak tahu' melemahkan isi yang kukuh. Gantikan dengan jeda singkat; diam kedengaran lebih yakin berbanding perkataan pengisi. Elakkan jargon dalaman dan akronim yang mungkin tidak diketahui oleh penemu duga — sebut 'pangkalan data pelanggan kami' dan bukannya nama kod sesuatu sistem. Perkataan yang mudah dan khusus menjadikan pencapaian anda lebih meyakinkan, bukan kurang mengagumkan.",
+          "tip": "Rakam satu jawapan dalam temu duga olok-olok dan kira perkataan pengisi yang anda gunakan."
+        },
+        {
+          "title": "Tahu bila perlu berhenti",
+          "body": "Kebanyakan jawapan paling berkesan dalam tempoh satu hingga dua minit. Jawapan yang panjang menenggelamkan perkara terbaik anda dan mengambil masa untuk soalan lain. Akhiri dengan ayat penutup yang jelas dan berkait semula dengan jawatan tersebut, kemudian berhenti bercakap. Jika anda tidak pasti sama ada jawapan anda sudah memadai, tanya: 'Adakah anda mahu saya huraikan mana-mana bahagian dengan lebih mendalam?'",
+          "tip": "Jangan mulakan semula jawapan selepas selesai; berhenti dengan yakin lebih baik daripada tambahan yang gementar."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Di manakah perkara utama anda biasanya perlu diletakkan dalam sesuatu jawapan?",
+          "options": ["Di penghujung sekali, sebagai kesimpulan", "Dalam ayat pertama", "Hanya jika penemu duga memintanya", "Di tengah, selepas butiran latar belakang"],
+          "answer": 1,
+          "explanation": "Memulakan dengan jawapan menjadikannya mudah diikuti dan diingati."
+        },
+        {
+          "id": "q2",
+          "question": "Apakah pengganti yang lebih baik untuk perkataan pengisi seperti \"sebenarnya\"?",
+          "options": ["Bercakap dengan lebih laju", "Menambah jargon teknikal", "Jeda singkat", "Mengulang soalan"],
+          "answer": 2,
+          "explanation": "Diam seketika kedengaran lebih yakin berbanding perkataan pengisi."
+        },
+        {
+          "id": "q3",
+          "question": "Berapa lamakah sepatutnya kebanyakan jawapan temu duga?",
+          "options": ["Kira-kira satu hingga dua minit", "Kurang daripada sepuluh saat", "Lima minit atau lebih", "Selama yang diperlukan untuk merangkumi setiap butiran"],
+          "answer": 0,
+          "explanation": "Satu hingga dua minit memastikan perkara terbaik anda menonjol dan memberi masa untuk soalan lain."
+        }
+      ]
+    },
+    {
+      "id": "active_listening",
+      "order": 2,
+      "title": "Mendengar Secara Aktif",
+      "minutes": 3,
+      "premium": false,
+      "pages": [
+        {
+          "title": "Mendengar ialah kemahiran yang diperhatikan",
+          "body": "Penemu duga menilai cara anda mendengar sama seperti cara anda bercakap, kerana ia menggambarkan bagaimana anda akan bekerja dengan rakan sekerja dan pelanggan. Banyak jawapan lemah berpunca daripada calon yang menjawab soalan yang dijangkanya, bukan soalan yang sebenarnya ditanya. Berikan perhatian sepenuhnya kepada penemu duga, jangan merancang jawapan semasa mereka masih bercakap, dan biarkan mereka habis bercakap.",
+          "tip": "Jangan sekali-kali mencelah, walaupun anda sudah tahu hala tuju soalan itu."
+        },
+        {
+          "title": "Tunjukkan bahawa anda mendengar",
+          "body": "Tunjukkan perhatian melalui isyarat kecil yang semula jadi: sesekali mengangguk, kekalkan riak wajah yang terlibat dan gunakan respons ringkas seperti 'Saya faham' atau 'Itu munasabah'. Condongkan badan sedikit ke hadapan apabila penemu duga menerangkan jawatan atau pasukan. Dalam video, isyarat ini perlu lebih jelas sedikit, kerana pergerakan halus mudah terlepas pandang pada skrin kecil.",
+          "tip": "Simpan telefon anda di luar pandangan supaya anda tidak tergoda untuk menjelingnya."
+        },
+        {
+          "title": "Dapatkan penjelasan sebelum menjawab",
+          "body": "Jika soalan terlalu luas atau kurang jelas, tanya soalan penjelasan yang ringkas: 'Adakah anda maksudkan konflik dengan pengurus atau dengan rakan setugas?' Mengulang soalan yang rumit dengan kata-kata anda sendiri juga memberi anda beberapa saat untuk berfikir: 'Jadi anda mahu tahu bagaimana saya menetapkan keutamaan apabila dua tarikh akhir bertembung?' Meminta penjelasan menunjukkan keprihatinan dan ketelitian; meneka berisiko menghasilkan jawapan panjang kepada soalan yang salah.",
+          "tip": "Satu soalan penjelasan itu bijak; bertanya untuk setiap soalan kelihatan seperti melengah-lengahkan masa."
+        },
+        {
+          "title": "Manfaatkan apa yang anda dengar",
+          "body": "Calon terbaik menyelitkan semula kata-kata penemu duga ke dalam jawapan seterusnya. Jika mereka menyebut pasukan sedang berkembang pesat, kaitkan pengalaman anda dengan pertumbuhan: 'Anda ada menyebut pengambilan pekerja yang pantas — dalam jawatan saya sebelum ini, saya membantu orientasi enam rakan sekerja baharu.' Pada akhir sesi, rujuk sesuatu yang khusus daripada kata-kata mereka semasa anda bertanya soalan. Ini membuktikan anda mendengar dan menjadikan perbualan terasa dua hala.",
+          "tip": "Catat satu atau dua frasa utama yang digunakan oleh penemu duga tentang jawatan tersebut."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Apakah punca biasa jawapan lemah yang berkaitan dengan mendengar?",
+          "options": ["Terlalu kerap mengangguk", "Mencatat nota ringkas", "Bertanya tentang langkah seterusnya", "Menjawab soalan yang anda jangkakan dan bukannya soalan yang ditanya"],
+          "answer": 3,
+          "explanation": "Calon sering menjawab soalan yang mereka andaikan dan bukannya mendengar soalan sebenar."
+        },
+        {
+          "id": "q2",
+          "question": "Apakah yang patut anda lakukan jika soalan terlalu luas atau kurang jelas?",
+          "options": ["Tanya soalan penjelasan yang ringkas", "Teka dan berikan jawapan yang panjang", "Langkau dan teruskan", "Minta penemu duga mengulanginya tiga kali"],
+          "answer": 0,
+          "explanation": "Penjelasan ringkas memastikan anda menjawab soalan yang betul."
+        },
+        {
+          "id": "q3",
+          "question": "Bagaimanakah anda boleh menunjukkan bahawa anda mendengar sepanjang temu duga?",
+          "options": ["Dengan mengulang CV anda perkataan demi perkataan", "Dengan merujuk semula perkara khusus yang dikatakan oleh penemu duga", "Dengan bercakap lebih banyak daripada penemu duga", "Dengan bersetuju dengan setiap kenyataan"],
+          "answer": 1,
+          "explanation": "Menyelitkan perkara yang dibangkitkan penemu duga ke dalam jawapan anda membuktikan anda mendengar secara aktif."
+        }
+      ]
+    },
+    {
+      "id": "eye_contact",
+      "order": 3,
+      "title": "Hubungan Mata",
+      "minutes": 3,
+      "premium": true,
+      "pages": [
+        {
+          "title": "Mengapa hubungan mata penting",
+          "body": "Hubungan mata yang stabil menandakan keyakinan, kejujuran dan minat. Terlalu sedikit boleh membuatkan anda kelihatan gementar atau mengelak; merenung tanpa henti pula terasa terlalu tegang. Cuba kekalkan hubungan mata hampir sepanjang masa anda mendengar dan kurang sedikit semasa bercakap, kerana mengalihkan pandangan seketika untuk berfikir adalah perkara biasa. Jangkaan berbeza mengikut budaya, jadi sesuaikan diri dengan gaya penemu duga secara halus.",
+          "tip": "Ikut tahap hubungan mata penemu duga dan bukannya memaksa satu peraturan yang tetap."
+        },
+        {
+          "title": "Peraturan beberapa saat",
+          "body": "Kekalkan hubungan mata selama kira-kira tiga hingga lima saat setiap kali, kemudian alihkan pandangan seketika — ke sisi atau ke nota anda — sebelum kembali memandang. Rentak ini terasa semula jadi dan tidak kelihatan merenung. Jika hubungan mata secara langsung membuatkan anda tidak selesa, pandang kawasan di antara kedua-dua mata atau pangkal hidung; dari jarak biasa, ia kelihatan sama.",
+          "tip": "Latih rentak ini dalam perbualan harian seminggu sebelum temu duga anda."
+        },
+        {
+          "title": "Panel dan kumpulan",
+          "body": "Jika terdapat beberapa penemu duga, pandang terutamanya orang yang bertanya soalan, khususnya pada awal dan akhir jawapan anda. Di pertengahan, alihkan pandangan kepada ahli panel lain untuk melibatkan mereka. Mengabaikan ahli panel yang lebih pendiam ialah kesilapan biasa; mereka mungkin mempunyai pengaruh besar dalam keputusan. Kembali memandang orang yang bertanya apabila anda menamatkan jawapan.",
+          "tip": "Akhiri setiap jawapan dengan memandang orang yang bertanya soalan."
+        },
+        {
+          "title": "Hubungan mata dalam video",
+          "body": "Dalam video, memandang wajah penemu duga di skrin membuatkan anda kelihatan seperti memandang ke bawah atau ke sisi. Untuk mewujudkan hubungan mata, pandang ke dalam lensa kamera semasa bercakap, terutamanya ketika menyampaikan perkara penting. Jeling skrin semasa mendengar supaya anda dapat membaca reaksi mereka. Meletakkan tetingkap video betul-betul di bawah kamera akan mengurangkan jarak antara keduanya.",
+          "tip": "Tampal nota pelekat kecil di sebelah lensa sebagai peringatan."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Berapa lamakah biasanya anda perlu mengekalkan hubungan mata sebelum mengalihkan pandangan seketika?",
+          "options": ["Kurang daripada satu saat", "Kira-kira tiga hingga lima saat", "Sepanjang jawapan tanpa henti", "Kira-kira tiga puluh saat"],
+          "answer": 1,
+          "explanation": "Rentak tiga hingga lima saat terasa semula jadi dan tidak kelihatan merenung."
+        },
+        {
+          "id": "q2",
+          "question": "Dalam temu duga panel, ke manakah anda patut memandang pada akhir jawapan?",
+          "options": ["Kepada orang yang paling kanan", "Ke nota anda", "Ke siling", "Kepada orang yang bertanya soalan"],
+          "answer": 3,
+          "explanation": "Mulakan dan akhiri dengan orang yang bertanya, dan libatkan yang lain di pertengahan."
+        },
+        {
+          "id": "q3",
+          "question": "Bagaimanakah anda mewujudkan hubungan mata dalam temu duga video?",
+          "options": ["Pandang wajah penemu duga di skrin", "Pandang pratonton video anda sendiri", "Pandang ke dalam lensa kamera semasa bercakap", "Pejamkan mata untuk menumpukan perhatian"],
+          "answer": 2,
+          "explanation": "Lensa kamera ialah tempat penemu duga menangkap arah pandangan anda."
+        }
+      ]
+    },
+    {
+      "id": "gestures",
+      "order": 4,
+      "title": "Gerak Isyarat dan Tangan",
+      "minutes": 3,
+      "premium": true,
+      "pages": [
+        {
+          "title": "Tangan membantu anda berfikir",
+          "body": "Gerak isyarat yang semula jadi membuatkan anda kelihatan tenang dan membantu anda mencari perkataan, jadi jangan kakukan tangan anda. Kajian tentang pertuturan menunjukkan bahawa gerak isyarat menyokong kelancaran bercakap. Matlamatnya ialah pergerakan yang terkawal dan bertujuan: gerak isyarat yang menekankan sesuatu perkara atau menunjukkan saiz, urutan atau perbezaan. Pergerakan rawak dan berulang mengalih perhatian penemu duga daripada apa yang anda katakan dan menandakan rasa gementar.",
+          "tip": "Biarkan tangan anda bergerak semasa bercakap, kemudian kembalikan ke kedudukan rehat."
+        },
+        {
+          "title": "Zon gerak isyarat",
+          "body": "Kekalkan kebanyakan gerak isyarat di kawasan antara dada dan pinggang, kira-kira selebar badan anda. Pergerakan dalam zon ini kelihatan tenang dan yakin. Gerak isyarat yang sangat besar di atas bahu boleh kelihatan dramatik di dalam bilik yang kecil. Tapak tangan terbuka yang sedikit menghadap ke atas menandakan kejujuran dan keterbukaan, manakala menuding jari ke arah penemu duga boleh terasa agresif.",
+          "tip": "Dalam video, angkat gerak isyarat sedikit lebih tinggi supaya ia kekal dalam bingkai kamera."
+        },
+        {
+          "title": "Tabiat yang perlu dielakkan",
+          "body": "Tabiat gementar mencuri perhatian: mengetuk pen, menekan-nekan pen, menyentuh muka atau rambut, bermain dengan barang kemas, atau menyilangkan tangan dengan erat. Tangan yang bersilang boleh ditafsirkan sebagai defensif walaupun anda sebenarnya hanya kesejukan. Memegang pen yang tidak diperlukan mengundang gelisah. Menyembunyikan tangan sepenuhnya di bawah meja boleh membuatkan anda kelihatan tertutup atau tidak selesa.",
+          "tip": "Jika anda mudah gelisah, jangan pegang apa-apa yang tidak akan anda gunakan."
+        },
+        {
+          "title": "Kedudukan rehat yang tenang",
+          "body": "Apabila tidak membuat gerak isyarat, letakkan tangan anda secara santai di atas meja atau riba, dengan jari-jemari dirapatkan sedikit. Asas neutral ini menjadikan setiap gerak isyarat yang anda gunakan lebih bermakna. Pada awal dan akhir, hulurkan jabat tangan yang kemas dan ringkas jika ia menjadi kebiasaan, dan ikut cara penemu duga jika adat bersalaman berbeza. Pastikan tangan anda kering dan santai.",
+          "tip": "Semak tabiat tangan anda dengan menonton rakaman temu duga olok-olok."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Mengapakah anda patut mengelak daripada mengakukan tangan sepenuhnya?",
+          "options": ["Penemu duga mewajibkan gerak isyarat", "Gerak isyarat semula jadi membantu anda bercakap dengan lancar dan kelihatan tenang", "Ia dianggap tidak sopan di mana-mana", "Ia menjadikan jawapan lebih pendek"],
+          "answer": 1,
+          "explanation": "Gerak isyarat yang terkawal dan semula jadi menyokong pertuturan dan kelihatan yakin."
+        },
+        {
+          "id": "q2",
+          "question": "Di manakah kebanyakan gerak isyarat anda patut berada?",
+          "options": ["Di atas kepala", "Di bawah meja, di luar pandangan", "Di antara dada dan pinggang, kira-kira selebar badan", "Menuding ke arah penemu duga"],
+          "answer": 2,
+          "explanation": "Zon dada hingga pinggang kelihatan tenang dan terkawal."
+        },
+        {
+          "id": "q3",
+          "question": "Yang manakah tabiat gementar yang mengganggu penemu duga?",
+          "options": ["Menekan-nekan pen", "Meletakkan tangan di atas meja", "Menggunakan tapak tangan terbuka", "Menunjukkan urutan dengan jari"],
+          "answer": 0,
+          "explanation": "Pergerakan berulang seperti menekan-nekan pen mengalih perhatian daripada jawapan anda."
+        }
+      ]
+    },
+    {
+      "id": "posture_tips",
+      "order": 5,
+      "title": "Postur yang Yakin",
+      "minutes": 3,
+      "premium": true,
+      "pages": [
+        {
+          "title": "Postur bercakap dahulu",
+          "body": "Sebelum anda berkata apa-apa, postur anda sudah memberitahu penemu duga apa yang anda rasa. Duduk membongkok menunjukkan tenaga yang rendah atau kurang minat; duduk terlalu tegak dan kaku menunjukkan kebimbangan. Sasarkan postur yang santai tetapi berwaspada: belakang bersandar atau dekat dengan sandaran kerusi, bahu diturunkan dan terbuka, tapak kaki rata di atas lantai. Postur yang baik juga membantu anda bernafas dengan betul, lalu menstabilkan suara anda.",
+          "tip": "Gulung bahu anda ke belakang dan ke bawah sekali sebelum melangkah masuk."
+        },
+        {
+          "title": "Duduk dengan betul",
+          "body": "Duduk ke arah belakang kerusi dengan bahagian atas badan condong sedikit ke hadapan; ini menunjukkan penglibatan tanpa kelihatan mendesak. Elakkan bersandar terlalu jauh ke belakang, yang boleh kelihatan terlalu santai, atau duduk di hujung kerusi, yang kelihatan gementar. Pastikan kaki anda tidak bergerak — menyilangkan buku lali atau meletakkan tapak kaki rata kedua-duanya sesuai. Jangan sepahkan barang-barang anda di atas meja penemu duga.",
+          "tip": "Condongkan badan sedikit ke hadapan apabila penemu duga bercakap tentang jawatan tersebut."
+        },
+        {
+          "title": "Semasa masuk dan menunggu",
+          "body": "Penilaian sering bermula di kawasan penyambut tetamu. Duduk tegak semasa menunggu dan elakkan menatal telefon sambil menunduk; anda mungkin disapa secara tiba-tiba. Apabila nama anda dipanggil, berdiri, senyum dan berjalan dengan langkah yang mantap. Bawa beg di tangan kiri supaya tangan kanan anda bebas untuk bersalaman jika dihulurkan.",
+          "tip": "Layan semua orang yang anda temui, termasuk kakitangan penyambut tetamu, sebagai sebahagian daripada temu duga."
+        },
+        {
+          "title": "Postur dalam video",
+          "body": "Di hadapan kamera, bingkaikan diri anda dari pertengahan dada ke atas dengan sedikit ruang di atas kepala. Duduk di kerusi yang stabil, bukan sofa atau katil, supaya anda tidak tenggelam. Letakkan skrin pada paras mata supaya anda tidak memandang ke bawah. Elakkan berpusing atau bergoyang di kerusi pejabat; pergerakan itu kelihatan berlebihan di kamera dan mengganggu penonton.",
+          "tip": "Kunci ketinggian kerusi pusing dan jejakkan kedua-dua kaki sebelum menyertai panggilan."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Postur duduk yang manakah paling menunjukkan penglibatan yang santai?",
+          "options": ["Bersandar jauh ke belakang dengan kaki dilunjurkan", "Duduk di hujung kerusi", "Duduk ke belakang kerusi dengan badan condong sedikit ke hadapan", "Menongkat kepala dengan tangan"],
+          "answer": 2,
+          "explanation": "Condong sedikit ke hadapan menunjukkan minat sambil kekal santai."
+        },
+        {
+          "id": "q2",
+          "question": "Bilakah penilaian postur sering bermula?",
+          "options": ["Hanya selepas anda duduk di bilik temu duga", "Semasa anda menunggu di kaunter penyambut tetamu", "Selepas soalan pertama", "Pada akhir sesi, semasa anda bertanya soalan"],
+          "answer": 1,
+          "explanation": "Anda mungkin diperhatikan dan disapa secara tiba-tiba semasa menunggu."
+        },
+        {
+          "id": "q3",
+          "question": "Apakah cara yang baik untuk membingkaikan diri anda dalam video?",
+          "options": ["Dari pertengahan dada ke atas dengan sedikit ruang di atas kepala", "Muka sahaja, memenuhi seluruh skrin", "Seluruh badan dari jauh", "Kamera menghala ke atas dari bawah dagu"],
+          "answer": 0,
+          "explanation": "Bingkai dari pertengahan dada pada paras mata kelihatan semula jadi dan profesional."
+        }
+      ]
+    },
+    {
+      "id": "voice_control",
+      "order": 6,
+      "title": "Suara, Kelajuan dan Nada",
+      "minutes": 4,
+      "premium": true,
+      "pages": [
+        {
+          "title": "Kelajuan: lebih perlahan daripada yang anda sangka",
+          "body": "Rasa gementar membuatkan kebanyakan orang bercakap lebih laju, dan percakapan yang laju kedengaran cemas serta lebih sukar diikuti. Sasarkan kelajuan yang selesa seperti berbual, dan sengaja perlahankan apabila menyebut angka, nama dan hasil utama. Jeda selepas sesuatu perkara penting memberikannya penekanan. Jika anda sedar diri anda tergesa-gesa, habiskan ayat anda, tarik nafas dan teruskan dengan lebih perlahan sedikit.",
+          "tip": "Tarik satu nafas perlahan sebelum memulakan setiap jawapan."
+        },
+        {
+          "title": "Kelantangan dan kejelasan",
+          "body": "Bercakap cukup kuat supaya mudah didengar dari seberang meja tanpa memaksa suara. Suara yang perlahan boleh ditafsirkan sebagai kurang yakin, terutamanya di bilik yang lebih besar atau dalam temu duga panel. Buka mulut anda sepenuhnya dan habiskan hujung perkataan serta ayat anda, jangan biarkan suara anda semakin hilang. Dalam video, uji tahap mikrofon anda sebelum panggilan.",
+          "tip": "Tanya 'Adakah suara saya jelas?' pada awal setiap temu duga jarak jauh."
+        },
+        {
+          "title": "Nada dan tenaga",
+          "body": "Penyampaian yang mendatar dan monoton menjadikan pencapaian yang hebat sekalipun kedengaran membosankan. Variasikan tinggi rendah suara anda secara semula jadi dan tunjukkan semangat yang ikhlas apabila bercakap tentang kerja yang anda gemari. Senyum semasa bercakap menjadikan nada anda lebih mesra, walaupun di telefon. Elakkan menamatkan kenyataan dengan nada meninggi yang kedengaran seperti soalan; ia boleh membuatkan dakwaan yang yakin kedengaran ragu-ragu.",
+          "tip": "Sebut pencapaian utama anda sebagai kenyataan, dengan nada yang menurun di hujungnya."
+        },
+        {
+          "title": "Mengawal rasa gementar dalam suara anda",
+          "body": "Kebimbangan menegangkan tekak dan menjadikan pernafasan cetek, jadi suara anda mungkin bergetar atau meninggi. Sebelum temu duga, panaskan suara dengan bersenandung atau membaca dengan kuat selama beberapa minit. Bernafas perlahan-lahan dari perut dan bukannya dari dada. Letakkan air berdekatan dan hirup sedikit untuk mewujudkan jeda yang semula jadi. Berlatih menjawab dengan suara yang kuat membina kawalan yang tidak dapat diperoleh dengan membaca dalam hati.",
+          "tip": "Gunakan ciri temu duga olok-olok untuk berlatih menjawab dengan kuat, kemudian dengar semula kelajuan anda bercakap."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Bilakah anda patut sengaja memperlahankan percakapan?",
+          "options": ["Apabila menyebut angka, nama dan hasil utama", "Hanya semasa berbual kosong", "Tidak pernah; bercakap laju kedengaran lebih bertenaga", "Semasa menjawab soalan terakhir"],
+          "answer": 0,
+          "explanation": "Memperlahankan percakapan untuk butiran penting membantu mesejnya sampai."
+        },
+        {
+          "id": "q2",
+          "question": "Apakah kesan nada yang meninggi di hujung kenyataan?",
+          "options": ["Ia membuatkan anda kedengaran lebih berwibawa", "Ia membuatkan dakwaan yang yakin kedengaran ragu-ragu", "Ia mempercepatkan temu duga", "Ia tidak memberi kesan kepada pendengar"],
+          "answer": 1,
+          "explanation": "Intonasi yang meninggi membuatkan kenyataan kedengaran seperti soalan."
+        },
+        {
+          "id": "q3",
+          "question": "Yang manakah cara yang baik untuk menenangkan suara yang bergetar sebelum temu duga?",
+          "options": ["Minum beberapa cawan kopi", "Hanya membaca jawapan anda dalam hati", "Bersenandung atau membaca dengan kuat dan bernafas dari perut", "Bercakap seperlahan yang mungkin"],
+          "answer": 2,
+          "explanation": "Memanaskan suara dan pernafasan perut yang perlahan mengurangkan ketegangan pada suara."
+        }
+      ]
+    }
+  ]
+}

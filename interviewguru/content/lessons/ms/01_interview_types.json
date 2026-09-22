@@ -1,0 +1,322 @@
+{
+  "id": "interview_types",
+  "order": 1,
+  "icon": "interview",
+  "color": "#4F46E5",
+  "title": "Jenis-Jenis Temu Duga",
+  "summary": "Ketahui apa yang perlu dijangka daripada setiap format temu duga, daripada saringan ringkas melalui telefon hingga temu duga panel.",
+  "topics": [
+    {
+      "id": "phone_interview",
+      "order": 1,
+      "title": "Temu Duga Telefon",
+      "minutes": 3,
+      "premium": false,
+      "pages": [
+        {
+          "title": "Tujuan saringan melalui telefon",
+          "body": "Temu duga telefon biasanya merupakan saringan pertama. Perekrut atau pengurus pengambilan menghabiskan 15–30 minit untuk menyemak tiga perkara: sama ada pengalaman anda sepadan dengan jawatan tersebut, sama ada jangkaan gaji dan lokasi anda realistik, dan sama ada anda boleh berkomunikasi dengan jelas. Ia jarang mendalam; tugasnya adalah untuk menentukan siapa yang mara ke peringkat seterusnya.",
+          "tip": "Anggap ia sebagai temu duga sebenar. Ramai calon tersingkir di peringkat ini kerana terlalu bersahaja."
+        },
+        {
+          "title": "Sediakan persekitaran anda",
+          "body": "Pilih bilik yang senyap, cas telefon anda dan periksa isyarat sebelum panggilan. Letakkan CV, huraian jawatan kosong dan senarai ringkas pencapaian anda di hadapan anda — penemu duga tidak dapat melihat nota anda, jadi manfaatkannya. Sediakan air berhampiran dan matikan pemberitahuan pada komputer anda.",
+          "tip": "Berdiri atau duduk tegak semasa bercakap; suara anda akan kedengaran lebih bertenaga."
+        },
+        {
+          "title": "Suara anda ialah bahasa badan anda",
+          "body": "Tanpa isyarat visual, nada dan kelajuan pertuturan yang menyampaikan mesej anda. Senyum semasa bercakap — ia dapat didengar. Berhenti seketika sebelum menjawab dan bukannya mengisi kesenyapan dengan ‘emm’. Hadkan jawapan kepada kira-kira 60–90 saat dan pastikan pendengar masih mengikuti: ‘Adakah anda mahu saya terangkan dengan lebih terperinci tentang projek itu?’",
+          "tip": "Rakam diri anda menjawab satu soalan menggunakan telefon dan dengar semula sekali."
+        },
+        {
+          "title": "Tamatkan panggilan dengan baik",
+          "body": "Menjelang akhir, tanya satu atau dua soalan tentang jawatan tersebut dan langkah seterusnya: ‘Bagaimanakah proses selepas ini?’ Ucapkan terima kasih kepada penemu duga dengan menyebut namanya. Dalam beberapa jam, hantar e-mel ringkas yang menegaskan semula minat anda dan satu sebab anda sesuai untuk jawatan itu.",
+          "tip": "Catat nama penemu duga dan perkara penting semasa panggilan."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Apakah tujuan utama saringan melalui telefon?",
+          "options": ["Merundingkan gaji muktamad", "Menyaring calon berdasarkan kesesuaian asas dan komunikasi", "Menguji kemahiran teknikal lanjutan", "Berjumpa seluruh pasukan"],
+          "answer": 1,
+          "explanation": "Saringan telefon ialah penapis pertama: kesesuaian asas, jangkaan dan komunikasi."
+        },
+        {
+          "id": "q2",
+          "question": "Yang manakah kelebihan sebenar temu duga telefon?",
+          "options": ["Anda boleh menyimpan nota di hadapan anda", "Anda boleh melangkau persediaan", "Bahasa badan langsung tidak penting", "Anda boleh menjawab sambil berjalan di luar"],
+          "answer": 0,
+          "explanation": "Penemu duga tidak dapat melihat anda, jadi CV dan nota anda boleh berada betul-betul di hadapan anda."
+        },
+        {
+          "id": "q3",
+          "question": "Berapa lamakah sepatutnya satu jawapan biasa dalam temu duga telefon?",
+          "options": ["10 saat", "Kira-kira 60–90 saat", "Sekurang-kurangnya 5 minit", "Selama yang mungkin"],
+          "answer": 1,
+          "explanation": "Jawapan yang ringkas dan tersusun mengekalkan tumpuan pendengar; tawarkan butiran lanjut jika mereka mahukannya."
+        }
+      ]
+    },
+    {
+      "id": "video_interview",
+      "order": 2,
+      "title": "Temu Duga Video",
+      "minutes": 3,
+      "premium": false,
+      "pages": [
+        {
+          "title": "Dua jenis temu duga video",
+          "body": "Temu duga video secara langsung dijalankan melalui Zoom, Teams atau Google Meet bersama orang sebenar. Temu duga sehala (rakaman) memaparkan satu soalan dan memberi anda masa yang ditetapkan untuk merakam jawapan, selalunya dengan satu peluang ulang atau tiada langsung. Kedua-duanya dinilai seperti temu duga bersemuka, tetapi masalah teknikal ialah tanggungjawab anda.",
+          "tip": "Tanya platform yang akan digunakan dan pasang aplikasinya sehari sebelum itu."
+        },
+        {
+          "title": "Kamera, cahaya dan bunyi",
+          "body": "Letakkan kamera pada paras mata — susun beberapa buku di bawah komputer riba jika perlu. Hadap tingkap atau lampu supaya cahaya jatuh pada wajah anda, bukan dari belakang. Gunakan fon kepala bermikrofon untuk mengelakkan gema. Latar belakang yang ringkas dan kemas lebih baik daripada latar maya yang berkelip-kelip di sekeliling rambut anda.",
+          "tip": "Buat panggilan percubaan bersama rakan dan tanya bagaimana rupa dan suara anda."
+        },
+        {
+          "title": "Memandang ke arah kamera",
+          "body": "Hubungan mata dalam video bermaksud memandang kanta kamera, bukan wajah penemu duga di skrin. Alihkan tetingkap video dekat dengan kamera supaya perbezaannya kecil. Angguk dan beri reaksi sedikit lebih banyak berbanding secara bersemuka; isyarat halus mudah hilang dalam video.",
+          "tip": "Tampal pelekat kecil di sebelah kanta sebagai peringatan untuk memandang ke situ."
+        },
+        {
+          "title": "Apabila berlaku masalah",
+          "body": "Jika sambungan terputus, sertai semula dengan segera dan katakan dengan tenang: ‘Maaf, sambungan saya terputus — boleh anda ulang soalan terakhir?’ Sediakan nombor telefon atau e-mel penemu duga sebagai sandaran. Kekal tenang ketika menghadapi gangguan teknikal itu sendiri merupakan isyarat positif.",
+          "tip": "Tutup aplikasi lain dan jeda sandaran awan untuk menjimatkan lebar jalur."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Ke manakah anda patut memandang untuk mewujudkan hubungan mata dalam temu duga video?",
+          "options": ["Ke mata penemu duga di skrin", "Ke video anda sendiri", "Ke kanta kamera", "Ke nota anda"],
+          "answer": 2,
+          "explanation": "Memandang kanta ialah perkara yang kelihatan sebagai hubungan mata kepada pihak lain."
+        },
+        {
+          "id": "q2",
+          "question": "Apakah susunan pencahayaan yang terbaik?",
+          "options": ["Tingkap terang di belakang anda", "Cahaya dari hadapan, menyinari wajah anda", "Bilik gelap supaya skrin bercahaya", "Lampu siling sahaja"],
+          "answer": 1,
+          "explanation": "Cahaya di hadapan memastikan wajah anda kelihatan; cahaya dari belakang menjadikan anda siluet."
+        },
+        {
+          "id": "q3",
+          "question": "Sambungan anda terputus ketika sedang menjawab. Apakah yang patut anda lakukan?",
+          "options": ["Tunggu mereka menghubungi anda", "Sertai semula dengan segera dan minta mereka mengulang soalan dengan tenang", "Tamatkan temu duga", "Hantar e-mel memohon maaf kemudian"],
+          "answer": 1,
+          "explanation": "Menyertai semula dengan tenang menunjukkan anda mampu mengendalikan masalah dengan baik."
+        }
+      ]
+    },
+    {
+      "id": "face_to_face_interview",
+      "order": 3,
+      "title": "Temu Duga Bersemuka",
+      "minutes": 3,
+      "premium": false,
+      "pages": [
+        {
+          "title": "Temu duga bermula di pintu",
+          "body": "Temu duga bersemuka bermula sebaik sahaja anda tiba. Penyambut tetamu dan orang yang anda temui di dalam lif sering diminta memberikan tanggapan mereka. Tiba 10 minit lebih awal — bukan 30 — dan bersopan santun dengan semua orang. Gunakan masa menunggu untuk menenangkan pernafasan dan mengulang kaji tiga cerita utama anda.",
+          "tip": "Rancang laluan anda sehari sebelumnya dan peruntukkan masa tambahan untuk kesesakan lalu lintas."
+        },
+        {
+          "title": "Tanggapan pertama",
+          "body": "Jabat tangan yang kemas (tetapi tidak terlalu kuat), hubungan mata dan senyuman ikhlas menetapkan suasana dalam beberapa saat pertama. Tunggu sehingga dipelawa duduk. Letakkan beg anda di lantai, bukan di atas meja, dan pastikan telefon anda dalam mod senyap serta tidak kelihatan.",
+          "tip": "Sebut nama penemu duga semasa menyapanya: ‘Gembira berjumpa dengan anda, Puan Sara.’"
+        },
+        {
+          "title": "Membaca suasana",
+          "body": "Secara bersemuka, anda mendapat maklum balas secara langsung. Jika penemu duga mencondongkan badan ke hadapan, anda berada di landasan yang betul; jika mereka menjeling jam atau nota, rumuskan jawapan anda. Selaraskan sedikit tenaga dan tahap formaliti anda dengan mereka — ini membina hubungan baik.",
+          "tip": "Bawa buku nota berisi soalan yang telah disediakan; mencatat nota ringkas menunjukkan anda memberi perhatian."
+        },
+        {
+          "title": "Perhatikan syarikat juga",
+          "body": "Lawatan ke pejabat ialah peluang anda untuk menilai budayanya. Bagaimanakah orang di situ bercakap antara satu sama lain? Adakah suasananya tenang atau tegang? Adakah mereka kelihatan seronok dengan kerja mereka? Anda juga sedang membuat keputusan sama ada anda mahu bekerja di situ.",
+          "tip": "Minta untuk melihat tempat pasukan bekerja jika tidak ditawarkan."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Bilakah anda patut tiba untuk temu duga bersemuka?",
+          "options": ["Tepat pada masanya", "Kira-kira 10 minit lebih awal", "45 minit lebih awal", "Lewat beberapa minit tidak mengapa"],
+          "answer": 1,
+          "explanation": "Tiba sepuluh minit lebih awal menunjukkan rasa hormat tanpa membebankan tuan rumah."
+        },
+        {
+          "id": "q2",
+          "question": "Mengapakah anda perlu bersopan dengan penyambut tetamu?",
+          "options": ["Ia tidak penting", "Tanggapan mereka mungkin dikongsi dengan pasukan pengambilan", "Mereka yang membuat keputusan pengambilan", "Untuk mendapatkan tempat letak kereta yang lebih baik"],
+          "answer": 1,
+          "explanation": "Banyak syarikat bertanya kepada kakitangan kaunter hadapan tentang tingkah laku calon."
+        },
+        {
+          "id": "q3",
+          "question": "Penemu duga asyik memandang jam semasa anda bercakap. Apakah yang patut anda lakukan?",
+          "options": ["Bercakap dengan lebih laju", "Rumuskan jawapan anda dengan ringkas", "Tanya sama ada mereka bosan", "Abaikan sahaja"],
+          "answer": 1,
+          "explanation": "Itu isyarat untuk menamatkan hujah anda; anda boleh menawarkan butiran lanjut jika mereka mahukannya."
+        }
+      ]
+    },
+    {
+      "id": "group_interview",
+      "order": 4,
+      "title": "Temu Duga Berkumpulan",
+      "minutes": 3,
+      "premium": true,
+      "pages": [
+        {
+          "title": "Apa yang diperhatikan oleh penilai",
+          "body": "Dalam temu duga berkumpulan dan pusat penilaian, beberapa calon melaksanakan tugasan bersama sementara penilai memerhati. Mereka tidak mencari orang yang paling lantang. Mereka memerhatikan cara anda mendengar, mengembangkan idea orang lain, memastikan kumpulan kekal fokus dan menyumbang kepada hasil.",
+          "tip": "Kualiti sumbangan lebih penting daripada banyaknya bercakap."
+        },
+        {
+          "title": "Peranan berguna yang boleh anda ambil",
+          "body": "Anda boleh memberi nilai tambah tanpa menguasai perbincangan: rumuskan perbincangan (‘Setakat ini kita bersetuju tentang A dan B’), urus masa (‘Kita ada 10 minit lagi — boleh kita buat keputusan?’), atau libatkan ahli yang lebih pendiam (‘Ali, apa pendapat anda?’). Tingkah laku seperti inilah yang dicatat oleh penilai.",
+          "tip": "Menawarkan diri sebagai penjaga masa ialah sumbangan yang mudah dan jelas kelihatan."
+        },
+        {
+          "title": "Bekerjasama, bukan bersaing",
+          "body": "Layan calon lain sebagai rakan sekerja. Mengkritik atau mencelah percakapan mereka akan memakan diri. Apabila anda tidak bersetuju, akui pendapat mereka dahulu: ‘Itu pandangan yang baik tentang kos; satu risiko yang saya nampak ialah…’. Kumpulan yang mencapai keputusan yang jelas menjadikan setiap ahlinya kelihatan lebih baik.",
+          "tip": "Gunakan nama — ingat nama mereka semasa sesi perkenalan."
+        },
+        {
+          "title": "Tugasan kes dan pembentangan",
+          "body": "Banyak sesi berkumpulan diakhiri dengan pembentangan ringkas. Sepakati awal-awal siapa yang membentangkan bahagian mana. Susun dengan mudah: masalah, pilihan, cadangan, langkah seterusnya. Jika anda yang membentang, berikan penghargaan kepada pasukan: ‘Kami memutuskan…’.",
+          "tip": "Tulis angka penting daripada kes itu di atas kertas supaya seluruh kumpulan dapat melihatnya."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Apakah yang paling dihargai oleh penilai dalam temu duga berkumpulan?",
+          "options": ["Paling banyak bercakap", "Mendengar dan mengembangkan idea orang lain", "Memenangi setiap perdebatan", "Berdiam diri untuk mengelakkan kesilapan"],
+          "answer": 1,
+          "explanation": "Kerjasama dan sumbangan yang membina ialah perkara yang mereka nilai."
+        },
+        {
+          "id": "q2",
+          "question": "Yang manakah cara yang baik untuk menyumbang tanpa menguasai perbincangan?",
+          "options": ["Mencelah untuk berkongsi idea anda terlebih dahulu", "Merumuskan kemajuan dan mengurus masa", "Mengkritik idea yang lemah", "Membentang seorang diri"],
+          "answer": 1,
+          "explanation": "Merumus dan menjaga masa membantu kumpulan dan sangat ketara."
+        },
+        {
+          "id": "q3",
+          "question": "Bagaimanakah anda patut menyatakan ketidaksetujuan dengan calon lain?",
+          "options": ["Katakan mereka salah", "Akui pandangan mereka, kemudian nyatakan kebimbangan anda", "Abaikan idea mereka", "Minta penilai membuat keputusan"],
+          "answer": 1,
+          "explanation": "Mengakui pandangan mereka dahulu memastikan perbincangan kekal membina."
+        }
+      ]
+    },
+    {
+      "id": "technical_interview",
+      "order": 5,
+      "title": "Temu Duga Teknikal",
+      "minutes": 4,
+      "premium": true,
+      "pages": [
+        {
+          "title": "Apa yang diuji",
+          "body": "Temu duga teknikal menyemak sama ada anda benar-benar mampu melakukan kerja tersebut: pengekodan, pemodelan kewangan, reka bentuk, pengiraan kejuruteraan atau pengetahuan bidang. Penemu duga mengambil berat tentang proses pemikiran anda sama seperti jawapan akhir. Pendekatan yang jelas dengan sedikit kesilapan selalunya mendapat markah lebih baik daripada jawapan betul yang diberikan tanpa penjelasan.",
+          "tip": "Suarakan pemikiran anda sejak minit pertama."
+        },
+        {
+          "title": "Rutin penyelesaian masalah yang boleh diharap",
+          "body": "1) Ulang masalah itu dengan perkataan anda sendiri dan tanya soalan penjelasan. 2) Huraikan satu contoh mudah. 3) Terangkan penyelesaian asas dahulu, kemudian perbaikinya. 4) Laksanakan atau kira langkah demi langkah. 5) Uji dengan kes ekstrem. Rutin ini memastikan anda kekal tenang walaupun anda tidak tahu jawapannya dengan serta-merta.",
+          "tip": "Tanya tentang kekangan: saiz data, tarikh akhir, bajet, ketepatan."
+        },
+        {
+          "title": "Apabila anda buntu",
+          "body": "Nyatakan apa yang anda tahu dan di mana anda buntu: ‘Saya boleh menyelesaikannya untuk senarai yang telah diisih; saya sedang memikirkan cara mengendalikan pendua.’ Penemu duga sering memberi petunjuk — gunakannya dan ucapkan terima kasih. Jangan sekali-kali berpura-pura tahu tentang sesuatu yang anda tidak tahu; terangkan bagaimana anda akan mencari jawapannya.",
+          "tip": "Kesenyapan lebih daripada 20 saat terasa lama; teruskan menerangkan pemikiran anda."
+        },
+        {
+          "title": "Cara membuat persediaan",
+          "body": "Ulang kaji asas yang disenaraikan dalam huraian jawatan kosong dan berlatih dengan soalan bermasa. Baca semula projek anda sendiri: anda mesti boleh menerangkan setiap keputusan yang anda buat. Untuk soalan sistem atau kes, berlatih melukis struktur di atas kertas sebelum menyelami butirannya.",
+          "tip": "Gunakan ciri temu duga olok-olok di sini dengan jenis ‘Teknikal’ untuk berlatih."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Selain jawapan, apakah yang paling penting dalam temu duga teknikal?",
+          "options": ["Kelajuan semata-mata", "Proses pemikiran anda", "Menggunakan alat terbaharu", "Definisi yang dihafal"],
+          "answer": 1,
+          "explanation": "Penemu duga menilai cara anda menaakul, berkomunikasi dan mengendalikan masalah."
+        },
+        {
+          "id": "q2",
+          "question": "Apakah yang patut anda lakukan dahulu apabila menerima satu masalah?",
+          "options": ["Terus mula mengekod", "Nyatakan semula masalah itu dan tanya soalan penjelasan", "Katakan anda pernah melihatnya", "Minta jawapannya"],
+          "answer": 1,
+          "explanation": "Mendapatkan penjelasan dahulu mengelakkan anda daripada menyelesaikan masalah yang salah."
+        },
+        {
+          "id": "q3",
+          "question": "Anda tidak tahu tentang konsep yang ditanya. Apakah respons terbaik?",
+          "options": ["Meneka dengan yakin", "Mengakuinya dan menerangkan bagaimana anda akan mencari jawapannya", "Menukar topik", "Berdiam diri"],
+          "answer": 1,
+          "explanation": "Kejujuran disertai sikap ingin belajar amat dihormati; berpura-pura tahu mudah dikesan."
+        }
+      ]
+    },
+    {
+      "id": "panel_interview",
+      "order": 6,
+      "title": "Temu Duga Panel",
+      "minutes": 3,
+      "premium": true,
+      "pages": [
+        {
+          "title": "Beberapa penemu duga, satu keputusan",
+          "body": "Dalam temu duga panel, tiga hingga lima orang — contohnya seorang pengurus, bakal rakan sepasukan dan seorang wakil HR — menemu duga anda bersama-sama. Setiap seorang biasanya memberi tumpuan kepada bidang yang berbeza. Keputusan akhir dibuat bersama, jadi anda perlu meyakinkan semua orang di dalam bilik, bukan hanya orang yang paling kanan.",
+          "tip": "Tanya perekrut lebih awal tentang nama dan peranan ahli panel."
+        },
+        {
+          "title": "Ke mana hendak memandang",
+          "body": "Mulakan jawapan anda dengan memandang orang yang bertanya, kemudian libatkan yang lain dengan pandangan mata anda sambil meneruskan jawapan, dan kembali kepada penanya pada akhirnya. Cara ini memastikan semua orang kekal terlibat dan menunjukkan keyakinan.",
+          "tip": "Tulis nama mereka dalam buku nota anda mengikut susunan tempat duduk."
+        },
+        {
+          "title": "Sesuaikan jawapan dengan setiap peranan",
+          "body": "Ketua teknikal mahukan kedalaman, HR mahukan nilai dan kerja berpasukan, pengurus mahukan hasil. Apabila soalan datang daripada individu tertentu, tekankan bahagian cerita anda yang penting bagi peranannya.",
+          "tip": "Sediakan satu cerita yang kukuh untuk minat yang mungkin ada pada setiap ahli panel."
+        },
+        {
+          "title": "Kekal konsisten",
+          "body": "Panel kadangkala bertanya soalan yang serupa dengan cara berbeza untuk menguji konsistensi. Pastikan cerita dan angka anda sama. Pada akhirnya, ucapkan terima kasih kepada setiap ahli dan, jika boleh, hantar mesej susulan ringkas yang menyebut sesuatu daripada perbualan tersebut.",
+          "tip": "Jangan abaikan ahli panel yang pendiam; mereka selalunya mempunyai pengaruh yang besar."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Kepada siapakah anda patut bercakap semasa menjawab soalan panel?",
+          "options": ["Hanya kepada orang yang paling kanan", "Hanya kepada orang yang bertanya", "Mulakan dengan penanya, libatkan semua orang, akhiri dengan penanya", "Pandang nota anda"],
+          "answer": 2,
+          "explanation": "Cara ini memastikan seluruh panel kekal terlibat sambil menghormati penanya."
+        },
+        {
+          "id": "q2",
+          "question": "Mengapakah perlu menyediakan penekanan berbeza untuk ahli panel?",
+          "options": ["Setiap peranan mengambil berat tentang perkara yang berbeza", "Untuk mengelirukan mereka", "Panel lebih suka jawapan yang panjang", "Ia tidak perlu"],
+          "answer": 0,
+          "explanation": "Penemu duga teknikal, HR dan pengurusan mencari bukti yang berbeza."
+        },
+        {
+          "id": "q3",
+          "question": "Panel bertanya soalan yang serupa dengan soalan sebelumnya. Apakah yang patut anda lakukan?",
+          "options": ["Beri cerita yang benar-benar baharu", "Kekal konsisten dengan fakta yang anda nyatakan sebelum ini", "Tegur bahawa mereka mengulang soalan", "Langkau soalan itu"],
+          "answer": 1,
+          "explanation": "Panel menyemak konsistensi; percanggahan menjejaskan kepercayaan."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,345 @@
+{
+  "id": "stress_management",
+  "order": 7,
+  "icon": "calm",
+  "color": "#14B8A6",
+  "title": "Gérer le stress en entretien",
+  "summary": "Des méthodes concrètes pour rester calme avant, pendant et après les entretiens, et tenir bon tout au long d'une longue recherche d'emploi.",
+  "topics": [
+    {
+      "id": "preparation_techniques",
+      "order": 1,
+      "title": "La préparation contre le stress",
+      "minutes": 3,
+      "premium": false,
+      "pages": [
+        {
+          "title": "L'incertitude nourrit le trac",
+          "body": "Une grande partie de l'anxiété liée aux entretiens vient du fait de ne pas savoir ce qui va se passer. La préparation réduit cette incertitude. Quand tu connais l'entreprise, que tu as répété tes histoires clés et organisé la logistique, ton esprit a moins d'inconnues dont s'inquiéter. Un peu de nervosité restera, et c'est normal : une petite dose d'adrénaline te garde alerte et concentré.",
+          "tip": "Note précisément ce qui t'inquiète ; la plupart des points se transforment en tâche de préparation."
+        },
+        {
+          "title": "Prépare ton matériel de base",
+          "body": "Tu n'as pas besoin d'une réponse à chaque question possible. Prépare cinq ou six histoires solides qui illustrent tes principales compétences, par exemple résoudre un problème, diriger, gérer un conflit et tirer les leçons d'une erreur. La plupart des questions comportementales peuvent trouver réponse dans l'une d'elles. Savoir que cette boîte à outils est prête rend les questions inattendues beaucoup moins menaçantes.",
+          "tip": "Résume chaque histoire en trois puces, pas en script complet."
+        },
+        {
+          "title": "Élimine le stress logistique",
+          "body": "Les petits problèmes pratiques créent beaucoup de stress le jour J. La veille, prépare tes vêtements, imprime ou enregistre ton CV, vérifie l'heure et le fuseau horaire, et planifie ton trajet ou teste ta connexion vidéo. Emporte de l'eau et une copie de tes notes. Une fois la logistique réglée, ton énergie peut se consacrer à la conversation.",
+          "tip": "Règle deux alarmes et ajoute une marge de 20 minutes à ton temps de trajet."
+        },
+        {
+          "title": "Planifie la dernière heure",
+          "body": "Décide à l'avance comment tu passeras l'heure qui précède l'entretien. Évite de bachoter de nouvelles informations ; relis plutôt brièvement tes histoires, prends une collation légère et fais une courte marche si possible. Beaucoup de gens trouvent qu'une routine apaisante, comme une playlist ou un exercice de respiration, les aide à arriver concentrés plutôt que pressés.",
+          "tip": "Fais un entretien d'entraînement rapide la veille, pas une heure avant."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Pourquoi la préparation réduit-elle le stress en entretien ?",
+          "options": [
+            "Elle supprime complètement toute nervosité",
+            "Elle réduit l'incertitude, ce qui laisse moins de sujets d'inquiétude",
+            "Elle raccourcit l'entretien",
+            "Elle garantit une offre"
+          ],
+          "answer": 1,
+          "explanation": "La préparation réduit les inconnues qui alimentent l'anxiété, même si un peu de trac subsiste."
+        },
+        {
+          "id": "q2",
+          "question": "Combien d'histoires clés devrais-tu préparer ?",
+          "options": [
+            "Une seule histoire parfaite",
+            "Cinq ou six couvrant tes principales compétences",
+            "Un script différent pour chaque question possible",
+            "Aucune — mieux vaut improviser"
+          ],
+          "answer": 1,
+          "explanation": "Un petit ensemble d'histoires polyvalentes couvre la plupart des questions comportementales."
+        },
+        {
+          "id": "q3",
+          "question": "Que devrais-tu éviter dans l'heure qui précède l'entretien ?",
+          "options": [
+            "Une collation légère",
+            "Une courte marche",
+            "Relire brièvement tes histoires",
+            "Bachoter de nouvelles informations"
+          ],
+          "answer": 3,
+          "explanation": "Bachoter ajoute du stress ; une routine calme t'aide à arriver concentré."
+        }
+      ]
+    },
+    {
+      "id": "breathing_exercises",
+      "order": 2,
+      "title": "Techniques de respiration",
+      "minutes": 3,
+      "premium": false,
+      "pages": [
+        {
+          "title": "Pourquoi la respiration aide",
+          "body": "Quand tu es nerveux, ta respiration devient souvent rapide et superficielle, ce qui peut te rendre encore plus tendu. Ralentir ta respiration, surtout en rendant l'expiration plus longue que l'inspiration, est un moyen simple que beaucoup de gens utilisent pour se sentir plus calmes. Le gros avantage, c'est que tu peux le faire n'importe où, y compris en salle d'attente, sans que personne ne le remarque.",
+          "tip": "Entraîne-toi à ces techniques les jours ordinaires pour qu'elles te viennent naturellement quand tu en as besoin."
+        },
+        {
+          "title": "La respiration carrée",
+          "body": "La respiration carrée repose sur quatre étapes égales. Inspire par le nez en comptant jusqu'à quatre, retiens ton souffle pendant quatre temps, expire lentement sur quatre temps, puis retiens encore quatre temps. Répète le cycle quatre à six fois. Le comptage régulier donne à ton esprit quelque chose de simple sur quoi se concentrer, ce qui aide à détourner l'attention des pensées anxieuses.",
+          "tip": "Trace des yeux un carré imaginaire, un côté par étape."
+        },
+        {
+          "title": "La technique 4-7-8",
+          "body": "Le schéma 4-7-8 met l'accent sur une longue expiration. Inspire doucement par le nez pendant quatre temps, retiens ton souffle pendant sept, puis expire lentement par la bouche pendant huit. Commence par trois ou quatre cycles. Si retenir ton souffle sept temps est inconfortable, raccourcis tous les temps en gardant l'expiration la plus longue. Arrête-toi et respire normalement si tu as la tête qui tourne.",
+          "tip": "Utilise-la la veille d'un entretien pour t'aider à te détendre."
+        },
+        {
+          "title": "Respirer pendant l'entretien",
+          "body": "Tu ne peux pas faire d'exercices complets en pleine conversation, mais tu peux prendre une respiration lente. Avant de répondre à une question difficile, respire calmement pendant que tu réfléchis ; tu auras l'air réfléchi, pas nerveux. Si tu remarques que tu accélères, fais une pause à la fin d'une phrase et expire complètement avant de continuer. Personne ne le remarquera, mais tu te sentiras plus posé.",
+          "tip": "Associe une respiration lente à une gorgée d'eau pour gagner quelques secondes naturellement."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Quel est le schéma de la respiration carrée ?",
+          "options": [
+            "Inspirer 4, retenir 4, expirer 4, retenir 4",
+            "Inspirer 4, retenir 7, expirer 8",
+            "Inspirer 2, expirer 2, en répétant rapidement",
+            "Retenir son souffle le plus longtemps possible"
+          ],
+          "answer": 0,
+          "explanation": "La respiration carrée repose sur quatre étapes égales de quatre temps chacune."
+        },
+        {
+          "id": "q2",
+          "question": "Dans la technique 4-7-8, quelle étape est la plus longue ?",
+          "options": [
+            "L'inspiration",
+            "La rétention",
+            "L'expiration",
+            "Elles sont toutes égales"
+          ],
+          "answer": 2,
+          "explanation": "L'expiration sur huit temps est l'étape la plus longue et le cœur de la technique."
+        },
+        {
+          "id": "q3",
+          "question": "Comment peux-tu utiliser la respiration pendant l'entretien lui-même ?",
+          "options": [
+            "Faire un cycle complet de respiration carrée avant chaque réponse",
+            "Prendre une respiration lente avant de répondre à une question difficile",
+            "Retenir ton souffle pour arrêter de parler vite",
+            "Les techniques de respiration ne fonctionnent qu'avant l'entretien"
+          ],
+          "answer": 1,
+          "explanation": "Une seule respiration calme donne une impression de réflexion et t'aide à rester posé."
+        }
+      ]
+    },
+    {
+      "id": "mindfulness",
+      "order": 3,
+      "title": "Rester présent sous pression",
+      "minutes": 3,
+      "premium": true,
+      "pages": [
+        {
+          "title": "Où va ton attention",
+          "body": "Sous pression, ton esprit a tendance à anticiper (« Et s'ils me posent des questions sur mon trou dans le CV ? ») ou à revenir en arrière (« Ma dernière réponse était catastrophique »). Dans les deux cas, ton attention s'éloigne de la question qui t'est posée. Rester présent, c'est ramener ton attention sur l'instant — la personne, la question, ta prochaine phrase — chaque fois que tu remarques qu'elle s'égare.",
+          "tip": "Aborde chaque question comme un nouveau départ, quoi qu'il se soit passé avant."
+        },
+        {
+          "title": "Techniques d'ancrage",
+          "body": "De simples exercices d'ancrage t'aident à revenir au présent. Sens tes deux pieds posés à plat sur le sol et remarque la chaise qui te soutient. Ou essaie l'exercice 5-4-3-2-1 en salle d'attente : nomme cinq choses que tu vois, quatre que tu peux toucher, trois que tu entends, deux que tu sens et une que tu goûtes. Solliciter tes sens interrompt les pensées qui tournent en boucle.",
+          "tip": "Appuie doucement tes pieds contre le sol quand tu sens une vague de trac."
+        },
+        {
+          "title": "Écoute pleinement",
+          "body": "L'une des meilleures façons de rester présent est d'accorder toute ton attention au recruteur. Au lieu de préparer ta réponse pendant qu'il parle encore, écoute la question en entier et repère ses mots clés. Puis prends un instant avant de répondre. Une écoute attentive améliore tes réponses et occupe trop ton esprit pour qu'il s'inquiète.",
+          "tip": "Si tu perds le fil, demande : « Pourriez-vous répéter la question, s'il vous plaît ? »"
+        },
+        {
+          "title": "Gérer un faux pas",
+          "body": "Tout le monde trébuche un jour : un trou de mémoire, un mot qui ne vient pas, une réponse confuse. Reconnais-le brièvement et passe à la suite : « Permettez-moi de reformuler plus clairement. » Ne traîne pas l'erreur dans la réponse suivante. Les recruteurs retiennent bien plus la façon dont tu te rattrapes que le faux pas lui-même. Te reprendre calmement est un signe fort de sang-froid.",
+          "tip": "Garde un verre d'eau à portée de main ; une gorgée t'offre un moment naturel pour te recentrer."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Que signifie « rester présent » en entretien ?",
+          "options": [
+            "Arriver à l'heure",
+            "Mémoriser toutes tes réponses",
+            "Ramener ton attention sur la question et la conversation en cours",
+            "Ignorer les réactions du recruteur"
+          ],
+          "answer": 2,
+          "explanation": "Rester présent, c'est ramener ton attention sur l'instant chaque fois qu'elle s'égare."
+        },
+        {
+          "id": "q2",
+          "question": "Qu'est-ce que l'exercice 5-4-3-2-1 ?",
+          "options": [
+            "Un comptage respiratoire",
+            "Une façon de classer tes réponses",
+            "Un exercice d'ancrage qui sollicite tes cinq sens",
+            "Une méthode pour chronométrer tes réponses"
+          ],
+          "answer": 2,
+          "explanation": "Nommer ce que tu vois, touches, entends, sens et goûtes ramène ton attention au présent."
+        },
+        {
+          "id": "q3",
+          "question": "Tu bafouilles sur une réponse. Quelle est la meilleure approche ?",
+          "options": [
+            "Le reconnaître brièvement, reformuler et passer à la suite",
+            "T'excuser à répétition",
+            "Continuer à y penser pendant les réponses suivantes",
+            "Demander à mettre fin à l'entretien"
+          ],
+          "answer": 0,
+          "explanation": "Un rétablissement rapide et calme laisse une impression plus forte que le faux pas."
+        }
+      ]
+    },
+    {
+      "id": "learning_from_rejection",
+      "order": 4,
+      "title": "Tirer les leçons d'un refus",
+      "minutes": 3,
+      "premium": true,
+      "pages": [
+        {
+          "title": "Le refus fait partie du processus",
+          "body": "Presque tout le monde essuie des refus pendant une recherche d'emploi, souvent nombreux. Un « non » est rarement un jugement sur ta valeur. Les décisions d'embauche dépendent de nombreux facteurs que tu ne vois pas et ne contrôles pas : des candidats internes, des changements de budget, un profil légèrement différent. Il est normal d'être déçu. Accorde-toi un peu de temps, puis concentre-toi sur ce que tu peux en apprendre.",
+          "tip": "Accorde-toi un temps défini pour être déçu, puis fais un petit pas en avant."
+        },
+        {
+          "title": "Demande un retour",
+          "body": "Réponds poliment à un refus et demande un bref retour : « Merci de m'avoir informé. Si vous avez un moment, j'apprécierais tout retour qui pourrait m'aider à progresser. » Toutes les entreprises ne répondront pas, et ce n'est pas grave. Quand elles le font, ce retour est précieux. Reste courtois dans tous les cas ; ces mêmes personnes pourraient penser à toi pour de futurs postes.",
+          "tip": "Fais une demande de retour courte et ne conteste jamais la décision."
+        },
+        {
+          "title": "Distingue les faits des histoires",
+          "body": "Après un refus, il est facile de te raconter une histoire : « Je ne suis pas à la hauteur » ou « Je rate toujours mes entretiens ». Cherche plutôt les faits. Quelles questions se sont bien passées ? Où as-tu hésité ? Le poste correspondait-il vraiment à ton expérience ? Noter ce qui s'est réellement passé t'aide à réagir avec des améliorations précises plutôt qu'avec une autocritique générale.",
+          "tip": "Note trois faits sur l'entretien avant de tirer la moindre conclusion."
+        },
+        {
+          "title": "Transforme les leçons en actions",
+          "body": "Cherche des tendances sur plusieurs entretiens plutôt que de réagir à un seul. Si tu bloques souvent sur les questions de salaire, prépare cette réponse. Si tu passes rarement le premier tour, ton CV ou ton ciblage mérite peut-être d'être retravaillé. Choisis un changement concret, entraîne-toi et applique-le lors de ton prochain entretien. Chaque refus devient alors un pas en avant plutôt qu'un revers.",
+          "tip": "Fais un entretien d'entraînement sur les questions qui t'ont posé problème la dernière fois."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Que reflète généralement un refus ?",
+          "options": [
+            "Que tu n'es pas employable",
+            "Que tu devrais arrêter de postuler",
+            "Que tu as tout fait de travers",
+            "De nombreux facteurs, dont certains échappent à ton contrôle"
+          ],
+          "answer": 3,
+          "explanation": "Les décisions d'embauche dépendent de nombreux facteurs invisibles pour toi, pas seulement de ta prestation."
+        },
+        {
+          "id": "q2",
+          "question": "Comment devrais-tu répondre à un e-mail de refus ?",
+          "options": [
+            "Leur demander de reconsidérer leur décision",
+            "Les remercier poliment et demander un bref retour",
+            "Ne pas répondre du tout",
+            "Expliquer pourquoi leur décision est une erreur"
+          ],
+          "answer": 1,
+          "explanation": "Une réponse courtoise accompagnée d'une demande de retour laisse la porte ouverte et peut t'apporter des éclairages utiles."
+        },
+        {
+          "id": "q3",
+          "question": "Quelle est la meilleure façon de tirer les leçons des refus ?",
+          "options": [
+            "Chercher des tendances et choisir un changement concret à travailler",
+            "Tout changer après chaque refus",
+            "Te concentrer uniquement sur ton pire entretien",
+            "Supposer que tu progresseras sans rien changer"
+          ],
+          "answer": 0,
+          "explanation": "Les tendances entre entretiens montrent ce qu'il faut vraiment travailler ; un seul changement ciblé reste gérable."
+        }
+      ]
+    },
+    {
+      "id": "resilience",
+      "order": 5,
+      "title": "Développer sa résilience pendant la recherche d'emploi",
+      "minutes": 4,
+      "premium": true,
+      "pages": [
+        {
+          "title": "Traite-la comme un projet",
+          "body": "Une recherche d'emploi peut durer des semaines, voire des mois, et l'incertitude est épuisante. La traiter comme un projet structuré aide. Fixe-toi des horaires réguliers pour les candidatures et l'entraînement, et arrête-toi à la fin de ces plages. Concentre-toi sur les actions que tu contrôles, comme les candidatures envoyées, les contacts établis et les entretiens d'entraînement réalisés, plutôt que sur les résultats que tu ne contrôles pas, comme les offres.",
+          "tip": "Fixe-toi un objectif hebdomadaire d'actions, pas de résultats."
+        },
+        {
+          "title": "Protège ta routine",
+          "body": "Les routines de base font une vraie différence sur ton énergie et ton moral. Garde des horaires de sommeil et de repas réguliers, sors tous les jours et bouge d'une manière qui te plaît. Prévois des activités qui n'ont rien à voir avec la recherche d'emploi. Ce ne sont pas des distractions qui t'éloignent de ton objectif ; elles te permettent d'être assez reposé pour être performant en entretien.",
+          "tip": "Planifie au moins une activité agréable, sans lien avec l'emploi, chaque semaine."
+        },
+        {
+          "title": "Appuie-toi sur les autres",
+          "body": "Chercher seul rend les revers plus lourds. Partage tes progrès avec un ami, un proche ou une autre personne en recherche d'emploi, et pense à rejoindre un groupe ou une communauté de chercheurs d'emploi. Les autres peuvent t'encourager, t'aider à t'entraîner et te transmettre des pistes d'emploi. Si le stress devient écrasant ou affecte ta vie quotidienne, parler à un conseiller ou à un autre professionnel qualifié peut t'aider.",
+          "tip": "Trouve un binôme de recherche d'emploi et faites le point ensemble une fois par semaine."
+        },
+        {
+          "title": "Remarque tes progrès",
+          "body": "Les progrès d'une recherche d'emploi restent souvent invisibles jusqu'à l'arrivée d'une offre. Rends-les visibles. Tiens un registre de ce que tu as fait et appris : des réponses plus solides, de meilleurs entretiens, de nouveaux contacts, des compétences travaillées. Célèbre les petites victoires, comme atteindre un deuxième tour ou recevoir un retour positif. Mesurer le chemin parcouru t'aide à continuer.",
+          "tip": "Note une victoire, aussi petite soit-elle, à la fin de chaque semaine."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Quel type d'objectifs hebdomadaires favorise la résilience ?",
+          "options": [
+            "Le nombre d'offres reçues",
+            "Les actions que tu contrôles, comme les candidatures et les séances d'entraînement",
+            "Le niveau de salaire atteint",
+            "Le nombre de refus évités"
+          ],
+          "answer": 1,
+          "explanation": "Te concentrer sur des actions maîtrisables te garde motivé, quels que soient les résultats."
+        },
+        {
+          "id": "q2",
+          "question": "Pourquoi garder des activités sans lien avec l'emploi pendant ta recherche ?",
+          "options": [
+            "Elles te gardent reposé et capable d'être performant",
+            "Elles permettent d'éviter de postuler",
+            "Les recruteurs posent des questions sur les loisirs",
+            "Elles raccourcissent la recherche"
+          ],
+          "answer": 0,
+          "explanation": "Le repos et le plaisir préservent l'énergie dont tu as besoin pour les entretiens."
+        },
+        {
+          "id": "q3",
+          "question": "Le stress commence à affecter ta vie quotidienne. Quelle est une bonne démarche ?",
+          "options": [
+            "Le garder pour toi",
+            "Postuler à plus d'offres pour te changer les idées",
+            "Arrêter définitivement ta recherche d'emploi",
+            "Parler à un conseiller ou à un autre professionnel qualifié"
+          ],
+          "answer": 3,
+          "explanation": "Chercher le soutien d'une personne qualifiée est une démarche sensée et concrète."
+        }
+      ]
+    }
+  ]
+}

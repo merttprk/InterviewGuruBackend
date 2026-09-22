@@ -1,0 +1,270 @@
+{
+  "id": "stress_management",
+  "order": 7,
+  "icon": "calm",
+  "color": "#14B8A6",
+  "title": "Mülakat Stresini Yönetmek",
+  "summary": "Mülakat öncesinde, sırasında ve sonrasında sakin kalmanın ve uzun bir iş arayışında pes etmemenin pratik yolları.",
+  "topics": [
+    {
+      "id": "preparation_techniques",
+      "order": 1,
+      "title": "Stres Giderici Olarak Hazırlık",
+      "minutes": 3,
+      "premium": false,
+      "pages": [
+        {
+          "title": "Belirsizlik heyecanı körükler",
+          "body": "Mülakat kaygısının büyük kısmı ne olacağını bilmemekten kaynaklanır. Hazırlık bu belirsizliği küçültür. Şirketi tanıdığında, önemli hikâyelerini çalıştığında ve lojistiği planladığında, zihninin endişelenebileceği bilinmeyenler azalır. Bir miktar heyecan yine de kalır ve bu gayet normaldir: Biraz adrenalin seni uyanık ve odaklı tutar.",
+          "tip": "Seni tam olarak neyin endişelendirdiğini yaz; çoğu madde bir hazırlık görevine dönüşür."
+        },
+        {
+          "title": "Temel malzemeni hazırla",
+          "body": "Olası her soruya bir cevabın olması gerekmez. Bir problemi çözmek, liderlik etmek, bir çatışmayı yönetmek ve bir hatadan ders çıkarmak gibi ana becerilerini gösteren beş altı güçlü hikâye hazırla. Davranışsal soruların çoğu bunlardan biriyle cevaplanabilir. Bu araç setinin hazır olduğunu bilmek, beklenmedik soruları çok daha az korkutucu hale getirir.",
+          "tip": "Her hikâyeyi tam bir metin olarak değil, üç madde halinde yaz."
+        },
+        {
+          "title": "Lojistik stresi ortadan kaldır",
+          "body": "Küçük pratik sorunlar, o gün büyük bir strese yol açar. Bir önceki akşam kıyafetlerini hazırla, CV'ni yazdır ya da kaydet, saati ve saat dilimini teyit et, rotanı planla ya da görüntülü görüşme bağlantını test et. Yanına su ve notlarının bir kopyasını al. Lojistik halledildiğinde enerjini sohbete verebilirsin.",
+          "tip": "İki alarm kur ve yol sürene 20 dakikalık bir pay ekle."
+        },
+        {
+          "title": "Son bir saati planla",
+          "body": "Mülakattan önceki bir saati nasıl geçireceğine önceden karar ver. Yeni bilgileri son dakikada ezberlemeye çalışma; bunun yerine hikâyelerini kısaca gözden geçir, hafif bir şeyler atıştır ve mümkünse kısa bir yürüyüş yap. Birçok kişi, bir çalma listesi ya da nefes egzersizi gibi sakinleştirici bir rutinin, aceleyle değil odaklanmış bir şekilde gelmesine yardımcı olduğunu fark eder.",
+          "tip": "Kısa bir deneme mülakatını bir saat önce değil, bir gün önce yap."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Hazırlık, mülakat stresini neden azaltır?",
+          "options": ["Tüm heyecanı tamamen ortadan kaldırdığı için", "Belirsizliği azaltıp endişelenecek şeyleri azalttığı için", "Mülakatı kısalttığı için", "İş teklifini garanti ettiği için"],
+          "answer": 1,
+          "explanation": "Hazırlık, kaygıyı besleyen bilinmeyenleri küçültür; yine de biraz heyecan kalır."
+        },
+        {
+          "id": "q2",
+          "question": "Kaç tane temel hikâye hazırlamalısın?",
+          "options": ["Kusursuz tek bir hikâye", "Ana becerilerini kapsayan beş altı hikâye", "Olası her soru için ayrı bir metin", "Hiç; doğaçlama daha iyidir"],
+          "answer": 1,
+          "explanation": "Çok yönlü birkaç hikâyeden oluşan küçük bir set, davranışsal soruların çoğunu karşılar."
+        },
+        {
+          "id": "q3",
+          "question": "Mülakattan önceki bir saatte neyden kaçınmalısın?",
+          "options": ["Hafif bir atıştırmalıktan", "Kısa bir yürüyüşten", "Hikâyelerini kısaca gözden geçirmekten", "Son dakikada yeni bilgiler ezberlemekten"],
+          "answer": 3,
+          "explanation": "Son dakika ezberi stresi artırır; sakin bir rutin ise odaklanmış bir şekilde gelmeni sağlar."
+        }
+      ]
+    },
+    {
+      "id": "breathing_exercises",
+      "order": 2,
+      "title": "Nefes Teknikleri",
+      "minutes": 3,
+      "premium": false,
+      "pages": [
+        {
+          "title": "Nefes neden işe yarar?",
+          "body": "Heyecanlandığında nefesin çoğu zaman hızlanır ve sığlaşır; bu da seni daha da gergin hissettirebilir. Nefesini yavaşlatmak, özellikle de nefes verişini alışından daha uzun tutmak, birçok kişinin sakinleşmek için kullandığı basit bir yöntemdir. En büyük avantajı, bekleme salonu dahil her yerde, kimse fark etmeden yapabilmendir.",
+          "tip": "Bu teknikleri sıradan günlerde çalış ki ihtiyacın olduğunda doğal gelsin."
+        },
+        {
+          "title": "Kutu nefesi",
+          "body": "Kutu nefesi dört eşit adımdan oluşur. Dörde kadar sayarak burnundan nefes al, dört saniye tut, dörde kadar sayarak yavaşça ver, sonra yine dört saniye tut. Bu döngüyü dört ila altı kez tekrarla. Düzenli sayma, zihnine odaklanacağı basit bir şey verir ve bu da dikkatini kaygılı düşüncelerden uzaklaştırmaya yardımcı olur.",
+          "tip": "Gözlerinle hayali bir kare çiz; her adımda bir kenar."
+        },
+        {
+          "title": "4-7-8 tekniği",
+          "body": "4-7-8 kalıbı, uzun bir nefes verişe odaklanır. Dörde kadar sayarak burnundan sessizce nefes al, yediye kadar tut, sonra sekize kadar sayarak ağzından yavaşça ver. Üç dört turla başla. Yedi saniye tutmak rahatsız ediyorsa, nefes verişi en uzun kalacak şekilde tüm sayıları kısalt. Başın dönerse dur ve normal nefes almaya devam et.",
+          "tip": "Mülakattan önceki gece gevşemek için bu tekniği kullan."
+        },
+        {
+          "title": "Mülakat sırasında nefes",
+          "body": "Sohbetin ortasında tam bir egzersiz yapamazsın ama tek bir yavaş nefes kullanabilirsin. Zor bir soruyu cevaplamadan önce düşünürken sakin bir nefes al; bu gergin değil, düşünceli görünür. Hızlandığını fark edersen bir cümlenin sonunda dur ve devam etmeden önce nefesini tamamen ver. Kimse fark etmez ama sen kendini daha dengede hissedersin.",
+          "tip": "Birkaç doğal saniye kazanmak için yavaş bir nefesi bir yudum suyla birleştir."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Kutu nefesinin kalıbı nedir?",
+          "options": ["4 al, 4 tut, 4 ver, 4 tut", "4 al, 7 tut, 8 ver", "2 al, 2 ver, hızlıca tekrarla", "Nefesini olabildiğince uzun tut"],
+          "answer": 0,
+          "explanation": "Kutu nefesi, her biri dört sayılık dört eşit adımdan oluşur."
+        },
+        {
+          "id": "q2",
+          "question": "4-7-8 tekniğinde hangi adım en uzundur?",
+          "options": ["Nefes alma", "Nefesi tutma", "Nefes verme", "Hepsi eşittir"],
+          "answer": 2,
+          "explanation": "Sekiz sayılık nefes verme en uzun adımdır ve tekniğin özüdür."
+        },
+        {
+          "id": "q3",
+          "question": "Mülakatın kendisi sırasında nefesi nasıl kullanabilirsin?",
+          "options": ["Her cevaptan önce tam bir kutu nefesi döngüsü yaparak", "Zor bir soruyu cevaplamadan önce tek bir yavaş nefes alarak", "Hızlı konuşmayı durdurmak için nefesini tutarak", "Nefes teknikleri yalnızca mülakattan önce işe yarar"],
+          "answer": 1,
+          "explanation": "Tek bir sakin nefes düşünceli görünür ve dengede kalmana yardımcı olur."
+        }
+      ]
+    },
+    {
+      "id": "mindfulness",
+      "order": 3,
+      "title": "Baskı Altında Anda Kalmak",
+      "minutes": 3,
+      "premium": true,
+      "pages": [
+        {
+          "title": "Dikkatin nereye gidiyor?",
+          "body": "Baskı altında zihnin ya ileri atlar (‘Ya kariyer boşluğumu sorarlarsa?’) ya da geriye bakar (‘Son cevabım berbattı’). İkisi de dikkatini önündeki sorudan uzaklaştırır. Anda kalmak, dikkatinin dağıldığını her fark ettiğinde odağını şu ana, yani karşındaki kişiye, soruya ve bir sonraki cümlene geri getirmek demektir.",
+          "tip": "Daha önce ne olursa olsun, her soruyu yeni bir başlangıç olarak gör."
+        },
+        {
+          "title": "Topraklanma teknikleri",
+          "body": "Basit topraklanma egzersizleri şu ana dönmene yardımcı olur. İki ayağını yere düz bastığını hisset ve seni taşıyan sandalyeyi fark et. Ya da bekleme salonunda 5-4-3-2-1 egzersizini dene: gördüğün beş, dokunabildiğin dört, duyduğun üç, kokusunu aldığın iki ve tadını aldığın bir şeyin adını söyle. Duyularını devreye sokmak, kontrolden çıkan düşünceleri böler.",
+          "tip": "Bir heyecan dalgası hissettiğinde ayaklarını hafifçe yere bastır."
+        },
+        {
+          "title": "Tam dikkatle dinle",
+          "body": "Anda kalmanın en iyi yollarından biri, mülakatçıya tüm dikkatini vermektir. O daha konuşurken cevabını planlamak yerine sorunun tamamını dinle ve anahtar kelimelerini fark et. Sonra cevap vermeden önce kendine kısa bir an tanı. Tam dikkatle dinlemek cevaplarını iyileştirir ve zihnini endişelenemeyecek kadar meşgul tutar.",
+          "tip": "Soruyu kaçırırsan şöyle sor: ‘Soruyu tekrar edebilir misiniz, lütfen?’"
+        },
+        {
+          "title": "Tökezlemeyle başa çıkmak",
+          "body": "Herkes bir noktada tökezler: zihnin boşalır, bir kelimeyi unutursun, dağınık bir cevap verirsin. Bunu kısaca kabul et ve devam et: ‘Bunu daha net ifade edeyim.’ Hatayı bir sonraki cevaba taşıma. Mülakatçılar tökezlemenin kendisinden çok nasıl toparlandığını hatırlar. Sakince yeniden başlamak, soğukkanlılığın güçlü bir göstergesidir.",
+          "tip": "Yakınında bir bardak su bulundur; bir yudum, toparlanman için doğal bir an yaratır."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Mülakatta ‘anda kalmak’ ne demektir?",
+          "options": ["Zamanında gelmek", "Tüm cevaplarını ezberlemek", "Odağını mevcut soruya ve sohbete geri getirmek", "Mülakatçının tepkilerini görmezden gelmek"],
+          "answer": 2,
+          "explanation": "Anda kalmak, dikkatin her dağıldığında onu şu ana geri getirmek demektir."
+        },
+        {
+          "id": "q2",
+          "question": "5-4-3-2-1 egzersizi nedir?",
+          "options": ["Bir nefes sayma yöntemi", "Cevaplarını sıralamanın bir yolu", "Beş duyunu kullanan bir topraklanma egzersizi", "Cevapların süresini tutma yöntemi"],
+          "answer": 2,
+          "explanation": "Gördüğün, dokunduğun, duyduğun, kokladığın ve tattığın şeylerin adını söylemek dikkatini şu ana getirir."
+        },
+        {
+          "id": "q3",
+          "question": "Bir cevapta tökezledin. En iyi yaklaşım nedir?",
+          "options": ["Kısaca kabul etmek, yeniden ifade etmek ve devam etmek", "Tekrar tekrar özür dilemek", "Sonraki cevaplar boyunca bunu düşünmeye devam etmek", "Mülakatı bitirmeyi istemek"],
+          "answer": 0,
+          "explanation": "Hızlı ve sakin bir toparlanma, tökezlemeden daha güçlü bir izlenim bırakır."
+        }
+      ]
+    },
+    {
+      "id": "learning_from_rejection",
+      "order": 4,
+      "title": "Retten Ders Çıkarmak",
+      "minutes": 3,
+      "premium": true,
+      "pages": [
+        {
+          "title": "Ret, sürecin bir parçasıdır",
+          "body": "İş arayan neredeyse herkes, çoğu zaman defalarca olmak üzere ret alır. Bir ‘hayır’ nadiren senin değerin hakkında bir hükümdür. İşe alım kararları göremediğin ya da kontrol edemediğin birçok etkene bağlıdır: şirket içi adaylar, bütçe değişiklikleri, biraz farklı bir profil arayışı. Hayal kırıklığı yaşaman normal. Kendine biraz zaman tanı, sonra dikkatini neler öğrenebileceğine çevir.",
+          "tip": "Hayal kırıklığını yaşamak için kendine belirli bir süre tanı, sonra küçük bir sonraki adım at."
+        },
+        {
+          "title": "Geri bildirim iste",
+          "body": "Ret yanıtına nazikçe karşılık ver ve kısa bir geri bildirim iste: ‘Bilgilendirdiğiniz için teşekkür ederim. Vaktiniz olursa, kendimi geliştirmeme yardımcı olacak her türlü geri bildirimi memnuniyetle dinlerim.’ Her şirket cevap vermeyecektir ve bu sorun değil. Cevap verdiklerinde ise bu geri bildirim çok değerlidir. Her iki durumda da nazik kal; aynı kişiler seni gelecekteki pozisyonlar için değerlendirebilir.",
+          "tip": "Geri bildirim talebini kısa tut ve karara asla itiraz etme."
+        },
+        {
+          "title": "Gerçekleri yorumlardan ayır",
+          "body": "Bir retten sonra kendine bir hikâye anlatmak çok kolaydır: ‘Yeterince iyi değilim’ ya da ‘Mülakatlarda hep başarısız oluyorum.’ Bunun yerine gerçeklere bak. Hangi sorular iyi geçti? Nerede duraksadın? Pozisyon deneyiminle gerçekten örtüşüyor muydu? Gerçekte ne olduğunu yazmak, genel bir özeleştiri yerine somut iyileştirmelerle karşılık vermene yardımcı olur.",
+          "tip": "Herhangi bir sonuca varmadan önce mülakatla ilgili üç gerçeği yaz."
+        },
+        {
+          "title": "Dersleri eyleme dönüştür",
+          "body": "Tek bir mülakata tepki vermek yerine birkaç mülakat boyunca tekrarlanan kalıplara bak. Maaş sorularında sık sık takılıyorsan o cevabı hazırla. İlk aşamayı nadiren geçiyorsan CV'nin ya da başvurduğun pozisyonların gözden geçirilmesi gerekebilir. Somut bir değişiklik seç, onu çalış ve bir sonraki mülakatında uygula. Böylece her ret bir geri adım değil, ileriye doğru bir adım olur.",
+          "tip": "Geçen sefer seni zorlayan sorular üzerine bir deneme mülakatı yap."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Bir ret genellikle neyi yansıtır?",
+          "options": ["İstihdam edilemez olduğunu", "Başvurmayı bırakman gerektiğini", "Her şeyi yanlış yaptığını", "Bazıları senin kontrolünde olmayan birçok etkeni"],
+          "answer": 3,
+          "explanation": "İşe alım kararları yalnızca performansına değil, göremediğin birçok etkene bağlıdır."
+        },
+        {
+          "id": "q2",
+          "question": "Ret e-postasına nasıl karşılık vermelisin?",
+          "options": ["Kararlarını yeniden gözden geçirmelerini isteyerek", "Nazikçe teşekkür edip kısa bir geri bildirim isteyerek", "Hiç cevap vermeyerek", "Kararlarının neden yanlış olduğunu açıklayarak"],
+          "answer": 1,
+          "explanation": "Geri bildirim talebi içeren nazik bir yanıt kapıyı açık tutar ve faydalı bir bakış açısı kazandırabilir."
+        },
+        {
+          "id": "q3",
+          "question": "Retlerden ders çıkarmanın en iyi yolu nedir?",
+          "options": ["Kalıplara bakıp çalışmak için somut bir değişiklik seçmek", "Her retten sonra her şeyi değiştirmek", "Yalnızca en kötü mülakatına odaklanmak", "Hiçbir şeyi değiştirmeden gelişeceğini varsaymak"],
+          "answer": 0,
+          "explanation": "Mülakatlar boyunca tekrarlanan kalıplar neyin gerçekten geliştirilmesi gerektiğini gösterir; tek ve odaklı bir değişiklik yönetilebilirdir."
+        }
+      ]
+    },
+    {
+      "id": "resilience",
+      "order": 5,
+      "title": "İş Arayışında Dayanıklılık Kazanmak",
+      "minutes": 4,
+      "premium": true,
+      "pages": [
+        {
+          "title": "Bir proje gibi ele al",
+          "body": "İş arayışı haftalar hatta aylar sürebilir ve belirsizlik yorucudur. Onu yapılandırılmış bir proje gibi ele almak işe yarar. Başvurular ve pratik için düzenli çalışma saatleri belirle ve bu saatlerin sonunda bırak. İş teklifleri gibi kontrol edemediğin sonuçlar yerine gönderilen başvurular, kurulan bağlantılar ve tamamlanan deneme mülakatları gibi kontrol edebildiğin eylemlere odaklan.",
+          "tip": "Haftalık hedefini sonuçlara göre değil, eylemlere göre belirle."
+        },
+        {
+          "title": "Rutinini koru",
+          "body": "Temel rutinler enerji ve ruh hali üzerinde gerçek bir fark yaratır. Düzenli uyku ve yemek saatlerini koru, her gün dışarı çık ve keyif aldığın bir şekilde hareket et. İş arayışıyla hiçbir ilgisi olmayan etkinlikler planla. Bunlar hedefinden uzaklaştıran oyalanmalar değil; mülakatlarda iyi performans gösterecek kadar dinlenmiş kalmanı sağlarlar.",
+          "tip": "Her hafta işle ilgisi olmayan, keyif aldığın en az bir etkinlik planla."
+        },
+        {
+          "title": "Başkalarından destek al",
+          "body": "Tek başına aramak, aksilikleri daha ağır hissettirir. İlerlemeni bir arkadaşınla, bir aile üyenle ya da iş arayan başka biriyle paylaş ve bir iş arama grubuna ya da topluluğuna katılmayı düşün. Başkaları sana cesaret verebilir, pratik yapmana yardım edebilir ve iş fırsatları önerebilir. Stres seni bunaltmaya ya da günlük hayatını etkilemeye başlarsa bir psikolojik danışmanla ya da başka bir uzmanla konuşmak iyi gelebilir.",
+          "tip": "Bir iş arama arkadaşı bul ve haftada bir birbirinizin durumunu sorun."
+        },
+        {
+          "title": "İlerlemeni fark et",
+          "body": "İş arayışındaki ilerleme, genellikle bir teklif gelene kadar görünmezdir. Onu görünür kıl. Yaptıklarını ve öğrendiklerini kaydet: daha güçlü cevaplar, daha iyi mülakatlar, yeni bağlantılar, çalıştığın beceriler. İkinci aşamaya geçmek ya da olumlu geri bildirim almak gibi küçük başarıları kutla. Ne kadar yol aldığına dönüp bakmak devam etmene yardımcı olur.",
+          "tip": "Her haftanın sonunda, ne kadar küçük olursa olsun bir başarını yaz."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Ne tür haftalık hedefler dayanıklılığı destekler?",
+          "options": ["Alınan teklif sayısı", "Başvurular ve pratik oturumları gibi kontrol edebildiğin eylemler", "Ulaşılan maaş seviyesi", "Kaçınılan ret sayısı"],
+          "answer": 1,
+          "explanation": "Kontrol edebildiğin eylemlere odaklanmak, sonuçlar ne olursa olsun motivasyonunu korur."
+        },
+        {
+          "id": "q2",
+          "question": "Arayış sürecinde işle ilgisi olmayan etkinlikleri neden sürdürmelisin?",
+          "options": ["Seni dinlenmiş ve iyi performans gösterebilir halde tuttukları için", "Başvuru yapmaktan kaçmanın bir yolu oldukları için", "Mülakatçılar hobileri sorduğu için", "Arayışı kısalttıkları için"],
+          "answer": 0,
+          "explanation": "Dinlenmek ve keyif almak, mülakatlar için ihtiyaç duyduğun enerjiyi korur."
+        },
+        {
+          "id": "q3",
+          "question": "Stres günlük hayatını etkilemeye başladı. İyi bir adım nedir?",
+          "options": ["Kimseye söylememek", "Kafanı dağıtmak için daha fazla işe başvurmak", "İş arayışını tamamen bırakmak", "Bir psikolojik danışmanla ya da başka bir uzmanla konuşmak"],
+          "answer": 3,
+          "explanation": "Yetkin bir kişiden destek almak mantıklı ve pratik bir adımdır."
+        }
+      ]
+    }
+  ]
+}

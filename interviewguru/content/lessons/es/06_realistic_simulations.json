@@ -1,0 +1,345 @@
+{
+  "id": "realistic_simulations",
+  "order": 6,
+  "icon": "simulation",
+  "color": "#EC4899",
+  "title": "Práctica y simulación",
+  "summary": "Convierte la práctica en progreso real simulando entrevistas, grabándote y mejorando con un plan claro.",
+  "topics": [
+    {
+      "id": "mock_interview_practice",
+      "order": 1,
+      "title": "Cómo hacer una entrevista de práctica",
+      "minutes": 3,
+      "premium": false,
+      "pages": [
+        {
+          "title": "Por qué simular es mejor que ensayar mentalmente",
+          "body": "Las respuestas que suenan perfectas en tu cabeza suelen desmoronarse cuando las dices en voz alta. Una entrevista de práctica deja al descubierto los puntos débiles: historias demasiado largas, cifras que no recuerdas, preguntas que nunca esperabas. Practicar en condiciones realistas también hace que la entrevista real te resulte familiar, lo que reduce los nervios. Dos o tres simulaciones completas antes de una entrevista importante valen más que horas de lectura en silencio.",
+          "tip": "Programa tus entrevistas de práctica en el calendario como si fueran citas reales."
+        },
+        {
+          "title": "Hazla realista",
+          "body": "Recrea el formato real. Si la entrevista es por videollamada, practica por videollamada; si es presencial, siéntate a una mesa frente a tu compañero. Vístete como lo harías ese día y respeta un límite de tiempo, normalmente de 30–45 minutos. No te detengas para reiniciar una respuesta: en una entrevista real no puedes hacerlo, así que aprende a recuperarte a mitad de frase.",
+          "tip": "Usa aquí la función de entrevista de práctica cuando no tengas a nadie con quien practicar."
+        },
+        {
+          "title": "Elige las preguntas adecuadas",
+          "body": "Crea un conjunto de preguntas a partir de tres fuentes: preguntas habituales («Háblame de ti», «¿Por qué este puesto?»), preguntas de comportamiento que encajen con la descripción del puesto, y una o dos preguntas difíciles que temas. Pide a tu compañero que añada al menos una pregunta que no hayas visto. Afrontar una sorpresa con calma es una habilidad que solo se entrena enfrentándose a sorpresas.",
+          "tip": "Lleva una lista actualizada de las preguntas que te hicieron dudar."
+        },
+        {
+          "title": "Prepara a tu compañero de práctica",
+          "body": "Un amigo, un mentor o un colega puede ser un buen entrevistador si le das las indicaciones adecuadas. Dale la descripción del puesto, tu lista de preguntas y en qué fijarse, como las muletillas o la duración de las respuestas. Pídele que se mantenga en su papel durante la sesión y que guarde todos sus comentarios para el final, para que la dinámica se parezca a una entrevista real.",
+          "tip": "Pide a tu compañero que te repregunte al menos una vez: «¿Puedes darme un ejemplo concreto?»."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "¿Por qué deberías evitar reiniciar tus respuestas durante una entrevista de práctica?",
+          "options": [
+            "Hace perder el tiempo a tu compañero",
+            "En una entrevista real no puedes reiniciar, así que debes practicar cómo recuperarte",
+            "Reiniciar hace que las respuestas sean demasiado cortas",
+            "Las entrevistas de práctica no tienen límite de tiempo"
+          ],
+          "answer": 1,
+          "explanation": "Las entrevistas reales no permiten volver a empezar, así que practica cómo recuperarte a mitad de respuesta."
+        },
+        {
+          "id": "q2",
+          "question": "¿Qué debería incluir tu conjunto de preguntas?",
+          "options": [
+            "Solo preguntas que ya respondes bien",
+            "Solo preguntas técnicas",
+            "Preguntas habituales, específicas del puesto y algunas difíciles o inesperadas",
+            "Preguntas elegidas al azar de internet"
+          ],
+          "answer": 2,
+          "explanation": "Una combinación de preguntas habituales, adaptadas al puesto y difíciles te prepara para todo lo que puede surgir."
+        },
+        {
+          "id": "q3",
+          "question": "¿Cuándo debería darte sus comentarios tu compañero de práctica?",
+          "options": [
+            "Al final de la sesión",
+            "Después de cada frase",
+            "Solo si se lo pides dos veces",
+            "Nunca: basta con escuchar"
+          ],
+          "answer": 0,
+          "explanation": "Guardar los comentarios para el final mantiene el realismo de la simulación."
+        }
+      ]
+    },
+    {
+      "id": "recording_setup",
+      "order": 2,
+      "title": "Grabarte",
+      "minutes": 3,
+      "premium": false,
+      "pages": [
+        {
+          "title": "Por qué grabarte",
+          "body": "No puedes ver tu cara ni oír tu voz como lo hace un entrevistador. Una grabación revela hábitos que nunca notas: tocarte el pelo, apartar la mirada antes de cada respuesta, decir «básicamente» doce veces. A la mayoría de las personas les resulta incómodo verse por primera vez, y es normal. La incomodidad desaparece rápido, y lo que aprendes es difícil de conseguir de otra manera.",
+          "tip": "Mira tu primera grabación una vez solo para acostumbrarte y otra más para analizarla."
+        },
+        {
+          "title": "Una configuración sencilla",
+          "body": "Con tu teléfono basta. Colócalo a la altura de los ojos sobre una pila de libros o un soporte barato, a un brazo de distancia más o menos, encuadrándote del pecho hacia arriba. Siéntate frente a una ventana o una lámpara para que tu cara esté bien iluminada. Graba en una habitación silenciosa y haz una prueba de diez segundos para comprobar el sonido antes de empezar.",
+          "tip": "Activa el modo avión para que las llamadas y notificaciones no te interrumpan."
+        },
+        {
+          "title": "Qué grabar",
+          "body": "Empieza con clips cortos: responde una pregunta por grabación, dos minutos como máximo. Elige preguntas que seguro te harán, como «Háblame de ti» y una historia de comportamiento clave. Cuando te sientas cómodo, graba una entrevista de práctica completa de principio a fin. Grabar la misma pregunta en días distintos te permite comparar versiones y ver un progreso real.",
+          "tip": "Nombra cada archivo con la pregunta y la fecha para poder compararlos después."
+        },
+        {
+          "title": "Práctica solo con audio y en pantalla",
+          "body": "Para entrevistas telefónicas, graba solo el audio, ya que tu voz es lo único que recibe el entrevistador. Para entrevistas por videollamada, graba desde la plataforma real o con la cámara de tu portátil, para ver exactamente lo que verá el entrevistador, incluido tu fondo y hacia dónde miras. Adaptar la grabación al formato real hace que los comentarios sean mucho más útiles.",
+          "tip": "Borra las grabaciones antiguas cuando hayas anotado tus conclusiones para simplificar."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "¿Cómo deberías encuadrarte al grabar?",
+          "options": [
+            "De cuerpo entero desde el otro lado de la habitación",
+            "Solo un primer plano de tu cara",
+            "Del pecho hacia arriba, con la cámara a la altura de los ojos",
+            "Desde abajo, con la cámara sobre la mesa"
+          ],
+          "answer": 2,
+          "explanation": "El encuadre del pecho hacia arriba a la altura de los ojos coincide con lo que suelen ver los entrevistadores."
+        },
+        {
+          "id": "q2",
+          "question": "¿Cuál es una buena forma de empezar a practicar con grabaciones?",
+          "options": [
+            "Clips cortos de una pregunta cada uno",
+            "Una sesión de dos horas el primer día",
+            "Grabar extensamente solo tus respuestas más flojas",
+            "Esperar a sentirte totalmente seguro"
+          ],
+          "answer": 0,
+          "explanation": "Los clips cortos de una sola pregunta son fáciles de revisar y comparar."
+        },
+        {
+          "id": "q3",
+          "question": "¿Cómo deberías practicar para una entrevista telefónica?",
+          "options": [
+            "Grabar vídeo con un fondo virtual",
+            "Grabar solo el audio",
+            "No grabar nada",
+            "Grabar mientras caminas al aire libre"
+          ],
+          "answer": 1,
+          "explanation": "Tu voz es lo único que recibe un entrevistador por teléfono, así que practicar solo con audio se ajusta al formato."
+        }
+      ]
+    },
+    {
+      "id": "self_analysis",
+      "order": 3,
+      "title": "Revisar tu grabación",
+      "minutes": 4,
+      "premium": true,
+      "pages": [
+        {
+          "title": "Revisa en pasadas separadas",
+          "body": "Intentar evaluarlo todo a la vez resulta abrumador. En su lugar, mira la misma grabación tres veces con un enfoque distinto cada vez. Primero, el contenido: ¿respondiste a la pregunta? Segundo, la voz: ritmo, volumen y muletillas. Tercero, el lenguaje corporal, sin sonido. Cada pasada es corta y, juntas, te dan una imagen mucho más clara que un solo visionado.",
+          "tip": "Quitar el sonido hace que los gestos y las expresiones faciales sean mucho más fáciles de notar."
+        },
+        {
+          "title": "Revisa el contenido",
+          "body": "Pregúntate: ¿respondí a la pregunta real en las dos primeras frases? ¿Mi historia tenía una situación, una acción y un resultado claros? ¿Incluí una cifra o un resultado concreto? ¿Duró menos de dos minutos? Escribe la respuesta en una sola línea. Si no puedes resumir tu propia respuesta en una línea, probablemente el entrevistador tampoco podría.",
+          "tip": "Cronometra cada respuesta; la mayoría de las buenas respuestas duran entre uno y dos minutos."
+        },
+        {
+          "title": "Revisa la voz y el lenguaje corporal",
+          "body": "Cuenta tus muletillas en una respuesta: «eh», «o sea», «¿sabes?». Fíjate en si aceleras cuando estás nervioso o si tu voz se apaga al final de las frases. Sin sonido, observa tus ojos, tus manos y tu postura. ¿Miras a la cámara? ¿Tus manos acompañan tus palabras o no paran quietas? Elige el hábito que más distraiga y corrígelo primero.",
+          "tip": "Sustituye las muletillas por una pausa breve y silenciosa; transmite más seguridad."
+        },
+        {
+          "title": "Sé justo contigo mismo",
+          "body": "La autoevaluación funciona mejor cuando es sincera pero equilibrada. En cada grabación, anota dos cosas que salieron bien antes de enumerar lo que debes mejorar. No se trata solo de la moral: conocer tus puntos fuertes te indica qué debes seguir haciendo. Céntrate en los patrones que se repiten en varias grabaciones, no en un momento incómodo que quizá nunca vuelva a ocurrir.",
+          "tip": "Guarda tus notas en un solo lugar para poder detectar patrones recurrentes."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "¿Por qué revisar una grabación en pasadas separadas?",
+          "options": [
+            "Lleva menos tiempo en total que un solo visionado",
+            "Centrarte en un aspecto cada vez te da una imagen más clara",
+            "Los entrevistadores evalúan así a los candidatos",
+            "Para poder saltarte las partes que no te gustan"
+          ],
+          "answer": 1,
+          "explanation": "El contenido, la voz y el lenguaje corporal son más fáciles de evaluar por separado."
+        },
+        {
+          "id": "q2",
+          "question": "¿Qué es una comprobación útil del contenido de una respuesta?",
+          "options": [
+            "Si duró al menos cinco minutos",
+            "Si usó un vocabulario impresionante",
+            "Si mencionó todos los trabajos que has tenido",
+            "Si puedes resumirla en una sola línea"
+          ],
+          "answer": 3,
+          "explanation": "Si no puedes resumirla en una línea, probablemente el mensaje no estaba claro."
+        },
+        {
+          "id": "q3",
+          "question": "¿Qué deberías anotar antes de enumerar las mejoras?",
+          "options": [
+            "Dos cosas que salieron bien",
+            "Tu puntuación general sobre diez",
+            "Todos los errores en orden",
+            "Nada: simplemente empieza a corregir"
+          ],
+          "answer": 0,
+          "explanation": "Anotar primero los puntos fuertes mantiene el equilibrio de la revisión y muestra qué debes seguir haciendo."
+        }
+      ]
+    },
+    {
+      "id": "feedback_areas",
+      "order": 4,
+      "title": "Obtener comentarios útiles",
+      "minutes": 3,
+      "premium": true,
+      "pages": [
+        {
+          "title": "Haz preguntas concretas",
+          "body": "«¿Qué tal lo hice?» suele recibir un educado «¡Bien!» que no te dice nada. Haz preguntas específicas: «¿Fue clara mi respuesta a la pregunta sobre el conflicto?», «¿Sonaba seguro o ensayado?», «¿Qué respuesta recordarías mañana?». Las preguntas concretas facilitan que la gente sea sincera y te dan información que realmente puedes aprovechar.",
+          "tip": "Prepara tres preguntas para pedir comentarios antes de cada sesión de práctica."
+        },
+        {
+          "title": "Las cuatro áreas que hay que cubrir",
+          "body": "Los comentarios útiles cubren cuatro áreas. Contenido: ¿los ejemplos eran pertinentes y concretos? Estructura: ¿cada respuesta era fácil de seguir? Expresión: ritmo, tono, muletillas y contacto visual. Impresión general: ¿te pasarían a la siguiente ronda y por qué? Preguntar por las cuatro evita que los comentarios se centren solo en el problema más evidente.",
+          "tip": "Comparte las cuatro áreas con tu compañero antes de empezar la sesión."
+        },
+        {
+          "title": "Busca opiniones de fuentes variadas",
+          "body": "Cada persona se fija en cosas distintas. Un amigo es útil para valorar tu expresión y tu seguridad. Alguien que trabaja en el sector al que aspiras puede juzgar si tus ejemplos son pertinentes. Un mentor o un orientador profesional puede detectar patrones más amplios. Las herramientas automáticas aportan datos objetivos sobre el ritmo y las muletillas. Combinar dos o tres fuentes te da una visión más completa y menos sesgada.",
+          "tip": "Usa la función de revisión de CV para que tu CV y tus respuestas cuenten la misma historia."
+        },
+        {
+          "title": "Recibe bien los comentarios",
+          "body": "Escucha sin ponerte a la defensiva. Toma notas, pide un ejemplo si algo no está claro y da las gracias a la persona, aunque los comentarios duelan. No tienes que estar de acuerdo con todo; busca los comentarios que te hace más de una persona. Esos puntos repetidos suelen ser los que más merecen tu tiempo.",
+          "tip": "Di «¿Puedes mostrarme dónde pasó eso?» en lugar de justificarte."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "¿Qué pregunta para pedir comentarios es más útil?",
+          "options": [
+            "¿Qué tal lo hice?",
+            "¿Estuvo bien?",
+            "¿Te gustó?",
+            "¿Fue clara mi respuesta a la pregunta sobre el conflicto?"
+          ],
+          "answer": 3,
+          "explanation": "Las preguntas concretas obtienen respuestas sinceras y aplicables."
+        },
+        {
+          "id": "q2",
+          "question": "¿Por qué recurrir a más de una fuente de comentarios?",
+          "options": [
+            "Cada persona se fija en cosas distintas",
+            "Una fuente siempre se equivoca",
+            "Hace que la práctica sea más rápida",
+            "Los entrevistadores lo exigen"
+          ],
+          "answer": 0,
+          "explanation": "Combinar fuentes da una visión más completa y menos sesgada."
+        },
+        {
+          "id": "q3",
+          "question": "¿Qué comentarios merecen más atención?",
+          "options": [
+            "Los que compartes",
+            "El comentario más duro",
+            "Los puntos que repite más de una persona",
+            "Solo el comentario más reciente"
+          ],
+          "answer": 2,
+          "explanation": "Los comentarios repetidos suelen reflejar un patrón real que vale la pena corregir."
+        }
+      ]
+    },
+    {
+      "id": "improvement_plan",
+      "order": 5,
+      "title": "Crear un plan de mejora",
+      "minutes": 4,
+      "premium": true,
+      "pages": [
+        {
+          "title": "De las notas a las prioridades",
+          "body": "Después de unas cuantas sesiones de práctica tendrás una larga lista de notas. No intentes corregirlo todo. Agrupa las notas por temas, como historias poco claras, comienzos débiles o hábitos nerviosos, y ordénalas según su impacto. Elige los dos o tres cambios que más mejorarían la impresión que causas en un entrevistador y deja todo lo demás a un lado por ahora.",
+          "tip": "Pregúntate: ¿qué cambio notaría primero un entrevistador?"
+        },
+        {
+          "title": "Fija objetivos concretos",
+          "body": "Los objetivos vagos como «tener más seguridad» son difíciles de practicar. Convierte cada prioridad en algo que puedas observar y medir: «Responder a \"Háblame de ti\" en menos de 90 segundos», «Menos de tres muletillas por respuesta», «Incluir una cifra en cada historia de comportamiento». Los objetivos concretos te dicen exactamente qué practicar y cuándo lo has conseguido.",
+          "tip": "Escribe cada objetivo como algo que un desconocido podría comprobar en tu grabación."
+        },
+        {
+          "title": "Practica en ciclos cortos y enfocados",
+          "body": "Trabaja en ciclos pequeños: practica un objetivo, graba, revisa y ajusta. Quince minutos concentrados al día rinden más que una sesión de tres horas una vez por semana. Vuelve a grabar la misma pregunta hasta cumplir el objetivo y luego pasa al siguiente. Más o menos cada semana, haz una entrevista de práctica completa para comprobar que las mejoras individuales se mantienen en conjunto.",
+          "tip": "Haz una entrevista de práctica completa al final de cada semana para ponerlo todo a prueba en conjunto."
+        },
+        {
+          "title": "Sigue tu progreso y ajusta",
+          "body": "Lleva un registro sencillo: fecha, pregunta, objetivo y resultado. Comparar tu primera grabación con la más reciente es motivador y muestra qué está funcionando. Si un objetivo no mejora después de una semana, cambia de enfoque: escribe la historia, simplifícala o practica con otro compañero. Cuando un objetivo se convierta en un hábito, sustitúyelo por la siguiente prioridad.",
+          "tip": "Guarda tu primerísima grabación como referencia para compararla más adelante."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "¿En cuántos cambios deberías centrarte a la vez?",
+          "options": [
+            "En todo lo que hay en tu lista",
+            "En dos o tres cambios de gran impacto",
+            "Solo en uno al mes",
+            "En ninguno hasta la entrevista real"
+          ],
+          "answer": 1,
+          "explanation": "Centrarte en unos pocos cambios de gran impacto produce una mejora visible más rápido."
+        },
+        {
+          "id": "q2",
+          "question": "¿Cuál es un objetivo concreto y medible?",
+          "options": [
+            "Tener más seguridad",
+            "Parecer profesional",
+            "Responder a «Háblame de ti» en menos de 90 segundos",
+            "Hacerlo mejor la próxima vez"
+          ],
+          "answer": 2,
+          "explanation": "Un objetivo medible te dice exactamente qué practicar y cuándo lo has conseguido."
+        },
+        {
+          "id": "q3",
+          "question": "Un objetivo no mejora después de una semana. ¿Qué deberías hacer?",
+          "options": [
+            "Abandonarlo",
+            "Seguir repitiendo exactamente el mismo enfoque",
+            "Esperar a la entrevista real",
+            "Cambiar de enfoque, por ejemplo, simplificando la historia o probando con otro compañero"
+          ],
+          "answer": 3,
+          "explanation": "Si algo no funciona, ajusta el método en lugar de repetirlo."
+        }
+      ]
+    }
+  ]
+}

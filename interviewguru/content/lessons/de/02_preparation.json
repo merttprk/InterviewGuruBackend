@@ -1,0 +1,322 @@
+{
+  "id": "preparation",
+  "order": 2,
+  "icon": "preparation",
+  "color": "#0EA5E9",
+  "title": "Vorbereitung",
+  "summary": "Geh gut vorbereitet in jedes Vorstellungsgespräch: Kenne das Unternehmen, die Stelle, deinen Lebenslauf, deine Fragen und deinen Plan für den Tag.",
+  "topics": [
+    {
+      "id": "company_research",
+      "order": 1,
+      "title": "Unternehmensrecherche",
+      "minutes": 3,
+      "premium": false,
+      "pages": [
+        {
+          "title": "Warum Recherche wichtig ist",
+          "body": "Interviewende merken innerhalb weniger Minuten, ob du dich über sie informiert hast. Durch Recherche kannst du deine Erfahrung mit ihren echten Herausforderungen verknüpfen, die Frage „Warum wir?“ konkret beantworten und gezieltere Fragen stellen. Außerdem hilft sie dir zu entscheiden, ob du die Stelle überhaupt willst. Plane für ein erstes Gespräch etwa 45–60 Minuten konzentrierte Recherche ein, für die letzten Runden mehr.",
+          "tip": "Fass alle Erkenntnisse auf einer Seite zusammen, damit du sie vor dem Gespräch in fünf Minuten durchgehen kannst."
+        },
+        {
+          "title": "Wo du suchst",
+          "body": "Starte mit der Unternehmenswebsite: „Über uns“, Produkte, aktuelle Neuigkeiten und Karrierebereich. Lies dann die neuesten Pressemitteilungen oder die Highlights aus dem Geschäftsbericht, schau dir die LinkedIn-Seite des Unternehmens an, um Wachstum und Neueinstellungen zu sehen, und lies Mitarbeiterbewertungen – achte dabei auf Muster statt auf einzelne Beschwerden. Wenn das Unternehmen ein Produkt verkauft, das du ausprobieren kannst, teste es selbst.",
+          "tip": "Such nach dem Firmennamen plus „News“ und konzentrier dich auf die letzten sechs Monate."
+        },
+        {
+          "title": "Was du dir notierst",
+          "body": "Sammle fünf Fakten, die du wirklich nutzen kannst: was das Unternehmen verkauft und an wen, seine wichtigsten Wettbewerber, eine aktuelle Entwicklung wie einen Produktstart oder eine Expansion, seine erklärten Werte oder seine Mission und eine Herausforderung, vor der es zu stehen scheint. Schreib zu jedem Fakt einen Satz dazu, wie deine Fähigkeiten dazu passen. Fakten ohne Bezug zu dir sind nur Trivia.",
+          "tip": "Wenn du einen Fakt weder mit deiner Erfahrung noch mit einer Frage verbinden kannst, streich ihn aus deinen Notizen."
+        },
+        {
+          "title": "Informiere dich über deine Interviewenden",
+          "body": "Wenn du weißt, wer das Gespräch führt, schau dir die LinkedIn-Profile an. Notiere Rolle, Betriebszugehörigkeit und mögliche berufliche Gemeinsamkeiten. So kannst du einschätzen, worauf die Person Wert legt: Eine Führungskraft will Ergebnisse, ein Teammitglied gute Zusammenarbeit, eine Direktorin oder ein Direktor Wirkung. Sprich keine privaten Details an, auf die du stößt; bleib strikt beruflich.",
+          "tip": "Frag beim Recruiting nach Namen und Rollen der Interviewenden, falls du sie noch nicht kennst."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Warum solltest du notieren, wie jeder recherchierte Fakt mit dir zusammenhängt?",
+          "options": ["Interviewende bewerten dein Auswendigwissen", "Deine Notizen wirken dadurch gründlich", "Fakten ohne Bezug zu deinen Fähigkeiten sind nur Trivia", "Recruiter wollen deine Notizen sehen"],
+          "answer": 2,
+          "explanation": "Recherche hilft nur, wenn du sie mit deiner Erfahrung oder deinen Fragen verbinden kannst."
+        },
+        {
+          "id": "q2",
+          "question": "Wie nutzt du Mitarbeiterbewertungen am besten?",
+          "options": ["Die härteste Bewertung im Gespräch zitieren", "Auf Muster statt auf einzelne Beschwerden achten", "Sie komplett ignorieren", "Nur die Fünf-Sterne-Bewertungen lesen"],
+          "answer": 1,
+          "explanation": "Eine einzelne Bewertung ist eine Anekdote; wiederkehrende Themen verraten etwas Echtes über das Unternehmen."
+        },
+        {
+          "id": "q3",
+          "question": "Was solltest du bei der Recherche über deine Interviewenden vermeiden?",
+          "options": ["Private Details ansprechen, auf die du gestoßen bist", "Ihre aktuelle Rolle prüfen", "Notieren, wie lange sie schon dort arbeiten", "Beim Recruiting nach ihren Namen fragen"],
+          "answer": 0,
+          "explanation": "Nutze deine Erkenntnisse, um ihre Prioritäten einzuschätzen, aber halte das Gespräch beruflich."
+        }
+      ]
+    },
+    {
+      "id": "role_analysis",
+      "order": 2,
+      "title": "Die Stellenanzeige entschlüsseln",
+      "minutes": 3,
+      "premium": false,
+      "pages": [
+        {
+          "title": "Lies sie wie eine Checkliste",
+          "body": "Eine Stellenanzeige ist die Liste der Probleme, die der Arbeitgeber gelöst haben möchte. Kopier sie in ein Dokument und markiere jede Fähigkeit, jedes Tool, jede Aufgabe und jedes erwartete Ergebnis. Sortiere sie dann in zwei Gruppen: Muss-Kriterien, die meist zuerst stehen oder wiederholt werden, und Kann-Kriterien, oft mit „wünschenswert“ oder „von Vorteil“ markiert. Diese Übersicht zeigt dir, worauf sich das Gespräch konzentrieren wird.",
+          "tip": "Speichere die Stellenanzeige bei der Bewerbung; oft wird sie vor dem Gespräch offline genommen."
+        },
+        {
+          "title": "Versteckte Prioritäten erkennen",
+          "body": "Achte auf Wiederholungen und Reihenfolge. Eine Fähigkeit, die dreimal genannt wird, zählt mehr als eine, die nur einmal vorkommt. Verben verraten das Level: „unterstützen“ und „mitwirken“ deuten auf eine Einstiegsposition hin, „verantworten“, „leiten“ und „definieren“ auf eine Senior-Rolle. Formulierungen wie „dynamisches Umfeld“ oder „unklare Rahmenbedingungen“ zeigen, dass getestet wird, wie du mit Veränderung und Druck umgehst.",
+          "tip": "Zähl, wie oft jede Fähigkeit vorkommt; die zwei oder drei häufigsten sind deine Kernthemen fürs Gespräch."
+        },
+        {
+          "title": "Jeder Anforderung einen Beleg zuordnen",
+          "body": "Erstell eine einfache Tabelle mit zwei Spalten. Links listest du jedes Muss-Kriterium auf. Rechts schreibst du ein konkretes Beispiel aus deiner Erfahrung, das es belegt – wenn möglich mit Ergebnis oder Zahl. Wo dir ein direktes Beispiel fehlt, such ein verwandtes, das zeigt, dass du schnell lernst. Diese Beispiele bilden das Rückgrat deiner Antworten im Gespräch.",
+          "tip": "Ziel: mindestens eine Geschichte pro Muss-Kriterium; eine starke Geschichte kann auch zwei Anforderungen abdecken."
+        },
+        {
+          "title": "Mit Lücken ehrlich umgehen",
+          "body": "Du erfüllst selten jede Zeile einer Stellenanzeige, und das wissen Arbeitgeber auch. Bereite für jede Lücke eine kurze, ehrliche Antwort vor: Gib sie zu, verweise auf deine nächstliegende Erfahrung und erklär, wie du sie schließt, etwa mit einem Kurs oder einem eigenen Projekt. Gib nie eine Fähigkeit an, die du nicht nachweisen kannst; eine einzige Nachfrage entlarvt das.",
+          "tip": "Üb deine Antworten zu Lücken im Probeinterview laut, damit sie gelassen klingen und nicht defensiv."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Welches Verb in einer Stellenanzeige deutet am ehesten auf eine Senior-Rolle hin?",
+          "options": ["Mitwirken", "Unterstützen", "Verantworten", "Helfen"],
+          "answer": 2,
+          "explanation": "Verben wie „verantworten“, „leiten“ und „definieren“ stehen für Verantwortung und Seniorität."
+        },
+        {
+          "id": "q2",
+          "question": "Was gehört in die rechte Spalte deiner Beleg-Tabelle?",
+          "options": ["Ein konkretes Beispiel, das die Anforderung belegt", "Dein Wunschgehalt", "Der Name deines Gegenübers", "Eine Liste deiner Hobbys"],
+          "answer": 0,
+          "explanation": "Jedes Muss-Kriterium bekommt ein konkretes Beispiel, idealerweise mit Ergebnis oder Zahl."
+        },
+        {
+          "id": "q3",
+          "question": "Wie gehst du am besten mit einer Anforderung um, die du nicht erfüllst?",
+          "options": ["Behaupten, du erfüllst sie, und es später lernen", "Das Thema komplett vermeiden", "Deine Bewerbung zurückziehen", "Es zugeben, deine nächstliegende Erfahrung zeigen und erklären, wie du die Lücke schließt"],
+          "answer": 3,
+          "explanation": "Ehrlichkeit plus ein Plan zum Schließen der Lücke ist glaubwürdig; Bluffen fliegt bei Nachfragen auf."
+        }
+      ]
+    },
+    {
+      "id": "cv_preparation",
+      "order": 3,
+      "title": "Deinen Lebenslauf anpassen",
+      "minutes": 4,
+      "premium": true,
+      "pages": [
+        {
+          "title": "Ein Lebenslauf passt nicht für alle",
+          "body": "Wer für jede Stelle denselben Lebenslauf verschickt, senkt seine Chancen. Recruiter verbringen beim ersten Überfliegen oft weniger als eine Minute, und viele Unternehmen nutzen Bewerbermanagementsysteme, die nach Schlüsselwörtern filtern. Anpassen heißt: Kurzprofil, Reihenfolge der Stichpunkte und Kenntnisse so verändern, dass für jede Stelle die relevantesten Belege zuerst erscheinen.",
+          "tip": "Führ einen Master-Lebenslauf mit allem und kürze und sortiere für jede Bewerbung eine Kopie."
+        },
+        {
+          "title": "Übernimm die Sprache der Anzeige",
+          "body": "Verwende die genauen Begriffe aus der Stellenanzeige, wo sie deine Erfahrung wahrheitsgemäß beschreiben. Steht in der Anzeige „Stakeholder-Management“, schreib nicht nur „mit anderen Teams zusammengearbeitet“. Nenn bei Tools und Zertifikaten sowohl den vollen Namen als auch die Abkürzung. Halte die Formatierung schlicht, mit Standardüberschriften und ohne Text in Bildern, damit Bewerbermanagementsysteme alles lesen können.",
+          "tip": "Kopier deinen Lebenslauf in eine reine Textdatei; was dabei verschwindet oder durcheinandergerät, kann Software womöglich nicht lesen."
+        },
+        {
+          "title": "Stichpunkte mit Erfolgen formulieren",
+          "body": "Ersetze Aufgaben durch Ergebnisse. Ein starker Stichpunkt beginnt mit einem aktiven Verb, beschreibt, was du getan hast, und zeigt das Ergebnis: „Bearbeitungszeit für Rechnungen durch automatisierte Dateneingabe um 30 % verkürzt.“ Fehlen dir genaue Zahlen, nutze Umfang, Häufigkeit oder Reichweite, etwa Teamgröße, Anzahl der Kunden oder verantwortetes Budget. Setz unter jeder Position den relevantesten Stichpunkt an den Anfang.",
+          "tip": "Lass deinen Entwurf durch den CV-Check in der App laufen, um schwache, aufgabenlastige Stichpunkte zu finden."
+        },
+        {
+          "title": "Nimm ihn mit ins Gespräch",
+          "body": "Im Gespräch kann alles aus deinem Lebenslauf zur Sprache kommen, also lies vorher genau die Version, die du verschickt hast. Sei bereit, jeden Stichpunkt mit Kontext, deinem konkreten Beitrag und dem Ergebnis auszuführen. Nimm zu persönlichen Gesprächen ein paar ausgedruckte Exemplare mit und halte bei Videocalls eine digitale Version offen. Achte darauf, dass Daten und Jobtitel mit deinem LinkedIn-Profil übereinstimmen.",
+          "tip": "Speichere jeden angepassten Lebenslauf mit dem Firmennamen im Dateinamen, damit du immer weißt, welche Version sie haben."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Warum solltest du Schlüsselwörter aus der Stellenanzeige übernehmen?",
+          "options": ["Bewerbermanagementsysteme und Recruiter suchen danach", "Der Lebenslauf wird dadurch länger", "Du kannst den Abschnitt Kenntnisse weglassen", "Recruiter mögen kopierte Absätze"],
+          "answer": 0,
+          "explanation": "Passende Begriffe helfen Software-Filtern und Menschen beim schnellen Überfliegen, deine relevante Erfahrung zu finden."
+        },
+        {
+          "id": "q2",
+          "question": "Welcher Stichpunkt im Lebenslauf ist am stärksten?",
+          "options": ["Zuständig für Rechnungen", "An der Rechnungsbearbeitung mitgearbeitet", "Täglich das Finanzteam unterstützt", "Bearbeitungszeit für Rechnungen durch automatisierte Dateneingabe um 30 % verkürzt"],
+          "answer": 3,
+          "explanation": "Er beginnt mit einem aktiven Verb, sagt, was du getan hast, und zeigt ein messbares Ergebnis."
+        },
+        {
+          "id": "q3",
+          "question": "Welche Formatierung kann verhindern, dass Bewerbermanagementsysteme deinen Lebenslauf lesen?",
+          "options": ["Standardüberschriften", "Text in Bildern", "Einfache Stichpunkte", "Eine klare, gängige Schrift"],
+          "answer": 1,
+          "explanation": "Software kann Text in Bildern oft nicht lesen, sodass diese Inhalte verloren gehen können."
+        }
+      ]
+    },
+    {
+      "id": "questions_to_ask",
+      "order": 4,
+      "title": "Fragen an dein Gegenüber",
+      "minutes": 3,
+      "premium": true,
+      "pages": [
+        {
+          "title": "Warum deine Fragen zählen",
+          "body": "Fast jedes Vorstellungsgespräch endet mit „Haben Sie noch Fragen an uns?“ Wer antwortet „Nein, ich glaube, Sie haben alles abgedeckt“, signalisiert wenig Interesse. Gute Fragen zeigen, dass du dich ernsthaft mit der Stelle beschäftigt hast, helfen dir einzuschätzen, ob du den Job willst, und hinterlassen einen starken letzten Eindruck. Bereite fünf oder sechs vor, denn einige werden schon im Gespräch beantwortet.",
+          "tip": "Schreib deine Fragen ins Notizbuch und hak sie ab, sobald sie beantwortet sind."
+        },
+        {
+          "title": "Fragen zur Stelle",
+          "body": "Frag, woran Erfolg gemessen wird: „Was sollte ich in den ersten 90 Tagen erreicht haben?“ oder „Wie sieht eine typische Woche aus?“ Frag nach Herausforderungen: „Was ist die größte Hürde für die Person in dieser Rolle?“ Solche Fragen liefern dir echte Informationen und zeigen, dass du schon darüber nachdenkst, wie du den Job gut machst.",
+          "tip": "Greif die Antwort mit einem kurzen Kommentar auf, wie du das angehen würdest."
+        },
+        {
+          "title": "Fragen zu Team und Entwicklung",
+          "body": "Frag, wie das Team arbeitet: „Wie teilt das Team die Arbeit auf und trifft Entscheidungen?“ Frag nach Entwicklung: „Wie entwickeln sich Leute in dieser Rolle üblicherweise weiter?“ Pass die Fragen an dein Gegenüber an: Frag eine künftige Führungskraft nach ihrem Führungsstil, ein Teammitglied nach der täglichen Zusammenarbeit und die Geschäftsleitung nach der Ausrichtung des Unternehmens in den nächsten ein bis zwei Jahren.",
+          "tip": "Halte für jeden Typ von Interviewenden eine Frage bereit, damit du dich über die Runden hinweg nie wiederholst."
+        },
+        {
+          "title": "Fragen, die du vermeiden solltest",
+          "body": "Fang in frühen Runden nicht mit Gehalt, Urlaub oder Homeoffice-Vorteilen an; heb dir das auf, bis beiderseitiges Interesse besteht – es sei denn, dein Gegenüber spricht es selbst an. Frag nichts, was man leicht auf der Unternehmenswebsite findet. Vermeide Ja-Nein-Fragen, die das Gespräch beenden. Eine starke Abschlussfrage ist: „Gibt es etwas in meinem Werdegang, das Sie zögern lässt?“",
+          "tip": "Hör bei der Antwort auf deine Abschlussfrage genau zu und geh direkt und gelassen auf Bedenken ein."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Warum solltest du fünf oder sechs Fragen vorbereiten statt nur zwei?",
+          "options": ["Interviewende erwarten genau sechs", "Das Gespräch wird dadurch länger", "So musst du nicht über die Stelle sprechen", "Einige werden schon im Gespräch beantwortet"],
+          "answer": 3,
+          "explanation": "Mit ein paar Fragen in Reserve hast du am Ende immer noch gute übrig."
+        },
+        {
+          "id": "q2",
+          "question": "Welche Frage passt am besten im Gespräch mit deiner künftigen Führungskraft?",
+          "options": ["Wie würden Sie Ihren Führungsstil beschreiben?", "Was verkauft das Unternehmen?", "Wie viele Urlaubstage bekomme ich?", "Gibt es kostenlose Parkplätze?"],
+          "answer": 0,
+          "explanation": "Pass die Fragen an dein Gegenüber an; eine Führungskraft kann am besten beschreiben, wie sie führt."
+        },
+        {
+          "id": "q3",
+          "question": "Welchen Zweck hat die Frage „Gibt es etwas in meinem Werdegang, das Sie zögern lässt?“",
+          "options": ["Dein Gegenüber zu einem Angebot drängen", "Das Gespräch früher beenden", "Bedenken aufdecken und ausräumen, solange du noch im Raum bist", "Indirekt nach dem Gehalt fragen"],
+          "answer": 2,
+          "explanation": "So kannst du auf Zweifel reagieren, bevor die Entscheidung fällt."
+        }
+      ]
+    },
+    {
+      "id": "dress_code",
+      "order": 5,
+      "title": "Was du anziehst",
+      "minutes": 3,
+      "premium": true,
+      "pages": [
+        {
+          "title": "Orientier dich am Unternehmen – und leg eine Stufe drauf",
+          "body": "Die sicherste Regel: Kleide dich eine Stufe formeller, als die Mitarbeitenden im Alltag gekleidet sind. Trägt das Team Jeans und T-Shirt, wähl Smart Casual. Ist Business Casual üblich, denk über ein Sakko oder ein formelleres Outfit nach. Schau dir die Karriereseite und Fotos in den sozialen Medien an oder frag einfach beim Recruiting, was man dort üblicherweise trägt.",
+          "tip": "Beim Recruiting nach dem Dresscode zu fragen, ist völlig normal und zeugt von gutem Urteilsvermögen."
+        },
+        {
+          "title": "Passform, Komfort und Gepflegtheit",
+          "body": "Entscheidend ist nicht der Preis, sondern dass deine Kleidung sauber, gebügelt und gut sitzt. Wähl ein Outfit, das du schon getragen hast, damit du weißt, dass du darin eine Stunde bequem sitzen kannst. Vermeide alles, woran du ständig herumzupfst. Halte Accessoires und Parfüm dezent und achte auf saubere Schuhe. Kulturelle und religiöse Kleidung ist immer angemessen; der Maßstab ist Gepflegtheit.",
+          "tip": "Setz dich in deinem Outfit vor einen Spiegel, um zu sehen, wie es aus Sicht deines Gegenübers wirkt."
+        },
+        {
+          "title": "Videointerviews",
+          "body": "Zieh dich komplett an, nicht nur oberhalb der Taille – falls du aufstehen musst. Einfarbige, mittlere Töne wirken vor der Kamera meist am besten; sehr feine Streifen und kleine, unruhige Muster können flimmern. Teste dein Outfit vor der Kamera und vor deinem Hintergrund, damit du nicht mit ihm verschmilzt. Gutes Licht auf deinem Gesicht und ein aufgeräumter Hintergrund gehören zu deinem Auftritt dazu.",
+          "tip": "Mach einen zweiminütigen Kameratest zur gleichen Tageszeit wie das Gespräch, um das Licht zu prüfen."
+        },
+        {
+          "title": "Bereite alles am Vortag vor",
+          "body": "Such dein komplettes Outfit am Vortag aus und probier es an, inklusive Schuhe. Prüf es auf Flecken, fehlende Knöpfe oder Falten und behebe sie, solange noch Zeit ist. Wenn du anreist, pack ein kleines Notfallset ein: ein Ersatzhemd oder -oberteil, Fleckentücher und einen Kamm. Wer vorher entscheidet, hat am Tag selbst einen Stressfaktor weniger.",
+          "tip": "Leg am Vorabend alles an einem Ort bereit, damit du beim Fertigmachen nichts mehr entscheiden musst."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Was ist die sicherste allgemeine Regel zum Dresscode?",
+          "options": ["Immer das formellste Outfit tragen, das du besitzt", "Eine Stufe formeller kleiden, als die Mitarbeitenden üblicherweise gekleidet sind", "Das tragen, was du zu Hause trägst", "Das Profilfoto deines Gegenübers kopieren"],
+          "answer": 1,
+          "explanation": "Eine Stufe über dem Alltagsstandard wirkt respektvoll, ohne fehl am Platz zu sein."
+        },
+        {
+          "id": "q2",
+          "question": "Welche Kleidung wirkt vor der Kamera meist am besten?",
+          "options": ["Sehr feine Streifen", "Kleine, unruhige Muster", "Einfarbige, mittlere Töne", "Eine Farbe, die zu deinem Hintergrund passt"],
+          "answer": 2,
+          "explanation": "Einfarbige mittlere Töne wirken vor der Kamera klar; feine Muster flimmern, und passende Farben lassen dich mit dem Hintergrund verschmelzen."
+        },
+        {
+          "id": "q3",
+          "question": "Warum solltest du ein Outfit wählen, das du schon getragen hast?",
+          "options": ["Es ist günstiger", "Neue Kleidung ist nicht erlaubt", "Interviewende bemerken neue Kleidung", "Du weißt, dass du darin eine Stunde bequem sitzen kannst"],
+          "answer": 3,
+          "explanation": "Ein erprobtes Outfit bedeutet keine Überraschungen und nichts, woran du im Gespräch herumzupfen musst."
+        }
+      ]
+    },
+    {
+      "id": "interview_day_logistics",
+      "order": 6,
+      "title": "Der Vortag und der große Tag",
+      "minutes": 3,
+      "premium": true,
+      "pages": [
+        {
+          "title": "Die Details bestätigen",
+          "body": "Lies am Vortag die Einladung noch einmal: Datum, Zeitzone, Adresse oder Videolink, Namen der Interviewenden und Format. Plane deine Anfahrt, prüf die Fahrzeit zur gleichen Tageszeit und rechne mindestens 30 Minuten Puffer ein. Teste bei Videocalls Link, Kamera, Mikrofon und Verbindung und halte eine Telefonnummer bereit, falls die Verbindung abbricht.",
+          "tip": "Prüf die Zeitzone in der Einladung doppelt, besonders bei Remote-Stellen."
+        },
+        {
+          "title": "Packen und wiederholen",
+          "body": "Pack am Vorabend deine Tasche: ausgedruckte Exemplare deines Lebenslaufs, einen Ausweis, falls das Gebäude ihn verlangt, Notizbuch und Stift, Wasser und ein Ladekabel. Mach dann eine kurze Wiederholung statt einer Paukrunde: deine wichtigsten Geschichten, deine Antworten auf „Erzählen Sie etwas über sich“ und „Warum dieses Unternehmen?“ sowie deine Fragen an sie. Hör früh genug auf, um gut zu schlafen.",
+          "tip": "Ein kurzes Probeinterview am Vorabend reicht; intensives Üben in letzter Minute macht nur Stress."
+        },
+        {
+          "title": "Zur richtigen Zeit ankommen",
+          "body": "Sei bei persönlichen Gesprächen 15–20 Minuten früher in der Nähe, geh aber erst etwa 10 Minuten vor Beginn zum Empfang. Wer viel früher erscheint, kann seine Gastgeber unter Druck setzen. Wähl dich bei Videointerviews ein bis zwei Minuten früher ein, wenn alles bereits getestet ist. Falls du dich aus irgendeinem Grund verspätest, melde dich beim Recruiting, sobald du es weißt – noch vor Beginn.",
+          "tip": "Speichere die Telefonnummer der Recruiterin oder des Recruiters in deinen Kontakten, bevor du das Haus verlässt."
+        },
+        {
+          "title": "Alle gehören zum Gespräch",
+          "body": "Sei zu allen höflich, denen du begegnest, vom Sicherheitspersonal bis zum Empfang; manche Unternehmen fragen sie nach ihrem Eindruck. Schalte dein Handy komplett stumm und steck es weg. Geh beim Warten lieber deine einseitigen Notizen durch, statt zu scrollen. Begrüße deine Interviewenden mit einem Lächeln, einer klaren Vorstellung und Blickkontakt, denn die erste Minute gibt den Ton für den Rest vor.",
+          "tip": "Nutze die Wartezeit, um ein paar Mal langsam durchzuatmen und deine drei wichtigsten Geschichten noch einmal zu lesen."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Wann solltest du bei einem persönlichen Gespräch zum Empfang gehen?",
+          "options": ["Eine Stunde früher", "Etwa 10 Minuten vor Beginn", "Auf die Minute pünktlich", "Ein paar Minuten zu spät ist okay"],
+          "answer": 1,
+          "explanation": "Sei früh in der Nähe, melde dich aber erst etwa 10 Minuten vorher an, um deine Gastgeber nicht unter Druck zu setzen."
+        },
+        {
+          "id": "q2",
+          "question": "Was tust du, wenn du dich verspätest?",
+          "options": ["Ankommen und dich am Ende entschuldigen", "Nichts sagen und hoffen, dass es niemand merkt", "Nach Beginn per E-Mail einen neuen Termin vorschlagen", "Dich beim Recruiting melden, sobald du es weißt – noch vor Beginn"],
+          "answer": 3,
+          "explanation": "Frühzeitig Bescheid zu geben, ist professionell und gibt dem Unternehmen Zeit, sich darauf einzustellen."
+        },
+        {
+          "id": "q3",
+          "question": "Welche Vorbereitung ist am Vorabend am besten?",
+          "options": ["Eine kurze Wiederholung der wichtigsten Geschichten und Fragen, dann gut schlafen", "Die ganze Nacht pauken", "Gar keine Vorbereitung", "Den Lebenslauf komplett neu schreiben"],
+          "answer": 0,
+          "explanation": "Eine leichte Wiederholung hält die Antworten frisch; Erholung ist wichtiger als Pauken in letzter Minute."
+        }
+      ]
+    }
+  ]
+}
