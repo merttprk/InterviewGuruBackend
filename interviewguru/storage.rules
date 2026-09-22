@@ -1,0 +1,22 @@
+rules_version = '2';
+
+// Ders görselleri herkese açık okunur (URL'ler Firestore'da); yalnız admin
+// betiği (Admin SDK) yazar. Kullanıcı klasörü sahibine özel.
+service firebase.storage {
+  match /b/{bucket}/o {
+    match /lesson_images/{allPaths=**} {
+      allow read: if true;
+      allow write: if false;
+    }
+    match /users/{uid}/{allPaths=**} {
+      allow read: if request.auth != null && request.auth.uid == uid;
+      allow write: if request.auth != null && request.auth.uid == uid
+        && request.resource.size < 10 * 1024 * 1024
+        && (request.resource.contentType.matches('image/.*')
+            || request.resource.contentType == 'application/pdf');
+    }
+    match /{allPaths=**} {
+      allow read, write: if false;
+    }
+  }
+}

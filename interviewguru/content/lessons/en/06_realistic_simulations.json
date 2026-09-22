@@ -1,0 +1,270 @@
+{
+  "id": "realistic_simulations",
+  "order": 6,
+  "icon": "simulation",
+  "color": "#EC4899",
+  "title": "Practice & Simulation",
+  "summary": "Turn practice into real progress by simulating interviews, recording yourself and improving with a clear plan.",
+  "topics": [
+    {
+      "id": "mock_interview_practice",
+      "order": 1,
+      "title": "How to Run a Mock Interview",
+      "minutes": 3,
+      "premium": false,
+      "pages": [
+        {
+          "title": "Why simulation beats rehearsal in your head",
+          "body": "Answers that sound perfect in your head often fall apart when spoken aloud. A mock interview exposes the gaps: stories that run too long, numbers you can't remember, questions you never expected. Practising under realistic conditions also makes the real interview feel familiar, which lowers nerves. Two or three full simulations before an important interview are worth more than hours of silent reading.",
+          "tip": "Schedule your mock interviews in your calendar like real appointments."
+        },
+        {
+          "title": "Make it realistic",
+          "body": "Recreate the actual format. If the real interview is on video, practise on video; if it's in person, sit at a table facing your partner. Dress as you would on the day and stick to a time limit, usually 30–45 minutes. Don't pause to restart an answer — in a real interview you can't, so learn to recover mid-sentence instead.",
+          "tip": "Use the mock interview feature here when no practice partner is available."
+        },
+        {
+          "title": "Choose the right questions",
+          "body": "Build a question set from three sources: common questions ('Tell me about yourself', 'Why this role?'), behavioural questions that match the job description, and one or two tough questions you are dreading. Ask your partner to add at least one question you haven't seen. Handling a surprise calmly is a skill you can only train by facing surprises.",
+          "tip": "Keep a running list of questions that made you hesitate."
+        },
+        {
+          "title": "Brief your practice partner",
+          "body": "A friend, mentor or colleague makes a good interviewer if you brief them. Give them the job description, your question list and what to watch for, such as filler words or answer length. Ask them to stay in character during the session and save all feedback for the end, so the flow feels like a real interview.",
+          "tip": "Ask your partner to follow up with 'Can you give a specific example?' at least once."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Why should you avoid restarting answers during a mock interview?",
+          "options": ["It wastes your partner's time", "You can't restart in a real interview, so you should practise recovering", "Restarting makes answers too short", "Mock interviews have no time limit"],
+          "answer": 1,
+          "explanation": "Real interviews don't allow do-overs, so practise recovering mid-answer."
+        },
+        {
+          "id": "q2",
+          "question": "What should your question set include?",
+          "options": ["Only questions you already answer well", "Only technical questions", "Common, role-specific and a few tough or unexpected questions", "Questions chosen randomly from the internet"],
+          "answer": 2,
+          "explanation": "A mix of common, job-matched and difficult questions prepares you for the real range."
+        },
+        {
+          "id": "q3",
+          "question": "When should your practice partner give feedback?",
+          "options": ["At the end of the session", "After every sentence", "Only if you ask twice", "Never — just listening is enough"],
+          "answer": 0,
+          "explanation": "Saving feedback for the end keeps the simulation realistic."
+        }
+      ]
+    },
+    {
+      "id": "recording_setup",
+      "order": 2,
+      "title": "Recording Yourself",
+      "minutes": 3,
+      "premium": false,
+      "pages": [
+        {
+          "title": "Why record at all",
+          "body": "You can't see your own face or hear your own voice the way an interviewer does. A recording shows habits you never notice: touching your hair, looking away before every answer, saying 'basically' twelve times. Most people find the first viewing uncomfortable, and that is normal. The discomfort fades quickly, and the insight you gain is hard to get any other way.",
+          "tip": "Watch your first recording once just to get used to it, then again to analyse."
+        },
+        {
+          "title": "A simple setup",
+          "body": "Your phone is enough. Place it at eye level on a stack of books or a cheap stand, about an arm's length away, framing you from the chest up. Sit facing a window or lamp so your face is well lit. Record in a quiet room and do a ten-second test to check the sound before you start.",
+          "tip": "Turn on airplane mode so calls and notifications don't interrupt you."
+        },
+        {
+          "title": "What to record",
+          "body": "Start with short clips: answer one question per recording, two minutes maximum. Pick questions you'll definitely face, such as 'Tell me about yourself' and a key behavioural story. Once you're comfortable, record a full mock interview from start to finish. Recording the same question on different days lets you compare versions and see real progress.",
+          "tip": "Name each file with the question and date so you can compare later."
+        },
+        {
+          "title": "Audio-only and screen practice",
+          "body": "For phone interviews, record audio only, since your voice is all the interviewer gets. For video interviews, record through the actual platform or with your laptop camera, so you see exactly what the interviewer will see, including your background and where your eyes point. Matching the recording to the real format makes the feedback far more useful.",
+          "tip": "Delete old recordings once you've noted your takeaways to keep things simple."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "How should you frame yourself when recording?",
+          "options": ["Full body from across the room", "Close-up of your face only", "From the chest up, camera at eye level", "From below, camera on the table"],
+          "answer": 2,
+          "explanation": "Chest-up framing at eye level matches what interviewers typically see."
+        },
+        {
+          "id": "q2",
+          "question": "What is a good way to start recording practice?",
+          "options": ["Short clips of one question each", "A two-hour session on day one", "Recording only your weakest answers at length", "Waiting until you feel fully confident"],
+          "answer": 0,
+          "explanation": "Short single-question clips are easy to review and compare."
+        },
+        {
+          "id": "q3",
+          "question": "How should you practise for a phone interview?",
+          "options": ["Record video with a virtual background", "Record audio only", "Skip recording entirely", "Record while walking outside"],
+          "answer": 1,
+          "explanation": "Your voice is all a phone interviewer gets, so audio-only practice matches the format."
+        }
+      ]
+    },
+    {
+      "id": "self_analysis",
+      "order": 3,
+      "title": "Reviewing Your Recording",
+      "minutes": 4,
+      "premium": true,
+      "pages": [
+        {
+          "title": "Review in separate passes",
+          "body": "Trying to judge everything at once is overwhelming. Instead, watch the same recording three times with a different focus each time. First, content: did you answer the question? Second, voice: pace, volume and filler words. Third, body language, with the sound muted. Each pass is short, and together they give you a far clearer picture than a single viewing.",
+          "tip": "Muting the sound makes gestures and facial expressions much easier to notice."
+        },
+        {
+          "title": "Check the content",
+          "body": "Ask yourself: did I answer the actual question in the first two sentences? Did my story have a clear situation, action and result? Did I include a specific number or outcome? Was it under two minutes? Write the answer down in one line. If you can't summarise your own answer in one line, the interviewer probably couldn't either.",
+          "tip": "Time each answer; most strong answers land between one and two minutes."
+        },
+        {
+          "title": "Check voice and body language",
+          "body": "Count your filler words in one answer — 'um', 'like', 'you know'. Notice whether you speed up when nervous or trail off at the end of sentences. With the sound off, watch your eyes, hands and posture. Are you looking at the camera? Do your hands support your words or fidget? Pick the single most distracting habit to fix first.",
+          "tip": "Replace filler words with a short, silent pause; it sounds more confident."
+        },
+        {
+          "title": "Be fair to yourself",
+          "body": "Self-review works best when it is honest but balanced. For every recording, write down two things that went well before listing what to improve. This isn't just about morale: knowing your strengths tells you what to keep doing. Focus on patterns across several recordings rather than one awkward moment, which may never happen again.",
+          "tip": "Keep your notes in one place so you can spot recurring patterns."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Why review a recording in separate passes?",
+          "options": ["It takes less total time than one viewing", "Focusing on one area at a time gives a clearer picture", "Interviewers review candidates this way", "So you can skip the parts you dislike"],
+          "answer": 1,
+          "explanation": "Content, voice and body language are easier to judge one at a time."
+        },
+        {
+          "id": "q2",
+          "question": "What is a useful check for an answer's content?",
+          "options": ["Whether it lasted at least five minutes", "Whether it used impressive vocabulary", "Whether it mentioned every job you've had", "Whether you can summarise it in one line"],
+          "answer": 3,
+          "explanation": "If you can't summarise it in one line, the message probably wasn't clear."
+        },
+        {
+          "id": "q3",
+          "question": "What should you write down before listing improvements?",
+          "options": ["Two things that went well", "Your overall score out of ten", "Every mistake in order", "Nothing — just start fixing"],
+          "answer": 0,
+          "explanation": "Noting strengths first keeps review balanced and shows what to keep doing."
+        }
+      ]
+    },
+    {
+      "id": "feedback_areas",
+      "order": 4,
+      "title": "Getting Useful Feedback",
+      "minutes": 3,
+      "premium": true,
+      "pages": [
+        {
+          "title": "Ask specific questions",
+          "body": "'How did I do?' usually gets a polite 'Fine!' that tells you nothing. Ask targeted questions instead: 'Was my answer to the conflict question clear?', 'Did I sound confident or rehearsed?', 'Which answer would you remember tomorrow?' Specific questions make it easier for people to be honest and give you information you can actually use.",
+          "tip": "Prepare three feedback questions before each practice session."
+        },
+        {
+          "title": "The four areas to cover",
+          "body": "Useful feedback covers four areas. Content: were the examples relevant and concrete? Structure: was each answer easy to follow? Delivery: pace, tone, filler words and eye contact. Overall impression: would they move you to the next round, and why? Asking about all four stops feedback from focusing only on the most obvious issue.",
+          "tip": "Share the four areas with your partner before the session starts."
+        },
+        {
+          "title": "Choose varied feedback sources",
+          "body": "Different people notice different things. A friend is good for delivery and confidence. Someone working in your target field can judge whether your examples are relevant. A mentor or career adviser can spot bigger patterns. Automated tools add objective data on pace and filler words. Combining two or three sources gives you a more complete, less biased view.",
+          "tip": "Use the CV review feature so your CV and your answers tell the same story."
+        },
+        {
+          "title": "Receive feedback well",
+          "body": "Listen without defending yourself. Take notes, ask for an example if a point is unclear, and thank the person, even when the feedback stings. You don't have to agree with everything; look for comments that come up from more than one person. Those repeated points are usually the ones most worth your time.",
+          "tip": "Say 'Can you show me where that happened?' instead of explaining yourself."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Which feedback question is most useful?",
+          "options": ["How did I do?", "Was that okay?", "Did you like it?", "Was my answer to the conflict question clear?"],
+          "answer": 3,
+          "explanation": "Specific questions get honest, actionable answers."
+        },
+        {
+          "id": "q2",
+          "question": "Why use more than one feedback source?",
+          "options": ["Different people notice different things", "One source is always wrong", "It makes practice faster", "Interviewers require it"],
+          "answer": 0,
+          "explanation": "Combining sources gives a more complete and less biased view."
+        },
+        {
+          "id": "q3",
+          "question": "Which feedback points deserve the most attention?",
+          "options": ["The ones you agree with", "The harshest comment", "Points repeated by more than one person", "The most recent comment only"],
+          "answer": 2,
+          "explanation": "Repeated comments usually reflect a real pattern worth fixing."
+        }
+      ]
+    },
+    {
+      "id": "improvement_plan",
+      "order": 5,
+      "title": "Building an Improvement Plan",
+      "minutes": 4,
+      "premium": true,
+      "pages": [
+        {
+          "title": "From notes to priorities",
+          "body": "After a few practice sessions you'll have a long list of notes. Don't try to fix everything. Group the notes into themes, such as unclear stories, weak openings or nervous habits, then rank them by impact. Choose the two or three changes that would most improve how an interviewer sees you, and set everything else aside for now.",
+          "tip": "Ask yourself: which change would an interviewer notice first?"
+        },
+        {
+          "title": "Set concrete goals",
+          "body": "Vague goals like 'be more confident' are hard to practise. Turn each priority into something you can observe and measure: 'Answer \"Tell me about yourself\" in under 90 seconds', 'Fewer than three filler words per answer', 'Include one number in every behavioural story'. Concrete goals tell you exactly what to practise and when you have succeeded.",
+          "tip": "Write each goal as something a stranger could check on your recording."
+        },
+        {
+          "title": "Practise in short, focused cycles",
+          "body": "Work in small cycles: practise one goal, record, review, adjust. Fifteen focused minutes a day beats a three-hour session once a week. Re-record the same question until the goal is met, then move to the next. Every week or so, run a full mock interview to check that the individual fixes hold up together.",
+          "tip": "Run a full mock interview at the end of each week to test everything together."
+        },
+        {
+          "title": "Track progress and adjust",
+          "body": "Keep a simple log: date, question, goal and result. Comparing your first and latest recordings is motivating and shows what's working. If a goal isn't improving after a week, change the approach — write the story out, simplify it or practise with a different partner. Once a goal becomes a habit, replace it with the next priority.",
+          "tip": "Save your very first recording as a benchmark to compare against later."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "How many changes should you focus on at once?",
+          "options": ["Everything on your list", "Two or three high-impact changes", "Only one per month", "None until the real interview"],
+          "answer": 1,
+          "explanation": "Focusing on a few high-impact changes produces visible improvement faster."
+        },
+        {
+          "id": "q2",
+          "question": "Which is a concrete, measurable goal?",
+          "options": ["Be more confident", "Seem professional", "Answer 'Tell me about yourself' in under 90 seconds", "Do better next time"],
+          "answer": 2,
+          "explanation": "A measurable goal tells you exactly what to practise and when you've succeeded."
+        },
+        {
+          "id": "q3",
+          "question": "A goal isn't improving after a week. What should you do?",
+          "options": ["Give up on it", "Keep repeating exactly the same approach", "Wait for the real interview", "Change your approach, such as simplifying the story or trying a new partner"],
+          "answer": 3,
+          "explanation": "If something isn't working, adjust the method rather than repeating it."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "parameters": {
+    "force_update_version_And": { "defaultValue": { "value": "1.0.0" }, "valueType": "STRING", "description": "Bu sürümün altındaki Android istemcileri güncellemeye zorlanır" },
+    "suggested_update_version_And": { "defaultValue": { "value": "1.0.0" }, "valueType": "STRING", "description": "Bu sürümün altındaki Android istemcilerine güncelleme önerilir" },
+    "force_update_version_iOS": { "defaultValue": { "value": "1.0.0" }, "valueType": "STRING", "description": "Bu sürümün altındaki iOS istemcileri güncellemeye zorlanır" },
+    "suggested_update_version_iOS": { "defaultValue": { "value": "1.0.0" }, "valueType": "STRING", "description": "Bu sürümün altındaki iOS istemcilerine güncelleme önerilir" }
+  }
+}

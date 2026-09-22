@@ -1,0 +1,322 @@
+{
+  "id": "interview_types",
+  "order": 1,
+  "icon": "interview",
+  "color": "#4F46E5",
+  "title": "Interview Types",
+  "summary": "Know what to expect from every interview format, from quick phone screens to panel interviews.",
+  "topics": [
+    {
+      "id": "phone_interview",
+      "order": 1,
+      "title": "Phone Interview",
+      "minutes": 3,
+      "premium": false,
+      "pages": [
+        {
+          "title": "What a phone screen is for",
+          "body": "A phone interview is usually the first filter. A recruiter or hiring manager spends 15–30 minutes checking three things: do your experience and the role match, are your salary and location expectations realistic, and can you communicate clearly. It is rarely deep; its job is to decide who moves on.",
+          "tip": "Treat it as a real interview. Many candidates lose the process here by being casual."
+        },
+        {
+          "title": "Set up your environment",
+          "body": "Pick a quiet room, charge your phone and check the signal before the call. Keep your CV, the job description and a short list of your achievements in front of you — the interviewer can't see your notes, so use them. Have water nearby and close notifications on your computer.",
+          "tip": "Stand up or sit upright while talking; your voice sounds more energetic."
+        },
+        {
+          "title": "Your voice is your body language",
+          "body": "Without visual cues, tone and pace carry your message. Smile when you speak — it is audible. Pause briefly before answering instead of filling silence with 'um'. Keep answers to about 60–90 seconds and check in: 'Would you like more detail on that project?'",
+          "tip": "Record yourself answering one question on your phone and listen back once."
+        },
+        {
+          "title": "Close the call well",
+          "body": "Near the end, ask one or two questions about the role and the next steps: 'What does the rest of the process look like?' Thank the interviewer by name. Within a few hours, send a short email that repeats your interest and one reason you fit the role.",
+          "tip": "Write down the interviewer's name and key points during the call."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "What is the main purpose of a phone screen?",
+          "options": ["To negotiate the final salary", "To filter candidates on basic fit and communication", "To test advanced technical skills", "To meet the whole team"],
+          "answer": 1,
+          "explanation": "Phone screens are a first filter: basic fit, expectations and communication."
+        },
+        {
+          "id": "q2",
+          "question": "Which is a real advantage of a phone interview?",
+          "options": ["You can keep notes in front of you", "You can skip preparation", "Body language doesn't matter at all", "You can answer while walking outside"],
+          "answer": 0,
+          "explanation": "The interviewer can't see you, so your CV and notes can be right there."
+        },
+        {
+          "id": "q3",
+          "question": "How long should a typical answer be on the phone?",
+          "options": ["10 seconds", "About 60–90 seconds", "At least 5 minutes", "As long as possible"],
+          "answer": 1,
+          "explanation": "Short, structured answers keep the listener engaged; offer more detail if they want it."
+        }
+      ]
+    },
+    {
+      "id": "video_interview",
+      "order": 2,
+      "title": "Video Interview",
+      "minutes": 3,
+      "premium": false,
+      "pages": [
+        {
+          "title": "Two kinds of video interview",
+          "body": "Live video interviews run on Zoom, Teams or Google Meet with a real person. One-way (recorded) interviews show you a question and give you a fixed time to record your answer, often with one retake or none. Both are judged the way an in-person interview is, but technical problems are your responsibility.",
+          "tip": "Ask which platform will be used and install it the day before."
+        },
+        {
+          "title": "Camera, light and sound",
+          "body": "Place the camera at eye level — stack books under a laptop if needed. Face a window or lamp so light falls on your face, not behind you. Use headphones with a microphone to avoid echo. A plain, tidy background is better than a virtual one that flickers around your hair.",
+          "tip": "Join a test call with a friend and ask them how you look and sound."
+        },
+        {
+          "title": "Looking into the camera",
+          "body": "Eye contact on video means looking at the lens, not at the interviewer's face on the screen. Move the video window close to the camera so the difference is small. Nod and react a little more than in person; subtle signals get lost on video.",
+          "tip": "Put a small sticker next to the lens as a reminder to look there."
+        },
+        {
+          "title": "When something goes wrong",
+          "body": "If the connection drops, rejoin quickly and say calmly: 'Sorry, I lost the connection — could you repeat the last question?' Keep the interviewer's phone number or email ready as a backup. Staying calm under a technical glitch is itself a positive signal.",
+          "tip": "Close other apps and pause cloud backups to save bandwidth."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Where should you look to make eye contact in a video interview?",
+          "options": ["At the interviewer's eyes on the screen", "At your own video", "At the camera lens", "At your notes"],
+          "answer": 2,
+          "explanation": "Looking at the lens is what appears as eye contact to the other person."
+        },
+        {
+          "id": "q2",
+          "question": "What is the best light setup?",
+          "options": ["A bright window behind you", "Light facing you, on your face", "A dark room so the screen glows", "Only ceiling light"],
+          "answer": 1,
+          "explanation": "Light in front of you keeps your face visible; backlight turns you into a silhouette."
+        },
+        {
+          "id": "q3",
+          "question": "Your connection drops mid-answer. What should you do?",
+          "options": ["Wait for them to call you", "Rejoin quickly and calmly ask them to repeat the question", "End the interview", "Send an email apologizing later"],
+          "answer": 1,
+          "explanation": "Rejoining calmly shows you handle problems well."
+        }
+      ]
+    },
+    {
+      "id": "face_to_face_interview",
+      "order": 3,
+      "title": "Face-to-Face Interview",
+      "minutes": 3,
+      "premium": false,
+      "pages": [
+        {
+          "title": "The interview starts at the door",
+          "body": "In-person interviews begin the moment you arrive. Receptionists and people you meet in the lift are often asked for their impression. Arrive 10 minutes early — not 30 — and be polite to everyone. Use the waiting time to calm your breathing and review your three key stories.",
+          "tip": "Plan your route the day before and add a buffer for traffic."
+        },
+        {
+          "title": "First impressions",
+          "body": "A firm (not crushing) handshake, eye contact and a genuine smile set the tone in the first seconds. Wait to be offered a seat. Place your bag on the floor, not on the table, and keep your phone silent and out of sight.",
+          "tip": "Say the interviewer's name when you greet them: 'Nice to meet you, Sara.'"
+        },
+        {
+          "title": "Reading the room",
+          "body": "Face-to-face you get live feedback. If the interviewer leans forward, you are on the right track; if they glance at the clock or their notes, wrap up your answer. Mirror their energy and formality level slightly — it builds rapport.",
+          "tip": "Keep a notebook with prepared questions; taking brief notes looks engaged."
+        },
+        {
+          "title": "Observe the company too",
+          "body": "An office visit is your chance to judge the culture. How do people talk to each other? Is the atmosphere calm or tense? Do they seem to enjoy their work? You are also deciding whether you want to work there.",
+          "tip": "Ask to see where the team sits if it isn't offered."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "When should you arrive for an in-person interview?",
+          "options": ["Exactly on time", "About 10 minutes early", "45 minutes early", "A few minutes late is fine"],
+          "answer": 1,
+          "explanation": "Ten minutes early shows respect without putting pressure on the host."
+        },
+        {
+          "id": "q2",
+          "question": "Why be polite to the receptionist?",
+          "options": ["It doesn't matter", "Their impression may be shared with the hiring team", "They make the hiring decision", "To get a better parking spot"],
+          "answer": 1,
+          "explanation": "Many companies ask front-desk staff how candidates behaved."
+        },
+        {
+          "id": "q3",
+          "question": "The interviewer keeps looking at the clock while you talk. What should you do?",
+          "options": ["Talk faster", "Wrap up your answer concisely", "Ask if they are bored", "Ignore it"],
+          "answer": 1,
+          "explanation": "It's a cue to finish your point; you can offer more detail if they want it."
+        }
+      ]
+    },
+    {
+      "id": "group_interview",
+      "order": 4,
+      "title": "Group Interview",
+      "minutes": 3,
+      "premium": true,
+      "pages": [
+        {
+          "title": "What assessors watch",
+          "body": "In group interviews and assessment centres, several candidates work on a task together while assessors observe. They are not looking for the loudest person. They watch how you listen, build on others' ideas, keep the group on track and contribute to a result.",
+          "tip": "Quality of contribution beats quantity of talking."
+        },
+        {
+          "title": "Useful roles you can take",
+          "body": "You can add value without dominating: summarise the discussion ('So far we agree on A and B'), manage time ('We have 10 minutes left — shall we decide?'), or bring quieter members in ('Ali, what do you think?'). These behaviours are exactly what assessors write down.",
+          "tip": "Offering to be the timekeeper is an easy, visible contribution."
+        },
+        {
+          "title": "Collaborate, don't compete",
+          "body": "Treat other candidates as colleagues. Criticising or interrupting them backfires. When you disagree, acknowledge first: 'That's a good point about cost; one risk I see is…'. Groups that reach a clear decision make every member look better.",
+          "tip": "Use names — remember them during introductions."
+        },
+        {
+          "title": "Case tasks and presentations",
+          "body": "Many group sessions end with a short presentation. Agree early who presents which part. Structure it simply: problem, options, recommendation, next steps. If you present, credit the team: 'We decided…'.",
+          "tip": "Write key numbers from the case on paper so the group can see them."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "What do assessors value most in a group interview?",
+          "options": ["Talking the most", "Listening and building on others' ideas", "Winning every argument", "Staying silent to avoid mistakes"],
+          "answer": 1,
+          "explanation": "Collaboration and constructive contribution are what they score."
+        },
+        {
+          "id": "q2",
+          "question": "Which is a good way to contribute without dominating?",
+          "options": ["Interrupting to share your idea first", "Summarising progress and managing time", "Criticising weak ideas", "Presenting alone"],
+          "answer": 1,
+          "explanation": "Summarising and timekeeping help the group and are highly visible."
+        },
+        {
+          "id": "q3",
+          "question": "How should you disagree with another candidate?",
+          "options": ["Say they are wrong", "Acknowledge their point, then add your concern", "Ignore their idea", "Ask the assessor to decide"],
+          "answer": 1,
+          "explanation": "Acknowledging first keeps the discussion constructive."
+        }
+      ]
+    },
+    {
+      "id": "technical_interview",
+      "order": 5,
+      "title": "Technical Interview",
+      "minutes": 4,
+      "premium": true,
+      "pages": [
+        {
+          "title": "What is being tested",
+          "body": "Technical interviews check whether you can actually do the work: coding, financial modelling, design, engineering calculations or domain knowledge. Interviewers care about your thinking process as much as the final answer. A clear approach with a small mistake often scores better than a silent correct answer.",
+          "tip": "Think out loud from the first minute."
+        },
+        {
+          "title": "A reliable problem-solving routine",
+          "body": "1) Repeat the problem in your own words and ask clarifying questions. 2) Walk through a simple example. 3) Describe a basic solution first, then improve it. 4) Implement or calculate step by step. 5) Test with an edge case. This routine keeps you calm even when you don't know the answer immediately.",
+          "tip": "Ask about constraints: size of data, deadlines, budget, accuracy."
+        },
+        {
+          "title": "When you are stuck",
+          "body": "Say what you know and where you're stuck: 'I can solve it for a sorted list; I'm thinking about how to handle duplicates.' Interviewers often give hints — use them and thank them. Never bluff about something you don't know; say how you would find out.",
+          "tip": "Silence longer than 20 seconds feels long; keep narrating."
+        },
+        {
+          "title": "How to prepare",
+          "body": "Review the fundamentals listed in the job description and practise with timed problems. Re-read your own projects: you must be able to explain every decision you made. For system or case questions, practise drawing a structure on paper before diving into details.",
+          "tip": "Use the mock interview feature here with 'Technical' type to practise."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "What matters most in a technical interview besides the answer?",
+          "options": ["Speed only", "Your thinking process", "Using the newest tools", "Memorised definitions"],
+          "answer": 1,
+          "explanation": "Interviewers evaluate how you reason, communicate and handle problems."
+        },
+        {
+          "id": "q2",
+          "question": "What should you do first when you get a problem?",
+          "options": ["Start coding immediately", "Restate it and ask clarifying questions", "Say you've seen it before", "Ask for the answer"],
+          "answer": 1,
+          "explanation": "Clarifying first prevents solving the wrong problem."
+        },
+        {
+          "id": "q3",
+          "question": "You don't know a concept they ask about. Best response?",
+          "options": ["Guess confidently", "Admit it and explain how you would find out", "Change the subject", "Stay silent"],
+          "answer": 1,
+          "explanation": "Honesty plus a learning approach is respected; bluffing is easy to detect."
+        }
+      ]
+    },
+    {
+      "id": "panel_interview",
+      "order": 6,
+      "title": "Panel Interview",
+      "minutes": 3,
+      "premium": true,
+      "pages": [
+        {
+          "title": "Several interviewers, one decision",
+          "body": "In a panel interview, three to five people — for example a manager, a future teammate and someone from HR — interview you together. Each usually focuses on a different area. The final decision is shared, so you need to win over the whole room, not just the most senior person.",
+          "tip": "Ask the recruiter beforehand for the names and roles of panel members."
+        },
+        {
+          "title": "Where to look",
+          "body": "Start your answer by looking at the person who asked, then include the others with your eyes as you continue, and return to the asker at the end. This keeps everyone engaged and shows confidence.",
+          "tip": "Write names on your notebook in seating order."
+        },
+        {
+          "title": "Tailor answers to each role",
+          "body": "A technical lead wants depth, HR wants values and teamwork, a manager wants results. When a question comes from a specific person, emphasise the part of your story that matters to their role.",
+          "tip": "Prepare one strong story for each panel member's likely interest."
+        },
+        {
+          "title": "Stay consistent",
+          "body": "Panels sometimes ask similar questions in different ways to test consistency. Keep your stories and numbers identical. At the end, thank each member and, if possible, send a short follow-up that mentions something from the conversation.",
+          "tip": "Don't ignore quiet panel members; they often have strong influence."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "question": "Whom should you address when answering a panel question?",
+          "options": ["Only the most senior person", "Only the person who asked", "Start with the asker, include everyone, finish with the asker", "Look at your notes"],
+          "answer": 2,
+          "explanation": "This keeps the whole panel engaged while respecting the asker."
+        },
+        {
+          "id": "q2",
+          "question": "Why prepare different emphases for panel members?",
+          "options": ["Each role cares about different things", "To confuse them", "Panels prefer long answers", "It is not necessary"],
+          "answer": 0,
+          "explanation": "Technical, HR and management interviewers look for different evidence."
+        },
+        {
+          "id": "q3",
+          "question": "A panel asks a question similar to an earlier one. What should you do?",
+          "options": ["Give a completely new story", "Stay consistent with your earlier facts", "Point out that they repeated themselves", "Skip it"],
+          "answer": 1,
+          "explanation": "Panels check consistency; contradictions damage trust."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "interviewguru-seed",
+  "private": true,
+  "scripts": {
+    "dry": "node seed.js --dry",
+    "seed": "node seed.js"
+  },
+  "dependencies": {
+    "firebase-admin": "^12.6.0"
+  }
+}
