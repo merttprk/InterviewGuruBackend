@@ -1,0 +1,297 @@
+{
+  "regions": {
+    "us": "Amerika Birleşik Devletleri",
+    "uk": "Birleşik Krallık",
+    "de": "Almanya",
+    "tr": "Türkiye",
+    "in": "Hindistan",
+    "id": "Endonezya",
+    "my": "Malezya",
+    "br": "Brezilya",
+    "es": "İspanya",
+    "fr": "Fransa"
+  },
+  "salaryCategories": {
+    "technology": "Teknoloji",
+    "healthcare": "Sağlık",
+    "business": "İş Dünyası ve Finans",
+    "sales": "Satış ve Pazarlama",
+    "education": "Eğitim",
+    "engineering": "Mühendislik",
+    "creative": "Yaratıcı Meslekler",
+    "hospitality": "Konaklama ve Müşteri Hizmetleri"
+  },
+  "salaries": {
+    "software-engineer": { "title": "Yazılım Mühendisi", "description": "Yazılım uygulamalarını ve sistemlerini tasarlar, geliştirir, test eder ve bakımını yapar." },
+    "data-analyst": { "title": "Veri Analisti", "description": "Ham veriyi iş kararlarına yön veren raporlara, panolara ve içgörülere dönüştürür." },
+    "product-manager": { "title": "Ürün Yöneticisi", "description": "Bir ürünün ne yapması gerektiğine karar verir; mühendislik, tasarım ve iş ekiplerini bunu hayata geçirmek için aynı hedefte buluşturur." },
+    "ux-designer": { "title": "UX Tasarımcısı", "description": "Kullanıcı ihtiyaçlarını araştırır; dijital ürünler için sezgisel akışlar, tel çerçeveler ve arayüzler tasarlar." },
+    "devops-engineer": { "title": "DevOps Mühendisi", "description": "Altyapıyı, dağıtımları ve izlemeyi otomatikleştirerek yazılımın güvenilir ve hızlı yayına çıkmasını sağlar." },
+    "nurse": { "title": "Hemşire", "description": "Hastalara doğrudan bakım verir, tedavileri uygular ve doktorlar ile ailelerle koordinasyonu sağlar." },
+    "pharmacist": { "title": "Eczacı", "description": "İlaçları güvenli şekilde verir; hastalara ve sağlık profesyonellerine doz, etkileşim ve yan etkiler konusunda danışmanlık yapar." },
+    "physiotherapist": { "title": "Fizyoterapist", "description": "Egzersiz, manuel terapi ve eğitim yoluyla hastaların hareket kabiliyetini geri kazanmasına ve ağrıyı yönetmesine yardımcı olur." },
+    "accountant": { "title": "Muhasebeci", "description": "Mali tabloları hazırlar, defterleri tutar ve vergi ile raporlama yükümlülüklerine uyumu sağlar." },
+    "financial-analyst": { "title": "Finansal Analist", "description": "Performansı, bütçeleri ve yatırım kararlarını değerlendirmek için tahminler ve finansal modeller oluşturur." },
+    "hr-specialist": { "title": "İK Uzmanı", "description": "Bir kurum içinde işe alım, oryantasyon, çalışan ilişkileri ve İK politikalarıyla ilgilenir." },
+    "project-manager": { "title": "Proje Yöneticisi", "description": "Projeleri planlar; kapsamı, bütçeyi ve takvimi yönetir, teslimata kadar paydaşları aynı sayfada tutar." },
+    "lawyer": { "title": "Avukat", "description": "Müvekkillerine hukuki konularda danışmanlık yapar, sözleşmeler hazırlar ve onları müzakerelerde ya da mahkemede temsil eder." },
+    "sales-representative": { "title": "Satış Temsilcisi", "description": "Potansiyel müşterileri bulur ve değerlendirir, ürünleri tanıtır ve gelir hedeflerine ulaşmak için satışları kapatır." },
+    "digital-marketing-specialist": { "title": "Dijital Pazarlama Uzmanı", "description": "Arama, sosyal medya, e-posta ve ücretli kanallarda çevrim içi kampanyalar planlar ve optimize eder." },
+    "teacher": { "title": "Öğretmen", "description": "Okul ortamında dersleri planlar, öğrencilere ders verir ve gelişimlerini değerlendirir." },
+    "civil-engineer": { "title": "İnşaat Mühendisi", "description": "Yollar, köprüler, binalar ve su sistemleri gibi altyapıları tasarlar ve yapımını denetler." },
+    "mechanical-engineer": { "title": "Makine Mühendisi", "description": "Makineleri, ürünleri ve üretim süreçlerini tasarlar, analiz eder ve iyileştirir." },
+    "electrical-engineer": { "title": "Elektrik Mühendisi", "description": "Enerji dağıtımından elektroniğe ve kontrol sistemlerine kadar elektrik sistemlerini tasarlar ve test eder." },
+    "graphic-designer": { "title": "Grafik Tasarımcı", "description": "Markalar, pazarlama materyalleri, web siteleri ve yayınlar için görsel konseptler oluşturur." },
+    "architect": { "title": "Mimar", "description": "Estetik, işlev, yönetmelikler ve bütçe arasında denge kurarak binalar ve mekânlar tasarlar." },
+    "customer-support-specialist": { "title": "Müşteri Destek Uzmanı", "description": "Müşterilerin soru ve sorunlarını telefon, canlı sohbet ya da e-postayla çözer ve müşteri memnuniyetini korur." },
+    "hotel-manager": { "title": "Otel Müdürü", "description": "Otel operasyonlarını, personeli, misafir deneyimini ve finansal performansı yönetir." },
+    "chef": { "title": "Şef", "description": "Menüleri planlar, yemekleri hazırlar ve mutfak ekibini tutarlı kalite standartlarında yönetir." }
+  },
+  "countries": {
+    "united-states": {
+      "name": "Amerika Birleşik Devletleri",
+      "summary": "Amerika Birleşik Devletleri dünyanın en büyük ekonomisi ve dinamik, oldukça rekabetçi bir iş piyasasına sahip. Maaşlar genellikle yüksek, ancak sağlık sigortası ve ücretli izin gibi yan haklar işverene göre büyük farklılık gösteriyor.",
+      "jobMarket": "Teknoloji, sağlık, finans ve profesyonel hizmetler sürekli olarak büyük ölçekte işe alım yapıyor. Mühendislik, veri, siber güvenlik ve hemşirelik rollerine pek çok eyalette talep güçlü olmaya devam ediyor.",
+      "visa": "Yaygın yollar arasında uzmanlık gerektiren meslekler için H-1B vizesi, şirket içi transferler için L-1, olağanüstü yetenek için O-1 ve istihdama dayalı green card'lar var. Çoğu yol işveren sponsorluğu gerektiriyor ve bazılarında kura uygulanıyor; kurallar sık değiştiği için mutlaka resmi USCIS ve Dışişleri Bakanlığı (State Department) web sitelerini kontrol et.",
+      "salaryNote": "Maaşlar şehre ve eyalete göre çok değişiyor; en yüksek ücretleri kıyı bölgelerindeki teknoloji merkezleri ödüyor. Teklifleri karşılaştırırken sağlık giderlerini, vergileri ve prim ya da hisse haklarını mutlaka hesaba kat.",
+      "languages": "İngilizce",
+      "tips": [
+        "Özgeçmişini bir iki sayfayla sınırla; fotoğraf, yaş ve medeni durum ekleme.",
+        "Başarılarını sayılar, yüzdeler ve sonuçlarla somutlaştır.",
+        "Davranışsal sorular bekle ve bunları STAR yöntemine uygun, net hikâyelerle yanıtla.",
+        "Kendi katkılarından özgüvenle bahsetmen beklenir; bu övünmek olarak görülmez."
+      ]
+    },
+    "canada": {
+      "name": "Kanada",
+      "summary": "Kanada istikrarlı ve çeşitli bir ekonomiye sahip ve nitelikli göçmenleri aktif olarak memnuniyetle karşılıyor. Başlıca merkezler arasında Toronto, Vancouver, Montreal ve Calgary var.",
+      "jobMarket": "Sağlık, teknoloji, nitelikli zanaatlar, mühendislik ve finans en çok işe alım yapan sektörler. Pek çok eyalette hemşirelik, inşaat ve BT rollerinde eleman açığı bildiriliyor.",
+      "visa": "Nitelikli çalışanlar genellikle Express Entry veya eyalet aday programları (Provincial Nominee Programs) üzerinden daimi oturum için başvuruyor; işverene özel çalışma izinleri ise iş piyasası değerlendirmesi gerektirebiliyor. Programlar ve seçim kriterleri sık değiştiği için resmi Immigration, Refugees and Citizenship Canada (IRCC) web sitesini kontrol et.",
+      "salaryNote": "Maaşlar genellikle ABD'den düşük ama kamu sağlık sistemiyle birlikte geliyor. Ücretler ve yaşam maliyeti eyaletler ve şehirler arasında ciddi farklılık gösteriyor.",
+      "languages": "İngilizce ve Fransızca (Quebec'in büyük bölümünde Fransızca şart)",
+      "tips": [
+        "Fotoğraf, doğum tarihi ve medeni durum içermeyen bir iki sayfalık özgeçmiş kullan.",
+        "Kanadalı işverenler ilgili yerel ya da aktarılabilir deneyime değer verir; bunu net şekilde öne çıkar.",
+        "Nezaket ve iş birliğine açık bir üslup önemlidir; aşırı agresif kendini tanıtmaktan kaçın.",
+        "Referanslar sıkça kontrol edildiği için onları önceden hazırla."
+      ]
+    },
+    "united-kingdom": {
+      "name": "Birleşik Krallık",
+      "summary": "Birleşik Krallık, hizmet sektörü ağırlıklı büyük bir ekonomiye sahip ve Londra finans ile teknolojinin küresel merkezlerinden biri. Manchester, Edinburgh ve Bristol gibi şehirlerde de iş piyasası büyüyor.",
+      "jobMarket": "Finans, teknoloji, sağlık (özellikle NHS, yani kamu sağlık hizmeti), mühendislik ve yaratıcı endüstriler başlıca işverenler. Sağlık ve sosyal bakım, yazılım ve veri rolleri eleman açığı listelerinde sıkça yer alıyor.",
+      "visa": "Ana yol, maaş ve beceri eşiklerini karşılayan lisanslı bir sponsordan iş teklifi gerektiren Skilled Worker vizesi. Bunun yanında Health and Care Worker, Global Talent ve Graduate yolları da var; eşikler düzenli olarak güncellendiği için güncel şartları GOV.UK'den kontrol et.",
+      "salaryNote": "Londra'daki maaşlar belirgin şekilde daha yüksek ama yaşam maliyeti de öyle. Maaşlar genellikle gelir vergisi ve National Insurance (sosyal sigorta primi) kesilmeden önceki yıllık brüt tutar olarak belirtiliyor.",
+      "languages": "İngilizce",
+      "tips": [
+        "CV'ni yaklaşık iki sayfada tut ve fotoğraf ekleme.",
+        "Pek çok mülakat yetkinlik bazlı ilerlediği için bu formata uygun örnekler kullan.",
+        "Sert bir satış yaklaşımı yerine mütevazı ve ölçülü bir üslup daha iyi sonuç verir.",
+        "Başvuru izin veriyorsa kısa ve pozisyona özel bir ön yazı ekle."
+      ]
+    },
+    "ireland": {
+      "name": "İrlanda",
+      "summary": "İrlanda, pek çok küresel teknoloji ve ilaç şirketinin Avrupa merkezine ev sahipliği yapan İngilizce konuşulan bir AB ülkesi. Fırsatların çoğu Dublin, Cork ve Galway'de yoğunlaşıyor.",
+      "jobMarket": "Teknoloji, ilaç, tıbbi cihazlar, finans ve uçak kiralama başlıca sektörler. Yazılım mühendisliği, veri, sağlık ve inşaat rollerine istikrarlı bir talep var.",
+      "visa": "AB dışından gelen profesyoneller, talep gören meslekler için genellikle Critical Skills Employment Permit'i, diğer roller için ise General Employment Permit'i kullanıyor. Uygunluk listeleri ve maaş eşikleri düzenli olarak gözden geçirildiği için resmi Department of Enterprise ve Irish Immigration Service web sitelerini kontrol et.",
+      "salaryNote": "Teknoloji ve ilaç sektöründeki maaşlar Avrupa standartlarına göre rekabetçi. Dublin'de konut maliyetleri yüksek olduğundan teklifleri karşılaştırırken kirayı dikkatle hesaba kat.",
+      "languages": "İngilizce (İrlandaca resmî dil olsa da iş hayatında nadiren gerekiyor)",
+      "tips": [
+        "Fotoğrafsız, öz ve iki sayfalık bir CV kullan.",
+        "Mülakatın başında samimi bir sohbet yaygındır; rahatla ve sohbete katıl.",
+        "Sadece küresel markaya değil, şirketin İrlanda'daki çalışmalarına da gerçek ilgi göster.",
+        "Yetkinlik bazlı sorular yaygın olduğu için yapılandırılmış örnekler hazırla."
+      ]
+    },
+    "germany": {
+      "name": "Almanya",
+      "summary": "Almanya, mühendisliği, üretimi ve Mittelstand denen güçlü orta ölçekli şirketleriyle bilinen Avrupa'nın en büyük ekonomisi. Berlin, Münih, Hamburg ve Frankfurt başlıca iş merkezleri.",
+      "jobMarket": "Otomotiv, makine ve elektrik mühendisliği, BT, sağlık ve nitelikli zanaatlar yetenek açığıyla karşı karşıya. Hemşirelik, yazılım geliştirme ve mühendislik rolleri özellikle aranıyor.",
+      "visa": "Başlıca yollar, maaş eşiğini karşılayan nitelikli profesyoneller için EU Blue Card, nitelikli çalışan vizesi ve iş arayanlar için Opportunity Card (Chancenkarte). Diplomaların tanınması ve maaş seviyeleri gibi şartlar değiştiği için resmi Make it in Germany portalını ve Almanya'nın yurt dışı temsilciliklerini kontrol et.",
+      "salaryNote": "Maaşlar genellikle yıllık brüt olarak belirtiliyor; vergiler ve sosyal güvenlik kesintileri ciddi bir yer tutuyor. Ücretler güneyde ve büyük şehirlerde daha yüksek olma eğiliminde.",
+      "languages": "Almanca (teknoloji ve girişimlerde İngilizce yaygın, ama Almanca seçeneklerini büyük ölçüde genişletir)",
+      "tips": [
+        "Tablo biçiminde bir CV (Lebenslauf) standarttır; profesyonel fotoğraf isteğe bağlı ama hâlâ yaygın.",
+        "Varsa sertifikalarını ve iş referanslarını (Arbeitszeugnisse) başvuruna ekle.",
+        "Dakik ve titiz ol; mülakatlar genellikle yapılandırılmış ve olgulara odaklıdır.",
+        "Niteliklerin ve her roldeki görevlerin hakkında ayrıntılı sorular bekle."
+      ]
+    },
+    "netherlands": {
+      "name": "Hollanda",
+      "summary": "Hollanda, İngilizce konuşanların oranının yüksek olduğu açık ve uluslararası bir ekonomiye sahip. Amsterdam, Rotterdam, Lahey ve Eindhoven pek çok çok uluslu işverene ev sahipliği yapıyor.",
+      "jobMarket": "Teknoloji, lojistik, tarım-gıda, yaşam bilimleri, ileri teknoloji üretimi ve finans güçlü sektörler. Yazılım, veri, mühendislik ve sağlık rollerine talep var.",
+      "visa": "Pek çok profesyonel, göç idaresi tarafından tanınmış bir işveren ve asgari maaş şartı arayan Highly Skilled Migrant programıyla ya da EU Blue Card ile geliyor. Kurallar ve eşikler düzenli olarak güncellendiği için resmi IND web sitesini kontrol et.",
+      "salaryNote": "Maaşlar genellikle yıllık brüt olarak belirtiliyor ve çoğu zaman tatil ödeneği içeriyor. Randstad bölgesinde konut maliyetleri yüksek olabiliyor.",
+      "languages": "Felemenkçe ve İngilizce (uluslararası şirketlerde İngilizce yaygın olarak kullanılıyor)",
+      "tips": [
+        "CV'ni kısa ve olgulara dayalı tut; fotoğraf isteğe bağlı.",
+        "Hollandalılar doğrudan iletişim kurar; net ve dürüst yanıtlar ver.",
+        "Bağımsız çalışabildiğini ve uzlaşmaya dayalı kararlara katkı sunabildiğini göster.",
+        "Başarılarını abartma; mütevazı ama somut örnekler iyi karşılanır."
+      ]
+    },
+    "switzerland": {
+      "name": "İsviçre",
+      "summary": "İsviçre, dünyanın en yüksek maaşlarından bazılarını, istikrarlı bir ekonomiyi ve çok yüksek bir yaşam kalitesini sunuyor. Zürih, Cenevre, Basel ve Lozan başlıca iş merkezleri.",
+      "jobMarket": "Bankacılık, sigortacılık, ilaç, hassas mühendislik, BT ve uluslararası kuruluşlar başlıca işverenler. Teknoloji, yaşam bilimleri ve finans uzmanları özellikle aranıyor.",
+      "visa": "AB/EFTA vatandaşları serbest dolaşımdan yararlanıyor; AB dışı vatandaşlar ise yıllık kotalarla karşılaşıyor ve genellikle yüksek nitelikli olmaları, işverenin de uygun bir yerel aday bulunamadığını göstermesi gerekiyor. Güncel kurallar için resmi State Secretariat for Migration (SEM) ve kanton makamlarının web sitelerini kontrol et.",
+      "salaryNote": "Maaşlar çok yüksek, ama kiralar, sağlık sigortası ve günlük giderler de öyle. Ücret seviyeleri kantonlar ve dil bölgeleri arasında da farklılık gösteriyor.",
+      "languages": "Bölgeye göre Almanca, Fransızca ve İtalyanca; çok uluslu şirketlerde İngilizce yaygın",
+      "tips": [
+        "Eksiksiz bir başvuru genellikle fotoğraflı CV, sertifikalar ve referans mektupları içerir.",
+        "Titizlik ve güvenilirlik değerlidir; belgelerindeki her ayrıntıyı iki kez kontrol et.",
+        "Dakiklik şarttır; birkaç dakika erken var.",
+        "Bölgenin yerel dilini öğrenmek büyük bir avantajdır."
+      ]
+    },
+    "luxembourg": {
+      "name": "Lüksemburg",
+      "summary": "Lüksemburg, Avrupa'nın en yüksek ortalama gelirlerinden birine sahip küçük ama zengin bir AB ülkesi. İş gücünün büyük bir kısmı her gün komşu Fransa, Belçika ve Almanya'dan gidip geliyor.",
+      "jobMarket": "Finansal hizmetler, fon yönetimi, bankacılık, AB kurumları, BT ve lojistik öne çıkıyor. Uyum (compliance), muhasebe, BT alanındaki ve birden fazla dil bilen profesyonellere talep yüksek.",
+      "visa": "AB vatandaşları serbestçe çalışabiliyor; AB dışından gelen profesyoneller ise genellikle EU Blue Card'ı ya da bir iş teklifine bağlı ücretli çalışan oturma iznini kullanıyor. Şartlar değiştiği için resmi Guichet.lu portalını ve göç idaresini kontrol et.",
+      "salaryNote": "Maaşlar, yüksek yasal asgari ücretin de desteğiyle AB'nin en yüksekleri arasında. Konut pahalı olduğundan pek çok kişi sınırın öte tarafında yaşıyor.",
+      "languages": "Lüksemburgca, Fransızca ve Almanca; finans sektöründe İngilizce yaygın",
+      "tips": [
+        "Çok dillilik büyük bir avantaj olduğu için konuştuğun tüm dilleri öne çıkar.",
+        "Uygunsa CV'ni finans ya da AB bağlamına göre uyarla; tarihleri ve sorumlulukları net yaz.",
+        "Mülakat sırasında dil değişebilir; birden fazla dilde yanıt vermeye hazır ol.",
+        "Finans ve kurumsal rollerde resmî ve özenli bir sunum beklenir."
+      ]
+    },
+    "sweden": {
+      "name": "İsveç",
+      "summary": "İsveç, küresel markaları, girişimleri ve iş-yaşam dengesine verdiği önemle bilinen yenilikçi bir ekonomiye sahip. Stockholm, Göteborg ve Malmö başlıca iş merkezleri.",
+      "jobMarket": "Teknoloji, oyun, temiz enerji, yaşam bilimleri, mühendislik ve sağlık kilit sektörler. Yazılım geliştiricilere, mühendislere ve sağlık personeline talep var.",
+      "visa": "AB dışından gelen profesyoneller genellikle maaş ve çalışma koşulları şartlarını karşılayan bir iş teklifine dayalı çalışma iznine ihtiyaç duyuyor; bazıları EU Blue Card için de uygun olabiliyor. Kurallar son yıllarda sıkılaştırıldığı için resmi İsveç Göç Kurumu (Migrationsverket) web sitesini kontrol et.",
+      "salaryNote": "Maaşlar Batı Avrupa standartlarına göre orta düzeyde, ama yan haklar, ebeveyn izni ve tatiller cömert. Vergiler görece yüksek.",
+      "languages": "İsveççe (özellikle teknolojide İngilizce yaygın olarak konuşuluyor)",
+      "tips": [
+        "CV'ni öz tut; fotoğraf isteğe bağlı.",
+        "İsveç'te iş yerleri hiyerarşik değildir; hiyerarşi yerine takım çalışması ve alçakgönüllülük göster.",
+        "Abartıdan kaçın; dengeli ve dürüst yanıtlar güven oluşturur.",
+        "Nasıl iş birliği yaptığın ve birlikte nasıl karar aldığınla ilgili sorular bekle."
+      ]
+    },
+    "denmark": {
+      "name": "Danimarka",
+      "summary": "Danimarka güçlü bir ekonomiyi yüksek güven ortamı, esnek çalışma kuralları ve mükemmel bir iş-yaşam dengesiyle birleştiriyor. Kopenhag ve Aarhus başlıca istihdam merkezleri.",
+      "jobMarket": "Yaşam bilimleri, yeşil enerji, denizcilik, BT ve mühendislik kilit sektörler. Sağlık profesyonelleri, mühendisler ve BT uzmanları sıkça aranıyor.",
+      "visa": "Yaygın yollar arasında yüksek maaşlı iş teklifleri için Pay Limit Scheme, eleman açığı olan meslekler için Positive List ve sertifikalı işverenler için hızlı başvuru programları var. Programlar ve eşikler değiştiği için resmi New to Denmark (SIRI) web sitesini kontrol et.",
+      "salaryNote": "Maaşlar yüksek, ama kapsamlı kamu hizmetlerini finanse eden gelir vergileri de öyle. Çalışanların çoğu cömert ücretli tatil hakkına sahip.",
+      "languages": "Danca (uluslararası şirketlerde İngilizce yaygın olarak kullanılıyor)",
+      "tips": [
+        "Kısa ve kişisel bir CV ile pozisyona özel bir motivasyon mektubu yaz.",
+        "Danimarka kültürü resmiyetten uzak ve eşitlikçidir; rahat ama profesyonel ol.",
+        "Bağımsız çalışabildiğini ve sorumluluk aldığını göster.",
+        "Bilmediğin konularda dürüst ol; kendini abartmak ters tepebilir."
+      ]
+    },
+    "australia": {
+      "name": "Avustralya",
+      "summary": "Avustralya güçlü bir ekonomiye, yüksek yaşam standardına ve nitelikli göçte köklü bir geçmişe sahip. Sidney, Melbourne, Brisbane ve Perth başlıca iş piyasaları.",
+      "jobMarket": "Sağlık, inşaat, madencilik ve doğal kaynaklar, eğitim ve teknoloji başlıca işverenler. Hemşireler, mühendisler, zanaatkârlar ve BT profesyonelleri sıkça beceri açığı listelerinde yer alıyor.",
+      "visa": "Seçenekler arasında işveren sponsorluğunda geçici ve daimi vizeler ile puana dayalı bağımsız ya da eyalet adaylığıyla verilen nitelikli çalışan vizeleri var. Meslek listeleri ve şartlar düzenli olarak değiştiği için resmi Department of Home Affairs web sitesini kontrol et.",
+      "salaryNote": "Maaşlar genellikle yüksek ve işverenler bunun üzerine zorunlu superannuation (emeklilik katkısı) ödüyor. Sidney ve Melbourne'de maliyetler, özellikle konut, yüksek.",
+      "languages": "İngilizce",
+      "tips": [
+        "İki üç sayfalık bir özgeçmiş yaygındır; fotoğrafa gerek yok.",
+        "Samimi ve mütevazı bir üslup kullan; kibir hemen fark edilir.",
+        "STAR yöntemiyle davranışsal örnekler hazırla.",
+        "Alanın gerektiriyorsa yerel standartları ya da lisans şartlarını bildiğini göster."
+      ]
+    },
+    "united-arab-emirates": {
+      "name": "Birleşik Arap Emirlikleri",
+      "summary": "Birleşik Arap Emirlikleri, geniş bir uluslararası iş gücüne sahip bölgesel bir iş merkezi. Dubai ve Abu Dabi dünyanın dört bir yanından profesyonelleri çekiyor.",
+      "jobMarket": "Finans, gayrimenkul, inşaat, turizm ve konaklama, havacılık, lojistik ve teknoloji başlıca sektörler. Yapay zekâ, fintek ve yenilenebilir enerjide talep artıyor.",
+      "visa": "Profesyonellerin çoğu işveren sponsorluğunda çalışma izni ve oturma vizesiyle çalışıyor; belirli nitelikli ya da yüksek gelirli kişiler için Golden Visa ve Green Visa seçenekleri de var. Kurallar değiştiği için u.ae gibi resmi devlet portallarını ve ilgili emirlik makamlarını kontrol et.",
+      "salaryNote": "Pek çok işte kişisel gelir vergisi yok ve paketler konut ya da ulaşım ödeneği içerebiliyor. Sadece taban maaşı değil, her zaman toplam paketi karşılaştır.",
+      "languages": "Arapça ve İngilizce (İngilizce ana iş dili)",
+      "tips": [
+        "CV'de profesyonel bir fotoğraf yaygın ve kabul görür.",
+        "İşverenler sıkça sorduğu için uyruğunu ve vize durumunu belirt.",
+        "Mülakatlar için resmî ve muhafazakâr giyin.",
+        "Güven ilişkisi kur; ilişkiler ve saygılı davranışlar çok önemlidir."
+      ]
+    },
+    "japan": {
+      "name": "Japonya",
+      "summary": "Japonya, otomotiv, elektronik ve üretimde küresel liderlere sahip büyük bir gelişmiş ekonomi. Tokyo, Osaka ve Nagoya en büyük iş piyasaları.",
+      "jobMarket": "BT, mühendislik, üretim, sağlık ve konaklama sektörleri yaşlanan nüfus nedeniyle iş gücü açığıyla karşı karşıya. Yazılım mühendisleri ve Japonca bilen uzmanlar özellikle değerli.",
+      "visa": "Yaygın yollar arasında Engineer/Specialist in Humanities/International Services vizesi, puana dayalı Highly Skilled Professional vizesi ve belirli sektörler için Specified Skilled Worker vizeleri var. Şartlar değiştiği için resmi Immigration Services Agency of Japan web sitesini kontrol et.",
+      "salaryNote": "Taban maaşlar ABD'ye kıyasla mütevazı olabilir, ama primler ve ödenekler yaygın. Pek çok geleneksel şirkette kıdem hâlâ ücreti etkiliyor.",
+      "languages": "Japonca (yalnızca İngilizce gerektiren roller çoğunlukla teknoloji ve yabancı şirketlerde bulunuyor)",
+      "tips": [
+        "Geleneksel şirketler fotoğraflı, standart formatta bir özgeçmiş (rirekisho) bekleyebilir.",
+        "Nezaket, alçakgönüllülük ve resmî selamlaşma çok önemlidir.",
+        "Erken var ve muhafazakâr giyin; genellikle koyu renk bir takım elbise tercih edilir.",
+        "Bireysel hırs yerine uzun vadeli bağlılık ve takım odaklılık göster."
+      ]
+    },
+    "singapore": {
+      "name": "Singapur",
+      "summary": "Singapur, son derece uluslararası bir iş gücüne sahip, finans, ticaret ve teknolojide Asya'nın önde gelen merkezlerinden biri. Pek çok çok uluslu şirket Asya-Pasifik merkezini burada konumlandırıyor.",
+      "jobMarket": "Finans, teknoloji, lojistik, biyomedikal bilimler ve profesyonel hizmetler kilit sektörler. Yazılım, veri, siber güvenlik ve finans uzmanlarına talep güçlü.",
+      "visa": "Profesyonellerin genellikle maaşı ve puana dayalı bir çerçeveyi dikkate alan Employment Pass'e ihtiyacı var; orta nitelikli çalışanlar ise S Pass kullanabiliyor. Kriterler düzenli olarak güncellendiği için resmi Ministry of Manpower (MOM) web sitesini kontrol et.",
+      "salaryNote": "Finans ve teknolojideki maaşlar rekabetçi ve kişisel gelir vergisi görece düşük. Konut ve araç sahibi olmak pahalı.",
+      "languages": "İngilizce (ana iş dili), ayrıca Mandarin Çincesi, Malayca ve Tamilce",
+      "tips": [
+        "CV'ni öz ve sonuç odaklı tut; fotoğraf isteğe bağlı.",
+        "İhbar süren ve çalışma izni durumun konusunda net ol.",
+        "Çeşitli bir ekipte farklı kültürlerle çalışabildiğini göster.",
+        "Beklediğin maaşı doğrudan konuşmaya hazır ol; bu genellikle erken aşamada sorulur."
+      ]
+    }
+  },
+  "tipCategories": {
+    "before": "Mülakattan önce",
+    "during": "Mülakat sırasında",
+    "tough": "Zor sorular",
+    "remote": "Uzaktan mülakatlar",
+    "after": "Mülakattan sonra"
+  },
+  "tips": {
+    "before-reverse-engineer-posting": { "title": "İş ilanını kontrol listesine dönüştür", "body": "İlandaki her beceriyi ve sorumluluğu işaretle ve her birinin yanına kendi deneyiminden bir örnek yaz. Şimdi fark ettiğin eksikler, mülakatta seni şaşırtmak yerine önceden hazırlanabileceğin sorulara dönüşür." },
+    "before-story-bank": { "title": "Beş hikâyelik bir banka oluştur", "body": "Bir başarı, bir başarısızlık, bir anlaşmazlık, liderlik ettiğin bir an ve hızla öğrendiğin bir an hakkında beş kısa hikâye hazırla. Davranışsal soruların çoğunu bunlardan birini uyarlayarak yanıtlayabilirsin." },
+    "before-news-check": { "title": "Şirketle ilgili son haberlere göz at", "body": "Bir gün önce şirketle ilgili son haberleri, ürün lansmanlarını ya da yatırım haberlerini ara. Güncel bir konudan bahsetmek gerçek ilgini gösterir ve sana sorabileceğin doğal bir soru kazandırır." },
+    "before-map-interviewers": { "title": "Mülakatçılarını araştır", "body": "Seninle kimin görüşeceğini biliyorsan, rollerini ve geçmişlerini anlamak için profesyonel profillerine göz at. Bu, örneklerini her kişinin önemsediği konulara göre uyarlamana yardımcı olur." },
+    "before-practice-out-loud": { "title": "Yanıtlarını sesli çalış", "body": "İçinden prova yapmak akıcı gelir, ama sesli konuşunca nerede lafı uzattığını ya da takıldığını görürsün. Temel yanıtlarını birkaç kez yüksek sesle söyle, mümkünse her birini bir iki dakikayla sınırlayarak süre tut." },
+    "before-prepare-kit": { "title": "Mülakat çantanı hazırla", "body": "CV'nin basılı kopyalarını, bir defter, kalem, kimliğini ve mülakatçının iletişim bilgilerini hazırla. Her şeyi bir gece önceden hazır etmek son dakika stresini ortadan kaldırır." },
+    "before-plan-route": { "title": "Rotanı pay bırakarak planla", "body": "Yolculuk süresini günün aynı saatinde kontrol et ve en az 20 dakika pay ekle. Yakınlara erken varmayı ve başlangıçtan 5 ila 10 dakika önce içeri girmeyi hedefle." },
+    "before-thirty-sixty-ninety": { "title": "30-60-90 günlük bir plan taslağı çıkar", "body": "İlk üç ayında neler öğreneceğine, neler teslim edeceğine ve neleri iyileştireceğine dair birkaç madde yaz. Kimse sormasa bile, nasıl değer katacağına dair yanıtlarını keskinleştirir." },
+    "during-first-ninety-seconds": { "title": "İlk 90 saniyeye hâkim ol", "body": "İlk izlenim çabuk oluşur; herkesi sıcak bir şekilde selamla, gülümse ve isimleriyle hitap et. Sakin ve samimi bir başlangıç, sohbetin geri kalanını iki taraf için de kolaylaştırır." },
+    "during-pause-before-answering": { "title": "Yanıtlamadan önce kısa bir duraksama yap", "body": "Düşünmek için iki üç saniye almak yavaşlık değil, özgüven gibi görünür. En iyi örneği seçmene ve sessizliği dolgu kelimelerle doldurmaktan kaçınmana yardımcı olur." },
+    "during-numbers-in-answers": { "title": "Yanıtlarına sayılar ekle", "body": "Mümkün olduğunda etkini ölç: kazanılan zaman, artan gelir, azalan hatalar ya da hizmet verilen müşteri sayısı. Somut rakamlar hikâyelerini inandırıcı ve akılda kalıcı yapar." },
+    "during-clarify-question": { "title": "Belirsiz soruları netleştir", "body": "Bir soru muğlaksa, kısa bir netleştirme sorusu sor ya da anladığını kendi cümlelerinle tekrar et. Doğru soruyu yanıtlamak, hızlı yanıtlamaktan iyidir." },
+    "during-watch-length": { "title": "Yanıtlarını yaklaşık iki dakikada tut", "body": "Uzun yanıtlar dikkati dağıtır, kısa olanlar ise yetersiz kalır. Bir iki dakikayı hedefle, ardından şöyle bir şeyle nabız yokla: Bu konuda daha fazla ayrıntı ister misiniz?" },
+    "during-take-notes": { "title": "Kısa notlar al", "body": "Mülakatçının bahsettiği önemli noktaları not etmek ilgili olduğunu gösterir. Bu notlara hem sorularında hem de teşekkür mesajında geri dönebilirsin." },
+    "during-mirror-energy": { "title": "Mülakatçının tarzına uyum sağla", "body": "Mülakatçının resmî mi rahat mı, hızlı mı düşünceli mi olduğunu fark et ve üslubunu hafifçe ayarla. Onun temposuna uyum sağlamak, kendi kişiliğini kaybetmeden yakınlık kurmanı sağlar." },
+    "during-close-strong": { "title": "Net bir kapanışla bitir", "body": "Ayrılmadan önce role neden uygun olduğunu kısaca özetle ve ilgini teyit et. Ardından sonraki adımları ve beklenen takvimi sor." },
+    "tough-gap-in-cv": { "title": "CV'ndeki boşluğu açıklamak", "body": "Sebep bakım sorumluluğu, sağlık, eğitim ya da iş arayışı olsun, kısa ve dürüst ol. Sonra hızla formunu korumak için neler yaptığına ve neden şimdi hazır olduğuna geç." },
+    "tough-why-leaving": { "title": "İşinden neden ayrılıyorsun?", "body": "Kaçtığın şeye değil; gelişim, yeni zorluklar ya da daha iyi bir uyum gibi yöneldiğin şeye odaklan. Mevcut ya da önceki işvereni asla eleştirme." },
+    "tough-failure-story": { "title": "Bana bir başarısızlığından bahset", "body": "Gerçek ama telafi edilebilir bir hata seç, bahane üretmeden payını üstlen ve yanıtın büyük kısmını ne öğrendiğine ayır. Bu dersi daha sonra nasıl uyguladığınla bitir." },
+    "tough-overqualified": { "title": "Bu pozisyon için fazla niteliklisin gibi görünüyor", "body": "Genellikle sıkılacağın ya da çabuk ayrılacağın olan gizli endişeyi ele al. Bu rolün şu anki hedeflerine neden uyduğunu ve deneyiminin ekibe ilk günden nasıl katkı sağlayacağını anlat." },
+    "tough-dont-know-answer": { "title": "Cevabı bilmediğinde", "body": "Blöf yapma. Bildiğin kısmı söyle, gerisini nasıl öğreneceğini açıkla ve mümkünse problemi sesli düşünerek çöz ki nasıl düşündüğünü görebilsinler." },
+    "tough-other-offers": { "title": "Başka yerlerle de görüşüyor musun?", "body": "Şirket adı ya da ayrıntı vermeden evet demen gayet normal. Bu rolün sana çok uygun olduğunu vurgula ve varsa zaman kısıtlarını dürüstçe paylaş." },
+    "tough-illegal-questions": { "title": "Uygunsuz sorularla başa çıkmak", "body": "Pek çok ülkede yaş, din, medeni durum ya da aile planlarıyla ilgili sorular yasaktır. Örneğin bunların işi yapma becerini hiçbir şekilde etkilemeyeceğini söyleyerek konuyu kibarca niteliklerine geri getirebilirsin." },
+    "tough-where-in-five-years": { "title": "Kendini beş yıl sonra nerede görüyorsun?", "body": "Daha derin uzmanlık ya da daha fazla sorumluluk gibi, bu rolün sunabileceği yola uygun bir hırs göster. Tamamen farklı bir kariyerden ya da mülakatçının kendi pozisyonundan bahsetmekten kaçın." },
+    "remote-test-tech": { "title": "Platformu önceden test et", "body": "Görüntülü görüşme uygulamasını kur, güncelle ve bir gün önce bir arkadaşınla deneme görüşmesi yap. Kullanacağın cihazda kameranın, mikrofonun ve ekran paylaşımının çalıştığından emin ol." },
+    "remote-camera-eye-level": { "title": "Kamerayı göz hizasına getir", "body": "Kameranın göz hizasında olması için dizüstü bilgisayarını kitapların ya da bir standın üzerine yerleştir. Önemli noktaları anlatırken lense bak ki mülakatçı göz teması kurduğunu hissetsin." },
+    "remote-lighting-audio": { "title": "Işığı ve sesi doğru ayarla", "body": "Yüzünün eşit aydınlanması için pencereye ya da lambaya dönük otur ve arkanda parlak ışık olmasından kaçın. Mikrofonlu kablolu kulaklıklar genellikle dizüstü bilgisayar hoparlörlerinden daha net ses verir." },
+    "remote-clean-background": { "title": "Sakin bir arka plan seç", "body": "Düzenli ve sade bir arka planın önüne otur ve kadrajdaki dikkat dağıtıcı şeyleri kaldır. Evdekilere mülakat saatini söyle ve tüm cihazlarındaki bildirimleri sessize al." },
+    "remote-notes-off-screen": { "title": "Notlarını akıllıca kullan", "body": "Kameranın yakınına yapıştırılmış bir not kâğıdındaki birkaç anahtar kelime işine yarayabilir, ama yanıtların tamamını okuma. Mülakatçılar gözlerinin ekranda sürekli gezindiğini fark eder." },
+    "remote-lag-etiquette": { "title": "Ses gecikmesini hesaba kat", "body": "Birbirinizin sözünü kesmemek için mülakatçı sözünü bitirdikten sonra konuşmadan önce bir an bekle. Bağlantı koparsa sakince yeniden katıl ve kaldığın yeri kısaca özetle." },
+    "remote-backup-plan": { "title": "Yedek bir planın olsun", "body": "İnternetin kesilme ihtimaline karşı telefonunu şarjlı ve mülakatçının iletişim bilgilerini elinin altında tut. Kullanıma hazır bir mobil erişim noktası mülakatı kurtarabilir." },
+    "remote-one-way-video": { "title": "Tek yönlü video mülakatları", "body": "Karşında canlı biri olmayan kayıtlı mülakatlarda kamerayı dinleyicin gibi düşün ve başta gülümse. Varsa deneme sorularını kadrajı kontrol etmek için kullan, sonra canlı bir görüşmedeki enerjinle yanıt ver." },
+    "after-debrief-notes": { "title": "Hemen bir değerlendirme notu yaz", "body": "Bir saat içinde sorulan soruları, yanıtlarını, isimleri ve geliştirebileceğin her şeyi not al. Bu notlar hem takip mesajlarında hem de sonraki mülakatlarında işine yarar." },
+    "after-personal-thank-you": { "title": "Teşekkür mesajını kişiselleştir", "body": "24 saat içinde, konuştuğunuz belirli bir konuya değinen kısa bir teşekkür e-postası gönder. Kişisel bir ayrıntı, mesajını sıradan olmaktan çıkarıp akılda kalıcı yapar." },
+    "after-follow-up-timing": { "title": "Doğru zamanda takip et", "body": "Sana bir takvim verdilerse takip etmeden önce o sürenin dolmasını bekle. Aksi hâlde, yaklaşık bir hafta sonra nazikçe durumu sormak makul olur." },
+    "after-connect-linkedin": { "title": "Profesyonel bağlantı kur", "body": "Tanıştığın kişilere kısa bir notla bağlantı isteği göndermeyi düşünebilirsin. Profesyonel tut ve bunu kararı sormak için kullanma." },
+    "after-handle-silence": { "title": "Sessizliği sakinlikle karşıla", "body": "İşe alım süreçleri çoğu zaman seninle hiç ilgisi olmayan nedenlerle planlanandan uzun sürer. Bir iki nazik takip mesajından sonra odağını diğer fırsatlara ver." },
+    "after-ask-feedback": { "title": "Olumsuz yanıttan sonra geri bildirim iste", "body": "Nazikçe yanıt ver ve geliştirebileceğin bir iki noktayı paylaşıp paylaşamayacaklarını sor. Herkes yanıt vermeyecektir, ama faydalı bir geri bildirim çok değerlidir ve olumlu bir yanıt kapıyı açık tutar." },
+    "after-compare-offers": { "title": "Teklifleri bütün resme bakarak karşılaştır", "body": "Taban maaşın ötesine geç; primlere, yan haklara, izinlere, esnekliğe, gelişim fırsatlarına ve işe gidiş gelişe de bak. Bunları bir tabloda yan yana yazmak doğru seçimi netleştirir." },
+    "after-keep-pipeline": { "title": "Başvuru akışını canlı tut", "body": "Bir şirketin kararını beklerken iş aramaya ara verme. Başvurmaya devam etmek seçeneklerini açık tutar ve tek bir mülakatın üzerindeki baskıyı azaltır." }
+  }
+}

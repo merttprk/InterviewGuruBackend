@@ -1,0 +1,297 @@
+{
+  "regions": {
+    "us": "Estados Unidos",
+    "uk": "Reino Unido",
+    "de": "Alemania",
+    "tr": "Turquía",
+    "in": "India",
+    "id": "Indonesia",
+    "my": "Malasia",
+    "br": "Brasil",
+    "es": "España",
+    "fr": "Francia"
+  },
+  "salaryCategories": {
+    "technology": "Tecnología",
+    "healthcare": "Salud",
+    "business": "Negocios y finanzas",
+    "sales": "Ventas y marketing",
+    "education": "Educación",
+    "engineering": "Ingeniería",
+    "creative": "Creatividad",
+    "hospitality": "Hostelería y atención al cliente"
+  },
+  "salaries": {
+    "software-engineer": { "title": "Ingeniero de software", "description": "Diseña, desarrolla, prueba y mantiene aplicaciones y sistemas de software." },
+    "data-analyst": { "title": "Analista de datos", "description": "Convierte datos en bruto en informes, paneles y conclusiones que orientan las decisiones de negocio." },
+    "product-manager": { "title": "Product manager", "description": "Decide qué debe hacer un producto y coordina a los equipos de ingeniería, diseño y negocio para lograrlo." },
+    "ux-designer": { "title": "Diseñador UX", "description": "Investiga las necesidades de los usuarios y diseña flujos, wireframes e interfaces intuitivas para productos digitales." },
+    "devops-engineer": { "title": "Ingeniero DevOps", "description": "Automatiza la infraestructura, los despliegues y la monitorización para que el software se publique de forma fiable y rápida." },
+    "nurse": { "title": "Enfermero", "description": "Brinda atención directa a los pacientes, administra tratamientos y se coordina con médicos y familias." },
+    "pharmacist": { "title": "Farmacéutico", "description": "Dispensa medicamentos de forma segura y asesora a pacientes y profesionales sobre dosis, interacciones y efectos secundarios." },
+    "physiotherapist": { "title": "Fisioterapeuta", "description": "Ayuda a los pacientes a recuperar la movilidad y controlar el dolor mediante ejercicio, terapia manual y educación." },
+    "accountant": { "title": "Contador", "description": "Elabora estados financieros, gestiona los libros contables y garantiza el cumplimiento fiscal y normativo." },
+    "financial-analyst": { "title": "Analista financiero", "description": "Elabora previsiones y modelos financieros para evaluar resultados, presupuestos y decisiones de inversión." },
+    "hr-specialist": { "title": "Especialista en recursos humanos", "description": "Gestiona la selección, la incorporación, las relaciones laborales y las políticas de RR. HH. de una organización." },
+    "project-manager": { "title": "Gestor de proyectos", "description": "Planifica proyectos, gestiona el alcance, el presupuesto y los plazos, y mantiene alineadas a las partes interesadas hasta la entrega." },
+    "lawyer": { "title": "Abogado", "description": "Asesora a clientes en asuntos legales, redacta contratos y los representa en negociaciones o ante los tribunales." },
+    "sales-representative": { "title": "Representante de ventas", "description": "Busca y califica clientes potenciales, presenta productos y cierra ventas para alcanzar los objetivos de ingresos." },
+    "digital-marketing-specialist": { "title": "Especialista en marketing digital", "description": "Planifica y optimiza campañas en línea en buscadores, redes sociales, correo electrónico y canales de pago." },
+    "teacher": { "title": "Docente", "description": "Planifica clases, enseña a los alumnos y evalúa su progreso en un centro educativo." },
+    "civil-engineer": { "title": "Ingeniero civil", "description": "Diseña y supervisa infraestructuras como carreteras, puentes, edificios y sistemas de agua." },
+    "mechanical-engineer": { "title": "Ingeniero mecánico", "description": "Diseña, analiza y mejora máquinas, productos y procesos de fabricación." },
+    "electrical-engineer": { "title": "Ingeniero eléctrico", "description": "Diseña y prueba sistemas eléctricos, desde la distribución de energía hasta la electrónica y los sistemas de control." },
+    "graphic-designer": { "title": "Diseñador gráfico", "description": "Crea conceptos visuales para marcas, materiales de marketing, sitios web y publicaciones." },
+    "architect": { "title": "Arquitecto", "description": "Diseña edificios y espacios equilibrando estética, funcionalidad, normativa y presupuesto." },
+    "customer-support-specialist": { "title": "Especialista en atención al cliente", "description": "Resuelve dudas y problemas de los clientes por teléfono, chat o correo electrónico y mantiene su satisfacción." },
+    "hotel-manager": { "title": "Gerente de hotel", "description": "Supervisa las operaciones del hotel, el personal, la experiencia de los huéspedes y los resultados financieros." },
+    "chef": { "title": "Chef", "description": "Planifica menús, prepara platos y dirige al equipo de cocina con estándares de calidad constantes." }
+  },
+  "countries": {
+    "united-states": {
+      "name": "Estados Unidos",
+      "summary": "Estados Unidos es la mayor economía del mundo, con un mercado laboral dinámico y muy competitivo. Los sueldos suelen ser altos, pero beneficios como el seguro médico y las vacaciones pagadas varían mucho según el empleador.",
+      "jobMarket": "La tecnología, la salud, las finanzas y los servicios profesionales contratan de forma constante y a gran escala. Los puestos de ingeniería, datos, ciberseguridad y enfermería siguen teniendo mucha demanda en numerosos estados.",
+      "visa": "Las vías más comunes son la visa H-1B para ocupaciones especializadas, la L-1 para traslados dentro de una misma empresa, la O-1 para personas con capacidades extraordinarias y las green cards por empleo. La mayoría requieren el patrocinio de un empleador y algunas funcionan por sorteo, así que consulta siempre los sitios oficiales de USCIS y del Departamento de Estado, ya que las normas cambian a menudo.",
+      "salaryNote": "Los sueldos varían mucho según la ciudad y el estado, y los polos tecnológicos de las costas son los que mejor pagan. Ten siempre en cuenta el costo del seguro médico, los impuestos y los bonos o acciones al comparar ofertas.",
+      "languages": "Inglés",
+      "tips": [
+        "Limita tu currículum a una o dos páginas y no incluyas foto, edad ni estado civil.",
+        "Cuantifica tus logros con cifras, porcentajes y resultados.",
+        "Prepárate para preguntas de comportamiento y respóndelas con historias claras usando el método STAR.",
+        "Hablar con seguridad de tus propios aportes es lo esperado y no se considera presumir."
+      ]
+    },
+    "canada": {
+      "name": "Canadá",
+      "summary": "Canadá tiene una economía estable y diversa, y acoge activamente a inmigrantes cualificados. Sus principales polos son Toronto, Vancouver, Montreal y Calgary.",
+      "jobMarket": "La salud, la tecnología, los oficios especializados, la ingeniería y las finanzas son sectores clave de contratación. Muchas provincias reportan escasez de personal en enfermería, construcción e informática.",
+      "visa": "Los trabajadores cualificados suelen solicitar la residencia permanente a través de Express Entry o de los Programas de Nominación Provincial, mientras que los permisos de trabajo ligados a un empleador pueden requerir una evaluación del mercado laboral. Los programas y criterios de selección cambian con frecuencia, así que consulta el sitio oficial de Immigration, Refugees and Citizenship Canada (IRCC).",
+      "salaryNote": "Los sueldos suelen ser más bajos que en Estados Unidos, pero incluyen sanidad pública. La remuneración y el costo de vida difieren bastante entre provincias y ciudades.",
+      "languages": "Inglés y francés (el francés es imprescindible en gran parte de Quebec)",
+      "tips": [
+        "Usa un currículum de una o dos páginas sin foto, fecha de nacimiento ni estado civil.",
+        "Los empleadores canadienses valoran la experiencia local o transferible, así que destácala con claridad.",
+        "La cortesía y un tono colaborativo importan; evita la autopromoción demasiado agresiva.",
+        "Ten tus referencias preparadas de antemano, ya que suelen verificarse."
+      ]
+    },
+    "united-kingdom": {
+      "name": "Reino Unido",
+      "summary": "Reino Unido tiene una gran economía basada en los servicios, con Londres como centro mundial de las finanzas y la tecnología. Ciudades como Mánchester, Edimburgo y Bristol también tienen mercados laborales en crecimiento.",
+      "jobMarket": "Las finanzas, la tecnología, la salud (sobre todo el NHS), la ingeniería y las industrias creativas son grandes empleadores. Los puestos de salud y asistencia social, software y datos aparecen con frecuencia en las listas de ocupaciones con escasez.",
+      "visa": "La vía principal es la Skilled Worker visa, que exige una oferta de trabajo de un patrocinador autorizado que cumpla los umbrales de salario y cualificación. También existen las vías Health and Care Worker, Global Talent y Graduate; consulta GOV.UK para conocer los requisitos vigentes, ya que los umbrales se actualizan con regularidad.",
+      "salaryNote": "Los sueldos en Londres son notablemente más altos, pero también lo es el costo de vida. Los salarios suelen expresarse en bruto anual, antes del impuesto sobre la renta y la National Insurance.",
+      "languages": "Inglés",
+      "tips": [
+        "Limita tu CV a unas dos páginas y no incluyas foto.",
+        "Usa ejemplos basados en competencias, ya que muchas entrevistas siguen ese formato.",
+        "Un tono modesto y comedido funciona mejor que venderte en exceso.",
+        "Añade una carta de presentación breve y personalizada cuando la candidatura lo permita."
+      ]
+    },
+    "ireland": {
+      "name": "Irlanda",
+      "summary": "Irlanda es un país anglohablante de la UE que alberga las sedes europeas de muchas empresas tecnológicas y farmacéuticas globales. La mayoría de las oportunidades se concentran en Dublín, Cork y Galway.",
+      "jobMarket": "La tecnología, la industria farmacéutica, los dispositivos médicos, las finanzas y el arrendamiento de aeronaves son sectores importantes. Los puestos de ingeniería de software, datos, salud y construcción tienen una demanda constante.",
+      "visa": "Los profesionales de fuera de la UE suelen usar el Critical Skills Employment Permit para ocupaciones muy demandadas o el General Employment Permit para otros puestos. Las listas de ocupaciones elegibles y los umbrales salariales se revisan con regularidad, así que consulta los sitios oficiales del Department of Enterprise y del Irish Immigration Service.",
+      "salaryNote": "Los sueldos en tecnología y farmacia son competitivos para los estándares europeos. La vivienda en Dublín es cara, así que valora bien el alquiler al comparar ofertas.",
+      "languages": "Inglés (el irlandés es lengua oficial, pero rara vez se exige en el trabajo)",
+      "tips": [
+        "Usa un CV conciso de dos páginas sin foto.",
+        "Es habitual una charla amistosa al inicio de la entrevista; relájate y participa.",
+        "Muestra un interés genuino por la actividad de la empresa en Irlanda, no solo por la marca global.",
+        "Las preguntas por competencias son habituales, así que prepara ejemplos estructurados."
+      ]
+    },
+    "germany": {
+      "name": "Alemania",
+      "summary": "Alemania es la mayor economía de Europa, conocida por su ingeniería, su industria y un sólido Mittelstand de empresas medianas. Berlín, Múnich, Hamburgo y Fráncfort son los principales polos de empleo.",
+      "jobMarket": "La automoción, la ingeniería mecánica y eléctrica, la informática, la salud y los oficios especializados sufren escasez de talento. Los puestos de enfermería, desarrollo de software e ingeniería son especialmente buscados.",
+      "visa": "Las vías principales son la Tarjeta Azul de la UE para profesionales cualificados que superen un umbral salarial, la visa para trabajadores cualificados y la Opportunity Card (Chancenkarte) para quienes buscan empleo. Requisitos como el reconocimiento de títulos y los niveles salariales cambian, así que consulta el portal oficial Make it in Germany y las representaciones alemanas en el extranjero.",
+      "salaryNote": "Los sueldos suelen expresarse en bruto anual, y los impuestos más las cotizaciones sociales son considerables. La remuneración tiende a ser mayor en el sur y en las grandes ciudades.",
+      "languages": "Alemán (el inglés es habitual en tecnología y startups, pero el alemán amplía mucho tus opciones)",
+      "tips": [
+        "El CV en formato tabular (Lebenslauf) es el estándar; una foto profesional es opcional, pero todavía habitual.",
+        "Incluye en tu candidatura certificados y referencias laborales (Arbeitszeugnisse) si los tienes.",
+        "Sé puntual y preciso; las entrevistas suelen ser estructuradas y centradas en los hechos.",
+        "Prepárate para preguntas detalladas sobre tu formación y sobre qué hiciste exactamente en cada puesto."
+      ]
+    },
+    "netherlands": {
+      "name": "Países Bajos",
+      "summary": "Países Bajos tiene una economía abierta e internacional con un alto porcentaje de hablantes de inglés. Ámsterdam, Róterdam, La Haya y Eindhoven albergan a muchos empleadores multinacionales.",
+      "jobMarket": "La tecnología, la logística, el sector agroalimentario, las ciencias de la vida, la industria de alta tecnología y las finanzas son sectores fuertes. Los puestos de software, datos, ingeniería y salud tienen demanda.",
+      "visa": "Muchos profesionales llegan a través del programa Highly Skilled Migrant, que exige un empleador reconocido por el servicio de inmigración y un salario mínimo, o mediante la Tarjeta Azul de la UE. Las normas y los umbrales se actualizan con regularidad, así que consulta el sitio oficial del IND.",
+      "salaryNote": "Los sueldos suelen expresarse en bruto anual y a menudo incluyen una paga de vacaciones. La vivienda en la zona del Randstad puede ser cara.",
+      "languages": "Neerlandés e inglés (el inglés se usa mucho en las empresas internacionales)",
+      "tips": [
+        "Mantén tu CV breve y objetivo; la foto es opcional.",
+        "La comunicación neerlandesa es directa, así que da respuestas claras y honestas.",
+        "Demuestra que puedes trabajar de forma autónoma y contribuir a decisiones tomadas por consenso.",
+        "No exageres tus logros; los ejemplos modestos pero concretos causan buena impresión."
+      ]
+    },
+    "switzerland": {
+      "name": "Suiza",
+      "summary": "Suiza ofrece algunos de los sueldos más altos del mundo, una economía estable y una calidad de vida muy alta. Zúrich, Ginebra, Basilea y Lausana son los principales centros de empleo.",
+      "jobMarket": "La banca, los seguros, la industria farmacéutica, la ingeniería de precisión, la informática y los organismos internacionales son grandes empleadores. Los especialistas en tecnología, ciencias de la vida y finanzas son especialmente buscados.",
+      "visa": "Los ciudadanos de la UE/AELC se benefician de la libre circulación, mientras que los de fuera de la UE están sujetos a cupos anuales y normalmente deben estar muy cualificados, y el empleador debe demostrar que no encontró un candidato local adecuado. Consulta los sitios oficiales de la Secretaría de Estado de Migración (SEM) y de las autoridades cantonales para conocer las normas vigentes.",
+      "salaryNote": "Los sueldos son muy altos, pero también lo son los alquileres, el seguro médico y los gastos diarios. La remuneración también varía entre cantones y regiones lingüísticas.",
+      "languages": "Alemán, francés e italiano según la región; el inglés es habitual en las multinacionales",
+      "tips": [
+        "Una candidatura completa suele incluir un CV con foto, certificados y cartas de referencia.",
+        "Se valoran la precisión y la fiabilidad; revisa cada detalle de tus documentos.",
+        "La puntualidad es fundamental; llega unos minutos antes.",
+        "Aprender el idioma local de la región es una gran ventaja."
+      ]
+    },
+    "luxembourg": {
+      "name": "Luxemburgo",
+      "summary": "Luxemburgo es un país de la UE pequeño pero próspero, con uno de los ingresos medios más altos de Europa. Una gran parte de su fuerza laboral se desplaza a diario desde las vecinas Francia, Bélgica y Alemania.",
+      "jobMarket": "Predominan los servicios financieros, la administración de fondos, la banca, las instituciones de la UE, la informática y la logística. Los profesionales de cumplimiento normativo, contabilidad, informática y los perfiles multilingües tienen mucha demanda.",
+      "visa": "Los ciudadanos de la UE pueden trabajar libremente, mientras que los profesionales de fuera de la UE suelen usar la Tarjeta Azul de la UE o un permiso de residencia como trabajador asalariado vinculado a una oferta de empleo. Los requisitos cambian, así que consulta el portal oficial Guichet.lu y la dirección de inmigración.",
+      "salaryNote": "Los sueldos están entre los más altos de la UE, respaldados por un salario mínimo legal elevado. La vivienda es cara, por eso mucha gente vive al otro lado de la frontera.",
+      "languages": "Luxemburgués, francés y alemán; el inglés se usa mucho en el sector financiero",
+      "tips": [
+        "Destaca todos los idiomas que hablas, ya que el multilingüismo es una gran ventaja.",
+        "Adapta tu CV al contexto financiero o de la UE si corresponde, con fechas y responsabilidades precisas.",
+        "Las entrevistas pueden cambiar de idioma, así que prepárate para responder en más de uno.",
+        "En los puestos financieros e institucionales se espera una presentación formal y cuidada."
+      ]
+    },
+    "sweden": {
+      "name": "Suecia",
+      "summary": "Suecia tiene una economía innovadora, conocida por sus marcas globales, sus startups y un fuerte énfasis en la conciliación entre vida laboral y personal. Estocolmo, Gotemburgo y Malmö son los principales polos de empleo.",
+      "jobMarket": "La tecnología, los videojuegos, la energía limpia, las ciencias de la vida, la ingeniería y la salud son sectores clave. Los desarrolladores de software, los ingenieros y el personal sanitario tienen demanda.",
+      "visa": "Los profesionales de fuera de la UE suelen necesitar un permiso de trabajo basado en una oferta de empleo que cumpla los requisitos salariales y de condiciones laborales, y algunos pueden optar a la Tarjeta Azul de la UE. Las normas se han endurecido en los últimos años, así que consulta el sitio oficial de la Agencia Sueca de Migración (Migrationsverket).",
+      "salaryNote": "Los sueldos son moderados para los estándares de Europa occidental, pero los beneficios, la licencia parental y las vacaciones son generosos. Los impuestos son relativamente altos.",
+      "languages": "Sueco (el inglés se habla mucho, especialmente en tecnología)",
+      "tips": [
+        "Mantén tu CV conciso; la foto es opcional.",
+        "Los entornos de trabajo suecos son horizontales, así que muestra trabajo en equipo y humildad en lugar de jerarquía.",
+        "Evita exagerar; las respuestas equilibradas y honestas generan confianza.",
+        "Prepárate para preguntas sobre cómo colaboras y cómo tomas decisiones en grupo."
+      ]
+    },
+    "denmark": {
+      "name": "Dinamarca",
+      "summary": "Dinamarca combina una economía sólida con un alto nivel de confianza, normas laborales flexibles y una excelente conciliación entre vida laboral y personal. Copenhague y Aarhus son los principales centros de empleo.",
+      "jobMarket": "Las ciencias de la vida, la energía verde, el transporte marítimo, la informática y la ingeniería son sectores clave. Los profesionales de la salud, los ingenieros y los especialistas en informática tienen demanda con frecuencia.",
+      "visa": "Las vías comunes incluyen el Pay Limit Scheme para ofertas bien remuneradas, la Positive List para ocupaciones con escasez y los programas de vía rápida para empleadores certificados. Consulta el sitio oficial New to Denmark (SIRI), ya que los programas y umbrales cambian.",
+      "salaryNote": "Los sueldos son altos, pero también lo son los impuestos sobre la renta, que financian amplios servicios públicos. La mayoría de los empleados tienen vacaciones pagadas generosas.",
+      "languages": "Danés (el inglés se usa mucho en las empresas internacionales)",
+      "tips": [
+        "Escribe un CV breve y personal, y una carta de motivación adaptada a cada puesto.",
+        "La cultura danesa es informal e igualitaria, así que muéstrate relajado pero profesional.",
+        "Demuestra que trabajas de forma autónoma y que asumes responsabilidades.",
+        "Sé honesto sobre lo que no sabes; venderte en exceso puede volverse en tu contra."
+      ]
+    },
+    "australia": {
+      "name": "Australia",
+      "summary": "Australia tiene una economía sólida, un alto nivel de vida y una larga trayectoria de migración cualificada. Sídney, Melbourne, Brisbane y Perth son los principales mercados laborales.",
+      "jobMarket": "La salud, la construcción, la minería y los recursos, la educación y la tecnología son grandes empleadores. Los enfermeros, ingenieros, trabajadores de oficios y profesionales de la informática aparecen a menudo en las listas de escasez de competencias.",
+      "visa": "Las opciones incluyen visas temporales y permanentes patrocinadas por un empleador, y visas cualificadas por puntos, ya sean independientes o con nominación estatal. Las listas de ocupaciones y los requisitos cambian con regularidad, así que consulta el sitio oficial del Department of Home Affairs.",
+      "salaryNote": "Los sueldos suelen ser altos y, además, los empleadores pagan la superannuation obligatoria (aportes para la jubilación). Los costos en Sídney y Melbourne son elevados, sobre todo la vivienda.",
+      "languages": "Inglés",
+      "tips": [
+        "Es habitual un currículum de dos a tres páginas; no hace falta foto.",
+        "Usa un tono cercano y sencillo; la arrogancia se nota enseguida.",
+        "Prepara ejemplos de comportamiento con el método STAR.",
+        "Demuestra que conoces los estándares o las licencias locales si tu campo los exige."
+      ]
+    },
+    "united-arab-emirates": {
+      "name": "Emiratos Árabes Unidos",
+      "summary": "Emiratos Árabes Unidos es un centro de negocios regional con una gran fuerza laboral internacional. Dubái y Abu Dabi atraen a profesionales de todo el mundo.",
+      "jobMarket": "Las finanzas, el sector inmobiliario, la construcción, el turismo y la hostelería, la aviación, la logística y la tecnología son sectores importantes. La demanda crece en inteligencia artificial, fintech y energías renovables.",
+      "visa": "La mayoría de los profesionales trabajan con un permiso de trabajo y una visa de residencia patrocinados por el empleador, y también existen la Golden Visa y la Green Visa para ciertos perfiles cualificados o de altos ingresos. Consulta portales gubernamentales oficiales como u.ae y las autoridades del emirato correspondiente, ya que las normas cambian.",
+      "salaryNote": "Muchos empleos no pagan impuesto sobre la renta personal, y los paquetes pueden incluir subsidios de vivienda o transporte. Compara siempre el paquete total, no solo el sueldo base.",
+      "languages": "Árabe e inglés (el inglés es el principal idioma de negocios)",
+      "tips": [
+        "Una foto profesional en el CV es habitual y está bien vista.",
+        "Incluye tu nacionalidad y tu situación de visa, ya que los empleadores suelen preguntarlo.",
+        "Viste de manera formal y conservadora para las entrevistas.",
+        "Crea una buena relación; los vínculos personales y los buenos modales importan mucho."
+      ]
+    },
+    "japan": {
+      "name": "Japón",
+      "summary": "Japón es una gran economía avanzada con líderes mundiales en automoción, electrónica y manufactura. Tokio, Osaka y Nagoya son los mayores mercados laborales.",
+      "jobMarket": "La informática, la ingeniería, la manufactura, la salud y la hostelería sufren escasez de mano de obra debido al envejecimiento de la población. Los ingenieros de software y los especialistas que dominan el japonés son especialmente valorados.",
+      "visa": "Las vías comunes son la visa Engineer/Specialist in Humanities/International Services, la visa por puntos Highly Skilled Professional y las visas Specified Skilled Worker para ciertos sectores. Consulta el sitio oficial de la Immigration Services Agency of Japan, ya que los requisitos cambian.",
+      "salaryNote": "Los sueldos base pueden ser modestos en comparación con Estados Unidos, pero los bonos y complementos son habituales. La antigüedad sigue influyendo en la remuneración en muchas empresas tradicionales.",
+      "languages": "Japonés (los puestos solo en inglés existen sobre todo en tecnología y empresas extranjeras)",
+      "tips": [
+        "Las empresas tradicionales pueden esperar un currículum en formato estándar (rirekisho) con foto.",
+        "La cortesía, la humildad y los saludos formales son muy importantes.",
+        "Llega con antelación y viste de forma conservadora, normalmente con traje oscuro.",
+        "Muestra compromiso a largo plazo y orientación al equipo más que ambición individual."
+      ]
+    },
+    "singapore": {
+      "name": "Singapur",
+      "summary": "Singapur es un centro asiático líder en finanzas, comercio y tecnología, con una fuerza laboral muy internacional. Muchas multinacionales tienen allí su sede para Asia-Pacífico.",
+      "jobMarket": "Las finanzas, la tecnología, la logística, las ciencias biomédicas y los servicios profesionales son sectores clave. Los especialistas en software, datos, ciberseguridad y finanzas tienen mucha demanda.",
+      "visa": "Los profesionales suelen necesitar un Employment Pass, que tiene en cuenta el salario y un sistema de puntos, mientras que los trabajadores de cualificación media pueden usar el S Pass. Los criterios se actualizan con regularidad, así que consulta el sitio oficial del Ministry of Manpower (MOM).",
+      "salaryNote": "Los sueldos en finanzas y tecnología son competitivos y el impuesto sobre la renta personal es relativamente bajo. La vivienda y tener coche son caros.",
+      "languages": "Inglés (el principal idioma de negocios), además de mandarín, malayo y tamil",
+      "tips": [
+        "Mantén tu CV conciso y centrado en resultados; la foto es opcional.",
+        "Deja claro tu período de preaviso y tu situación de permiso de trabajo.",
+        "Demuestra que puedes trabajar con distintas culturas en un equipo diverso.",
+        "Prepárate para hablar directamente de tu expectativa salarial, ya que suele preguntarse pronto."
+      ]
+    }
+  },
+  "tipCategories": {
+    "before": "Antes de la entrevista",
+    "during": "Durante la entrevista",
+    "tough": "Preguntas difíciles",
+    "remote": "Entrevistas remotas",
+    "after": "Después de la entrevista"
+  },
+  "tips": {
+    "before-reverse-engineer-posting": { "title": "Convierte la oferta en una lista de control", "body": "Resalta cada competencia y responsabilidad de la oferta y escribe junto a cada una un ejemplo de tu experiencia. Las carencias que detectes ahora son preguntas que puedes preparar en lugar de que te tomen por sorpresa." },
+    "before-story-bank": { "title": "Crea un banco de cinco historias", "body": "Prepara cinco historias breves sobre un éxito, un fracaso, un conflicto, una vez que lideraste y una vez que aprendiste rápido. La mayoría de las preguntas de comportamiento se pueden responder adaptando una de ellas." },
+    "before-news-check": { "title": "Revisa las últimas noticias de la empresa", "body": "El día anterior, busca noticias recientes, lanzamientos de productos o rondas de financiación de la empresa. Mencionar algo actual demuestra interés real y te da una pregunta natural para hacer." },
+    "before-map-interviewers": { "title": "Investiga a tus entrevistadores", "body": "Si sabes quién te entrevistará, revisa sus perfiles profesionales para entender su rol y trayectoria. Te ayuda a adaptar tus ejemplos a lo que le importa a cada persona." },
+    "before-practice-out-loud": { "title": "Practica tus respuestas en voz alta", "body": "Ensayar mentalmente parece fluido, pero al hablar descubres dónde te extiendes o te trabas. Di tus respuestas clave en voz alta varias veces, idealmente cronometrándolas entre uno y dos minutos." },
+    "before-prepare-kit": { "title": "Prepara tu kit para la entrevista", "body": "Ten listas copias impresas de tu CV, una libreta, un bolígrafo, tu documento de identidad y los datos de contacto del entrevistador. Tenerlo todo preparado la noche anterior elimina el estrés de último momento." },
+    "before-plan-route": { "title": "Planifica tu ruta con margen", "body": "Comprueba el tiempo de trayecto a la misma hora del día y añade al menos 20 minutos de margen. Intenta llegar a la zona con antelación y entrar entre 5 y 10 minutos antes del inicio." },
+    "before-thirty-sixty-ninety": { "title": "Esboza un plan de 30-60-90 días", "body": "Escribe algunos puntos sobre lo que aprenderías, entregarías y mejorarías en tus tres primeros meses. Aunque nadie te lo pida, afina tus respuestas sobre cómo aportarías valor." },
+    "during-first-ninety-seconds": { "title": "Aprovecha los primeros 90 segundos", "body": "La primera impresión se forma rápido, así que saluda a todos con calidez, sonríe y usa sus nombres. Un inicio tranquilo y amable facilita el resto de la conversación para ambas partes." },
+    "during-pause-before-answering": { "title": "Haz una pausa antes de responder", "body": "Tomarte dos o tres segundos para pensar transmite seguridad, no lentitud. Te ayuda a elegir el mejor ejemplo y a no llenar el silencio con muletillas." },
+    "during-numbers-in-answers": { "title": "Incluye cifras en tus respuestas", "body": "Siempre que puedas, cuantifica el impacto: tiempo ahorrado, ingresos aumentados, errores reducidos o clientes atendidos. Las cifras concretas hacen que tus historias sean creíbles y memorables." },
+    "during-clarify-question": { "title": "Aclara las preguntas confusas", "body": "Si una pregunta es vaga, haz una breve pregunta aclaratoria o reformula lo que entendiste. Responder a la pregunta correcta es mejor que responder rápido." },
+    "during-watch-length": { "title": "Limita tus respuestas a unos dos minutos", "body": "Las respuestas largas hacen perder la atención y las cortas parecen pobres. Apunta a uno o dos minutos y luego comprueba con algo como: ¿quieres que profundice en eso?" },
+    "during-take-notes": { "title": "Toma notas breves", "body": "Anotar los puntos clave que menciona el entrevistador demuestra implicación. Puedes retomarlos en tus preguntas y en tu mensaje de agradecimiento." },
+    "during-mirror-energy": { "title": "Adáptate al estilo del entrevistador", "body": "Fíjate en si el entrevistador es formal o relajado, rápido o pausado, y ajusta ligeramente tu tono. Seguir su ritmo crea sintonía sin perder tu propia personalidad." },
+    "during-close-strong": { "title": "Termina con un cierre claro", "body": "Antes de irte, resume brevemente por qué encajas en el puesto y confirma tu interés. Después pregunta por los próximos pasos y los plazos previstos." },
+    "tough-gap-in-cv": { "title": "Cómo explicar un vacío en tu CV", "body": "Sé breve y honesto sobre el motivo, ya sea cuidar de alguien, la salud, los estudios o la búsqueda de empleo. Luego pasa rápidamente a lo que hiciste para mantenerte al día y por qué estás preparado ahora." },
+    "tough-why-leaving": { "title": "¿Por qué dejas tu trabajo?", "body": "Céntrate en lo que buscas, como crecimiento, nuevos retos o un mejor encaje, y no en aquello de lo que huyes. Nunca critiques a tu empleador actual ni a los anteriores." },
+    "tough-failure-story": { "title": "Háblame de un fracaso", "body": "Elige un error real pero del que te hayas recuperado, asume tu parte sin excusas y dedica la mayor parte de la respuesta a lo que aprendiste. Termina contando cómo aplicaste esa lección más adelante." },
+    "tough-overqualified": { "title": "Pareces sobrecualificado", "body": "Aborda la preocupación oculta, que suele ser que te aburras o te vayas pronto. Explica por qué este puesto encaja con tus objetivos actuales y cómo tu experiencia ayuda al equipo desde el primer día." },
+    "tough-dont-know-answer": { "title": "Cuando no sabes la respuesta", "body": "No te lo inventes. Di lo que sí sabes, explica cómo averiguarías el resto y, si es posible, razona el problema en voz alta para que vean cómo piensas." },
+    "tough-other-offers": { "title": "¿Estás en otros procesos de selección?", "body": "Puedes decir que sí sin nombrar empresas ni dar detalles. Subraya que este puesto encaja muy bien contigo y comparte con honestidad cualquier limitación de plazos." },
+    "tough-illegal-questions": { "title": "Cómo manejar preguntas inapropiadas", "body": "En muchos países no se permiten preguntas sobre la edad, la religión, el estado civil o los planes familiares. Puedes reconducir la conversación con amabilidad hacia tu cualificación, por ejemplo diciendo que nada de eso afectará a tu capacidad para hacer el trabajo." },
+    "tough-where-in-five-years": { "title": "¿Dónde te ves dentro de cinco años?", "body": "Muestra una ambición acorde con la trayectoria que ofrece el puesto, como mayor especialización o más responsabilidad. Evita mencionar una carrera totalmente distinta o el propio puesto del entrevistador." },
+    "remote-test-tech": { "title": "Prueba la plataforma con antelación", "body": "Instala la aplicación de video, actualízala y haz una llamada de prueba con un amigo el día anterior. Comprueba que la cámara, el micrófono y la función de compartir pantalla funcionan en el dispositivo que usarás." },
+    "remote-camera-eye-level": { "title": "Coloca la cámara a la altura de los ojos", "body": "Eleva tu portátil con libros o un soporte para que la cámara quede a la altura de tus ojos. Mira al objetivo cuando expongas los puntos clave para que el entrevistador sienta que lo miras a los ojos." },
+    "remote-lighting-audio": { "title": "Cuida la iluminación y el audio", "body": "Colócate frente a una ventana o una lámpara para que tu cara quede bien iluminada y evita las luces fuertes detrás de ti. Unos auriculares con cable y micrófono suelen sonar más claros que los altavoces del portátil." },
+    "remote-clean-background": { "title": "Elige un fondo tranquilo", "body": "Siéntate delante de un fondo ordenado y neutro, y elimina las distracciones del encuadre. Avisa en casa de la hora de tu entrevista y silencia las notificaciones en todos los dispositivos." },
+    "remote-notes-off-screen": { "title": "Usa las notas con criterio", "body": "Unas pocas palabras clave en una nota adhesiva cerca de la cámara pueden ayudar, pero no leas respuestas completas. Los entrevistadores notan cuando tus ojos se mueven constantemente por la pantalla." },
+    "remote-lag-etiquette": { "title": "Ten en cuenta el retraso del audio", "body": "Espera un instante después de que el entrevistador termine antes de hablar, para no pisaros. Si se corta la conexión, vuelve a entrar con calma y resume brevemente dónde te habías quedado." },
+    "remote-backup-plan": { "title": "Ten un plan de respaldo", "body": "Mantén el teléfono cargado y los datos de contacto del entrevistador a mano por si falla tu internet. Tener listo un punto de acceso móvil puede salvar la entrevista." },
+    "remote-one-way-video": { "title": "Entrevistas en video grabadas", "body": "En las entrevistas grabadas sin una persona en directo, trata la cámara como tu público y sonríe al empezar. Usa las preguntas de práctica para comprobar el encuadre y luego responde con la misma energía que en una llamada en directo." },
+    "after-debrief-notes": { "title": "Escribe un resumen enseguida", "body": "En la hora siguiente, anota las preguntas que te hicieron, tus respuestas, los nombres y todo lo que mejorarías. Estas notas te ayudan con el seguimiento y con tus próximas entrevistas." },
+    "after-personal-thank-you": { "title": "Personaliza tu mensaje de agradecimiento", "body": "Envía un correo breve de agradecimiento en las 24 horas siguientes que mencione un tema concreto que tratasteis. Un detalle personal lo hace memorable en lugar de genérico." },
+    "after-follow-up-timing": { "title": "Haz el seguimiento en el momento adecuado", "body": "Si te dieron un plazo, espera a que pase antes de hacer seguimiento. Si no, es razonable escribir con cortesía aproximadamente una semana después." },
+    "after-connect-linkedin": { "title": "Conecta de forma profesional", "body": "Plantéate enviar una solicitud de conexión con una nota breve a las personas que conociste. Mantén un tono profesional y no la uses para preguntar por la decisión." },
+    "after-handle-silence": { "title": "Gestiona el silencio con calma", "body": "Los procesos de selección suelen alargarse más de lo previsto por motivos que no tienen nada que ver contigo. Después de uno o dos seguimientos corteses, centra tu atención en otras oportunidades." },
+    "after-ask-feedback": { "title": "Pide feedback tras un rechazo", "body": "Responde con amabilidad y pregunta si pueden indicarte una o dos cosas que podrías mejorar. No todos contestarán, pero un feedback útil es valioso, y una respuesta positiva deja la puerta abierta." },
+    "after-compare-offers": { "title": "Compara las ofertas en su conjunto", "body": "Mira más allá del sueldo base: bonos, beneficios, vacaciones, flexibilidad, crecimiento y desplazamiento. Ponerlas una al lado de la otra en una tabla hace más clara la elección correcta." },
+    "after-keep-pipeline": { "title": "Mantén activa tu búsqueda", "body": "No detengas tu búsqueda de empleo mientras esperas la decisión de una empresa. Seguir postulándote mantiene tus opciones abiertas y reduce la presión sobre cualquier entrevista concreta." }
+  }
+}

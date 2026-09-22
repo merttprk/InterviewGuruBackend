@@ -1,0 +1,1874 @@
+[
+  {
+    "id": "software-engineer",
+    "title": "Ingeniero de software",
+    "category": "Tecnología",
+    "description": "Diseña, desarrolla, prueba y mantiene aplicaciones y sistemas de software.",
+    "ranges": [
+      {
+        "region": "Estados Unidos",
+        "currency": "USD",
+        "junior": 95000,
+        "mid": 130000,
+        "senior": 175000
+      },
+      {
+        "region": "Reino Unido",
+        "currency": "GBP",
+        "junior": 35000,
+        "mid": 55000,
+        "senior": 80000
+      },
+      {
+        "region": "Alemania",
+        "currency": "EUR",
+        "junior": 52000,
+        "mid": 68000,
+        "senior": 88000
+      },
+      {
+        "region": "Turquía",
+        "currency": "TRY",
+        "junior": 840000,
+        "mid": 1450000,
+        "senior": 2400000
+      },
+      {
+        "region": "India",
+        "currency": "INR",
+        "junior": 600000,
+        "mid": 1500000,
+        "senior": 3200000
+      },
+      {
+        "region": "Indonesia",
+        "currency": "IDR",
+        "junior": 120000000,
+        "mid": 240000000,
+        "senior": 450000000
+      },
+      {
+        "region": "Malasia",
+        "currency": "MYR",
+        "junior": 54000,
+        "mid": 96000,
+        "senior": 168000
+      },
+      {
+        "region": "Brasil",
+        "currency": "BRL",
+        "junior": 72000,
+        "mid": 144000,
+        "senior": 252000
+      },
+      {
+        "region": "España",
+        "currency": "EUR",
+        "junior": 28000,
+        "mid": 42000,
+        "senior": 60000
+      },
+      {
+        "region": "Francia",
+        "currency": "EUR",
+        "junior": 40000,
+        "mid": 52000,
+        "senior": 70000
+      }
+    ]
+  },
+  {
+    "id": "data-analyst",
+    "title": "Analista de datos",
+    "category": "Tecnología",
+    "description": "Convierte datos en bruto en informes, paneles y conclusiones que orientan las decisiones de negocio.",
+    "ranges": [
+      {
+        "region": "Estados Unidos",
+        "currency": "USD",
+        "junior": 65000,
+        "mid": 85000,
+        "senior": 110000
+      },
+      {
+        "region": "Reino Unido",
+        "currency": "GBP",
+        "junior": 30000,
+        "mid": 42000,
+        "senior": 58000
+      },
+      {
+        "region": "Alemania",
+        "currency": "EUR",
+        "junior": 45000,
+        "mid": 56000,
+        "senior": 70000
+      },
+      {
+        "region": "Turquía",
+        "currency": "TRY",
+        "junior": 600000,
+        "mid": 960000,
+        "senior": 1560000
+      },
+      {
+        "region": "India",
+        "currency": "INR",
+        "junior": 420000,
+        "mid": 900000,
+        "senior": 1800000
+      },
+      {
+        "region": "Indonesia",
+        "currency": "IDR",
+        "junior": 84000000,
+        "mid": 156000000,
+        "senior": 276000000
+      },
+      {
+        "region": "Malasia",
+        "currency": "MYR",
+        "junior": 42000,
+        "mid": 72000,
+        "senior": 114000
+      },
+      {
+        "region": "Brasil",
+        "currency": "BRL",
+        "junior": 54000,
+        "mid": 96000,
+        "senior": 156000
+      },
+      {
+        "region": "España",
+        "currency": "EUR",
+        "junior": 24000,
+        "mid": 33000,
+        "senior": 45000
+      },
+      {
+        "region": "Francia",
+        "currency": "EUR",
+        "junior": 35000,
+        "mid": 44000,
+        "senior": 56000
+      }
+    ]
+  },
+  {
+    "id": "product-manager",
+    "title": "Product manager",
+    "category": "Tecnología",
+    "description": "Decide qué debe hacer un producto y coordina a los equipos de ingeniería, diseño y negocio para lograrlo.",
+    "ranges": [
+      {
+        "region": "Estados Unidos",
+        "currency": "USD",
+        "junior": 100000,
+        "mid": 140000,
+        "senior": 185000
+      },
+      {
+        "region": "Reino Unido",
+        "currency": "GBP",
+        "junior": 45000,
+        "mid": 65000,
+        "senior": 90000
+      },
+      {
+        "region": "Alemania",
+        "currency": "EUR",
+        "junior": 58000,
+        "mid": 75000,
+        "senior": 95000
+      },
+      {
+        "region": "Turquía",
+        "currency": "TRY",
+        "junior": 960000,
+        "mid": 1680000,
+        "senior": 2760000
+      },
+      {
+        "region": "India",
+        "currency": "INR",
+        "junior": 1200000,
+        "mid": 2600000,
+        "senior": 4800000
+      },
+      {
+        "region": "Indonesia",
+        "currency": "IDR",
+        "junior": 144000000,
+        "mid": 288000000,
+        "senior": 540000000
+      },
+      {
+        "region": "Malasia",
+        "currency": "MYR",
+        "junior": 72000,
+        "mid": 120000,
+        "senior": 192000
+      },
+      {
+        "region": "Brasil",
+        "currency": "BRL",
+        "junior": 96000,
+        "mid": 168000,
+        "senior": 276000
+      },
+      {
+        "region": "España",
+        "currency": "EUR",
+        "junior": 35000,
+        "mid": 50000,
+        "senior": 70000
+      },
+      {
+        "region": "Francia",
+        "currency": "EUR",
+        "junior": 45000,
+        "mid": 60000,
+        "senior": 80000
+      }
+    ]
+  },
+  {
+    "id": "ux-designer",
+    "title": "Diseñador UX",
+    "category": "Tecnología",
+    "description": "Investiga las necesidades de los usuarios y diseña flujos, wireframes e interfaces intuitivas para productos digitales.",
+    "ranges": [
+      {
+        "region": "Estados Unidos",
+        "currency": "USD",
+        "junior": 75000,
+        "mid": 100000,
+        "senior": 135000
+      },
+      {
+        "region": "Reino Unido",
+        "currency": "GBP",
+        "junior": 30000,
+        "mid": 45000,
+        "senior": 65000
+      },
+      {
+        "region": "Alemania",
+        "currency": "EUR",
+        "junior": 45000,
+        "mid": 58000,
+        "senior": 74000
+      },
+      {
+        "region": "Turquía",
+        "currency": "TRY",
+        "junior": 660000,
+        "mid": 1140000,
+        "senior": 1920000
+      },
+      {
+        "region": "India",
+        "currency": "INR",
+        "junior": 500000,
+        "mid": 1200000,
+        "senior": 2400000
+      },
+      {
+        "region": "Indonesia",
+        "currency": "IDR",
+        "junior": 96000000,
+        "mid": 180000000,
+        "senior": 330000000
+      },
+      {
+        "region": "Malasia",
+        "currency": "MYR",
+        "junior": 42000,
+        "mid": 78000,
+        "senior": 126000
+      },
+      {
+        "region": "Brasil",
+        "currency": "BRL",
+        "junior": 60000,
+        "mid": 108000,
+        "senior": 180000
+      },
+      {
+        "region": "España",
+        "currency": "EUR",
+        "junior": 25000,
+        "mid": 36000,
+        "senior": 50000
+      },
+      {
+        "region": "Francia",
+        "currency": "EUR",
+        "junior": 36000,
+        "mid": 46000,
+        "senior": 60000
+      }
+    ]
+  },
+  {
+    "id": "devops-engineer",
+    "title": "Ingeniero DevOps",
+    "category": "Tecnología",
+    "description": "Automatiza la infraestructura, los despliegues y la monitorización para que el software se publique de forma fiable y rápida.",
+    "ranges": [
+      {
+        "region": "Estados Unidos",
+        "currency": "USD",
+        "junior": 100000,
+        "mid": 135000,
+        "senior": 175000
+      },
+      {
+        "region": "Reino Unido",
+        "currency": "GBP",
+        "junior": 40000,
+        "mid": 60000,
+        "senior": 85000
+      },
+      {
+        "region": "Alemania",
+        "currency": "EUR",
+        "junior": 55000,
+        "mid": 70000,
+        "senior": 90000
+      },
+      {
+        "region": "Turquía",
+        "currency": "TRY",
+        "junior": 900000,
+        "mid": 1560000,
+        "senior": 2520000
+      },
+      {
+        "region": "India",
+        "currency": "INR",
+        "junior": 700000,
+        "mid": 1700000,
+        "senior": 3400000
+      },
+      {
+        "region": "Indonesia",
+        "currency": "IDR",
+        "junior": 132000000,
+        "mid": 264000000,
+        "senior": 480000000
+      },
+      {
+        "region": "Malasia",
+        "currency": "MYR",
+        "junior": 60000,
+        "mid": 108000,
+        "senior": 180000
+      },
+      {
+        "region": "Brasil",
+        "currency": "BRL",
+        "junior": 84000,
+        "mid": 156000,
+        "senior": 264000
+      },
+      {
+        "region": "España",
+        "currency": "EUR",
+        "junior": 30000,
+        "mid": 45000,
+        "senior": 62000
+      },
+      {
+        "region": "Francia",
+        "currency": "EUR",
+        "junior": 42000,
+        "mid": 55000,
+        "senior": 72000
+      }
+    ]
+  },
+  {
+    "id": "nurse",
+    "title": "Enfermero",
+    "category": "Salud",
+    "description": "Brinda atención directa a los pacientes, administra tratamientos y se coordina con médicos y familias.",
+    "ranges": [
+      {
+        "region": "Estados Unidos",
+        "currency": "USD",
+        "junior": 75000,
+        "mid": 90000,
+        "senior": 110000
+      },
+      {
+        "region": "Reino Unido",
+        "currency": "GBP",
+        "junior": 31000,
+        "mid": 39000,
+        "senior": 50000
+      },
+      {
+        "region": "Alemania",
+        "currency": "EUR",
+        "junior": 38000,
+        "mid": 45000,
+        "senior": 54000
+      },
+      {
+        "region": "Turquía",
+        "currency": "TRY",
+        "junior": 480000,
+        "mid": 660000,
+        "senior": 900000
+      },
+      {
+        "region": "India",
+        "currency": "INR",
+        "junior": 250000,
+        "mid": 420000,
+        "senior": 720000
+      },
+      {
+        "region": "Indonesia",
+        "currency": "IDR",
+        "junior": 48000000,
+        "mid": 78000000,
+        "senior": 126000000
+      },
+      {
+        "region": "Malasia",
+        "currency": "MYR",
+        "junior": 36000,
+        "mid": 54000,
+        "senior": 78000
+      },
+      {
+        "region": "Brasil",
+        "currency": "BRL",
+        "junior": 42000,
+        "mid": 60000,
+        "senior": 90000
+      },
+      {
+        "region": "España",
+        "currency": "EUR",
+        "junior": 26000,
+        "mid": 32000,
+        "senior": 40000
+      },
+      {
+        "region": "Francia",
+        "currency": "EUR",
+        "junior": 28000,
+        "mid": 34000,
+        "senior": 42000
+      }
+    ]
+  },
+  {
+    "id": "pharmacist",
+    "title": "Farmacéutico",
+    "category": "Salud",
+    "description": "Dispensa medicamentos de forma segura y asesora a pacientes y profesionales sobre dosis, interacciones y efectos secundarios.",
+    "ranges": [
+      {
+        "region": "Estados Unidos",
+        "currency": "USD",
+        "junior": 125000,
+        "mid": 140000,
+        "senior": 155000
+      },
+      {
+        "region": "Reino Unido",
+        "currency": "GBP",
+        "junior": 42000,
+        "mid": 48000,
+        "senior": 58000
+      },
+      {
+        "region": "Alemania",
+        "currency": "EUR",
+        "junior": 45000,
+        "mid": 54000,
+        "senior": 65000
+      },
+      {
+        "region": "Turquía",
+        "currency": "TRY",
+        "junior": 600000,
+        "mid": 900000,
+        "senior": 1320000
+      },
+      {
+        "region": "India",
+        "currency": "INR",
+        "junior": 300000,
+        "mid": 540000,
+        "senior": 960000
+      },
+      {
+        "region": "Indonesia",
+        "currency": "IDR",
+        "junior": 72000000,
+        "mid": 120000000,
+        "senior": 204000000
+      },
+      {
+        "region": "Malasia",
+        "currency": "MYR",
+        "junior": 54000,
+        "mid": 78000,
+        "senior": 114000
+      },
+      {
+        "region": "Brasil",
+        "currency": "BRL",
+        "junior": 54000,
+        "mid": 78000,
+        "senior": 114000
+      },
+      {
+        "region": "España",
+        "currency": "EUR",
+        "junior": 28000,
+        "mid": 35000,
+        "senior": 45000
+      },
+      {
+        "region": "Francia",
+        "currency": "EUR",
+        "junior": 38000,
+        "mid": 46000,
+        "senior": 58000
+      }
+    ]
+  },
+  {
+    "id": "physiotherapist",
+    "title": "Fisioterapeuta",
+    "category": "Salud",
+    "description": "Ayuda a los pacientes a recuperar la movilidad y controlar el dolor mediante ejercicio, terapia manual y educación.",
+    "ranges": [
+      {
+        "region": "Estados Unidos",
+        "currency": "USD",
+        "junior": 80000,
+        "mid": 98000,
+        "senior": 115000
+      },
+      {
+        "region": "Reino Unido",
+        "currency": "GBP",
+        "junior": 31000,
+        "mid": 40000,
+        "senior": 50000
+      },
+      {
+        "region": "Alemania",
+        "currency": "EUR",
+        "junior": 36000,
+        "mid": 42000,
+        "senior": 50000
+      },
+      {
+        "region": "Turquía",
+        "currency": "TRY",
+        "junior": 420000,
+        "mid": 600000,
+        "senior": 840000
+      },
+      {
+        "region": "India",
+        "currency": "INR",
+        "junior": 240000,
+        "mid": 420000,
+        "senior": 720000
+      },
+      {
+        "region": "Indonesia",
+        "currency": "IDR",
+        "junior": 48000000,
+        "mid": 84000000,
+        "senior": 138000000
+      },
+      {
+        "region": "Malasia",
+        "currency": "MYR",
+        "junior": 36000,
+        "mid": 54000,
+        "senior": 78000
+      },
+      {
+        "region": "Brasil",
+        "currency": "BRL",
+        "junior": 36000,
+        "mid": 54000,
+        "senior": 84000
+      },
+      {
+        "region": "España",
+        "currency": "EUR",
+        "junior": 24000,
+        "mid": 30000,
+        "senior": 38000
+      },
+      {
+        "region": "Francia",
+        "currency": "EUR",
+        "junior": 28000,
+        "mid": 35000,
+        "senior": 44000
+      }
+    ]
+  },
+  {
+    "id": "accountant",
+    "title": "Contador",
+    "category": "Negocios y finanzas",
+    "description": "Elabora estados financieros, gestiona los libros contables y garantiza el cumplimiento fiscal y normativo.",
+    "ranges": [
+      {
+        "region": "Estados Unidos",
+        "currency": "USD",
+        "junior": 58000,
+        "mid": 75000,
+        "senior": 98000
+      },
+      {
+        "region": "Reino Unido",
+        "currency": "GBP",
+        "junior": 28000,
+        "mid": 40000,
+        "senior": 55000
+      },
+      {
+        "region": "Alemania",
+        "currency": "EUR",
+        "junior": 42000,
+        "mid": 52000,
+        "senior": 65000
+      },
+      {
+        "region": "Turquía",
+        "currency": "TRY",
+        "junior": 480000,
+        "mid": 780000,
+        "senior": 1260000
+      },
+      {
+        "region": "India",
+        "currency": "INR",
+        "junior": 300000,
+        "mid": 600000,
+        "senior": 1200000
+      },
+      {
+        "region": "Indonesia",
+        "currency": "IDR",
+        "junior": 60000000,
+        "mid": 108000000,
+        "senior": 192000000
+      },
+      {
+        "region": "Malasia",
+        "currency": "MYR",
+        "junior": 36000,
+        "mid": 60000,
+        "senior": 96000
+      },
+      {
+        "region": "Brasil",
+        "currency": "BRL",
+        "junior": 48000,
+        "mid": 84000,
+        "senior": 138000
+      },
+      {
+        "region": "España",
+        "currency": "EUR",
+        "junior": 24000,
+        "mid": 32000,
+        "senior": 44000
+      },
+      {
+        "region": "Francia",
+        "currency": "EUR",
+        "junior": 32000,
+        "mid": 40000,
+        "senior": 52000
+      }
+    ]
+  },
+  {
+    "id": "financial-analyst",
+    "title": "Analista financiero",
+    "category": "Negocios y finanzas",
+    "description": "Elabora previsiones y modelos financieros para evaluar resultados, presupuestos y decisiones de inversión.",
+    "ranges": [
+      {
+        "region": "Estados Unidos",
+        "currency": "USD",
+        "junior": 72000,
+        "mid": 95000,
+        "senior": 125000
+      },
+      {
+        "region": "Reino Unido",
+        "currency": "GBP",
+        "junior": 35000,
+        "mid": 50000,
+        "senior": 70000
+      },
+      {
+        "region": "Alemania",
+        "currency": "EUR",
+        "junior": 50000,
+        "mid": 62000,
+        "senior": 80000
+      },
+      {
+        "region": "Turquía",
+        "currency": "TRY",
+        "junior": 600000,
+        "mid": 1020000,
+        "senior": 1680000
+      },
+      {
+        "region": "India",
+        "currency": "INR",
+        "junior": 500000,
+        "mid": 1000000,
+        "senior": 2000000
+      },
+      {
+        "region": "Indonesia",
+        "currency": "IDR",
+        "junior": 84000000,
+        "mid": 156000000,
+        "senior": 276000000
+      },
+      {
+        "region": "Malasia",
+        "currency": "MYR",
+        "junior": 48000,
+        "mid": 84000,
+        "senior": 132000
+      },
+      {
+        "region": "Brasil",
+        "currency": "BRL",
+        "junior": 60000,
+        "mid": 108000,
+        "senior": 180000
+      },
+      {
+        "region": "España",
+        "currency": "EUR",
+        "junior": 28000,
+        "mid": 40000,
+        "senior": 55000
+      },
+      {
+        "region": "Francia",
+        "currency": "EUR",
+        "junior": 38000,
+        "mid": 48000,
+        "senior": 65000
+      }
+    ]
+  },
+  {
+    "id": "hr-specialist",
+    "title": "Especialista en recursos humanos",
+    "category": "Negocios y finanzas",
+    "description": "Gestiona la selección, la incorporación, las relaciones laborales y las políticas de RR. HH. de una organización.",
+    "ranges": [
+      {
+        "region": "Estados Unidos",
+        "currency": "USD",
+        "junior": 55000,
+        "mid": 70000,
+        "senior": 90000
+      },
+      {
+        "region": "Reino Unido",
+        "currency": "GBP",
+        "junior": 26000,
+        "mid": 35000,
+        "senior": 48000
+      },
+      {
+        "region": "Alemania",
+        "currency": "EUR",
+        "junior": 42000,
+        "mid": 52000,
+        "senior": 64000
+      },
+      {
+        "region": "Turquía",
+        "currency": "TRY",
+        "junior": 420000,
+        "mid": 720000,
+        "senior": 1140000
+      },
+      {
+        "region": "India",
+        "currency": "INR",
+        "junior": 300000,
+        "mid": 600000,
+        "senior": 1100000
+      },
+      {
+        "region": "Indonesia",
+        "currency": "IDR",
+        "junior": 60000000,
+        "mid": 102000000,
+        "senior": 168000000
+      },
+      {
+        "region": "Malasia",
+        "currency": "MYR",
+        "junior": 36000,
+        "mid": 60000,
+        "senior": 90000
+      },
+      {
+        "region": "Brasil",
+        "currency": "BRL",
+        "junior": 42000,
+        "mid": 72000,
+        "senior": 114000
+      },
+      {
+        "region": "España",
+        "currency": "EUR",
+        "junior": 22000,
+        "mid": 30000,
+        "senior": 40000
+      },
+      {
+        "region": "Francia",
+        "currency": "EUR",
+        "junior": 30000,
+        "mid": 38000,
+        "senior": 48000
+      }
+    ]
+  },
+  {
+    "id": "project-manager",
+    "title": "Gestor de proyectos",
+    "category": "Negocios y finanzas",
+    "description": "Planifica proyectos, gestiona el alcance, el presupuesto y los plazos, y mantiene alineadas a las partes interesadas hasta la entrega.",
+    "ranges": [
+      {
+        "region": "Estados Unidos",
+        "currency": "USD",
+        "junior": 75000,
+        "mid": 100000,
+        "senior": 130000
+      },
+      {
+        "region": "Reino Unido",
+        "currency": "GBP",
+        "junior": 35000,
+        "mid": 50000,
+        "senior": 70000
+      },
+      {
+        "region": "Alemania",
+        "currency": "EUR",
+        "junior": 52000,
+        "mid": 66000,
+        "senior": 82000
+      },
+      {
+        "region": "Turquía",
+        "currency": "TRY",
+        "junior": 660000,
+        "mid": 1140000,
+        "senior": 1860000
+      },
+      {
+        "region": "India",
+        "currency": "INR",
+        "junior": 700000,
+        "mid": 1400000,
+        "senior": 2600000
+      },
+      {
+        "region": "Indonesia",
+        "currency": "IDR",
+        "junior": 96000000,
+        "mid": 180000000,
+        "senior": 324000000
+      },
+      {
+        "region": "Malasia",
+        "currency": "MYR",
+        "junior": 54000,
+        "mid": 90000,
+        "senior": 144000
+      },
+      {
+        "region": "Brasil",
+        "currency": "BRL",
+        "junior": 72000,
+        "mid": 120000,
+        "senior": 192000
+      },
+      {
+        "region": "España",
+        "currency": "EUR",
+        "junior": 30000,
+        "mid": 42000,
+        "senior": 56000
+      },
+      {
+        "region": "Francia",
+        "currency": "EUR",
+        "junior": 40000,
+        "mid": 50000,
+        "senior": 65000
+      }
+    ]
+  },
+  {
+    "id": "lawyer",
+    "title": "Abogado",
+    "category": "Negocios y finanzas",
+    "description": "Asesora a clientes en asuntos legales, redacta contratos y los representa en negociaciones o ante los tribunales.",
+    "ranges": [
+      {
+        "region": "Estados Unidos",
+        "currency": "USD",
+        "junior": 90000,
+        "mid": 140000,
+        "senior": 200000
+      },
+      {
+        "region": "Reino Unido",
+        "currency": "GBP",
+        "junior": 40000,
+        "mid": 65000,
+        "senior": 100000
+      },
+      {
+        "region": "Alemania",
+        "currency": "EUR",
+        "junior": 55000,
+        "mid": 80000,
+        "senior": 110000
+      },
+      {
+        "region": "Turquía",
+        "currency": "TRY",
+        "junior": 540000,
+        "mid": 1080000,
+        "senior": 2160000
+      },
+      {
+        "region": "India",
+        "currency": "INR",
+        "junior": 500000,
+        "mid": 1200000,
+        "senior": 3000000
+      },
+      {
+        "region": "Indonesia",
+        "currency": "IDR",
+        "junior": 84000000,
+        "mid": 180000000,
+        "senior": 420000000
+      },
+      {
+        "region": "Malasia",
+        "currency": "MYR",
+        "junior": 48000,
+        "mid": 96000,
+        "senior": 180000
+      },
+      {
+        "region": "Brasil",
+        "currency": "BRL",
+        "junior": 60000,
+        "mid": 120000,
+        "senior": 240000
+      },
+      {
+        "region": "España",
+        "currency": "EUR",
+        "junior": 28000,
+        "mid": 45000,
+        "senior": 70000
+      },
+      {
+        "region": "Francia",
+        "currency": "EUR",
+        "junior": 38000,
+        "mid": 55000,
+        "senior": 85000
+      }
+    ]
+  },
+  {
+    "id": "sales-representative",
+    "title": "Representante de ventas",
+    "category": "Ventas y marketing",
+    "description": "Busca y califica clientes potenciales, presenta productos y cierra ventas para alcanzar los objetivos de ingresos.",
+    "ranges": [
+      {
+        "region": "Estados Unidos",
+        "currency": "USD",
+        "junior": 50000,
+        "mid": 70000,
+        "senior": 95000
+      },
+      {
+        "region": "Reino Unido",
+        "currency": "GBP",
+        "junior": 25000,
+        "mid": 35000,
+        "senior": 50000
+      },
+      {
+        "region": "Alemania",
+        "currency": "EUR",
+        "junior": 38000,
+        "mid": 50000,
+        "senior": 65000
+      },
+      {
+        "region": "Turquía",
+        "currency": "TRY",
+        "junior": 420000,
+        "mid": 720000,
+        "senior": 1200000
+      },
+      {
+        "region": "India",
+        "currency": "INR",
+        "junior": 300000,
+        "mid": 600000,
+        "senior": 1200000
+      },
+      {
+        "region": "Indonesia",
+        "currency": "IDR",
+        "junior": 54000000,
+        "mid": 96000000,
+        "senior": 168000000
+      },
+      {
+        "region": "Malasia",
+        "currency": "MYR",
+        "junior": 36000,
+        "mid": 60000,
+        "senior": 96000
+      },
+      {
+        "region": "Brasil",
+        "currency": "BRL",
+        "junior": 36000,
+        "mid": 66000,
+        "senior": 108000
+      },
+      {
+        "region": "España",
+        "currency": "EUR",
+        "junior": 22000,
+        "mid": 30000,
+        "senior": 42000
+      },
+      {
+        "region": "Francia",
+        "currency": "EUR",
+        "junior": 28000,
+        "mid": 36000,
+        "senior": 48000
+      }
+    ]
+  },
+  {
+    "id": "digital-marketing-specialist",
+    "title": "Especialista en marketing digital",
+    "category": "Ventas y marketing",
+    "description": "Planifica y optimiza campañas en línea en buscadores, redes sociales, correo electrónico y canales de pago.",
+    "ranges": [
+      {
+        "region": "Estados Unidos",
+        "currency": "USD",
+        "junior": 55000,
+        "mid": 72000,
+        "senior": 95000
+      },
+      {
+        "region": "Reino Unido",
+        "currency": "GBP",
+        "junior": 26000,
+        "mid": 36000,
+        "senior": 50000
+      },
+      {
+        "region": "Alemania",
+        "currency": "EUR",
+        "junior": 40000,
+        "mid": 50000,
+        "senior": 63000
+      },
+      {
+        "region": "Turquía",
+        "currency": "TRY",
+        "junior": 420000,
+        "mid": 720000,
+        "senior": 1140000
+      },
+      {
+        "region": "India",
+        "currency": "INR",
+        "junior": 350000,
+        "mid": 700000,
+        "senior": 1300000
+      },
+      {
+        "region": "Indonesia",
+        "currency": "IDR",
+        "junior": 60000000,
+        "mid": 108000000,
+        "senior": 180000000
+      },
+      {
+        "region": "Malasia",
+        "currency": "MYR",
+        "junior": 36000,
+        "mid": 60000,
+        "senior": 96000
+      },
+      {
+        "region": "Brasil",
+        "currency": "BRL",
+        "junior": 42000,
+        "mid": 72000,
+        "senior": 120000
+      },
+      {
+        "region": "España",
+        "currency": "EUR",
+        "junior": 22000,
+        "mid": 30000,
+        "senior": 42000
+      },
+      {
+        "region": "Francia",
+        "currency": "EUR",
+        "junior": 30000,
+        "mid": 38000,
+        "senior": 50000
+      }
+    ]
+  },
+  {
+    "id": "teacher",
+    "title": "Docente",
+    "category": "Educación",
+    "description": "Planifica clases, enseña a los alumnos y evalúa su progreso en un centro educativo.",
+    "ranges": [
+      {
+        "region": "Estados Unidos",
+        "currency": "USD",
+        "junior": 47000,
+        "mid": 60000,
+        "senior": 75000
+      },
+      {
+        "region": "Reino Unido",
+        "currency": "GBP",
+        "junior": 32000,
+        "mid": 40000,
+        "senior": 48000
+      },
+      {
+        "region": "Alemania",
+        "currency": "EUR",
+        "junior": 48000,
+        "mid": 58000,
+        "senior": 68000
+      },
+      {
+        "region": "Turquía",
+        "currency": "TRY",
+        "junior": 480000,
+        "mid": 600000,
+        "senior": 780000
+      },
+      {
+        "region": "India",
+        "currency": "INR",
+        "junior": 300000,
+        "mid": 480000,
+        "senior": 780000
+      },
+      {
+        "region": "Indonesia",
+        "currency": "IDR",
+        "junior": 36000000,
+        "mid": 60000000,
+        "senior": 96000000
+      },
+      {
+        "region": "Malasia",
+        "currency": "MYR",
+        "junior": 36000,
+        "mid": 54000,
+        "senior": 78000
+      },
+      {
+        "region": "Brasil",
+        "currency": "BRL",
+        "junior": 36000,
+        "mid": 54000,
+        "senior": 78000
+      },
+      {
+        "region": "España",
+        "currency": "EUR",
+        "junior": 30000,
+        "mid": 36000,
+        "senior": 44000
+      },
+      {
+        "region": "Francia",
+        "currency": "EUR",
+        "junior": 28000,
+        "mid": 34000,
+        "senior": 44000
+      }
+    ]
+  },
+  {
+    "id": "civil-engineer",
+    "title": "Ingeniero civil",
+    "category": "Ingeniería",
+    "description": "Diseña y supervisa infraestructuras como carreteras, puentes, edificios y sistemas de agua.",
+    "ranges": [
+      {
+        "region": "Estados Unidos",
+        "currency": "USD",
+        "junior": 70000,
+        "mid": 90000,
+        "senior": 120000
+      },
+      {
+        "region": "Reino Unido",
+        "currency": "GBP",
+        "junior": 30000,
+        "mid": 42000,
+        "senior": 58000
+      },
+      {
+        "region": "Alemania",
+        "currency": "EUR",
+        "junior": 48000,
+        "mid": 58000,
+        "senior": 72000
+      },
+      {
+        "region": "Turquía",
+        "currency": "TRY",
+        "junior": 540000,
+        "mid": 900000,
+        "senior": 1500000
+      },
+      {
+        "region": "India",
+        "currency": "INR",
+        "junior": 350000,
+        "mid": 700000,
+        "senior": 1400000
+      },
+      {
+        "region": "Indonesia",
+        "currency": "IDR",
+        "junior": 72000000,
+        "mid": 132000000,
+        "senior": 228000000
+      },
+      {
+        "region": "Malasia",
+        "currency": "MYR",
+        "junior": 42000,
+        "mid": 72000,
+        "senior": 120000
+      },
+      {
+        "region": "Brasil",
+        "currency": "BRL",
+        "junior": 60000,
+        "mid": 102000,
+        "senior": 168000
+      },
+      {
+        "region": "España",
+        "currency": "EUR",
+        "junior": 26000,
+        "mid": 35000,
+        "senior": 48000
+      },
+      {
+        "region": "Francia",
+        "currency": "EUR",
+        "junior": 36000,
+        "mid": 45000,
+        "senior": 60000
+      }
+    ]
+  },
+  {
+    "id": "mechanical-engineer",
+    "title": "Ingeniero mecánico",
+    "category": "Ingeniería",
+    "description": "Diseña, analiza y mejora máquinas, productos y procesos de fabricación.",
+    "ranges": [
+      {
+        "region": "Estados Unidos",
+        "currency": "USD",
+        "junior": 72000,
+        "mid": 92000,
+        "senior": 122000
+      },
+      {
+        "region": "Reino Unido",
+        "currency": "GBP",
+        "junior": 30000,
+        "mid": 43000,
+        "senior": 60000
+      },
+      {
+        "region": "Alemania",
+        "currency": "EUR",
+        "junior": 50000,
+        "mid": 62000,
+        "senior": 78000
+      },
+      {
+        "region": "Turquía",
+        "currency": "TRY",
+        "junior": 540000,
+        "mid": 900000,
+        "senior": 1500000
+      },
+      {
+        "region": "India",
+        "currency": "INR",
+        "junior": 350000,
+        "mid": 720000,
+        "senior": 1440000
+      },
+      {
+        "region": "Indonesia",
+        "currency": "IDR",
+        "junior": 72000000,
+        "mid": 132000000,
+        "senior": 228000000
+      },
+      {
+        "region": "Malasia",
+        "currency": "MYR",
+        "junior": 42000,
+        "mid": 72000,
+        "senior": 120000
+      },
+      {
+        "region": "Brasil",
+        "currency": "BRL",
+        "junior": 60000,
+        "mid": 102000,
+        "senior": 168000
+      },
+      {
+        "region": "España",
+        "currency": "EUR",
+        "junior": 26000,
+        "mid": 36000,
+        "senior": 50000
+      },
+      {
+        "region": "Francia",
+        "currency": "EUR",
+        "junior": 37000,
+        "mid": 46000,
+        "senior": 62000
+      }
+    ]
+  },
+  {
+    "id": "electrical-engineer",
+    "title": "Ingeniero eléctrico",
+    "category": "Ingeniería",
+    "description": "Diseña y prueba sistemas eléctricos, desde la distribución de energía hasta la electrónica y los sistemas de control.",
+    "ranges": [
+      {
+        "region": "Estados Unidos",
+        "currency": "USD",
+        "junior": 78000,
+        "mid": 100000,
+        "senior": 130000
+      },
+      {
+        "region": "Reino Unido",
+        "currency": "GBP",
+        "junior": 32000,
+        "mid": 45000,
+        "senior": 62000
+      },
+      {
+        "region": "Alemania",
+        "currency": "EUR",
+        "junior": 52000,
+        "mid": 64000,
+        "senior": 80000
+      },
+      {
+        "region": "Turquía",
+        "currency": "TRY",
+        "junior": 560000,
+        "mid": 960000,
+        "senior": 1560000
+      },
+      {
+        "region": "India",
+        "currency": "INR",
+        "junior": 380000,
+        "mid": 780000,
+        "senior": 1560000
+      },
+      {
+        "region": "Indonesia",
+        "currency": "IDR",
+        "junior": 78000000,
+        "mid": 144000000,
+        "senior": 246000000
+      },
+      {
+        "region": "Malasia",
+        "currency": "MYR",
+        "junior": 45000,
+        "mid": 78000,
+        "senior": 126000
+      },
+      {
+        "region": "Brasil",
+        "currency": "BRL",
+        "junior": 64000,
+        "mid": 108000,
+        "senior": 180000
+      },
+      {
+        "region": "España",
+        "currency": "EUR",
+        "junior": 27000,
+        "mid": 37000,
+        "senior": 52000
+      },
+      {
+        "region": "Francia",
+        "currency": "EUR",
+        "junior": 38000,
+        "mid": 48000,
+        "senior": 64000
+      }
+    ]
+  },
+  {
+    "id": "graphic-designer",
+    "title": "Diseñador gráfico",
+    "category": "Creatividad",
+    "description": "Crea conceptos visuales para marcas, materiales de marketing, sitios web y publicaciones.",
+    "ranges": [
+      {
+        "region": "Estados Unidos",
+        "currency": "USD",
+        "junior": 45000,
+        "mid": 60000,
+        "senior": 80000
+      },
+      {
+        "region": "Reino Unido",
+        "currency": "GBP",
+        "junior": 24000,
+        "mid": 32000,
+        "senior": 45000
+      },
+      {
+        "region": "Alemania",
+        "currency": "EUR",
+        "junior": 34000,
+        "mid": 42000,
+        "senior": 54000
+      },
+      {
+        "region": "Turquía",
+        "currency": "TRY",
+        "junior": 420000,
+        "mid": 660000,
+        "senior": 1020000
+      },
+      {
+        "region": "India",
+        "currency": "INR",
+        "junior": 250000,
+        "mid": 500000,
+        "senior": 1000000
+      },
+      {
+        "region": "Indonesia",
+        "currency": "IDR",
+        "junior": 54000000,
+        "mid": 90000000,
+        "senior": 150000000
+      },
+      {
+        "region": "Malasia",
+        "currency": "MYR",
+        "junior": 30000,
+        "mid": 48000,
+        "senior": 78000
+      },
+      {
+        "region": "Brasil",
+        "currency": "BRL",
+        "junior": 36000,
+        "mid": 60000,
+        "senior": 96000
+      },
+      {
+        "region": "España",
+        "currency": "EUR",
+        "junior": 20000,
+        "mid": 26000,
+        "senior": 36000
+      },
+      {
+        "region": "Francia",
+        "currency": "EUR",
+        "junior": 26000,
+        "mid": 33000,
+        "senior": 44000
+      }
+    ]
+  },
+  {
+    "id": "architect",
+    "title": "Arquitecto",
+    "category": "Creatividad",
+    "description": "Diseña edificios y espacios equilibrando estética, funcionalidad, normativa y presupuesto.",
+    "ranges": [
+      {
+        "region": "Estados Unidos",
+        "currency": "USD",
+        "junior": 65000,
+        "mid": 88000,
+        "senior": 120000
+      },
+      {
+        "region": "Reino Unido",
+        "currency": "GBP",
+        "junior": 32000,
+        "mid": 45000,
+        "senior": 62000
+      },
+      {
+        "region": "Alemania",
+        "currency": "EUR",
+        "junior": 45000,
+        "mid": 56000,
+        "senior": 72000
+      },
+      {
+        "region": "Turquía",
+        "currency": "TRY",
+        "junior": 480000,
+        "mid": 840000,
+        "senior": 1440000
+      },
+      {
+        "region": "India",
+        "currency": "INR",
+        "junior": 350000,
+        "mid": 700000,
+        "senior": 1500000
+      },
+      {
+        "region": "Indonesia",
+        "currency": "IDR",
+        "junior": 72000000,
+        "mid": 132000000,
+        "senior": 240000000
+      },
+      {
+        "region": "Malasia",
+        "currency": "MYR",
+        "junior": 42000,
+        "mid": 72000,
+        "senior": 120000
+      },
+      {
+        "region": "Brasil",
+        "currency": "BRL",
+        "junior": 54000,
+        "mid": 90000,
+        "senior": 150000
+      },
+      {
+        "region": "España",
+        "currency": "EUR",
+        "junior": 24000,
+        "mid": 33000,
+        "senior": 46000
+      },
+      {
+        "region": "Francia",
+        "currency": "EUR",
+        "junior": 32000,
+        "mid": 42000,
+        "senior": 56000
+      }
+    ]
+  },
+  {
+    "id": "customer-support-specialist",
+    "title": "Especialista en atención al cliente",
+    "category": "Hostelería y atención al cliente",
+    "description": "Resuelve dudas y problemas de los clientes por teléfono, chat o correo electrónico y mantiene su satisfacción.",
+    "ranges": [
+      {
+        "region": "Estados Unidos",
+        "currency": "USD",
+        "junior": 38000,
+        "mid": 46000,
+        "senior": 58000
+      },
+      {
+        "region": "Reino Unido",
+        "currency": "GBP",
+        "junior": 24000,
+        "mid": 28000,
+        "senior": 34000
+      },
+      {
+        "region": "Alemania",
+        "currency": "EUR",
+        "junior": 30000,
+        "mid": 36000,
+        "senior": 44000
+      },
+      {
+        "region": "Turquía",
+        "currency": "TRY",
+        "junior": 420000,
+        "mid": 540000,
+        "senior": 720000
+      },
+      {
+        "region": "India",
+        "currency": "INR",
+        "junior": 200000,
+        "mid": 350000,
+        "senior": 600000
+      },
+      {
+        "region": "Indonesia",
+        "currency": "IDR",
+        "junior": 54000000,
+        "mid": 78000000,
+        "senior": 114000000
+      },
+      {
+        "region": "Malasia",
+        "currency": "MYR",
+        "junior": 26000,
+        "mid": 38000,
+        "senior": 54000
+      },
+      {
+        "region": "Brasil",
+        "currency": "BRL",
+        "junior": 26000,
+        "mid": 36000,
+        "senior": 54000
+      },
+      {
+        "region": "España",
+        "currency": "EUR",
+        "junior": 18000,
+        "mid": 22000,
+        "senior": 28000
+      },
+      {
+        "region": "Francia",
+        "currency": "EUR",
+        "junior": 23000,
+        "mid": 27000,
+        "senior": 34000
+      }
+    ]
+  },
+  {
+    "id": "hotel-manager",
+    "title": "Gerente de hotel",
+    "category": "Hostelería y atención al cliente",
+    "description": "Supervisa las operaciones del hotel, el personal, la experiencia de los huéspedes y los resultados financieros.",
+    "ranges": [
+      {
+        "region": "Estados Unidos",
+        "currency": "USD",
+        "junior": 55000,
+        "mid": 75000,
+        "senior": 105000
+      },
+      {
+        "region": "Reino Unido",
+        "currency": "GBP",
+        "junior": 28000,
+        "mid": 40000,
+        "senior": 58000
+      },
+      {
+        "region": "Alemania",
+        "currency": "EUR",
+        "junior": 40000,
+        "mid": 52000,
+        "senior": 70000
+      },
+      {
+        "region": "Turquía",
+        "currency": "TRY",
+        "junior": 540000,
+        "mid": 960000,
+        "senior": 1680000
+      },
+      {
+        "region": "India",
+        "currency": "INR",
+        "junior": 400000,
+        "mid": 900000,
+        "senior": 1800000
+      },
+      {
+        "region": "Indonesia",
+        "currency": "IDR",
+        "junior": 72000000,
+        "mid": 144000000,
+        "senior": 264000000
+      },
+      {
+        "region": "Malasia",
+        "currency": "MYR",
+        "junior": 42000,
+        "mid": 72000,
+        "senior": 126000
+      },
+      {
+        "region": "Brasil",
+        "currency": "BRL",
+        "junior": 48000,
+        "mid": 90000,
+        "senior": 156000
+      },
+      {
+        "region": "España",
+        "currency": "EUR",
+        "junior": 25000,
+        "mid": 36000,
+        "senior": 52000
+      },
+      {
+        "region": "Francia",
+        "currency": "EUR",
+        "junior": 32000,
+        "mid": 42000,
+        "senior": 58000
+      }
+    ]
+  },
+  {
+    "id": "chef",
+    "title": "Chef",
+    "category": "Hostelería y atención al cliente",
+    "description": "Planifica menús, prepara platos y dirige al equipo de cocina con estándares de calidad constantes.",
+    "ranges": [
+      {
+        "region": "Estados Unidos",
+        "currency": "USD",
+        "junior": 42000,
+        "mid": 55000,
+        "senior": 72000
+      },
+      {
+        "region": "Reino Unido",
+        "currency": "GBP",
+        "junior": 25000,
+        "mid": 32000,
+        "senior": 45000
+      },
+      {
+        "region": "Alemania",
+        "currency": "EUR",
+        "junior": 30000,
+        "mid": 38000,
+        "senior": 50000
+      },
+      {
+        "region": "Turquía",
+        "currency": "TRY",
+        "junior": 420000,
+        "mid": 660000,
+        "senior": 1080000
+      },
+      {
+        "region": "India",
+        "currency": "INR",
+        "junior": 240000,
+        "mid": 480000,
+        "senior": 960000
+      },
+      {
+        "region": "Indonesia",
+        "currency": "IDR",
+        "junior": 54000000,
+        "mid": 90000000,
+        "senior": 150000000
+      },
+      {
+        "region": "Malasia",
+        "currency": "MYR",
+        "junior": 30000,
+        "mid": 48000,
+        "senior": 84000
+      },
+      {
+        "region": "Brasil",
+        "currency": "BRL",
+        "junior": 30000,
+        "mid": 48000,
+        "senior": 84000
+      },
+      {
+        "region": "España",
+        "currency": "EUR",
+        "junior": 19000,
+        "mid": 25000,
+        "senior": 35000
+      },
+      {
+        "region": "Francia",
+        "currency": "EUR",
+        "junior": 24000,
+        "mid": 30000,
+        "senior": 42000
+      }
+    ]
+  }
+]

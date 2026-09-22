@@ -1,0 +1,226 @@
+[
+  {
+    "id": "united-states",
+    "name": "Vereinigte Staaten",
+    "flag": "🇺🇸",
+    "summary": "Die Vereinigten Staaten sind die größte Volkswirtschaft der Welt und haben einen dynamischen, stark umkämpften Arbeitsmarkt. Die Gehälter sind oft hoch, aber Leistungen wie Krankenversicherung und bezahlter Urlaub unterscheiden sich stark je nach Arbeitgeber.",
+    "jobMarket": "Technologie, Gesundheitswesen, Finanzen und professionelle Dienstleistungen stellen durchgehend in großem Umfang ein. Stellen in Engineering, Daten, Cybersicherheit und Pflege sind in vielen Bundesstaaten weiterhin sehr gefragt.",
+    "visa": "Gängige Wege sind das H-1B-Visum für Fachkräfte, L-1 für konzerninterne Versetzungen, O-1 für außergewöhnliche Fähigkeiten sowie beschäftigungsbasierte Green Cards. Die meisten Wege erfordern eine Unterstützung durch den Arbeitgeber, und bei manchen entscheidet eine Lotterie. Schau also immer auf den offiziellen Websites von USCIS und dem State Department nach, denn die Regeln ändern sich häufig.",
+    "salaryNote": "Die Gehälter unterscheiden sich stark je nach Stadt und Bundesstaat, wobei die Tech-Hubs an den Küsten am besten zahlen. Berücksichtige beim Vergleichen von Angeboten immer Gesundheitskosten, Steuern sowie Boni oder Unternehmensanteile.",
+    "languages": "Englisch",
+    "tips": [
+      "Halte deinen Lebenslauf auf ein bis zwei Seiten und lass Foto, Alter und Familienstand weg.",
+      "Belege deine Erfolge mit Zahlen, Prozentangaben und Ergebnissen.",
+      "Rechne mit verhaltensbasierten Fragen und beantworte sie mit klaren Geschichten nach der STAR-Methode.",
+      "Selbstbewusst über deine eigenen Beiträge zu sprechen wird erwartet und gilt nicht als Angeberei."
+    ]
+  },
+  {
+    "id": "canada",
+    "name": "Kanada",
+    "flag": "🇨🇦",
+    "summary": "Kanada hat eine stabile, vielfältige Wirtschaft und heißt qualifizierte Zuwanderer aktiv willkommen. Wichtige Zentren sind Toronto, Vancouver, Montreal und Calgary.",
+    "jobMarket": "Gesundheitswesen, Technologie, Handwerksberufe, Ingenieurwesen und Finanzen sind die wichtigsten Branchen für Neueinstellungen. Viele Provinzen melden Engpässe in der Pflege, im Bauwesen und in der IT.",
+    "visa": "Fachkräfte beantragen die dauerhafte Aufenthaltserlaubnis oft über Express Entry oder die Provincial Nominee Programs, während arbeitgebergebundene Arbeitserlaubnisse eine Arbeitsmarktprüfung erfordern können. Programme und Auswahlkriterien ändern sich häufig, also schau auf der offiziellen Website von Immigration, Refugees and Citizenship Canada (IRCC) nach.",
+    "salaryNote": "Die Gehälter liegen meist unter denen in den USA, dafür gibt es eine öffentliche Gesundheitsversorgung. Bezahlung und Lebenshaltungskosten unterscheiden sich deutlich zwischen Provinzen und Städten.",
+    "languages": "Englisch und Französisch (in weiten Teilen Québecs ist Französisch unverzichtbar)",
+    "tips": [
+      "Nutze einen ein- bis zweiseitigen Lebenslauf ohne Foto, Geburtsdatum oder Familienstand.",
+      "Kanadische Arbeitgeber schätzen relevante lokale oder übertragbare Erfahrung, also stell sie deutlich heraus.",
+      "Höflichkeit und ein kooperativer Ton zählen; vermeide allzu aggressive Selbstdarstellung.",
+      "Bereite Referenzen im Voraus vor, denn sie werden häufig überprüft."
+    ]
+  },
+  {
+    "id": "united-kingdom",
+    "name": "Vereinigtes Königreich",
+    "flag": "🇬🇧",
+    "summary": "Das Vereinigte Königreich hat eine große, dienstleistungsorientierte Wirtschaft, und London ist ein globales Zentrum für Finanzen und Technologie. Auch Städte wie Manchester, Edinburgh und Bristol haben wachsende Arbeitsmärkte.",
+    "jobMarket": "Finanzen, Technologie, Gesundheitswesen (vor allem der NHS), Ingenieurwesen und die Kreativbranche sind große Arbeitgeber. Stellen in Gesundheit und Pflege, Software und Daten stehen häufig auf den Mangelberufslisten.",
+    "visa": "Der wichtigste Weg ist das Skilled Worker Visa, für das du ein Jobangebot von einem lizenzierten Sponsor brauchst, das bestimmte Gehalts- und Qualifikationsschwellen erfüllt. Außerdem gibt es die Routen Health and Care Worker, Global Talent und Graduate; prüfe die aktuellen Anforderungen auf GOV.UK, da die Schwellenwerte regelmäßig angepasst werden.",
+    "salaryNote": "In London sind die Gehälter deutlich höher, die Lebenshaltungskosten aber auch. Gehälter werden in der Regel als Jahresbrutto vor Einkommensteuer und National Insurance angegeben.",
+    "languages": "Englisch",
+    "tips": [
+      "Halte deinen CV bei etwa zwei Seiten und füge kein Foto hinzu.",
+      "Nutze kompetenzbasierte Beispiele, denn viele Interviews folgen diesem Format.",
+      "Ein bescheidener, zurückhaltender Ton kommt besser an als offensives Verkaufen.",
+      "Füge ein kurzes, zugeschnittenes Anschreiben bei, wenn die Bewerbung es zulässt."
+    ]
+  },
+  {
+    "id": "ireland",
+    "name": "Irland",
+    "flag": "🇮🇪",
+    "summary": "Irland ist ein englischsprachiges EU-Land, in dem viele globale Tech- und Pharmaunternehmen ihren Europasitz haben. Die meisten Chancen konzentrieren sich auf Dublin, Cork und Galway.",
+    "jobMarket": "Technologie, Pharma, Medizintechnik, Finanzen und Flugzeugleasing sind wichtige Branchen. Stellen in Softwareentwicklung, Daten, Gesundheitswesen und Bauwesen sind konstant gefragt.",
+    "visa": "Fachkräfte aus Nicht-EU-Ländern nutzen häufig die Critical Skills Employment Permit für gefragte Berufe oder die General Employment Permit für andere Stellen. Berufslisten und Gehaltsschwellen werden regelmäßig überprüft, also schau auf den offiziellen Websites des Department of Enterprise und des Irish Immigration Service nach.",
+    "salaryNote": "Die Gehälter in Tech und Pharma sind für europäische Verhältnisse konkurrenzfähig. Wohnen in Dublin ist teuer, also berücksichtige die Miete sorgfältig, wenn du Angebote vergleichst.",
+    "languages": "Englisch (Irisch ist Amtssprache, wird im Job aber selten verlangt)",
+    "tips": [
+      "Nutze einen knappen, zweiseitigen CV ohne Foto.",
+      "Freundlicher Small Talk zu Beginn des Interviews ist üblich; entspann dich und steig darauf ein.",
+      "Zeig echtes Interesse an der Arbeit des Unternehmens in Irland, nicht nur an der globalen Marke.",
+      "Kompetenzbasierte Fragen sind verbreitet, also bereite strukturierte Beispiele vor."
+    ]
+  },
+  {
+    "id": "germany",
+    "name": "Deutschland",
+    "flag": "🇩🇪",
+    "summary": "Deutschland ist die größte Volkswirtschaft Europas und bekannt für Ingenieurskunst, Industrie und einen starken Mittelstand. Berlin, München, Hamburg und Frankfurt sind wichtige Jobzentren.",
+    "jobMarket": "In der Automobilindustrie, im Maschinenbau und in der Elektrotechnik, in der IT, im Gesundheitswesen und im Handwerk fehlen überall Fachkräfte. Besonders gefragt sind Stellen in Pflege, Softwareentwicklung und Ingenieurwesen.",
+    "visa": "Wichtige Wege sind die Blaue Karte EU für qualifizierte Fachkräfte, die eine Gehaltsschwelle erreichen, das Visum für Fachkräfte und die Chancenkarte für Jobsuchende. Anforderungen wie anerkannte Abschlüsse und Gehaltsgrenzen ändern sich, also schau auf dem offiziellen Portal Make it in Germany und bei den deutschen Auslandsvertretungen nach.",
+    "salaryNote": "Gehälter werden in der Regel als Jahresbrutto angegeben, und Steuern sowie Sozialabgaben fallen deutlich ins Gewicht. Im Süden und in Großstädten wird tendenziell besser bezahlt.",
+    "languages": "Deutsch (Englisch ist in Tech und Start-ups verbreitet, aber Deutsch erweitert deine Möglichkeiten enorm)",
+    "tips": [
+      "Ein tabellarischer Lebenslauf ist Standard; ein professionelles Foto ist freiwillig, aber immer noch üblich.",
+      "Leg deiner Bewerbung Zeugnisse und Arbeitszeugnisse bei, wenn du welche hast.",
+      "Sei pünktlich und präzise; Interviews sind meist strukturiert und faktenorientiert.",
+      "Rechne mit detaillierten Fragen zu deinen Qualifikationen und dazu, was genau du in jeder Position gemacht hast."
+    ]
+  },
+  {
+    "id": "netherlands",
+    "name": "Niederlande",
+    "flag": "🇳🇱",
+    "summary": "Die Niederlande haben eine offene, internationale Wirtschaft und einen hohen Anteil an Englischsprechenden. In Amsterdam, Rotterdam, Den Haag und Eindhoven sitzen viele multinationale Arbeitgeber.",
+    "jobMarket": "Technologie, Logistik, Agrar- und Lebensmittelwirtschaft, Life Sciences, Hightech-Fertigung und Finanzen sind starke Branchen. Stellen in Software, Daten, Ingenieurwesen und Gesundheitswesen sind gefragt.",
+    "visa": "Viele Fachkräfte kommen über die Regelung für hochqualifizierte Migranten (Highly Skilled Migrant), die einen von der Einwanderungsbehörde anerkannten Arbeitgeber und ein Mindestgehalt voraussetzt, oder über die Blaue Karte EU. Regeln und Schwellenwerte werden regelmäßig aktualisiert, also schau auf der offiziellen Website des IND nach.",
+    "salaryNote": "Gehälter werden in der Regel als Jahresbrutto angegeben und enthalten oft ein Urlaubsgeld. In der Randstad-Region können die Wohnkosten hoch sein.",
+    "languages": "Niederländisch und Englisch (Englisch ist in internationalen Unternehmen weit verbreitet)",
+    "tips": [
+      "Halte deinen Lebenslauf kurz und sachlich; ein Foto ist optional.",
+      "Die niederländische Kommunikation ist direkt, also gib klare und ehrliche Antworten.",
+      "Zeig, dass du selbstständig arbeiten und zu konsensbasierten Entscheidungen beitragen kannst.",
+      "Übertreib deine Erfolge nicht; bescheidene, aber konkrete Beispiele kommen gut an."
+    ]
+  },
+  {
+    "id": "switzerland",
+    "name": "Schweiz",
+    "flag": "🇨🇭",
+    "summary": "Die Schweiz bietet einige der höchsten Gehälter der Welt, eine stabile Wirtschaft und eine sehr hohe Lebensqualität. Zürich, Genf, Basel und Lausanne sind die wichtigsten Jobzentren.",
+    "jobMarket": "Banken, Versicherungen, Pharma, Präzisionstechnik, IT und internationale Organisationen sind große Arbeitgeber. Besonders gesucht sind Fachleute aus Tech, Life Sciences und Finanzen.",
+    "visa": "EU/EFTA-Bürger profitieren von der Personenfreizügigkeit, während Staatsangehörige aus Nicht-EU-Ländern jährlichen Kontingenten unterliegen und meist hochqualifiziert sein müssen; zudem muss der Arbeitgeber nachweisen, dass keine geeignete Person vor Ort gefunden wurde. Prüfe die aktuellen Regeln auf den offiziellen Websites des Staatssekretariats für Migration (SEM) und der kantonalen Behörden.",
+    "salaryNote": "Die Gehälter sind sehr hoch, aber das gilt auch für Mieten, Krankenversicherung und Alltagskosten. Außerdem unterscheidet sich das Lohnniveau zwischen Kantonen und Sprachregionen.",
+    "languages": "Je nach Region Deutsch, Französisch oder Italienisch; in multinationalen Unternehmen ist Englisch verbreitet",
+    "tips": [
+      "Eine vollständige Bewerbung umfasst oft einen Lebenslauf mit Foto, Zeugnisse und Referenzschreiben.",
+      "Präzision und Zuverlässigkeit werden geschätzt; prüfe jedes Detail deiner Unterlagen doppelt.",
+      "Pünktlichkeit ist ein Muss; sei ein paar Minuten früher da.",
+      "Die Landessprache der Region zu lernen ist ein großer Vorteil."
+    ]
+  },
+  {
+    "id": "luxembourg",
+    "name": "Luxemburg",
+    "flag": "🇱🇺",
+    "summary": "Luxemburg ist ein kleines, aber wohlhabendes EU-Land mit einem der höchsten Durchschnittseinkommen Europas. Ein großer Teil der Beschäftigten pendelt täglich aus den Nachbarländern Frankreich, Belgien und Deutschland ein.",
+    "jobMarket": "Finanzdienstleistungen, Fondsverwaltung, Banken, EU-Institutionen, IT und Logistik dominieren. Fachleute für Compliance, Rechnungswesen und IT sowie mehrsprachige Kräfte sind sehr gefragt.",
+    "visa": "EU-Bürger können frei arbeiten, während Fachkräfte aus Nicht-EU-Ländern meist die Blaue Karte EU oder eine an ein Jobangebot gebundene Aufenthaltserlaubnis für Arbeitnehmer nutzen. Die Anforderungen ändern sich, also schau auf dem offiziellen Portal Guichet.lu und bei der Einwanderungsbehörde nach.",
+    "salaryNote": "Die Gehälter gehören zu den höchsten in der EU, gestützt durch einen hohen gesetzlichen Mindestlohn. Wohnen ist teuer, weshalb viele Menschen jenseits der Grenze leben.",
+    "languages": "Luxemburgisch, Französisch und Deutsch; im Finanzsektor ist Englisch weit verbreitet",
+    "tips": [
+      "Nenn alle Sprachen, die du sprichst, denn Mehrsprachigkeit ist ein großer Pluspunkt.",
+      "Pass deinen Lebenslauf bei Bedarf an den Finanz- oder EU-Kontext an, mit genauen Daten und Verantwortlichkeiten.",
+      "Im Interview kann die Sprache wechseln, also sei bereit, in mehr als einer Sprache zu antworten.",
+      "In Finanz- und Institutionsrollen wird ein formeller, gepflegter Auftritt erwartet."
+    ]
+  },
+  {
+    "id": "sweden",
+    "name": "Schweden",
+    "flag": "🇸🇪",
+    "summary": "Schweden hat eine innovative Wirtschaft, die für globale Marken, Start-ups und einen starken Fokus auf die Work-Life-Balance bekannt ist. Stockholm, Göteborg und Malmö sind die wichtigsten Jobzentren.",
+    "jobMarket": "Technologie, Gaming, saubere Energie, Life Sciences, Ingenieurwesen und Gesundheitswesen sind Schlüsselbranchen. Softwareentwickler, Ingenieure und Gesundheitspersonal sind gefragt.",
+    "visa": "Fachkräfte aus Nicht-EU-Ländern brauchen in der Regel eine Arbeitserlaubnis auf Grundlage eines Jobangebots, das bestimmte Gehalts- und Beschäftigungsbedingungen erfüllt; manche kommen auch für die Blaue Karte EU infrage. Die Regeln wurden in den letzten Jahren verschärft, also schau auf der offiziellen Website der schwedischen Migrationsbehörde (Migrationsverket) nach.",
+    "salaryNote": "Die Gehälter sind für westeuropäische Verhältnisse moderat, aber Zusatzleistungen, Elternzeit und Urlaub sind großzügig. Die Steuern sind relativ hoch.",
+    "languages": "Schwedisch (Englisch ist weit verbreitet, besonders in der Tech-Branche)",
+    "tips": [
+      "Halte deinen Lebenslauf knapp; ein Foto ist optional.",
+      "Schwedische Arbeitsplätze haben flache Hierarchien, also zeig Teamgeist und Bescheidenheit statt Statusdenken.",
+      "Vermeide Übertreibungen; ausgewogene, ehrliche Antworten schaffen Vertrauen.",
+      "Rechne mit Fragen dazu, wie du zusammenarbeitest und gemeinsam Entscheidungen triffst."
+    ]
+  },
+  {
+    "id": "denmark",
+    "name": "Dänemark",
+    "flag": "🇩🇰",
+    "summary": "Dänemark verbindet eine starke Wirtschaft mit viel Vertrauen, flexiblen Arbeitsmarktregeln und einer hervorragenden Work-Life-Balance. Kopenhagen und Aarhus sind die wichtigsten Beschäftigungszentren.",
+    "jobMarket": "Life Sciences, grüne Energie, Schifffahrt, IT und Ingenieurwesen sind Schlüsselbranchen. Gesundheitsfachkräfte, Ingenieure und IT-Spezialisten sind häufig gefragt.",
+    "visa": "Gängige Wege sind das Pay Limit Scheme für gut bezahlte Jobangebote, die Positivliste für Mangelberufe und Fast-Track-Verfahren für zertifizierte Arbeitgeber. Schau auf der offiziellen Website New to Denmark (SIRI) nach, denn Regelungen und Schwellenwerte ändern sich.",
+    "salaryNote": "Die Gehälter sind hoch, aber auch die Einkommensteuern, die umfangreiche öffentliche Leistungen finanzieren. Die meisten Beschäftigten haben großzügigen bezahlten Urlaub.",
+    "languages": "Dänisch (Englisch ist in internationalen Unternehmen weit verbreitet)",
+    "tips": [
+      "Schreib einen kurzen, persönlichen Lebenslauf und ein zugeschnittenes Motivationsschreiben.",
+      "Die dänische Kultur ist locker und egalitär, also sei entspannt, aber professionell.",
+      "Zeig, dass du selbstständig arbeitest und Verantwortung übernimmst.",
+      "Sei ehrlich, wenn du etwas nicht weißt; Übertreiben kann nach hinten losgehen."
+    ]
+  },
+  {
+    "id": "australia",
+    "name": "Australien",
+    "flag": "🇦🇺",
+    "summary": "Australien hat eine starke Wirtschaft, einen hohen Lebensstandard und eine lange Tradition der Fachkräfteeinwanderung. Sydney, Melbourne, Brisbane und Perth sind wichtige Arbeitsmärkte.",
+    "jobMarket": "Gesundheitswesen, Bauwesen, Bergbau und Rohstoffe, Bildung und Technologie sind große Arbeitgeber. Pflegekräfte, Ingenieure, Handwerker und IT-Fachleute stehen oft auf den Mangelberufslisten.",
+    "visa": "Zu den Optionen gehören vom Arbeitgeber gesponserte befristete und dauerhafte Visa sowie punktebasierte Visa für unabhängige oder von einem Bundesstaat nominierte Fachkräfte. Berufslisten und Anforderungen ändern sich regelmäßig, also schau auf der offiziellen Website des Department of Home Affairs nach.",
+    "salaryNote": "Die Gehälter sind im Allgemeinen hoch, und Arbeitgeber zahlen zusätzlich eine verpflichtende Superannuation (Rentenbeiträge). In Sydney und Melbourne sind die Kosten hoch, vor allem fürs Wohnen.",
+    "languages": "Englisch",
+    "tips": [
+      "Ein Lebenslauf mit zwei bis drei Seiten ist üblich; ein Foto brauchst du nicht.",
+      "Schlag einen freundlichen, bodenständigen Ton an; Arroganz fällt schnell auf.",
+      "Bereite verhaltensbasierte Beispiele nach der STAR-Methode vor.",
+      "Zeig, dass du lokale Standards oder Zulassungen kennst, falls dein Fachgebiet sie verlangt."
+    ]
+  },
+  {
+    "id": "united-arab-emirates",
+    "name": "Vereinigte Arabische Emirate",
+    "flag": "🇦🇪",
+    "summary": "Die Vereinigten Arabischen Emirate sind ein regionales Wirtschaftszentrum mit vielen internationalen Arbeitskräften. Dubai und Abu Dhabi ziehen Fachleute aus der ganzen Welt an.",
+    "jobMarket": "Finanzen, Immobilien, Bauwesen, Tourismus und Gastgewerbe, Luftfahrt, Logistik und Technologie sind wichtige Branchen. Die Nachfrage wächst in den Bereichen KI, Fintech und erneuerbare Energien.",
+    "visa": "Die meisten Fachkräfte arbeiten mit einer vom Arbeitgeber gesponserten Arbeitserlaubnis und einem Aufenthaltsvisum; außerdem gibt es das Golden Visa und das Green Visa für bestimmte Fachkräfte oder Gutverdienende. Schau auf offiziellen Regierungsportalen wie u.ae und bei den zuständigen Behörden des jeweiligen Emirats nach, denn die Regeln ändern sich.",
+    "salaryNote": "Bei vielen Jobs fällt keine Einkommensteuer an, und Pakete können Wohn- oder Transportzuschüsse enthalten. Vergleiche immer das Gesamtpaket, nicht nur das Grundgehalt.",
+    "languages": "Arabisch und Englisch (Englisch ist die wichtigste Geschäftssprache)",
+    "tips": [
+      "Ein professionelles Foto im Lebenslauf ist üblich und akzeptiert.",
+      "Gib deine Staatsangehörigkeit und deinen Visastatus an, da Arbeitgeber oft danach fragen.",
+      "Kleide dich im Interview formell und zurückhaltend.",
+      "Bau eine Beziehung auf; persönliche Kontakte und respektvolle Umgangsformen zählen sehr viel."
+    ]
+  },
+  {
+    "id": "japan",
+    "name": "Japan",
+    "flag": "🇯🇵",
+    "summary": "Japan ist eine bedeutende hochentwickelte Volkswirtschaft mit Weltmarktführern in der Automobil-, Elektronik- und Fertigungsindustrie. Tokio, Osaka und Nagoya sind die größten Arbeitsmärkte.",
+    "jobMarket": "IT, Ingenieurwesen, Fertigung, Gesundheitswesen und Gastgewerbe leiden wegen der alternden Bevölkerung unter Arbeitskräftemangel. Softwareentwickler und Fachleute mit Japanischkenntnissen sind besonders gefragt.",
+    "visa": "Gängige Wege sind das Visum „Engineer/Specialist in Humanities/International Services“, das punktebasierte Visum für Highly Skilled Professionals und die Specified-Skilled-Worker-Visa für bestimmte Branchen. Schau auf der offiziellen Website der Immigration Services Agency of Japan nach, denn die Anforderungen ändern sich.",
+    "salaryNote": "Die Grundgehälter können im Vergleich zu den USA bescheiden sein, aber Boni und Zulagen sind üblich. In vielen traditionellen Unternehmen beeinflusst die Betriebszugehörigkeit weiterhin die Bezahlung.",
+    "languages": "Japanisch (reine Englisch-Stellen gibt es vor allem in der Tech-Branche und bei ausländischen Unternehmen)",
+    "tips": [
+      "Traditionelle Unternehmen erwarten eventuell einen Lebenslauf im Standardformat (Rirekisho) mit Foto.",
+      "Höflichkeit, Bescheidenheit und formelle Begrüßungen sind sehr wichtig.",
+      "Komm früh und kleide dich zurückhaltend, meist in einem dunklen Anzug.",
+      "Zeig langfristiges Engagement und Teamorientierung statt individuellem Ehrgeiz."
+    ]
+  },
+  {
+    "id": "singapore",
+    "name": "Singapur",
+    "flag": "🇸🇬",
+    "summary": "Singapur ist ein führendes asiatisches Zentrum für Finanzen, Handel und Technologie mit sehr internationalen Arbeitskräften. Viele multinationale Konzerne haben dort ihren Asien-Pazifik-Hauptsitz.",
+    "jobMarket": "Finanzen, Technologie, Logistik, biomedizinische Wissenschaften und professionelle Dienstleistungen sind Schlüsselbranchen. Fachleute für Software, Daten, Cybersicherheit und Finanzen sind sehr gefragt.",
+    "visa": "Fachkräfte brauchen in der Regel einen Employment Pass, bei dem das Gehalt und ein Punktesystem berücksichtigt werden, während mittelqualifizierte Arbeitskräfte den S Pass nutzen können. Die Kriterien werden regelmäßig aktualisiert, also schau auf der offiziellen Website des Ministry of Manpower (MOM) nach.",
+    "salaryNote": "Die Gehälter in Finanzen und Tech sind konkurrenzfähig, und die Einkommensteuer ist relativ niedrig. Wohnen und ein eigenes Auto sind teuer.",
+    "languages": "Englisch (die wichtigste Geschäftssprache) sowie Mandarin, Malaiisch und Tamil",
+    "tips": [
+      "Halte deinen Lebenslauf knapp und ergebnisorientiert; ein Foto ist optional.",
+      "Sei klar in Bezug auf deine Kündigungsfrist und den Status deiner Arbeitserlaubnis.",
+      "Zeig, dass du in einem vielfältigen Team kulturübergreifend arbeiten kannst.",
+      "Sei darauf vorbereitet, dein Wunschgehalt direkt zu besprechen, denn danach wird oft früh gefragt."
+    ]
+  }
+]

@@ -1,0 +1,1874 @@
+[
+  {
+    "id": "software-engineer",
+    "title": "सॉफ़्टवेयर इंजीनियर",
+    "category": "टेक्नोलॉजी",
+    "description": "सॉफ़्टवेयर ऐप्लिकेशन और सिस्टम डिज़ाइन करता है, बनाता है, टेस्ट करता है और उनका रखरखाव करता है।",
+    "ranges": [
+      {
+        "region": "संयुक्त राज्य अमेरिका",
+        "currency": "USD",
+        "junior": 95000,
+        "mid": 130000,
+        "senior": 175000
+      },
+      {
+        "region": "यूनाइटेड किंगडम",
+        "currency": "GBP",
+        "junior": 35000,
+        "mid": 55000,
+        "senior": 80000
+      },
+      {
+        "region": "जर्मनी",
+        "currency": "EUR",
+        "junior": 52000,
+        "mid": 68000,
+        "senior": 88000
+      },
+      {
+        "region": "तुर्किये",
+        "currency": "TRY",
+        "junior": 840000,
+        "mid": 1450000,
+        "senior": 2400000
+      },
+      {
+        "region": "भारत",
+        "currency": "INR",
+        "junior": 600000,
+        "mid": 1500000,
+        "senior": 3200000
+      },
+      {
+        "region": "इंडोनेशिया",
+        "currency": "IDR",
+        "junior": 120000000,
+        "mid": 240000000,
+        "senior": 450000000
+      },
+      {
+        "region": "मलेशिया",
+        "currency": "MYR",
+        "junior": 54000,
+        "mid": 96000,
+        "senior": 168000
+      },
+      {
+        "region": "ब्राज़ील",
+        "currency": "BRL",
+        "junior": 72000,
+        "mid": 144000,
+        "senior": 252000
+      },
+      {
+        "region": "स्पेन",
+        "currency": "EUR",
+        "junior": 28000,
+        "mid": 42000,
+        "senior": 60000
+      },
+      {
+        "region": "फ़्रांस",
+        "currency": "EUR",
+        "junior": 40000,
+        "mid": 52000,
+        "senior": 70000
+      }
+    ]
+  },
+  {
+    "id": "data-analyst",
+    "title": "डेटा एनालिस्ट",
+    "category": "टेक्नोलॉजी",
+    "description": "कच्चे डेटा को रिपोर्ट, डैशबोर्ड और ऐसी जानकारी में बदलता है जिससे बिज़नेस के फ़ैसले लिए जाते हैं।",
+    "ranges": [
+      {
+        "region": "संयुक्त राज्य अमेरिका",
+        "currency": "USD",
+        "junior": 65000,
+        "mid": 85000,
+        "senior": 110000
+      },
+      {
+        "region": "यूनाइटेड किंगडम",
+        "currency": "GBP",
+        "junior": 30000,
+        "mid": 42000,
+        "senior": 58000
+      },
+      {
+        "region": "जर्मनी",
+        "currency": "EUR",
+        "junior": 45000,
+        "mid": 56000,
+        "senior": 70000
+      },
+      {
+        "region": "तुर्किये",
+        "currency": "TRY",
+        "junior": 600000,
+        "mid": 960000,
+        "senior": 1560000
+      },
+      {
+        "region": "भारत",
+        "currency": "INR",
+        "junior": 420000,
+        "mid": 900000,
+        "senior": 1800000
+      },
+      {
+        "region": "इंडोनेशिया",
+        "currency": "IDR",
+        "junior": 84000000,
+        "mid": 156000000,
+        "senior": 276000000
+      },
+      {
+        "region": "मलेशिया",
+        "currency": "MYR",
+        "junior": 42000,
+        "mid": 72000,
+        "senior": 114000
+      },
+      {
+        "region": "ब्राज़ील",
+        "currency": "BRL",
+        "junior": 54000,
+        "mid": 96000,
+        "senior": 156000
+      },
+      {
+        "region": "स्पेन",
+        "currency": "EUR",
+        "junior": 24000,
+        "mid": 33000,
+        "senior": 45000
+      },
+      {
+        "region": "फ़्रांस",
+        "currency": "EUR",
+        "junior": 35000,
+        "mid": 44000,
+        "senior": 56000
+      }
+    ]
+  },
+  {
+    "id": "product-manager",
+    "title": "प्रोडक्ट मैनेजर",
+    "category": "टेक्नोलॉजी",
+    "description": "तय करता है कि प्रोडक्ट को क्या करना चाहिए और उसे डिलीवर करने के लिए इंजीनियरिंग, डिज़ाइन और बिज़नेस टीमों को एक दिशा में रखता है।",
+    "ranges": [
+      {
+        "region": "संयुक्त राज्य अमेरिका",
+        "currency": "USD",
+        "junior": 100000,
+        "mid": 140000,
+        "senior": 185000
+      },
+      {
+        "region": "यूनाइटेड किंगडम",
+        "currency": "GBP",
+        "junior": 45000,
+        "mid": 65000,
+        "senior": 90000
+      },
+      {
+        "region": "जर्मनी",
+        "currency": "EUR",
+        "junior": 58000,
+        "mid": 75000,
+        "senior": 95000
+      },
+      {
+        "region": "तुर्किये",
+        "currency": "TRY",
+        "junior": 960000,
+        "mid": 1680000,
+        "senior": 2760000
+      },
+      {
+        "region": "भारत",
+        "currency": "INR",
+        "junior": 1200000,
+        "mid": 2600000,
+        "senior": 4800000
+      },
+      {
+        "region": "इंडोनेशिया",
+        "currency": "IDR",
+        "junior": 144000000,
+        "mid": 288000000,
+        "senior": 540000000
+      },
+      {
+        "region": "मलेशिया",
+        "currency": "MYR",
+        "junior": 72000,
+        "mid": 120000,
+        "senior": 192000
+      },
+      {
+        "region": "ब्राज़ील",
+        "currency": "BRL",
+        "junior": 96000,
+        "mid": 168000,
+        "senior": 276000
+      },
+      {
+        "region": "स्पेन",
+        "currency": "EUR",
+        "junior": 35000,
+        "mid": 50000,
+        "senior": 70000
+      },
+      {
+        "region": "फ़्रांस",
+        "currency": "EUR",
+        "junior": 45000,
+        "mid": 60000,
+        "senior": 80000
+      }
+    ]
+  },
+  {
+    "id": "ux-designer",
+    "title": "UX डिज़ाइनर",
+    "category": "टेक्नोलॉजी",
+    "description": "यूज़र की ज़रूरतों पर रिसर्च करता है और डिजिटल प्रोडक्ट्स के लिए आसान फ़्लो, वायरफ़्रेम और इंटरफ़ेस डिज़ाइन करता है।",
+    "ranges": [
+      {
+        "region": "संयुक्त राज्य अमेरिका",
+        "currency": "USD",
+        "junior": 75000,
+        "mid": 100000,
+        "senior": 135000
+      },
+      {
+        "region": "यूनाइटेड किंगडम",
+        "currency": "GBP",
+        "junior": 30000,
+        "mid": 45000,
+        "senior": 65000
+      },
+      {
+        "region": "जर्मनी",
+        "currency": "EUR",
+        "junior": 45000,
+        "mid": 58000,
+        "senior": 74000
+      },
+      {
+        "region": "तुर्किये",
+        "currency": "TRY",
+        "junior": 660000,
+        "mid": 1140000,
+        "senior": 1920000
+      },
+      {
+        "region": "भारत",
+        "currency": "INR",
+        "junior": 500000,
+        "mid": 1200000,
+        "senior": 2400000
+      },
+      {
+        "region": "इंडोनेशिया",
+        "currency": "IDR",
+        "junior": 96000000,
+        "mid": 180000000,
+        "senior": 330000000
+      },
+      {
+        "region": "मलेशिया",
+        "currency": "MYR",
+        "junior": 42000,
+        "mid": 78000,
+        "senior": 126000
+      },
+      {
+        "region": "ब्राज़ील",
+        "currency": "BRL",
+        "junior": 60000,
+        "mid": 108000,
+        "senior": 180000
+      },
+      {
+        "region": "स्पेन",
+        "currency": "EUR",
+        "junior": 25000,
+        "mid": 36000,
+        "senior": 50000
+      },
+      {
+        "region": "फ़्रांस",
+        "currency": "EUR",
+        "junior": 36000,
+        "mid": 46000,
+        "senior": 60000
+      }
+    ]
+  },
+  {
+    "id": "devops-engineer",
+    "title": "DevOps इंजीनियर",
+    "category": "टेक्नोलॉजी",
+    "description": "इंफ्रास्ट्रक्चर, डिप्लॉयमेंट और मॉनिटरिंग को ऑटोमेट करता है ताकि सॉफ़्टवेयर भरोसेमंद तरीके से और जल्दी रिलीज़ हो।",
+    "ranges": [
+      {
+        "region": "संयुक्त राज्य अमेरिका",
+        "currency": "USD",
+        "junior": 100000,
+        "mid": 135000,
+        "senior": 175000
+      },
+      {
+        "region": "यूनाइटेड किंगडम",
+        "currency": "GBP",
+        "junior": 40000,
+        "mid": 60000,
+        "senior": 85000
+      },
+      {
+        "region": "जर्मनी",
+        "currency": "EUR",
+        "junior": 55000,
+        "mid": 70000,
+        "senior": 90000
+      },
+      {
+        "region": "तुर्किये",
+        "currency": "TRY",
+        "junior": 900000,
+        "mid": 1560000,
+        "senior": 2520000
+      },
+      {
+        "region": "भारत",
+        "currency": "INR",
+        "junior": 700000,
+        "mid": 1700000,
+        "senior": 3400000
+      },
+      {
+        "region": "इंडोनेशिया",
+        "currency": "IDR",
+        "junior": 132000000,
+        "mid": 264000000,
+        "senior": 480000000
+      },
+      {
+        "region": "मलेशिया",
+        "currency": "MYR",
+        "junior": 60000,
+        "mid": 108000,
+        "senior": 180000
+      },
+      {
+        "region": "ब्राज़ील",
+        "currency": "BRL",
+        "junior": 84000,
+        "mid": 156000,
+        "senior": 264000
+      },
+      {
+        "region": "स्पेन",
+        "currency": "EUR",
+        "junior": 30000,
+        "mid": 45000,
+        "senior": 62000
+      },
+      {
+        "region": "फ़्रांस",
+        "currency": "EUR",
+        "junior": 42000,
+        "mid": 55000,
+        "senior": 72000
+      }
+    ]
+  },
+  {
+    "id": "nurse",
+    "title": "नर्स",
+    "category": "हेल्थकेयर",
+    "description": "मरीज़ों की सीधी देखभाल करती है, इलाज देती है और डॉक्टरों व परिवारों के साथ तालमेल रखती है।",
+    "ranges": [
+      {
+        "region": "संयुक्त राज्य अमेरिका",
+        "currency": "USD",
+        "junior": 75000,
+        "mid": 90000,
+        "senior": 110000
+      },
+      {
+        "region": "यूनाइटेड किंगडम",
+        "currency": "GBP",
+        "junior": 31000,
+        "mid": 39000,
+        "senior": 50000
+      },
+      {
+        "region": "जर्मनी",
+        "currency": "EUR",
+        "junior": 38000,
+        "mid": 45000,
+        "senior": 54000
+      },
+      {
+        "region": "तुर्किये",
+        "currency": "TRY",
+        "junior": 480000,
+        "mid": 660000,
+        "senior": 900000
+      },
+      {
+        "region": "भारत",
+        "currency": "INR",
+        "junior": 250000,
+        "mid": 420000,
+        "senior": 720000
+      },
+      {
+        "region": "इंडोनेशिया",
+        "currency": "IDR",
+        "junior": 48000000,
+        "mid": 78000000,
+        "senior": 126000000
+      },
+      {
+        "region": "मलेशिया",
+        "currency": "MYR",
+        "junior": 36000,
+        "mid": 54000,
+        "senior": 78000
+      },
+      {
+        "region": "ब्राज़ील",
+        "currency": "BRL",
+        "junior": 42000,
+        "mid": 60000,
+        "senior": 90000
+      },
+      {
+        "region": "स्पेन",
+        "currency": "EUR",
+        "junior": 26000,
+        "mid": 32000,
+        "senior": 40000
+      },
+      {
+        "region": "फ़्रांस",
+        "currency": "EUR",
+        "junior": 28000,
+        "mid": 34000,
+        "senior": 42000
+      }
+    ]
+  },
+  {
+    "id": "pharmacist",
+    "title": "फ़ार्मासिस्ट",
+    "category": "हेल्थकेयर",
+    "description": "दवाइयाँ सुरक्षित तरीके से देता है और मरीज़ों व डॉक्टरों को डोज़, इंटरैक्शन और साइड इफ़ेक्ट्स पर सलाह देता है।",
+    "ranges": [
+      {
+        "region": "संयुक्त राज्य अमेरिका",
+        "currency": "USD",
+        "junior": 125000,
+        "mid": 140000,
+        "senior": 155000
+      },
+      {
+        "region": "यूनाइटेड किंगडम",
+        "currency": "GBP",
+        "junior": 42000,
+        "mid": 48000,
+        "senior": 58000
+      },
+      {
+        "region": "जर्मनी",
+        "currency": "EUR",
+        "junior": 45000,
+        "mid": 54000,
+        "senior": 65000
+      },
+      {
+        "region": "तुर्किये",
+        "currency": "TRY",
+        "junior": 600000,
+        "mid": 900000,
+        "senior": 1320000
+      },
+      {
+        "region": "भारत",
+        "currency": "INR",
+        "junior": 300000,
+        "mid": 540000,
+        "senior": 960000
+      },
+      {
+        "region": "इंडोनेशिया",
+        "currency": "IDR",
+        "junior": 72000000,
+        "mid": 120000000,
+        "senior": 204000000
+      },
+      {
+        "region": "मलेशिया",
+        "currency": "MYR",
+        "junior": 54000,
+        "mid": 78000,
+        "senior": 114000
+      },
+      {
+        "region": "ब्राज़ील",
+        "currency": "BRL",
+        "junior": 54000,
+        "mid": 78000,
+        "senior": 114000
+      },
+      {
+        "region": "स्पेन",
+        "currency": "EUR",
+        "junior": 28000,
+        "mid": 35000,
+        "senior": 45000
+      },
+      {
+        "region": "फ़्रांस",
+        "currency": "EUR",
+        "junior": 38000,
+        "mid": 46000,
+        "senior": 58000
+      }
+    ]
+  },
+  {
+    "id": "physiotherapist",
+    "title": "फ़िज़ियोथेरेपिस्ट",
+    "category": "हेल्थकेयर",
+    "description": "एक्सरसाइज़, मैनुअल थेरेपी और जानकारी के ज़रिए मरीज़ों को चलने-फिरने की क्षमता वापस पाने और दर्द संभालने में मदद करता है।",
+    "ranges": [
+      {
+        "region": "संयुक्त राज्य अमेरिका",
+        "currency": "USD",
+        "junior": 80000,
+        "mid": 98000,
+        "senior": 115000
+      },
+      {
+        "region": "यूनाइटेड किंगडम",
+        "currency": "GBP",
+        "junior": 31000,
+        "mid": 40000,
+        "senior": 50000
+      },
+      {
+        "region": "जर्मनी",
+        "currency": "EUR",
+        "junior": 36000,
+        "mid": 42000,
+        "senior": 50000
+      },
+      {
+        "region": "तुर्किये",
+        "currency": "TRY",
+        "junior": 420000,
+        "mid": 600000,
+        "senior": 840000
+      },
+      {
+        "region": "भारत",
+        "currency": "INR",
+        "junior": 240000,
+        "mid": 420000,
+        "senior": 720000
+      },
+      {
+        "region": "इंडोनेशिया",
+        "currency": "IDR",
+        "junior": 48000000,
+        "mid": 84000000,
+        "senior": 138000000
+      },
+      {
+        "region": "मलेशिया",
+        "currency": "MYR",
+        "junior": 36000,
+        "mid": 54000,
+        "senior": 78000
+      },
+      {
+        "region": "ब्राज़ील",
+        "currency": "BRL",
+        "junior": 36000,
+        "mid": 54000,
+        "senior": 84000
+      },
+      {
+        "region": "स्पेन",
+        "currency": "EUR",
+        "junior": 24000,
+        "mid": 30000,
+        "senior": 38000
+      },
+      {
+        "region": "फ़्रांस",
+        "currency": "EUR",
+        "junior": 28000,
+        "mid": 35000,
+        "senior": 44000
+      }
+    ]
+  },
+  {
+    "id": "accountant",
+    "title": "अकाउंटेंट",
+    "category": "बिज़नेस और फ़ाइनेंस",
+    "description": "फ़ाइनेंशियल स्टेटमेंट तैयार करता है, लेजर संभालता है और टैक्स व रिपोर्टिंग नियमों का पालन सुनिश्चित करता है।",
+    "ranges": [
+      {
+        "region": "संयुक्त राज्य अमेरिका",
+        "currency": "USD",
+        "junior": 58000,
+        "mid": 75000,
+        "senior": 98000
+      },
+      {
+        "region": "यूनाइटेड किंगडम",
+        "currency": "GBP",
+        "junior": 28000,
+        "mid": 40000,
+        "senior": 55000
+      },
+      {
+        "region": "जर्मनी",
+        "currency": "EUR",
+        "junior": 42000,
+        "mid": 52000,
+        "senior": 65000
+      },
+      {
+        "region": "तुर्किये",
+        "currency": "TRY",
+        "junior": 480000,
+        "mid": 780000,
+        "senior": 1260000
+      },
+      {
+        "region": "भारत",
+        "currency": "INR",
+        "junior": 300000,
+        "mid": 600000,
+        "senior": 1200000
+      },
+      {
+        "region": "इंडोनेशिया",
+        "currency": "IDR",
+        "junior": 60000000,
+        "mid": 108000000,
+        "senior": 192000000
+      },
+      {
+        "region": "मलेशिया",
+        "currency": "MYR",
+        "junior": 36000,
+        "mid": 60000,
+        "senior": 96000
+      },
+      {
+        "region": "ब्राज़ील",
+        "currency": "BRL",
+        "junior": 48000,
+        "mid": 84000,
+        "senior": 138000
+      },
+      {
+        "region": "स्पेन",
+        "currency": "EUR",
+        "junior": 24000,
+        "mid": 32000,
+        "senior": 44000
+      },
+      {
+        "region": "फ़्रांस",
+        "currency": "EUR",
+        "junior": 32000,
+        "mid": 40000,
+        "senior": 52000
+      }
+    ]
+  },
+  {
+    "id": "financial-analyst",
+    "title": "फ़ाइनेंशियल एनालिस्ट",
+    "category": "बिज़नेस और फ़ाइनेंस",
+    "description": "परफ़ॉर्मेंस, बजट और निवेश से जुड़े फ़ैसलों को परखने के लिए फ़ोरकास्ट और फ़ाइनेंशियल मॉडल बनाता है।",
+    "ranges": [
+      {
+        "region": "संयुक्त राज्य अमेरिका",
+        "currency": "USD",
+        "junior": 72000,
+        "mid": 95000,
+        "senior": 125000
+      },
+      {
+        "region": "यूनाइटेड किंगडम",
+        "currency": "GBP",
+        "junior": 35000,
+        "mid": 50000,
+        "senior": 70000
+      },
+      {
+        "region": "जर्मनी",
+        "currency": "EUR",
+        "junior": 50000,
+        "mid": 62000,
+        "senior": 80000
+      },
+      {
+        "region": "तुर्किये",
+        "currency": "TRY",
+        "junior": 600000,
+        "mid": 1020000,
+        "senior": 1680000
+      },
+      {
+        "region": "भारत",
+        "currency": "INR",
+        "junior": 500000,
+        "mid": 1000000,
+        "senior": 2000000
+      },
+      {
+        "region": "इंडोनेशिया",
+        "currency": "IDR",
+        "junior": 84000000,
+        "mid": 156000000,
+        "senior": 276000000
+      },
+      {
+        "region": "मलेशिया",
+        "currency": "MYR",
+        "junior": 48000,
+        "mid": 84000,
+        "senior": 132000
+      },
+      {
+        "region": "ब्राज़ील",
+        "currency": "BRL",
+        "junior": 60000,
+        "mid": 108000,
+        "senior": 180000
+      },
+      {
+        "region": "स्पेन",
+        "currency": "EUR",
+        "junior": 28000,
+        "mid": 40000,
+        "senior": 55000
+      },
+      {
+        "region": "फ़्रांस",
+        "currency": "EUR",
+        "junior": 38000,
+        "mid": 48000,
+        "senior": 65000
+      }
+    ]
+  },
+  {
+    "id": "hr-specialist",
+    "title": "HR स्पेशलिस्ट",
+    "category": "बिज़नेस और फ़ाइनेंस",
+    "description": "संगठन में भर्ती, ऑनबोर्डिंग, कर्मचारी संबंध और HR नीतियाँ संभालता है।",
+    "ranges": [
+      {
+        "region": "संयुक्त राज्य अमेरिका",
+        "currency": "USD",
+        "junior": 55000,
+        "mid": 70000,
+        "senior": 90000
+      },
+      {
+        "region": "यूनाइटेड किंगडम",
+        "currency": "GBP",
+        "junior": 26000,
+        "mid": 35000,
+        "senior": 48000
+      },
+      {
+        "region": "जर्मनी",
+        "currency": "EUR",
+        "junior": 42000,
+        "mid": 52000,
+        "senior": 64000
+      },
+      {
+        "region": "तुर्किये",
+        "currency": "TRY",
+        "junior": 420000,
+        "mid": 720000,
+        "senior": 1140000
+      },
+      {
+        "region": "भारत",
+        "currency": "INR",
+        "junior": 300000,
+        "mid": 600000,
+        "senior": 1100000
+      },
+      {
+        "region": "इंडोनेशिया",
+        "currency": "IDR",
+        "junior": 60000000,
+        "mid": 102000000,
+        "senior": 168000000
+      },
+      {
+        "region": "मलेशिया",
+        "currency": "MYR",
+        "junior": 36000,
+        "mid": 60000,
+        "senior": 90000
+      },
+      {
+        "region": "ब्राज़ील",
+        "currency": "BRL",
+        "junior": 42000,
+        "mid": 72000,
+        "senior": 114000
+      },
+      {
+        "region": "स्पेन",
+        "currency": "EUR",
+        "junior": 22000,
+        "mid": 30000,
+        "senior": 40000
+      },
+      {
+        "region": "फ़्रांस",
+        "currency": "EUR",
+        "junior": 30000,
+        "mid": 38000,
+        "senior": 48000
+      }
+    ]
+  },
+  {
+    "id": "project-manager",
+    "title": "प्रोजेक्ट मैनेजर",
+    "category": "बिज़नेस और फ़ाइनेंस",
+    "description": "प्रोजेक्ट की योजना बनाता है, स्कोप, बजट और टाइमलाइन संभालता है और डिलीवरी तक सभी स्टेकहोल्डर्स को एक साथ रखता है।",
+    "ranges": [
+      {
+        "region": "संयुक्त राज्य अमेरिका",
+        "currency": "USD",
+        "junior": 75000,
+        "mid": 100000,
+        "senior": 130000
+      },
+      {
+        "region": "यूनाइटेड किंगडम",
+        "currency": "GBP",
+        "junior": 35000,
+        "mid": 50000,
+        "senior": 70000
+      },
+      {
+        "region": "जर्मनी",
+        "currency": "EUR",
+        "junior": 52000,
+        "mid": 66000,
+        "senior": 82000
+      },
+      {
+        "region": "तुर्किये",
+        "currency": "TRY",
+        "junior": 660000,
+        "mid": 1140000,
+        "senior": 1860000
+      },
+      {
+        "region": "भारत",
+        "currency": "INR",
+        "junior": 700000,
+        "mid": 1400000,
+        "senior": 2600000
+      },
+      {
+        "region": "इंडोनेशिया",
+        "currency": "IDR",
+        "junior": 96000000,
+        "mid": 180000000,
+        "senior": 324000000
+      },
+      {
+        "region": "मलेशिया",
+        "currency": "MYR",
+        "junior": 54000,
+        "mid": 90000,
+        "senior": 144000
+      },
+      {
+        "region": "ब्राज़ील",
+        "currency": "BRL",
+        "junior": 72000,
+        "mid": 120000,
+        "senior": 192000
+      },
+      {
+        "region": "स्पेन",
+        "currency": "EUR",
+        "junior": 30000,
+        "mid": 42000,
+        "senior": 56000
+      },
+      {
+        "region": "फ़्रांस",
+        "currency": "EUR",
+        "junior": 40000,
+        "mid": 50000,
+        "senior": 65000
+      }
+    ]
+  },
+  {
+    "id": "lawyer",
+    "title": "वकील",
+    "category": "बिज़नेस और फ़ाइनेंस",
+    "description": "क्लाइंट्स को कानूनी मामलों पर सलाह देता है, कॉन्ट्रैक्ट ड्राफ़्ट करता है और बातचीत या अदालत में उनका प्रतिनिधित्व करता है।",
+    "ranges": [
+      {
+        "region": "संयुक्त राज्य अमेरिका",
+        "currency": "USD",
+        "junior": 90000,
+        "mid": 140000,
+        "senior": 200000
+      },
+      {
+        "region": "यूनाइटेड किंगडम",
+        "currency": "GBP",
+        "junior": 40000,
+        "mid": 65000,
+        "senior": 100000
+      },
+      {
+        "region": "जर्मनी",
+        "currency": "EUR",
+        "junior": 55000,
+        "mid": 80000,
+        "senior": 110000
+      },
+      {
+        "region": "तुर्किये",
+        "currency": "TRY",
+        "junior": 540000,
+        "mid": 1080000,
+        "senior": 2160000
+      },
+      {
+        "region": "भारत",
+        "currency": "INR",
+        "junior": 500000,
+        "mid": 1200000,
+        "senior": 3000000
+      },
+      {
+        "region": "इंडोनेशिया",
+        "currency": "IDR",
+        "junior": 84000000,
+        "mid": 180000000,
+        "senior": 420000000
+      },
+      {
+        "region": "मलेशिया",
+        "currency": "MYR",
+        "junior": 48000,
+        "mid": 96000,
+        "senior": 180000
+      },
+      {
+        "region": "ब्राज़ील",
+        "currency": "BRL",
+        "junior": 60000,
+        "mid": 120000,
+        "senior": 240000
+      },
+      {
+        "region": "स्पेन",
+        "currency": "EUR",
+        "junior": 28000,
+        "mid": 45000,
+        "senior": 70000
+      },
+      {
+        "region": "फ़्रांस",
+        "currency": "EUR",
+        "junior": 38000,
+        "mid": 55000,
+        "senior": 85000
+      }
+    ]
+  },
+  {
+    "id": "sales-representative",
+    "title": "सेल्स रिप्रेज़ेंटेटिव",
+    "category": "सेल्स और मार्केटिंग",
+    "description": "संभावित ग्राहकों को ढूँढता और परखता है, प्रोडक्ट पेश करता है और रेवेन्यू टारगेट पूरे करने के लिए डील क्लोज़ करता है।",
+    "ranges": [
+      {
+        "region": "संयुक्त राज्य अमेरिका",
+        "currency": "USD",
+        "junior": 50000,
+        "mid": 70000,
+        "senior": 95000
+      },
+      {
+        "region": "यूनाइटेड किंगडम",
+        "currency": "GBP",
+        "junior": 25000,
+        "mid": 35000,
+        "senior": 50000
+      },
+      {
+        "region": "जर्मनी",
+        "currency": "EUR",
+        "junior": 38000,
+        "mid": 50000,
+        "senior": 65000
+      },
+      {
+        "region": "तुर्किये",
+        "currency": "TRY",
+        "junior": 420000,
+        "mid": 720000,
+        "senior": 1200000
+      },
+      {
+        "region": "भारत",
+        "currency": "INR",
+        "junior": 300000,
+        "mid": 600000,
+        "senior": 1200000
+      },
+      {
+        "region": "इंडोनेशिया",
+        "currency": "IDR",
+        "junior": 54000000,
+        "mid": 96000000,
+        "senior": 168000000
+      },
+      {
+        "region": "मलेशिया",
+        "currency": "MYR",
+        "junior": 36000,
+        "mid": 60000,
+        "senior": 96000
+      },
+      {
+        "region": "ब्राज़ील",
+        "currency": "BRL",
+        "junior": 36000,
+        "mid": 66000,
+        "senior": 108000
+      },
+      {
+        "region": "स्पेन",
+        "currency": "EUR",
+        "junior": 22000,
+        "mid": 30000,
+        "senior": 42000
+      },
+      {
+        "region": "फ़्रांस",
+        "currency": "EUR",
+        "junior": 28000,
+        "mid": 36000,
+        "senior": 48000
+      }
+    ]
+  },
+  {
+    "id": "digital-marketing-specialist",
+    "title": "डिजिटल मार्केटिंग स्पेशलिस्ट",
+    "category": "सेल्स और मार्केटिंग",
+    "description": "सर्च, सोशल, ईमेल और पेड चैनलों पर ऑनलाइन कैंपेन की योजना बनाता है और उन्हें बेहतर करता है।",
+    "ranges": [
+      {
+        "region": "संयुक्त राज्य अमेरिका",
+        "currency": "USD",
+        "junior": 55000,
+        "mid": 72000,
+        "senior": 95000
+      },
+      {
+        "region": "यूनाइटेड किंगडम",
+        "currency": "GBP",
+        "junior": 26000,
+        "mid": 36000,
+        "senior": 50000
+      },
+      {
+        "region": "जर्मनी",
+        "currency": "EUR",
+        "junior": 40000,
+        "mid": 50000,
+        "senior": 63000
+      },
+      {
+        "region": "तुर्किये",
+        "currency": "TRY",
+        "junior": 420000,
+        "mid": 720000,
+        "senior": 1140000
+      },
+      {
+        "region": "भारत",
+        "currency": "INR",
+        "junior": 350000,
+        "mid": 700000,
+        "senior": 1300000
+      },
+      {
+        "region": "इंडोनेशिया",
+        "currency": "IDR",
+        "junior": 60000000,
+        "mid": 108000000,
+        "senior": 180000000
+      },
+      {
+        "region": "मलेशिया",
+        "currency": "MYR",
+        "junior": 36000,
+        "mid": 60000,
+        "senior": 96000
+      },
+      {
+        "region": "ब्राज़ील",
+        "currency": "BRL",
+        "junior": 42000,
+        "mid": 72000,
+        "senior": 120000
+      },
+      {
+        "region": "स्पेन",
+        "currency": "EUR",
+        "junior": 22000,
+        "mid": 30000,
+        "senior": 42000
+      },
+      {
+        "region": "फ़्रांस",
+        "currency": "EUR",
+        "junior": 30000,
+        "mid": 38000,
+        "senior": 50000
+      }
+    ]
+  },
+  {
+    "id": "teacher",
+    "title": "शिक्षक",
+    "category": "शिक्षा",
+    "description": "स्कूल में पाठ की योजना बनाता है, छात्रों को पढ़ाता है और उनकी प्रगति का आकलन करता है।",
+    "ranges": [
+      {
+        "region": "संयुक्त राज्य अमेरिका",
+        "currency": "USD",
+        "junior": 47000,
+        "mid": 60000,
+        "senior": 75000
+      },
+      {
+        "region": "यूनाइटेड किंगडम",
+        "currency": "GBP",
+        "junior": 32000,
+        "mid": 40000,
+        "senior": 48000
+      },
+      {
+        "region": "जर्मनी",
+        "currency": "EUR",
+        "junior": 48000,
+        "mid": 58000,
+        "senior": 68000
+      },
+      {
+        "region": "तुर्किये",
+        "currency": "TRY",
+        "junior": 480000,
+        "mid": 600000,
+        "senior": 780000
+      },
+      {
+        "region": "भारत",
+        "currency": "INR",
+        "junior": 300000,
+        "mid": 480000,
+        "senior": 780000
+      },
+      {
+        "region": "इंडोनेशिया",
+        "currency": "IDR",
+        "junior": 36000000,
+        "mid": 60000000,
+        "senior": 96000000
+      },
+      {
+        "region": "मलेशिया",
+        "currency": "MYR",
+        "junior": 36000,
+        "mid": 54000,
+        "senior": 78000
+      },
+      {
+        "region": "ब्राज़ील",
+        "currency": "BRL",
+        "junior": 36000,
+        "mid": 54000,
+        "senior": 78000
+      },
+      {
+        "region": "स्पेन",
+        "currency": "EUR",
+        "junior": 30000,
+        "mid": 36000,
+        "senior": 44000
+      },
+      {
+        "region": "फ़्रांस",
+        "currency": "EUR",
+        "junior": 28000,
+        "mid": 34000,
+        "senior": 44000
+      }
+    ]
+  },
+  {
+    "id": "civil-engineer",
+    "title": "सिविल इंजीनियर",
+    "category": "इंजीनियरिंग",
+    "description": "सड़क, पुल, इमारतें और जल व्यवस्था जैसे इंफ्रास्ट्रक्चर को डिज़ाइन करता है और उनकी निगरानी करता है।",
+    "ranges": [
+      {
+        "region": "संयुक्त राज्य अमेरिका",
+        "currency": "USD",
+        "junior": 70000,
+        "mid": 90000,
+        "senior": 120000
+      },
+      {
+        "region": "यूनाइटेड किंगडम",
+        "currency": "GBP",
+        "junior": 30000,
+        "mid": 42000,
+        "senior": 58000
+      },
+      {
+        "region": "जर्मनी",
+        "currency": "EUR",
+        "junior": 48000,
+        "mid": 58000,
+        "senior": 72000
+      },
+      {
+        "region": "तुर्किये",
+        "currency": "TRY",
+        "junior": 540000,
+        "mid": 900000,
+        "senior": 1500000
+      },
+      {
+        "region": "भारत",
+        "currency": "INR",
+        "junior": 350000,
+        "mid": 700000,
+        "senior": 1400000
+      },
+      {
+        "region": "इंडोनेशिया",
+        "currency": "IDR",
+        "junior": 72000000,
+        "mid": 132000000,
+        "senior": 228000000
+      },
+      {
+        "region": "मलेशिया",
+        "currency": "MYR",
+        "junior": 42000,
+        "mid": 72000,
+        "senior": 120000
+      },
+      {
+        "region": "ब्राज़ील",
+        "currency": "BRL",
+        "junior": 60000,
+        "mid": 102000,
+        "senior": 168000
+      },
+      {
+        "region": "स्पेन",
+        "currency": "EUR",
+        "junior": 26000,
+        "mid": 35000,
+        "senior": 48000
+      },
+      {
+        "region": "फ़्रांस",
+        "currency": "EUR",
+        "junior": 36000,
+        "mid": 45000,
+        "senior": 60000
+      }
+    ]
+  },
+  {
+    "id": "mechanical-engineer",
+    "title": "मैकेनिकल इंजीनियर",
+    "category": "इंजीनियरिंग",
+    "description": "मशीनों, प्रोडक्ट्स और मैन्युफ़ैक्चरिंग प्रक्रियाओं को डिज़ाइन करता है, उनका विश्लेषण करता है और उन्हें बेहतर बनाता है।",
+    "ranges": [
+      {
+        "region": "संयुक्त राज्य अमेरिका",
+        "currency": "USD",
+        "junior": 72000,
+        "mid": 92000,
+        "senior": 122000
+      },
+      {
+        "region": "यूनाइटेड किंगडम",
+        "currency": "GBP",
+        "junior": 30000,
+        "mid": 43000,
+        "senior": 60000
+      },
+      {
+        "region": "जर्मनी",
+        "currency": "EUR",
+        "junior": 50000,
+        "mid": 62000,
+        "senior": 78000
+      },
+      {
+        "region": "तुर्किये",
+        "currency": "TRY",
+        "junior": 540000,
+        "mid": 900000,
+        "senior": 1500000
+      },
+      {
+        "region": "भारत",
+        "currency": "INR",
+        "junior": 350000,
+        "mid": 720000,
+        "senior": 1440000
+      },
+      {
+        "region": "इंडोनेशिया",
+        "currency": "IDR",
+        "junior": 72000000,
+        "mid": 132000000,
+        "senior": 228000000
+      },
+      {
+        "region": "मलेशिया",
+        "currency": "MYR",
+        "junior": 42000,
+        "mid": 72000,
+        "senior": 120000
+      },
+      {
+        "region": "ब्राज़ील",
+        "currency": "BRL",
+        "junior": 60000,
+        "mid": 102000,
+        "senior": 168000
+      },
+      {
+        "region": "स्पेन",
+        "currency": "EUR",
+        "junior": 26000,
+        "mid": 36000,
+        "senior": 50000
+      },
+      {
+        "region": "फ़्रांस",
+        "currency": "EUR",
+        "junior": 37000,
+        "mid": 46000,
+        "senior": 62000
+      }
+    ]
+  },
+  {
+    "id": "electrical-engineer",
+    "title": "इलेक्ट्रिकल इंजीनियर",
+    "category": "इंजीनियरिंग",
+    "description": "पावर डिस्ट्रीब्यूशन से लेकर इलेक्ट्रॉनिक्स और कंट्रोल्स तक, इलेक्ट्रिकल सिस्टम डिज़ाइन और टेस्ट करता है।",
+    "ranges": [
+      {
+        "region": "संयुक्त राज्य अमेरिका",
+        "currency": "USD",
+        "junior": 78000,
+        "mid": 100000,
+        "senior": 130000
+      },
+      {
+        "region": "यूनाइटेड किंगडम",
+        "currency": "GBP",
+        "junior": 32000,
+        "mid": 45000,
+        "senior": 62000
+      },
+      {
+        "region": "जर्मनी",
+        "currency": "EUR",
+        "junior": 52000,
+        "mid": 64000,
+        "senior": 80000
+      },
+      {
+        "region": "तुर्किये",
+        "currency": "TRY",
+        "junior": 560000,
+        "mid": 960000,
+        "senior": 1560000
+      },
+      {
+        "region": "भारत",
+        "currency": "INR",
+        "junior": 380000,
+        "mid": 780000,
+        "senior": 1560000
+      },
+      {
+        "region": "इंडोनेशिया",
+        "currency": "IDR",
+        "junior": 78000000,
+        "mid": 144000000,
+        "senior": 246000000
+      },
+      {
+        "region": "मलेशिया",
+        "currency": "MYR",
+        "junior": 45000,
+        "mid": 78000,
+        "senior": 126000
+      },
+      {
+        "region": "ब्राज़ील",
+        "currency": "BRL",
+        "junior": 64000,
+        "mid": 108000,
+        "senior": 180000
+      },
+      {
+        "region": "स्पेन",
+        "currency": "EUR",
+        "junior": 27000,
+        "mid": 37000,
+        "senior": 52000
+      },
+      {
+        "region": "फ़्रांस",
+        "currency": "EUR",
+        "junior": 38000,
+        "mid": 48000,
+        "senior": 64000
+      }
+    ]
+  },
+  {
+    "id": "graphic-designer",
+    "title": "ग्राफ़िक डिज़ाइनर",
+    "category": "क्रिएटिव",
+    "description": "ब्रांड, मार्केटिंग सामग्री, वेबसाइट और पब्लिकेशन के लिए विज़ुअल कॉन्सेप्ट बनाता है।",
+    "ranges": [
+      {
+        "region": "संयुक्त राज्य अमेरिका",
+        "currency": "USD",
+        "junior": 45000,
+        "mid": 60000,
+        "senior": 80000
+      },
+      {
+        "region": "यूनाइटेड किंगडम",
+        "currency": "GBP",
+        "junior": 24000,
+        "mid": 32000,
+        "senior": 45000
+      },
+      {
+        "region": "जर्मनी",
+        "currency": "EUR",
+        "junior": 34000,
+        "mid": 42000,
+        "senior": 54000
+      },
+      {
+        "region": "तुर्किये",
+        "currency": "TRY",
+        "junior": 420000,
+        "mid": 660000,
+        "senior": 1020000
+      },
+      {
+        "region": "भारत",
+        "currency": "INR",
+        "junior": 250000,
+        "mid": 500000,
+        "senior": 1000000
+      },
+      {
+        "region": "इंडोनेशिया",
+        "currency": "IDR",
+        "junior": 54000000,
+        "mid": 90000000,
+        "senior": 150000000
+      },
+      {
+        "region": "मलेशिया",
+        "currency": "MYR",
+        "junior": 30000,
+        "mid": 48000,
+        "senior": 78000
+      },
+      {
+        "region": "ब्राज़ील",
+        "currency": "BRL",
+        "junior": 36000,
+        "mid": 60000,
+        "senior": 96000
+      },
+      {
+        "region": "स्पेन",
+        "currency": "EUR",
+        "junior": 20000,
+        "mid": 26000,
+        "senior": 36000
+      },
+      {
+        "region": "फ़्रांस",
+        "currency": "EUR",
+        "junior": 26000,
+        "mid": 33000,
+        "senior": 44000
+      }
+    ]
+  },
+  {
+    "id": "architect",
+    "title": "आर्किटेक्ट",
+    "category": "क्रिएटिव",
+    "description": "सुंदरता, उपयोगिता, नियमों और बजट के बीच संतुलन रखते हुए इमारतें और जगहें डिज़ाइन करता है।",
+    "ranges": [
+      {
+        "region": "संयुक्त राज्य अमेरिका",
+        "currency": "USD",
+        "junior": 65000,
+        "mid": 88000,
+        "senior": 120000
+      },
+      {
+        "region": "यूनाइटेड किंगडम",
+        "currency": "GBP",
+        "junior": 32000,
+        "mid": 45000,
+        "senior": 62000
+      },
+      {
+        "region": "जर्मनी",
+        "currency": "EUR",
+        "junior": 45000,
+        "mid": 56000,
+        "senior": 72000
+      },
+      {
+        "region": "तुर्किये",
+        "currency": "TRY",
+        "junior": 480000,
+        "mid": 840000,
+        "senior": 1440000
+      },
+      {
+        "region": "भारत",
+        "currency": "INR",
+        "junior": 350000,
+        "mid": 700000,
+        "senior": 1500000
+      },
+      {
+        "region": "इंडोनेशिया",
+        "currency": "IDR",
+        "junior": 72000000,
+        "mid": 132000000,
+        "senior": 240000000
+      },
+      {
+        "region": "मलेशिया",
+        "currency": "MYR",
+        "junior": 42000,
+        "mid": 72000,
+        "senior": 120000
+      },
+      {
+        "region": "ब्राज़ील",
+        "currency": "BRL",
+        "junior": 54000,
+        "mid": 90000,
+        "senior": 150000
+      },
+      {
+        "region": "स्पेन",
+        "currency": "EUR",
+        "junior": 24000,
+        "mid": 33000,
+        "senior": 46000
+      },
+      {
+        "region": "फ़्रांस",
+        "currency": "EUR",
+        "junior": 32000,
+        "mid": 42000,
+        "senior": 56000
+      }
+    ]
+  },
+  {
+    "id": "customer-support-specialist",
+    "title": "कस्टमर सपोर्ट स्पेशलिस्ट",
+    "category": "हॉस्पिटैलिटी और कस्टमर सर्विस",
+    "description": "फ़ोन, चैट या ईमेल पर ग्राहकों के सवाल और समस्याएँ हल करता है और उन्हें संतुष्ट रखता है।",
+    "ranges": [
+      {
+        "region": "संयुक्त राज्य अमेरिका",
+        "currency": "USD",
+        "junior": 38000,
+        "mid": 46000,
+        "senior": 58000
+      },
+      {
+        "region": "यूनाइटेड किंगडम",
+        "currency": "GBP",
+        "junior": 24000,
+        "mid": 28000,
+        "senior": 34000
+      },
+      {
+        "region": "जर्मनी",
+        "currency": "EUR",
+        "junior": 30000,
+        "mid": 36000,
+        "senior": 44000
+      },
+      {
+        "region": "तुर्किये",
+        "currency": "TRY",
+        "junior": 420000,
+        "mid": 540000,
+        "senior": 720000
+      },
+      {
+        "region": "भारत",
+        "currency": "INR",
+        "junior": 200000,
+        "mid": 350000,
+        "senior": 600000
+      },
+      {
+        "region": "इंडोनेशिया",
+        "currency": "IDR",
+        "junior": 54000000,
+        "mid": 78000000,
+        "senior": 114000000
+      },
+      {
+        "region": "मलेशिया",
+        "currency": "MYR",
+        "junior": 26000,
+        "mid": 38000,
+        "senior": 54000
+      },
+      {
+        "region": "ब्राज़ील",
+        "currency": "BRL",
+        "junior": 26000,
+        "mid": 36000,
+        "senior": 54000
+      },
+      {
+        "region": "स्पेन",
+        "currency": "EUR",
+        "junior": 18000,
+        "mid": 22000,
+        "senior": 28000
+      },
+      {
+        "region": "फ़्रांस",
+        "currency": "EUR",
+        "junior": 23000,
+        "mid": 27000,
+        "senior": 34000
+      }
+    ]
+  },
+  {
+    "id": "hotel-manager",
+    "title": "होटल मैनेजर",
+    "category": "हॉस्पिटैलिटी और कस्टमर सर्विस",
+    "description": "होटल के संचालन, स्टाफ़, मेहमानों के अनुभव और वित्तीय प्रदर्शन की देखरेख करता है।",
+    "ranges": [
+      {
+        "region": "संयुक्त राज्य अमेरिका",
+        "currency": "USD",
+        "junior": 55000,
+        "mid": 75000,
+        "senior": 105000
+      },
+      {
+        "region": "यूनाइटेड किंगडम",
+        "currency": "GBP",
+        "junior": 28000,
+        "mid": 40000,
+        "senior": 58000
+      },
+      {
+        "region": "जर्मनी",
+        "currency": "EUR",
+        "junior": 40000,
+        "mid": 52000,
+        "senior": 70000
+      },
+      {
+        "region": "तुर्किये",
+        "currency": "TRY",
+        "junior": 540000,
+        "mid": 960000,
+        "senior": 1680000
+      },
+      {
+        "region": "भारत",
+        "currency": "INR",
+        "junior": 400000,
+        "mid": 900000,
+        "senior": 1800000
+      },
+      {
+        "region": "इंडोनेशिया",
+        "currency": "IDR",
+        "junior": 72000000,
+        "mid": 144000000,
+        "senior": 264000000
+      },
+      {
+        "region": "मलेशिया",
+        "currency": "MYR",
+        "junior": 42000,
+        "mid": 72000,
+        "senior": 126000
+      },
+      {
+        "region": "ब्राज़ील",
+        "currency": "BRL",
+        "junior": 48000,
+        "mid": 90000,
+        "senior": 156000
+      },
+      {
+        "region": "स्पेन",
+        "currency": "EUR",
+        "junior": 25000,
+        "mid": 36000,
+        "senior": 52000
+      },
+      {
+        "region": "फ़्रांस",
+        "currency": "EUR",
+        "junior": 32000,
+        "mid": 42000,
+        "senior": 58000
+      }
+    ]
+  },
+  {
+    "id": "chef",
+    "title": "शेफ़",
+    "category": "हॉस्पिटैलिटी और कस्टमर सर्विस",
+    "description": "मेन्यू तय करता है, व्यंजन बनाता है और किचन टीम को एक जैसी क्वालिटी के साथ चलाता है।",
+    "ranges": [
+      {
+        "region": "संयुक्त राज्य अमेरिका",
+        "currency": "USD",
+        "junior": 42000,
+        "mid": 55000,
+        "senior": 72000
+      },
+      {
+        "region": "यूनाइटेड किंगडम",
+        "currency": "GBP",
+        "junior": 25000,
+        "mid": 32000,
+        "senior": 45000
+      },
+      {
+        "region": "जर्मनी",
+        "currency": "EUR",
+        "junior": 30000,
+        "mid": 38000,
+        "senior": 50000
+      },
+      {
+        "region": "तुर्किये",
+        "currency": "TRY",
+        "junior": 420000,
+        "mid": 660000,
+        "senior": 1080000
+      },
+      {
+        "region": "भारत",
+        "currency": "INR",
+        "junior": 240000,
+        "mid": 480000,
+        "senior": 960000
+      },
+      {
+        "region": "इंडोनेशिया",
+        "currency": "IDR",
+        "junior": 54000000,
+        "mid": 90000000,
+        "senior": 150000000
+      },
+      {
+        "region": "मलेशिया",
+        "currency": "MYR",
+        "junior": 30000,
+        "mid": 48000,
+        "senior": 84000
+      },
+      {
+        "region": "ब्राज़ील",
+        "currency": "BRL",
+        "junior": 30000,
+        "mid": 48000,
+        "senior": 84000
+      },
+      {
+        "region": "स्पेन",
+        "currency": "EUR",
+        "junior": 19000,
+        "mid": 25000,
+        "senior": 35000
+      },
+      {
+        "region": "फ़्रांस",
+        "currency": "EUR",
+        "junior": 24000,
+        "mid": 30000,
+        "senior": 42000
+      }
+    ]
+  }
+]

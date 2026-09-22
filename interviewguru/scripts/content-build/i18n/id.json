@@ -1,0 +1,297 @@
+{
+  "regions": {
+    "us": "Amerika Serikat",
+    "uk": "Britania Raya",
+    "de": "Jerman",
+    "tr": "Turki",
+    "in": "India",
+    "id": "Indonesia",
+    "my": "Malaysia",
+    "br": "Brasil",
+    "es": "Spanyol",
+    "fr": "Prancis"
+  },
+  "salaryCategories": {
+    "technology": "Teknologi",
+    "healthcare": "Kesehatan",
+    "business": "Bisnis & Keuangan",
+    "sales": "Penjualan & Pemasaran",
+    "education": "Pendidikan",
+    "engineering": "Teknik",
+    "creative": "Kreatif",
+    "hospitality": "Perhotelan & Layanan Pelanggan"
+  },
+  "salaries": {
+    "software-engineer": { "title": "Software Engineer", "description": "Merancang, membangun, menguji, dan memelihara aplikasi serta sistem perangkat lunak." },
+    "data-analyst": { "title": "Analis Data", "description": "Mengolah data mentah menjadi laporan, dasbor, dan wawasan yang menjadi dasar keputusan bisnis." },
+    "product-manager": { "title": "Product Manager", "description": "Menentukan apa yang harus dilakukan sebuah produk dan menyelaraskan tim teknik, desain, dan bisnis untuk mewujudkannya." },
+    "ux-designer": { "title": "Desainer UX", "description": "Meneliti kebutuhan pengguna dan merancang alur, wireframe, serta antarmuka yang intuitif untuk produk digital." },
+    "devops-engineer": { "title": "DevOps Engineer", "description": "Mengotomatiskan infrastruktur, deployment, dan pemantauan agar perangkat lunak dirilis dengan andal dan cepat." },
+    "nurse": { "title": "Perawat", "description": "Memberikan perawatan langsung kepada pasien, melakukan tindakan pengobatan, dan berkoordinasi dengan dokter serta keluarga." },
+    "pharmacist": { "title": "Apoteker", "description": "Menyerahkan obat dengan aman dan memberi saran kepada pasien serta tenaga medis tentang dosis, interaksi, dan efek samping." },
+    "physiotherapist": { "title": "Fisioterapis", "description": "Membantu pasien memulihkan gerak dan mengelola nyeri melalui latihan, terapi manual, dan edukasi." },
+    "accountant": { "title": "Akuntan", "description": "Menyusun laporan keuangan, mengelola buku besar, dan memastikan kepatuhan pajak serta pelaporan." },
+    "financial-analyst": { "title": "Analis Keuangan", "description": "Menyusun proyeksi dan model keuangan untuk menilai kinerja, anggaran, dan keputusan investasi." },
+    "hr-specialist": { "title": "Spesialis SDM", "description": "Menangani rekrutmen, onboarding, hubungan karyawan, dan kebijakan SDM di dalam organisasi." },
+    "project-manager": { "title": "Manajer Proyek", "description": "Merencanakan proyek, mengelola cakupan, anggaran, dan jadwal, serta menjaga keselarasan pemangku kepentingan hingga selesai." },
+    "lawyer": { "title": "Pengacara", "description": "Memberi nasihat hukum kepada klien, menyusun kontrak, dan mewakili mereka dalam negosiasi atau di pengadilan." },
+    "sales-representative": { "title": "Tenaga Penjualan", "description": "Mencari dan menyaring calon pelanggan, mempresentasikan produk, dan menutup transaksi untuk mencapai target pendapatan." },
+    "digital-marketing-specialist": { "title": "Spesialis Pemasaran Digital", "description": "Merencanakan dan mengoptimalkan kampanye online di mesin pencari, media sosial, email, dan kanal berbayar." },
+    "teacher": { "title": "Guru", "description": "Merencanakan pelajaran, mengajar siswa, dan menilai perkembangan mereka di lingkungan sekolah." },
+    "civil-engineer": { "title": "Insinyur Sipil", "description": "Merancang dan mengawasi infrastruktur seperti jalan, jembatan, gedung, dan sistem air." },
+    "mechanical-engineer": { "title": "Insinyur Mesin", "description": "Merancang, menganalisis, dan menyempurnakan mesin, produk, serta proses manufaktur." },
+    "electrical-engineer": { "title": "Insinyur Elektro", "description": "Merancang dan menguji sistem kelistrikan, mulai dari distribusi daya hingga elektronika dan sistem kendali." },
+    "graphic-designer": { "title": "Desainer Grafis", "description": "Membuat konsep visual untuk merek, materi pemasaran, situs web, dan publikasi." },
+    "architect": { "title": "Arsitek", "description": "Merancang bangunan dan ruang dengan menyeimbangkan estetika, fungsi, regulasi, dan anggaran." },
+    "customer-support-specialist": { "title": "Spesialis Layanan Pelanggan", "description": "Menyelesaikan pertanyaan dan masalah pelanggan melalui telepon, chat, atau email serta menjaga kepuasan pelanggan." },
+    "hotel-manager": { "title": "Manajer Hotel", "description": "Mengawasi operasional hotel, staf, pengalaman tamu, dan kinerja keuangan." },
+    "chef": { "title": "Koki", "description": "Merencanakan menu, menyiapkan hidangan, dan memimpin tim dapur agar kualitasnya selalu konsisten." }
+  },
+  "countries": {
+    "united-states": {
+      "name": "Amerika Serikat",
+      "summary": "Amerika Serikat adalah ekonomi terbesar di dunia dengan pasar kerja yang dinamis dan sangat kompetitif. Gaji sering kali tinggi, tetapi tunjangan seperti asuransi kesehatan dan cuti berbayar sangat bervariasi antarperusahaan.",
+      "jobMarket": "Sektor teknologi, kesehatan, keuangan, dan jasa profesional secara konsisten merekrut dalam jumlah besar. Peran di bidang teknik, data, keamanan siber, dan keperawatan tetap sangat dicari di banyak negara bagian.",
+      "visa": "Jalur umum meliputi visa H-1B untuk pekerjaan khusus, L-1 untuk mutasi antarperusahaan, O-1 untuk kemampuan luar biasa, dan green card berbasis pekerjaan. Sebagian besar jalur membutuhkan sponsor dari pemberi kerja dan sebagian menggunakan undian, jadi selalu periksa situs resmi USCIS dan Departemen Luar Negeri karena aturannya sering berubah.",
+      "salaryNote": "Gaji sangat bervariasi menurut kota dan negara bagian, dengan pusat teknologi di pesisir membayar paling tinggi. Selalu perhitungkan biaya kesehatan, pajak, serta bonus atau saham saat membandingkan tawaran.",
+      "languages": "Bahasa Inggris",
+      "tips": [
+        "Buat résumé kamu satu atau dua halaman saja dan jangan cantumkan foto, usia, atau status pernikahan.",
+        "Ukur pencapaianmu dengan angka, persentase, dan hasil nyata.",
+        "Bersiaplah menghadapi pertanyaan perilaku dan jawab dengan cerita yang jelas bergaya STAR.",
+        "Membicarakan kontribusimu sendiri dengan percaya diri itu wajar dan tidak dianggap sombong."
+      ]
+    },
+    "canada": {
+      "name": "Kanada",
+      "summary": "Kanada memiliki ekonomi yang stabil dan beragam serta aktif menyambut imigran terampil. Pusat utamanya antara lain Toronto, Vancouver, Montreal, dan Calgary.",
+      "jobMarket": "Kesehatan, teknologi, keterampilan teknis (skilled trades), teknik, dan keuangan adalah sektor perekrutan utama. Banyak provinsi melaporkan kekurangan tenaga di bidang keperawatan, konstruksi, dan TI.",
+      "visa": "Pekerja terampil sering mengajukan izin tinggal tetap melalui Express Entry atau Provincial Nominee Programs, sedangkan izin kerja khusus pemberi kerja mungkin memerlukan penilaian pasar tenaga kerja. Program dan kriteria seleksi sering berubah, jadi periksa situs resmi Immigration, Refugees and Citizenship Canada (IRCC).",
+      "salaryNote": "Gaji umumnya lebih rendah daripada di AS, tetapi disertai layanan kesehatan publik. Gaji dan biaya hidup sangat berbeda antarprovinsi dan antarkota.",
+      "languages": "Bahasa Inggris dan Prancis (bahasa Prancis sangat penting di sebagian besar Quebec)",
+      "tips": [
+        "Gunakan résumé satu atau dua halaman tanpa foto, tanggal lahir, atau status pernikahan.",
+        "Pemberi kerja di Kanada menghargai pengalaman lokal atau yang bisa diterapkan, jadi tonjolkan dengan jelas.",
+        "Kesopanan dan nada yang kolaboratif itu penting; hindari promosi diri yang terlalu agresif.",
+        "Siapkan referensi sejak awal karena biasanya akan diperiksa."
+      ]
+    },
+    "united-kingdom": {
+      "name": "Britania Raya",
+      "summary": "Britania Raya memiliki ekonomi besar yang digerakkan sektor jasa, dengan London sebagai pusat global keuangan dan teknologi. Kota seperti Manchester, Edinburgh, dan Bristol juga memiliki pasar kerja yang terus berkembang.",
+      "jobMarket": "Keuangan, teknologi, kesehatan (terutama NHS), teknik, dan industri kreatif adalah pemberi kerja utama. Peran di bidang kesehatan dan layanan sosial, perangkat lunak, serta data sering muncul dalam daftar kekurangan tenaga kerja.",
+      "visa": "Jalur utamanya adalah Skilled Worker visa, yang membutuhkan tawaran kerja dari sponsor berlisensi dan memenuhi ambang gaji serta keterampilan. Ada juga jalur Health and Care Worker, Global Talent, dan Graduate; periksa GOV.UK untuk persyaratan terbaru karena ambang batasnya diperbarui secara rutin.",
+      "salaryNote": "Gaji di London jauh lebih tinggi, tetapi biaya hidupnya juga. Gaji biasanya disebutkan sebagai angka kotor tahunan sebelum pajak penghasilan dan National Insurance.",
+      "languages": "Bahasa Inggris",
+      "tips": [
+        "Buat CV kamu sekitar dua halaman dan jangan cantumkan foto.",
+        "Gunakan contoh berbasis kompetensi karena banyak wawancara mengikuti format itu.",
+        "Nada yang rendah hati dan tidak berlebihan lebih efektif daripada menjual diri secara agresif.",
+        "Tambahkan surat lamaran singkat yang disesuaikan jika proses lamaran memungkinkan."
+      ]
+    },
+    "ireland": {
+      "name": "Irlandia",
+      "summary": "Irlandia adalah negara Uni Eropa berbahasa Inggris yang menjadi lokasi kantor pusat Eropa bagi banyak perusahaan teknologi dan farmasi global. Sebagian besar peluang terkonsentrasi di Dublin, Cork, dan Galway.",
+      "jobMarket": "Teknologi, farmasi, alat kesehatan, keuangan, dan penyewaan pesawat adalah sektor utama. Peran di bidang rekayasa perangkat lunak, data, kesehatan, dan konstruksi terus dicari.",
+      "visa": "Profesional dari luar Uni Eropa umumnya menggunakan Critical Skills Employment Permit untuk profesi yang banyak dicari atau General Employment Permit untuk peran lainnya. Daftar kelayakan dan ambang gaji ditinjau secara rutin, jadi periksa situs resmi Department of Enterprise dan Irish Immigration Service.",
+      "salaryNote": "Gaji di sektor teknologi dan farmasi kompetitif menurut standar Eropa. Biaya perumahan di Dublin tinggi, jadi pertimbangkan biaya sewa dengan cermat saat membandingkan tawaran.",
+      "languages": "Bahasa Inggris (bahasa Irlandia adalah bahasa resmi tetapi jarang diwajibkan di tempat kerja)",
+      "tips": [
+        "Gunakan CV dua halaman yang ringkas tanpa foto.",
+        "Obrolan ringan yang ramah di awal wawancara itu biasa; santai saja dan ikut terlibat.",
+        "Tunjukkan minat yang tulus pada kegiatan perusahaan di Irlandia, bukan hanya pada merek globalnya.",
+        "Pertanyaan berbasis kompetensi sering muncul, jadi siapkan contoh yang terstruktur."
+      ]
+    },
+    "germany": {
+      "name": "Jerman",
+      "summary": "Jerman adalah ekonomi terbesar di Eropa, terkenal dengan teknik, manufaktur, dan Mittelstand, yaitu jaringan kuat perusahaan menengah. Berlin, München, Hamburg, dan Frankfurt adalah pusat kerja utama.",
+      "jobMarket": "Otomotif, teknik mesin dan elektro, TI, kesehatan, serta keterampilan teknis semuanya kekurangan tenaga. Peran keperawatan, pengembangan perangkat lunak, dan teknik sangat dicari.",
+      "visa": "Jalur utamanya adalah EU Blue Card untuk profesional berkualifikasi yang memenuhi ambang gaji, visa pekerja terampil, dan Opportunity Card bagi pencari kerja. Persyaratan seperti pengakuan kualifikasi dan tingkat gaji bisa berubah, jadi periksa portal resmi Make it in Germany dan perwakilan Jerman di luar negeri.",
+      "salaryNote": "Gaji biasanya disebutkan sebagai angka kotor tahunan, dan pajak serta iuran jaminan sosialnya cukup besar. Gaji cenderung lebih tinggi di wilayah selatan dan di kota-kota besar.",
+      "languages": "Bahasa Jerman (bahasa Inggris umum di bidang teknologi dan startup, tetapi bahasa Jerman sangat memperluas pilihanmu)",
+      "tips": [
+        "CV berbentuk tabel (Lebenslauf) adalah standar; foto profesional bersifat opsional tetapi masih umum.",
+        "Sertakan sertifikat dan surat referensi kerja (Arbeitszeugnisse) dalam lamaranmu jika kamu memilikinya.",
+        "Datanglah tepat waktu dan bersikaplah teliti; wawancara cenderung terstruktur dan berfokus pada fakta.",
+        "Bersiaplah menghadapi pertanyaan rinci tentang kualifikasimu dan apa persisnya yang kamu kerjakan di setiap peran."
+      ]
+    },
+    "netherlands": {
+      "name": "Belanda",
+      "summary": "Belanda memiliki ekonomi yang terbuka dan internasional dengan banyak penutur bahasa Inggris. Amsterdam, Rotterdam, Den Haag, dan Eindhoven menjadi lokasi banyak perusahaan multinasional.",
+      "jobMarket": "Teknologi, logistik, agri-pangan, ilmu hayati, manufaktur teknologi tinggi, dan keuangan adalah sektor yang kuat. Peran di bidang perangkat lunak, data, teknik, dan kesehatan banyak dicari.",
+      "visa": "Banyak profesional datang melalui skema Highly Skilled Migrant, yang mensyaratkan pemberi kerja yang diakui oleh otoritas imigrasi dan gaji minimum, atau melalui EU Blue Card. Aturan dan ambang batas diperbarui secara rutin, jadi periksa situs resmi IND.",
+      "salaryNote": "Gaji biasanya disebutkan sebagai angka kotor tahunan dan sering kali sudah termasuk tunjangan liburan. Biaya perumahan di wilayah Randstad bisa tinggi.",
+      "languages": "Bahasa Belanda dan Inggris (bahasa Inggris banyak digunakan di perusahaan internasional)",
+      "tips": [
+        "Buat CV kamu singkat dan faktual; foto bersifat opsional.",
+        "Gaya komunikasi Belanda itu lugas, jadi berikan jawaban yang jelas dan jujur.",
+        "Tunjukkan bahwa kamu bisa bekerja mandiri dan berkontribusi dalam pengambilan keputusan berbasis konsensus.",
+        "Jangan melebih-lebihkan pencapaian; contoh yang sederhana tetapi konkret lebih mengena."
+      ]
+    },
+    "switzerland": {
+      "name": "Swiss",
+      "summary": "Swiss menawarkan beberapa gaji tertinggi di dunia, ekonomi yang stabil, dan kualitas hidup yang sangat tinggi. Zürich, Jenewa, Basel, dan Lausanne adalah pusat kerja utama.",
+      "jobMarket": "Perbankan, asuransi, farmasi, teknik presisi, TI, dan organisasi internasional adalah pemberi kerja utama. Spesialis di bidang teknologi, ilmu hayati, dan keuangan sangat dicari.",
+      "visa": "Warga Uni Eropa/EFTA menikmati kebebasan bergerak, sedangkan warga di luar Uni Eropa menghadapi kuota tahunan dan biasanya harus sangat berkualifikasi, dengan pemberi kerja membuktikan tidak ada kandidat lokal yang sesuai. Periksa situs resmi State Secretariat for Migration (SEM) dan otoritas kanton untuk aturan terbaru.",
+      "salaryNote": "Gaji sangat tinggi, tetapi begitu pula biaya sewa, asuransi kesehatan, dan biaya sehari-hari. Tingkat gaji juga berbeda antarkanton dan antarwilayah bahasa.",
+      "languages": "Bahasa Jerman, Prancis, dan Italia tergantung wilayah; bahasa Inggris umum di perusahaan multinasional",
+      "tips": [
+        "Lamaran yang lengkap sering mencakup CV dengan foto, sertifikat, dan surat referensi.",
+        "Ketelitian dan keandalan sangat dihargai; periksa ulang setiap detail dalam dokumenmu.",
+        "Ketepatan waktu itu wajib; datanglah beberapa menit lebih awal.",
+        "Mempelajari bahasa lokal di wilayah tersebut adalah keunggulan besar."
+      ]
+    },
+    "luxembourg": {
+      "name": "Luksemburg",
+      "summary": "Luksemburg adalah negara Uni Eropa yang kecil tetapi makmur dengan salah satu pendapatan rata-rata tertinggi di Eropa. Sebagian besar tenaga kerjanya pulang-pergi setiap hari dari negara tetangga, yaitu Prancis, Belgia, dan Jerman.",
+      "jobMarket": "Jasa keuangan, administrasi dana, perbankan, lembaga Uni Eropa, TI, dan logistik mendominasi. Profesional di bidang kepatuhan, akuntansi, TI, dan yang multibahasa sangat dicari.",
+      "visa": "Warga Uni Eropa dapat bekerja dengan bebas, sedangkan profesional dari luar Uni Eropa biasanya menggunakan EU Blue Card atau izin tinggal pekerja bergaji yang terkait dengan tawaran kerja. Persyaratannya bisa berubah, jadi periksa portal resmi Guichet.lu dan direktorat imigrasi.",
+      "salaryNote": "Gaji termasuk yang tertinggi di Uni Eropa, didukung oleh upah minimum resmi yang tinggi. Perumahan mahal, itulah sebabnya banyak orang tinggal di seberang perbatasan.",
+      "languages": "Bahasa Luksemburg, Prancis, dan Jerman; bahasa Inggris banyak digunakan di sektor keuangan",
+      "tips": [
+        "Tonjolkan semua bahasa yang kamu kuasai karena kemampuan multibahasa adalah nilai tambah besar.",
+        "Sesuaikan CV kamu dengan konteks keuangan atau Uni Eropa jika relevan, dengan tanggal dan tanggung jawab yang tepat.",
+        "Wawancara bisa berganti bahasa, jadi bersiaplah menjawab dalam lebih dari satu bahasa.",
+        "Penampilan yang formal dan rapi diharapkan untuk peran di sektor keuangan dan kelembagaan."
+      ]
+    },
+    "sweden": {
+      "name": "Swedia",
+      "summary": "Swedia memiliki ekonomi inovatif yang dikenal dengan merek global, startup, dan fokus kuat pada keseimbangan kerja dan kehidupan. Stockholm, Göteborg, dan Malmö adalah pusat kerja utama.",
+      "jobMarket": "Teknologi, gim, energi bersih, ilmu hayati, teknik, dan kesehatan adalah sektor utama. Pengembang perangkat lunak, insinyur, dan tenaga kesehatan banyak dicari.",
+      "visa": "Profesional dari luar Uni Eropa biasanya memerlukan izin kerja berdasarkan tawaran kerja yang memenuhi syarat gaji dan kondisi kerja, dan sebagian mungkin memenuhi syarat EU Blue Card. Aturannya diperketat dalam beberapa tahun terakhir, jadi periksa situs resmi Swedish Migration Agency (Migrationsverket).",
+      "salaryNote": "Gaji tergolong sedang menurut standar Eropa Barat, tetapi tunjangan, cuti orang tua, dan hari libur sangat murah hati. Pajaknya relatif tinggi.",
+      "languages": "Bahasa Swedia (bahasa Inggris banyak digunakan, terutama di bidang teknologi)",
+      "tips": [
+        "Buat CV kamu ringkas; foto bersifat opsional.",
+        "Tempat kerja di Swedia berstruktur datar, jadi tunjukkan kerja sama tim dan kerendahan hati, bukan hierarki.",
+        "Hindari melebih-lebihkan; jawaban yang seimbang dan jujur membangun kepercayaan.",
+        "Bersiaplah menghadapi pertanyaan tentang cara kamu berkolaborasi dan mengambil keputusan bersama."
+      ]
+    },
+    "denmark": {
+      "name": "Denmark",
+      "summary": "Denmark memadukan ekonomi yang kuat dengan tingkat kepercayaan tinggi, aturan ketenagakerjaan yang fleksibel, dan keseimbangan kerja-hidup yang sangat baik. Kopenhagen dan Aarhus adalah pusat lapangan kerja utama.",
+      "jobMarket": "Ilmu hayati, energi hijau, pelayaran, TI, dan teknik adalah sektor utama. Tenaga kesehatan profesional, insinyur, dan spesialis TI sering dicari.",
+      "visa": "Jalur umum meliputi Pay Limit Scheme untuk tawaran kerja bergaji tinggi, Positive List untuk profesi yang kekurangan tenaga, dan skema jalur cepat untuk pemberi kerja bersertifikat. Periksa situs resmi New to Denmark (SIRI) karena skema dan ambang batasnya bisa berubah.",
+      "salaryNote": "Gaji tinggi, tetapi pajak penghasilannya juga tinggi untuk membiayai layanan publik yang luas. Sebagian besar karyawan mendapat cuti berbayar yang murah hati.",
+      "languages": "Bahasa Denmark (bahasa Inggris banyak digunakan di perusahaan internasional)",
+      "tips": [
+        "Tulis CV yang singkat dan personal serta surat motivasi yang disesuaikan.",
+        "Budaya Denmark informal dan egaliter, jadi bersikaplah santai tetapi tetap profesional.",
+        "Tunjukkan bahwa kamu bisa bekerja mandiri dan bertanggung jawab.",
+        "Jujurlah tentang hal yang tidak kamu ketahui; menjual diri berlebihan bisa jadi bumerang."
+      ]
+    },
+    "australia": {
+      "name": "Australia",
+      "summary": "Australia memiliki ekonomi yang kuat, standar hidup yang tinggi, dan sejarah panjang migrasi tenaga terampil. Sydney, Melbourne, Brisbane, dan Perth adalah pasar kerja utama.",
+      "jobMarket": "Kesehatan, konstruksi, pertambangan dan sumber daya, pendidikan, serta teknologi adalah pemberi kerja utama. Perawat, insinyur, tenaga terampil teknis, dan profesional TI sering masuk daftar kekurangan keterampilan.",
+      "visa": "Pilihannya meliputi visa sementara dan permanen yang disponsori pemberi kerja, serta visa terampil mandiri atau nominasi negara bagian berbasis poin. Daftar profesi dan persyaratannya berubah secara rutin, jadi periksa situs resmi Department of Home Affairs.",
+      "salaryNote": "Gaji umumnya tinggi dan pemberi kerja wajib membayar superannuation (iuran pensiun) di luar gaji. Biaya hidup di Sydney dan Melbourne tinggi, terutama perumahan.",
+      "languages": "Bahasa Inggris",
+      "tips": [
+        "Résumé dua sampai tiga halaman itu umum; tidak perlu foto.",
+        "Gunakan nada yang ramah dan membumi; sikap arogan cepat terlihat.",
+        "Siapkan contoh perilaku dengan metode STAR.",
+        "Tunjukkan bahwa kamu memahami standar atau lisensi lokal jika bidangmu memerlukannya."
+      ]
+    },
+    "united-arab-emirates": {
+      "name": "Uni Emirat Arab",
+      "summary": "Uni Emirat Arab adalah pusat bisnis regional dengan tenaga kerja internasional yang besar. Dubai dan Abu Dhabi menarik profesional dari seluruh dunia.",
+      "jobMarket": "Keuangan, properti, konstruksi, pariwisata dan perhotelan, penerbangan, logistik, serta teknologi adalah sektor utama. Permintaan terus tumbuh di bidang AI, fintech, dan energi terbarukan.",
+      "visa": "Sebagian besar profesional bekerja dengan izin kerja dan visa tinggal yang disponsori pemberi kerja, dan ada juga opsi Golden Visa dan Green Visa untuk orang tertentu yang terampil atau berpenghasilan tinggi. Periksa portal resmi pemerintah seperti u.ae dan otoritas emirat terkait karena aturannya bisa berubah.",
+      "salaryNote": "Banyak pekerjaan tidak dikenai pajak penghasilan pribadi, dan paketnya bisa mencakup tunjangan perumahan atau transportasi. Selalu bandingkan total paket, bukan hanya gaji pokok.",
+      "languages": "Bahasa Arab dan Inggris (bahasa Inggris adalah bahasa bisnis utama)",
+      "tips": [
+        "Foto profesional di CV itu umum dan diterima.",
+        "Cantumkan kewarganegaraan dan status visa kamu karena pemberi kerja sering menanyakannya.",
+        "Berpakaianlah formal dan sopan untuk wawancara.",
+        "Bangun kedekatan; hubungan baik dan sikap yang santun sangat penting."
+      ]
+    },
+    "japan": {
+      "name": "Jepang",
+      "summary": "Jepang adalah ekonomi maju yang besar dengan pemimpin global di bidang otomotif, elektronik, dan manufaktur. Tokyo, Osaka, dan Nagoya adalah pasar kerja terbesar.",
+      "jobMarket": "TI, teknik, manufaktur, kesehatan, dan perhotelan menghadapi kekurangan tenaga kerja akibat populasi yang menua. Software engineer dan spesialis yang menguasai bahasa Jepang sangat dihargai.",
+      "visa": "Jalur umum adalah visa Engineer/Specialist in Humanities/International Services, visa Highly Skilled Professional berbasis poin, dan visa Specified Skilled Worker untuk industri tertentu. Periksa situs resmi Immigration Services Agency of Japan karena persyaratannya bisa berubah.",
+      "salaryNote": "Gaji pokok bisa tergolong sederhana dibandingkan AS, tetapi bonus dan tunjangan umum diberikan. Senioritas masih memengaruhi gaji di banyak perusahaan tradisional.",
+      "languages": "Bahasa Jepang (peran yang hanya berbahasa Inggris umumnya ada di bidang teknologi dan perusahaan asing)",
+      "tips": [
+        "Perusahaan tradisional mungkin mengharapkan résumé berformat standar (rirekisho) dengan foto.",
+        "Kesopanan, kerendahan hati, dan salam formal sangat penting.",
+        "Datanglah lebih awal dan berpakaianlah konservatif, biasanya dengan setelan jas gelap.",
+        "Tunjukkan komitmen jangka panjang dan orientasi tim, bukan ambisi pribadi."
+      ]
+    },
+    "singapore": {
+      "name": "Singapura",
+      "summary": "Singapura adalah pusat utama Asia untuk keuangan, perdagangan, dan teknologi, dengan tenaga kerja yang sangat internasional. Banyak perusahaan multinasional menempatkan kantor pusat Asia-Pasifik mereka di sana.",
+      "jobMarket": "Keuangan, teknologi, logistik, ilmu biomedis, dan jasa profesional adalah sektor utama. Spesialis perangkat lunak, data, keamanan siber, dan keuangan sangat dicari.",
+      "visa": "Profesional biasanya memerlukan Employment Pass, yang mempertimbangkan gaji dan kerangka berbasis poin, sedangkan pekerja berketerampilan menengah dapat menggunakan S Pass. Kriterianya diperbarui secara rutin, jadi periksa situs resmi Ministry of Manpower (MOM).",
+      "salaryNote": "Gaji di sektor keuangan dan teknologi kompetitif dan pajak penghasilan pribadi relatif rendah. Perumahan dan kepemilikan mobil mahal.",
+      "languages": "Bahasa Inggris (bahasa bisnis utama), ditambah Mandarin, Melayu, dan Tamil",
+      "tips": [
+        "Buat CV kamu ringkas dan berfokus pada hasil; foto bersifat opsional.",
+        "Jelaskan dengan jelas masa pemberitahuan (notice period) dan status izin kerja kamu.",
+        "Tunjukkan bahwa kamu bisa bekerja lintas budaya dalam tim yang beragam.",
+        "Bersiaplah membahas gaji yang diharapkan secara langsung karena hal ini sering ditanyakan sejak awal."
+      ]
+    }
+  },
+  "tipCategories": {
+    "before": "Sebelum wawancara",
+    "during": "Selama wawancara",
+    "tough": "Pertanyaan sulit",
+    "remote": "Wawancara jarak jauh",
+    "after": "Setelah wawancara"
+  },
+  "tips": {
+    "before-reverse-engineer-posting": { "title": "Jadikan iklan lowongan sebagai daftar periksa", "body": "Tandai setiap keterampilan dan tanggung jawab dalam lowongan, lalu tulis satu contoh dari pengalamanmu di sebelahnya. Celah yang kamu temukan sekarang adalah pertanyaan yang bisa kamu siapkan, bukan kejutan saat wawancara." },
+    "before-story-bank": { "title": "Siapkan lima cerita andalan", "body": "Siapkan lima cerita singkat tentang keberhasilan, kegagalan, konflik, saat kamu memimpin, dan saat kamu belajar dengan cepat. Sebagian besar pertanyaan perilaku bisa dijawab dengan menyesuaikan salah satunya." },
+    "before-news-check": { "title": "Cek berita terbaru perusahaan", "body": "Sehari sebelumnya, cari berita terbaru, peluncuran produk, atau pendanaan perusahaan. Menyebut sesuatu yang aktual menunjukkan minat yang tulus dan memberimu pertanyaan yang alami untuk diajukan." },
+    "before-map-interviewers": { "title": "Cari tahu tentang pewawancaramu", "body": "Jika kamu tahu siapa yang akan mewawancaraimu, lihat profil profesional mereka untuk memahami peran dan latar belakangnya. Ini membantumu menyesuaikan contoh dengan hal yang penting bagi masing-masing orang." },
+    "before-practice-out-loud": { "title": "Latih jawaban dengan suara keras", "body": "Berlatih dalam hati terasa lancar, tetapi berbicara langsung memperlihatkan di mana kamu bertele-tele atau tersendat. Ucapkan jawaban utamamu dengan suara keras beberapa kali, idealnya dengan durasi satu sampai dua menit." },
+    "before-prepare-kit": { "title": "Siapkan perlengkapan wawancara", "body": "Siapkan salinan cetak CV, buku catatan, pulpen, kartu identitas, dan kontak pewawancara. Menyiapkan semuanya sejak malam sebelumnya menghilangkan stres di menit-menit terakhir." },
+    "before-plan-route": { "title": "Rencanakan rute dengan waktu cadangan", "body": "Cek waktu tempuh pada jam yang sama dan tambahkan setidaknya 20 menit cadangan. Usahakan tiba di sekitar lokasi lebih awal dan masuk 5 sampai 10 menit sebelum jadwal dimulai." },
+    "before-thirty-sixty-ninety": { "title": "Buat rencana 30-60-90 hari", "body": "Tulis beberapa poin tentang apa yang akan kamu pelajari, hasilkan, dan tingkatkan dalam tiga bulan pertama. Meskipun tidak ada yang bertanya, ini mempertajam jawabanmu tentang bagaimana kamu akan memberi nilai tambah." },
+    "during-first-ninety-seconds": { "title": "Kuasai 90 detik pertama", "body": "Kesan pertama terbentuk dengan cepat, jadi sapa semua orang dengan hangat, tersenyumlah, dan sebut nama mereka. Awal yang tenang dan ramah membuat sisa percakapan lebih mudah bagi kedua pihak." },
+    "during-pause-before-answering": { "title": "Berhenti sejenak sebelum menjawab", "body": "Mengambil dua atau tiga detik untuk berpikir terlihat percaya diri, bukan lambat. Ini membantumu memilih contoh terbaik dan menghindari mengisi keheningan dengan kata pengisi." },
+    "during-numbers-in-answers": { "title": "Sertakan angka dalam jawabanmu", "body": "Sebisa mungkin, ukur dampaknya: waktu yang dihemat, pendapatan yang tumbuh, kesalahan yang berkurang, atau pelanggan yang dilayani. Angka konkret membuat ceritamu kredibel dan mudah diingat." },
+    "during-clarify-question": { "title": "Perjelas pertanyaan yang kurang jelas", "body": "Jika pertanyaannya samar, ajukan pertanyaan klarifikasi singkat atau ulangi apa yang kamu pahami. Menjawab pertanyaan yang tepat lebih baik daripada menjawab dengan cepat." },
+    "during-watch-length": { "title": "Batasi jawaban sekitar dua menit", "body": "Jawaban yang panjang membuat perhatian hilang, sedangkan jawaban yang pendek terasa dangkal. Usahakan satu sampai dua menit, lalu tanyakan misalnya: apakah Anda ingin saya jelaskan lebih rinci?" },
+    "during-take-notes": { "title": "Buat catatan singkat", "body": "Mencatat poin penting yang disebutkan pewawancara menunjukkan keterlibatanmu. Kamu bisa merujuknya lagi saat bertanya dan dalam pesan terima kasihmu." },
+    "during-mirror-energy": { "title": "Sesuaikan dengan gaya pewawancara", "body": "Perhatikan apakah pewawancara formal atau santai, cepat atau penuh pertimbangan, lalu sesuaikan nadamu sedikit. Mengikuti ritme mereka membangun kedekatan tanpa kehilangan kepribadianmu sendiri." },
+    "during-close-strong": { "title": "Akhiri dengan penutup yang jelas", "body": "Sebelum pergi, rangkum secara singkat mengapa kamu cocok untuk peran tersebut dan tegaskan minatmu. Lalu tanyakan langkah selanjutnya dan perkiraan waktunya." },
+    "tough-gap-in-cv": { "title": "Menjelaskan celah di CV kamu", "body": "Jelaskan alasannya secara singkat dan jujur, entah karena merawat keluarga, kesehatan, studi, atau mencari kerja. Lalu segera beralih ke apa yang kamu lakukan agar tetap tajam dan mengapa kamu siap sekarang." },
+    "tough-why-leaving": { "title": "Mengapa kamu ingin keluar dari pekerjaanmu?", "body": "Fokus pada apa yang kamu tuju, seperti pertumbuhan, tantangan baru, atau kecocokan yang lebih baik, bukan pada apa yang ingin kamu hindari. Jangan pernah mengkritik pemberi kerja saat ini atau sebelumnya." },
+    "tough-failure-story": { "title": "Ceritakan tentang sebuah kegagalan", "body": "Pilih kesalahan yang nyata tetapi bisa diperbaiki, akui bagianmu tanpa mencari alasan, dan gunakan sebagian besar jawaban untuk membahas apa yang kamu pelajari. Tutup dengan bagaimana kamu menerapkan pelajaran itu kemudian." },
+    "tough-overqualified": { "title": "Kamu tampak terlalu berkualifikasi", "body": "Jawab kekhawatiran tersembunyi di baliknya, yang biasanya adalah bahwa kamu akan cepat bosan atau segera keluar. Jelaskan mengapa peran ini sesuai dengan tujuanmu saat ini dan bagaimana pengalamanmu membantu tim sejak hari pertama." },
+    "tough-dont-know-answer": { "title": "Saat kamu tidak tahu jawabannya", "body": "Jangan menggertak. Sampaikan apa yang kamu ketahui, jelaskan bagaimana kamu akan mencari sisanya, dan jika memungkinkan, uraikan cara berpikirmu dengan suara keras agar mereka bisa melihat cara kamu berpikir." },
+    "tough-other-offers": { "title": "Apakah kamu juga wawancara di tempat lain?", "body": "Tidak apa-apa menjawab ya tanpa menyebut nama perusahaan atau detailnya. Tekankan bahwa peran ini sangat cocok untukmu dan sampaikan batasan waktu apa pun dengan jujur." },
+    "tough-illegal-questions": { "title": "Menghadapi pertanyaan yang tidak pantas", "body": "Di banyak negara, pertanyaan tentang usia, agama, status pernikahan, atau rencana berkeluarga tidak diperbolehkan. Kamu bisa dengan sopan mengarahkan kembali ke kualifikasimu, misalnya dengan mengatakan bahwa tidak ada hal yang akan memengaruhi kemampuanmu menjalankan pekerjaan." },
+    "tough-where-in-five-years": { "title": "Di mana kamu melihat dirimu dalam lima tahun?", "body": "Tunjukkan ambisi yang sesuai dengan jalur yang bisa ditawarkan peran ini, seperti keahlian yang lebih dalam atau tanggung jawab yang lebih besar. Hindari menyebut karier yang sama sekali berbeda atau posisi pewawancara itu sendiri." },
+    "remote-test-tech": { "title": "Uji platform sebelumnya", "body": "Instal aplikasi video, perbarui, dan lakukan panggilan uji dengan teman sehari sebelumnya. Pastikan kamera, mikrofon, dan fitur berbagi layar berfungsi di perangkat yang akan kamu gunakan." },
+    "remote-camera-eye-level": { "title": "Letakkan kamera sejajar mata", "body": "Naikkan laptop dengan tumpukan buku atau penyangga agar kamera sejajar dengan matamu. Tataplah lensa saat menyampaikan poin penting agar pewawancara merasakan kontak mata." },
+    "remote-lighting-audio": { "title": "Atur pencahayaan dan audio dengan baik", "body": "Hadapkan wajah ke jendela atau lampu agar wajahmu terang merata, dan hindari cahaya terang di belakangmu. Earphone berkabel dengan mikrofon biasanya terdengar lebih jernih daripada speaker laptop." },
+    "remote-clean-background": { "title": "Pilih latar belakang yang tenang", "body": "Duduklah di depan latar yang rapi dan netral serta singkirkan gangguan dari bingkai kamera. Beri tahu orang di rumah kapan wawancaramu berlangsung dan matikan notifikasi di semua perangkat." },
+    "remote-notes-off-screen": { "title": "Gunakan catatan dengan bijak", "body": "Beberapa kata kunci di catatan tempel dekat kamera bisa membantu, tetapi jangan membaca jawaban lengkap. Pewawancara menyadari saat matamu terus bergerak di layar." },
+    "remote-lag-etiquette": { "title": "Beri ruang untuk jeda audio", "body": "Tunggu sejenak setelah pewawancara selesai berbicara sebelum kamu menjawab agar tidak saling memotong. Jika koneksi terputus, bergabunglah kembali dengan tenang dan rangkum singkat sampai di mana pembicaraan tadi." },
+    "remote-backup-plan": { "title": "Siapkan rencana cadangan", "body": "Pastikan ponselmu terisi daya dan kontak pewawancara mudah dijangkau jika internetmu bermasalah. Hotspot seluler yang siap dipakai bisa menyelamatkan wawancaramu." },
+    "remote-one-way-video": { "title": "Wawancara video satu arah", "body": "Untuk wawancara rekaman tanpa orang yang hadir langsung, anggap kamera sebagai audiensmu dan tersenyumlah di awal. Manfaatkan pertanyaan latihan untuk mengecek bingkai kamera, lalu jawab dengan energi yang sama seperti panggilan langsung." },
+    "after-debrief-notes": { "title": "Segera tulis catatan evaluasi", "body": "Dalam satu jam, catat pertanyaan yang diajukan, jawabanmu, nama-nama, dan apa pun yang ingin kamu perbaiki. Catatan ini membantu saat menindaklanjuti dan untuk wawancara berikutnya." },
+    "after-personal-thank-you": { "title": "Buat ucapan terima kasih yang personal", "body": "Kirim email terima kasih singkat dalam 24 jam yang menyebut satu topik spesifik yang kalian bahas. Detail personal membuatnya mudah diingat, bukan sekadar pesan umum." },
+    "after-follow-up-timing": { "title": "Tindak lanjuti pada waktu yang tepat", "body": "Jika mereka memberi perkiraan waktu, tunggu hingga waktu itu lewat sebelum menindaklanjuti. Jika tidak, menanyakan kabar dengan sopan sekitar seminggu kemudian itu wajar." },
+    "after-connect-linkedin": { "title": "Terhubung secara profesional", "body": "Pertimbangkan untuk mengirim permintaan koneksi dengan catatan singkat kepada orang-orang yang kamu temui. Jaga tetap profesional dan jangan menggunakannya untuk menanyakan keputusan." },
+    "after-handle-silence": { "title": "Hadapi keheningan dengan tenang", "body": "Proses rekrutmen sering memakan waktu lebih lama dari rencana karena alasan yang tidak ada hubungannya denganmu. Setelah satu atau dua kali tindak lanjut yang sopan, tetap fokus pada peluang lain." },
+    "after-ask-feedback": { "title": "Minta masukan setelah ditolak", "body": "Balas dengan sopan dan tanyakan apakah mereka bisa berbagi satu atau dua hal yang bisa kamu perbaiki. Tidak semua orang akan menjawab, tetapi masukan yang berguna sangat berharga, dan balasan yang positif menjaga pintu tetap terbuka." },
+    "after-compare-offers": { "title": "Bandingkan tawaran secara menyeluruh", "body": "Lihat lebih dari sekadar gaji pokok: bonus, tunjangan, cuti, fleksibilitas, peluang berkembang, dan waktu perjalanan. Menuliskannya berdampingan dalam tabel membuat pilihan yang tepat lebih jelas." },
+    "after-keep-pipeline": { "title": "Jaga pencarian kerjamu tetap aktif", "body": "Jangan hentikan pencarian kerja selagi menunggu keputusan satu perusahaan. Terus melamar menjaga pilihanmu tetap terbuka dan mengurangi tekanan pada satu wawancara saja." }
+  }
+}

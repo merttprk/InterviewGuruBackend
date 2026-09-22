@@ -1,0 +1,297 @@
+{
+  "regions": {
+    "us": "Vereinigte Staaten",
+    "uk": "Vereinigtes Königreich",
+    "de": "Deutschland",
+    "tr": "Türkei",
+    "in": "Indien",
+    "id": "Indonesien",
+    "my": "Malaysia",
+    "br": "Brasilien",
+    "es": "Spanien",
+    "fr": "Frankreich"
+  },
+  "salaryCategories": {
+    "technology": "Technologie",
+    "healthcare": "Gesundheitswesen",
+    "business": "Wirtschaft & Finanzen",
+    "sales": "Vertrieb & Marketing",
+    "education": "Bildung",
+    "engineering": "Ingenieurwesen",
+    "creative": "Kreativbranche",
+    "hospitality": "Gastgewerbe & Kundenservice"
+  },
+  "salaries": {
+    "software-engineer": { "title": "Softwareentwickler/in", "description": "Entwirft, entwickelt, testet und wartet Softwareanwendungen und -systeme." },
+    "data-analyst": { "title": "Datenanalyst/in", "description": "Macht aus Rohdaten Berichte, Dashboards und Erkenntnisse, die Geschäftsentscheidungen leiten." },
+    "product-manager": { "title": "Produktmanager/in", "description": "Legt fest, was ein Produkt können soll, und bringt Engineering, Design und Business zusammen, um es umzusetzen." },
+    "ux-designer": { "title": "UX-Designer/in", "description": "Erforscht die Bedürfnisse der Nutzer und gestaltet intuitive Abläufe, Wireframes und Oberflächen für digitale Produkte." },
+    "devops-engineer": { "title": "DevOps-Engineer", "description": "Automatisiert Infrastruktur, Deployments und Monitoring, damit Software zuverlässig und schnell ausgeliefert wird." },
+    "nurse": { "title": "Pflegefachkraft", "description": "Betreut Patientinnen und Patienten direkt, führt Behandlungen durch und stimmt sich mit Ärzten und Angehörigen ab." },
+    "pharmacist": { "title": "Apotheker/in", "description": "Gibt Arzneimittel sicher ab und berät Patienten und medizinisches Personal zu Dosierung, Wechselwirkungen und Nebenwirkungen." },
+    "physiotherapist": { "title": "Physiotherapeut/in", "description": "Hilft Patienten, ihre Beweglichkeit wiederzuerlangen und Schmerzen zu lindern – durch Übungen, manuelle Therapie und Aufklärung." },
+    "accountant": { "title": "Buchhalter/in", "description": "Erstellt Jahresabschlüsse, führt die Bücher und sorgt für die Einhaltung von Steuer- und Berichtspflichten." },
+    "financial-analyst": { "title": "Finanzanalyst/in", "description": "Erstellt Prognosen und Finanzmodelle, um Performance, Budgets und Investitionsentscheidungen zu bewerten." },
+    "hr-specialist": { "title": "HR-Referent/in", "description": "Kümmert sich um Recruiting, Onboarding, Mitarbeiterbeziehungen und Personalrichtlinien im Unternehmen." },
+    "project-manager": { "title": "Projektmanager/in", "description": "Plant Projekte, steuert Umfang, Budget und Zeitplan und hält alle Beteiligten bis zur Fertigstellung auf Kurs." },
+    "lawyer": { "title": "Rechtsanwalt/Rechtsanwältin", "description": "Berät Mandanten in rechtlichen Fragen, entwirft Verträge und vertritt sie in Verhandlungen oder vor Gericht." },
+    "sales-representative": { "title": "Vertriebsmitarbeiter/in", "description": "Findet und qualifiziert potenzielle Kunden, präsentiert Produkte und schließt Deals ab, um Umsatzziele zu erreichen." },
+    "digital-marketing-specialist": { "title": "Digital-Marketing-Spezialist/in", "description": "Plant und optimiert Online-Kampagnen über Suche, Social Media, E-Mail und bezahlte Kanäle." },
+    "teacher": { "title": "Lehrer/in", "description": "Plant den Unterricht, unterrichtet Schülerinnen und Schüler und bewertet ihre Fortschritte." },
+    "civil-engineer": { "title": "Bauingenieur/in", "description": "Plant und überwacht Infrastruktur wie Straßen, Brücken, Gebäude und Wassersysteme." },
+    "mechanical-engineer": { "title": "Maschinenbauingenieur/in", "description": "Entwirft, analysiert und verbessert Maschinen, Produkte und Fertigungsprozesse." },
+    "electrical-engineer": { "title": "Elektroingenieur/in", "description": "Entwirft und testet elektrische Systeme – von der Energieverteilung bis zu Elektronik und Steuerungstechnik." },
+    "graphic-designer": { "title": "Grafikdesigner/in", "description": "Entwickelt visuelle Konzepte für Marken, Marketingmaterialien, Websites und Publikationen." },
+    "architect": { "title": "Architekt/in", "description": "Entwirft Gebäude und Räume und bringt dabei Ästhetik, Funktion, Vorschriften und Budget in Einklang." },
+    "customer-support-specialist": { "title": "Kundensupport-Mitarbeiter/in", "description": "Löst Fragen und Probleme von Kunden per Telefon, Chat oder E-Mail und sorgt für zufriedene Kunden." },
+    "hotel-manager": { "title": "Hotelmanager/in", "description": "Leitet den Hotelbetrieb, das Personal, das Gästeerlebnis und die wirtschaftliche Entwicklung." },
+    "chef": { "title": "Koch/Köchin", "description": "Plant Menüs, bereitet Gerichte zu und führt das Küchenteam mit gleichbleibend hohem Qualitätsanspruch." }
+  },
+  "countries": {
+    "united-states": {
+      "name": "Vereinigte Staaten",
+      "summary": "Die Vereinigten Staaten sind die größte Volkswirtschaft der Welt und haben einen dynamischen, stark umkämpften Arbeitsmarkt. Die Gehälter sind oft hoch, aber Leistungen wie Krankenversicherung und bezahlter Urlaub unterscheiden sich stark je nach Arbeitgeber.",
+      "jobMarket": "Technologie, Gesundheitswesen, Finanzen und professionelle Dienstleistungen stellen durchgehend in großem Umfang ein. Stellen in Engineering, Daten, Cybersicherheit und Pflege sind in vielen Bundesstaaten weiterhin sehr gefragt.",
+      "visa": "Gängige Wege sind das H-1B-Visum für Fachkräfte, L-1 für konzerninterne Versetzungen, O-1 für außergewöhnliche Fähigkeiten sowie beschäftigungsbasierte Green Cards. Die meisten Wege erfordern eine Unterstützung durch den Arbeitgeber, und bei manchen entscheidet eine Lotterie. Schau also immer auf den offiziellen Websites von USCIS und dem State Department nach, denn die Regeln ändern sich häufig.",
+      "salaryNote": "Die Gehälter unterscheiden sich stark je nach Stadt und Bundesstaat, wobei die Tech-Hubs an den Küsten am besten zahlen. Berücksichtige beim Vergleichen von Angeboten immer Gesundheitskosten, Steuern sowie Boni oder Unternehmensanteile.",
+      "languages": "Englisch",
+      "tips": [
+        "Halte deinen Lebenslauf auf ein bis zwei Seiten und lass Foto, Alter und Familienstand weg.",
+        "Belege deine Erfolge mit Zahlen, Prozentangaben und Ergebnissen.",
+        "Rechne mit verhaltensbasierten Fragen und beantworte sie mit klaren Geschichten nach der STAR-Methode.",
+        "Selbstbewusst über deine eigenen Beiträge zu sprechen wird erwartet und gilt nicht als Angeberei."
+      ]
+    },
+    "canada": {
+      "name": "Kanada",
+      "summary": "Kanada hat eine stabile, vielfältige Wirtschaft und heißt qualifizierte Zuwanderer aktiv willkommen. Wichtige Zentren sind Toronto, Vancouver, Montreal und Calgary.",
+      "jobMarket": "Gesundheitswesen, Technologie, Handwerksberufe, Ingenieurwesen und Finanzen sind die wichtigsten Branchen für Neueinstellungen. Viele Provinzen melden Engpässe in der Pflege, im Bauwesen und in der IT.",
+      "visa": "Fachkräfte beantragen die dauerhafte Aufenthaltserlaubnis oft über Express Entry oder die Provincial Nominee Programs, während arbeitgebergebundene Arbeitserlaubnisse eine Arbeitsmarktprüfung erfordern können. Programme und Auswahlkriterien ändern sich häufig, also schau auf der offiziellen Website von Immigration, Refugees and Citizenship Canada (IRCC) nach.",
+      "salaryNote": "Die Gehälter liegen meist unter denen in den USA, dafür gibt es eine öffentliche Gesundheitsversorgung. Bezahlung und Lebenshaltungskosten unterscheiden sich deutlich zwischen Provinzen und Städten.",
+      "languages": "Englisch und Französisch (in weiten Teilen Québecs ist Französisch unverzichtbar)",
+      "tips": [
+        "Nutze einen ein- bis zweiseitigen Lebenslauf ohne Foto, Geburtsdatum oder Familienstand.",
+        "Kanadische Arbeitgeber schätzen relevante lokale oder übertragbare Erfahrung, also stell sie deutlich heraus.",
+        "Höflichkeit und ein kooperativer Ton zählen; vermeide allzu aggressive Selbstdarstellung.",
+        "Bereite Referenzen im Voraus vor, denn sie werden häufig überprüft."
+      ]
+    },
+    "united-kingdom": {
+      "name": "Vereinigtes Königreich",
+      "summary": "Das Vereinigte Königreich hat eine große, dienstleistungsorientierte Wirtschaft, und London ist ein globales Zentrum für Finanzen und Technologie. Auch Städte wie Manchester, Edinburgh und Bristol haben wachsende Arbeitsmärkte.",
+      "jobMarket": "Finanzen, Technologie, Gesundheitswesen (vor allem der NHS), Ingenieurwesen und die Kreativbranche sind große Arbeitgeber. Stellen in Gesundheit und Pflege, Software und Daten stehen häufig auf den Mangelberufslisten.",
+      "visa": "Der wichtigste Weg ist das Skilled Worker Visa, für das du ein Jobangebot von einem lizenzierten Sponsor brauchst, das bestimmte Gehalts- und Qualifikationsschwellen erfüllt. Außerdem gibt es die Routen Health and Care Worker, Global Talent und Graduate; prüfe die aktuellen Anforderungen auf GOV.UK, da die Schwellenwerte regelmäßig angepasst werden.",
+      "salaryNote": "In London sind die Gehälter deutlich höher, die Lebenshaltungskosten aber auch. Gehälter werden in der Regel als Jahresbrutto vor Einkommensteuer und National Insurance angegeben.",
+      "languages": "Englisch",
+      "tips": [
+        "Halte deinen CV bei etwa zwei Seiten und füge kein Foto hinzu.",
+        "Nutze kompetenzbasierte Beispiele, denn viele Interviews folgen diesem Format.",
+        "Ein bescheidener, zurückhaltender Ton kommt besser an als offensives Verkaufen.",
+        "Füge ein kurzes, zugeschnittenes Anschreiben bei, wenn die Bewerbung es zulässt."
+      ]
+    },
+    "ireland": {
+      "name": "Irland",
+      "summary": "Irland ist ein englischsprachiges EU-Land, in dem viele globale Tech- und Pharmaunternehmen ihren Europasitz haben. Die meisten Chancen konzentrieren sich auf Dublin, Cork und Galway.",
+      "jobMarket": "Technologie, Pharma, Medizintechnik, Finanzen und Flugzeugleasing sind wichtige Branchen. Stellen in Softwareentwicklung, Daten, Gesundheitswesen und Bauwesen sind konstant gefragt.",
+      "visa": "Fachkräfte aus Nicht-EU-Ländern nutzen häufig die Critical Skills Employment Permit für gefragte Berufe oder die General Employment Permit für andere Stellen. Berufslisten und Gehaltsschwellen werden regelmäßig überprüft, also schau auf den offiziellen Websites des Department of Enterprise und des Irish Immigration Service nach.",
+      "salaryNote": "Die Gehälter in Tech und Pharma sind für europäische Verhältnisse konkurrenzfähig. Wohnen in Dublin ist teuer, also berücksichtige die Miete sorgfältig, wenn du Angebote vergleichst.",
+      "languages": "Englisch (Irisch ist Amtssprache, wird im Job aber selten verlangt)",
+      "tips": [
+        "Nutze einen knappen, zweiseitigen CV ohne Foto.",
+        "Freundlicher Small Talk zu Beginn des Interviews ist üblich; entspann dich und steig darauf ein.",
+        "Zeig echtes Interesse an der Arbeit des Unternehmens in Irland, nicht nur an der globalen Marke.",
+        "Kompetenzbasierte Fragen sind verbreitet, also bereite strukturierte Beispiele vor."
+      ]
+    },
+    "germany": {
+      "name": "Deutschland",
+      "summary": "Deutschland ist die größte Volkswirtschaft Europas und bekannt für Ingenieurskunst, Industrie und einen starken Mittelstand. Berlin, München, Hamburg und Frankfurt sind wichtige Jobzentren.",
+      "jobMarket": "In der Automobilindustrie, im Maschinenbau und in der Elektrotechnik, in der IT, im Gesundheitswesen und im Handwerk fehlen überall Fachkräfte. Besonders gefragt sind Stellen in Pflege, Softwareentwicklung und Ingenieurwesen.",
+      "visa": "Wichtige Wege sind die Blaue Karte EU für qualifizierte Fachkräfte, die eine Gehaltsschwelle erreichen, das Visum für Fachkräfte und die Chancenkarte für Jobsuchende. Anforderungen wie anerkannte Abschlüsse und Gehaltsgrenzen ändern sich, also schau auf dem offiziellen Portal Make it in Germany und bei den deutschen Auslandsvertretungen nach.",
+      "salaryNote": "Gehälter werden in der Regel als Jahresbrutto angegeben, und Steuern sowie Sozialabgaben fallen deutlich ins Gewicht. Im Süden und in Großstädten wird tendenziell besser bezahlt.",
+      "languages": "Deutsch (Englisch ist in Tech und Start-ups verbreitet, aber Deutsch erweitert deine Möglichkeiten enorm)",
+      "tips": [
+        "Ein tabellarischer Lebenslauf ist Standard; ein professionelles Foto ist freiwillig, aber immer noch üblich.",
+        "Leg deiner Bewerbung Zeugnisse und Arbeitszeugnisse bei, wenn du welche hast.",
+        "Sei pünktlich und präzise; Interviews sind meist strukturiert und faktenorientiert.",
+        "Rechne mit detaillierten Fragen zu deinen Qualifikationen und dazu, was genau du in jeder Position gemacht hast."
+      ]
+    },
+    "netherlands": {
+      "name": "Niederlande",
+      "summary": "Die Niederlande haben eine offene, internationale Wirtschaft und einen hohen Anteil an Englischsprechenden. In Amsterdam, Rotterdam, Den Haag und Eindhoven sitzen viele multinationale Arbeitgeber.",
+      "jobMarket": "Technologie, Logistik, Agrar- und Lebensmittelwirtschaft, Life Sciences, Hightech-Fertigung und Finanzen sind starke Branchen. Stellen in Software, Daten, Ingenieurwesen und Gesundheitswesen sind gefragt.",
+      "visa": "Viele Fachkräfte kommen über die Regelung für hochqualifizierte Migranten (Highly Skilled Migrant), die einen von der Einwanderungsbehörde anerkannten Arbeitgeber und ein Mindestgehalt voraussetzt, oder über die Blaue Karte EU. Regeln und Schwellenwerte werden regelmäßig aktualisiert, also schau auf der offiziellen Website des IND nach.",
+      "salaryNote": "Gehälter werden in der Regel als Jahresbrutto angegeben und enthalten oft ein Urlaubsgeld. In der Randstad-Region können die Wohnkosten hoch sein.",
+      "languages": "Niederländisch und Englisch (Englisch ist in internationalen Unternehmen weit verbreitet)",
+      "tips": [
+        "Halte deinen Lebenslauf kurz und sachlich; ein Foto ist optional.",
+        "Die niederländische Kommunikation ist direkt, also gib klare und ehrliche Antworten.",
+        "Zeig, dass du selbstständig arbeiten und zu konsensbasierten Entscheidungen beitragen kannst.",
+        "Übertreib deine Erfolge nicht; bescheidene, aber konkrete Beispiele kommen gut an."
+      ]
+    },
+    "switzerland": {
+      "name": "Schweiz",
+      "summary": "Die Schweiz bietet einige der höchsten Gehälter der Welt, eine stabile Wirtschaft und eine sehr hohe Lebensqualität. Zürich, Genf, Basel und Lausanne sind die wichtigsten Jobzentren.",
+      "jobMarket": "Banken, Versicherungen, Pharma, Präzisionstechnik, IT und internationale Organisationen sind große Arbeitgeber. Besonders gesucht sind Fachleute aus Tech, Life Sciences und Finanzen.",
+      "visa": "EU/EFTA-Bürger profitieren von der Personenfreizügigkeit, während Staatsangehörige aus Nicht-EU-Ländern jährlichen Kontingenten unterliegen und meist hochqualifiziert sein müssen; zudem muss der Arbeitgeber nachweisen, dass keine geeignete Person vor Ort gefunden wurde. Prüfe die aktuellen Regeln auf den offiziellen Websites des Staatssekretariats für Migration (SEM) und der kantonalen Behörden.",
+      "salaryNote": "Die Gehälter sind sehr hoch, aber das gilt auch für Mieten, Krankenversicherung und Alltagskosten. Außerdem unterscheidet sich das Lohnniveau zwischen Kantonen und Sprachregionen.",
+      "languages": "Je nach Region Deutsch, Französisch oder Italienisch; in multinationalen Unternehmen ist Englisch verbreitet",
+      "tips": [
+        "Eine vollständige Bewerbung umfasst oft einen Lebenslauf mit Foto, Zeugnisse und Referenzschreiben.",
+        "Präzision und Zuverlässigkeit werden geschätzt; prüfe jedes Detail deiner Unterlagen doppelt.",
+        "Pünktlichkeit ist ein Muss; sei ein paar Minuten früher da.",
+        "Die Landessprache der Region zu lernen ist ein großer Vorteil."
+      ]
+    },
+    "luxembourg": {
+      "name": "Luxemburg",
+      "summary": "Luxemburg ist ein kleines, aber wohlhabendes EU-Land mit einem der höchsten Durchschnittseinkommen Europas. Ein großer Teil der Beschäftigten pendelt täglich aus den Nachbarländern Frankreich, Belgien und Deutschland ein.",
+      "jobMarket": "Finanzdienstleistungen, Fondsverwaltung, Banken, EU-Institutionen, IT und Logistik dominieren. Fachleute für Compliance, Rechnungswesen und IT sowie mehrsprachige Kräfte sind sehr gefragt.",
+      "visa": "EU-Bürger können frei arbeiten, während Fachkräfte aus Nicht-EU-Ländern meist die Blaue Karte EU oder eine an ein Jobangebot gebundene Aufenthaltserlaubnis für Arbeitnehmer nutzen. Die Anforderungen ändern sich, also schau auf dem offiziellen Portal Guichet.lu und bei der Einwanderungsbehörde nach.",
+      "salaryNote": "Die Gehälter gehören zu den höchsten in der EU, gestützt durch einen hohen gesetzlichen Mindestlohn. Wohnen ist teuer, weshalb viele Menschen jenseits der Grenze leben.",
+      "languages": "Luxemburgisch, Französisch und Deutsch; im Finanzsektor ist Englisch weit verbreitet",
+      "tips": [
+        "Nenn alle Sprachen, die du sprichst, denn Mehrsprachigkeit ist ein großer Pluspunkt.",
+        "Pass deinen Lebenslauf bei Bedarf an den Finanz- oder EU-Kontext an, mit genauen Daten und Verantwortlichkeiten.",
+        "Im Interview kann die Sprache wechseln, also sei bereit, in mehr als einer Sprache zu antworten.",
+        "In Finanz- und Institutionsrollen wird ein formeller, gepflegter Auftritt erwartet."
+      ]
+    },
+    "sweden": {
+      "name": "Schweden",
+      "summary": "Schweden hat eine innovative Wirtschaft, die für globale Marken, Start-ups und einen starken Fokus auf die Work-Life-Balance bekannt ist. Stockholm, Göteborg und Malmö sind die wichtigsten Jobzentren.",
+      "jobMarket": "Technologie, Gaming, saubere Energie, Life Sciences, Ingenieurwesen und Gesundheitswesen sind Schlüsselbranchen. Softwareentwickler, Ingenieure und Gesundheitspersonal sind gefragt.",
+      "visa": "Fachkräfte aus Nicht-EU-Ländern brauchen in der Regel eine Arbeitserlaubnis auf Grundlage eines Jobangebots, das bestimmte Gehalts- und Beschäftigungsbedingungen erfüllt; manche kommen auch für die Blaue Karte EU infrage. Die Regeln wurden in den letzten Jahren verschärft, also schau auf der offiziellen Website der schwedischen Migrationsbehörde (Migrationsverket) nach.",
+      "salaryNote": "Die Gehälter sind für westeuropäische Verhältnisse moderat, aber Zusatzleistungen, Elternzeit und Urlaub sind großzügig. Die Steuern sind relativ hoch.",
+      "languages": "Schwedisch (Englisch ist weit verbreitet, besonders in der Tech-Branche)",
+      "tips": [
+        "Halte deinen Lebenslauf knapp; ein Foto ist optional.",
+        "Schwedische Arbeitsplätze haben flache Hierarchien, also zeig Teamgeist und Bescheidenheit statt Statusdenken.",
+        "Vermeide Übertreibungen; ausgewogene, ehrliche Antworten schaffen Vertrauen.",
+        "Rechne mit Fragen dazu, wie du zusammenarbeitest und gemeinsam Entscheidungen triffst."
+      ]
+    },
+    "denmark": {
+      "name": "Dänemark",
+      "summary": "Dänemark verbindet eine starke Wirtschaft mit viel Vertrauen, flexiblen Arbeitsmarktregeln und einer hervorragenden Work-Life-Balance. Kopenhagen und Aarhus sind die wichtigsten Beschäftigungszentren.",
+      "jobMarket": "Life Sciences, grüne Energie, Schifffahrt, IT und Ingenieurwesen sind Schlüsselbranchen. Gesundheitsfachkräfte, Ingenieure und IT-Spezialisten sind häufig gefragt.",
+      "visa": "Gängige Wege sind das Pay Limit Scheme für gut bezahlte Jobangebote, die Positivliste für Mangelberufe und Fast-Track-Verfahren für zertifizierte Arbeitgeber. Schau auf der offiziellen Website New to Denmark (SIRI) nach, denn Regelungen und Schwellenwerte ändern sich.",
+      "salaryNote": "Die Gehälter sind hoch, aber auch die Einkommensteuern, die umfangreiche öffentliche Leistungen finanzieren. Die meisten Beschäftigten haben großzügigen bezahlten Urlaub.",
+      "languages": "Dänisch (Englisch ist in internationalen Unternehmen weit verbreitet)",
+      "tips": [
+        "Schreib einen kurzen, persönlichen Lebenslauf und ein zugeschnittenes Motivationsschreiben.",
+        "Die dänische Kultur ist locker und egalitär, also sei entspannt, aber professionell.",
+        "Zeig, dass du selbstständig arbeitest und Verantwortung übernimmst.",
+        "Sei ehrlich, wenn du etwas nicht weißt; Übertreiben kann nach hinten losgehen."
+      ]
+    },
+    "australia": {
+      "name": "Australien",
+      "summary": "Australien hat eine starke Wirtschaft, einen hohen Lebensstandard und eine lange Tradition der Fachkräfteeinwanderung. Sydney, Melbourne, Brisbane und Perth sind wichtige Arbeitsmärkte.",
+      "jobMarket": "Gesundheitswesen, Bauwesen, Bergbau und Rohstoffe, Bildung und Technologie sind große Arbeitgeber. Pflegekräfte, Ingenieure, Handwerker und IT-Fachleute stehen oft auf den Mangelberufslisten.",
+      "visa": "Zu den Optionen gehören vom Arbeitgeber gesponserte befristete und dauerhafte Visa sowie punktebasierte Visa für unabhängige oder von einem Bundesstaat nominierte Fachkräfte. Berufslisten und Anforderungen ändern sich regelmäßig, also schau auf der offiziellen Website des Department of Home Affairs nach.",
+      "salaryNote": "Die Gehälter sind im Allgemeinen hoch, und Arbeitgeber zahlen zusätzlich eine verpflichtende Superannuation (Rentenbeiträge). In Sydney und Melbourne sind die Kosten hoch, vor allem fürs Wohnen.",
+      "languages": "Englisch",
+      "tips": [
+        "Ein Lebenslauf mit zwei bis drei Seiten ist üblich; ein Foto brauchst du nicht.",
+        "Schlag einen freundlichen, bodenständigen Ton an; Arroganz fällt schnell auf.",
+        "Bereite verhaltensbasierte Beispiele nach der STAR-Methode vor.",
+        "Zeig, dass du lokale Standards oder Zulassungen kennst, falls dein Fachgebiet sie verlangt."
+      ]
+    },
+    "united-arab-emirates": {
+      "name": "Vereinigte Arabische Emirate",
+      "summary": "Die Vereinigten Arabischen Emirate sind ein regionales Wirtschaftszentrum mit vielen internationalen Arbeitskräften. Dubai und Abu Dhabi ziehen Fachleute aus der ganzen Welt an.",
+      "jobMarket": "Finanzen, Immobilien, Bauwesen, Tourismus und Gastgewerbe, Luftfahrt, Logistik und Technologie sind wichtige Branchen. Die Nachfrage wächst in den Bereichen KI, Fintech und erneuerbare Energien.",
+      "visa": "Die meisten Fachkräfte arbeiten mit einer vom Arbeitgeber gesponserten Arbeitserlaubnis und einem Aufenthaltsvisum; außerdem gibt es das Golden Visa und das Green Visa für bestimmte Fachkräfte oder Gutverdienende. Schau auf offiziellen Regierungsportalen wie u.ae und bei den zuständigen Behörden des jeweiligen Emirats nach, denn die Regeln ändern sich.",
+      "salaryNote": "Bei vielen Jobs fällt keine Einkommensteuer an, und Pakete können Wohn- oder Transportzuschüsse enthalten. Vergleiche immer das Gesamtpaket, nicht nur das Grundgehalt.",
+      "languages": "Arabisch und Englisch (Englisch ist die wichtigste Geschäftssprache)",
+      "tips": [
+        "Ein professionelles Foto im Lebenslauf ist üblich und akzeptiert.",
+        "Gib deine Staatsangehörigkeit und deinen Visastatus an, da Arbeitgeber oft danach fragen.",
+        "Kleide dich im Interview formell und zurückhaltend.",
+        "Bau eine Beziehung auf; persönliche Kontakte und respektvolle Umgangsformen zählen sehr viel."
+      ]
+    },
+    "japan": {
+      "name": "Japan",
+      "summary": "Japan ist eine bedeutende hochentwickelte Volkswirtschaft mit Weltmarktführern in der Automobil-, Elektronik- und Fertigungsindustrie. Tokio, Osaka und Nagoya sind die größten Arbeitsmärkte.",
+      "jobMarket": "IT, Ingenieurwesen, Fertigung, Gesundheitswesen und Gastgewerbe leiden wegen der alternden Bevölkerung unter Arbeitskräftemangel. Softwareentwickler und Fachleute mit Japanischkenntnissen sind besonders gefragt.",
+      "visa": "Gängige Wege sind das Visum „Engineer/Specialist in Humanities/International Services“, das punktebasierte Visum für Highly Skilled Professionals und die Specified-Skilled-Worker-Visa für bestimmte Branchen. Schau auf der offiziellen Website der Immigration Services Agency of Japan nach, denn die Anforderungen ändern sich.",
+      "salaryNote": "Die Grundgehälter können im Vergleich zu den USA bescheiden sein, aber Boni und Zulagen sind üblich. In vielen traditionellen Unternehmen beeinflusst die Betriebszugehörigkeit weiterhin die Bezahlung.",
+      "languages": "Japanisch (reine Englisch-Stellen gibt es vor allem in der Tech-Branche und bei ausländischen Unternehmen)",
+      "tips": [
+        "Traditionelle Unternehmen erwarten eventuell einen Lebenslauf im Standardformat (Rirekisho) mit Foto.",
+        "Höflichkeit, Bescheidenheit und formelle Begrüßungen sind sehr wichtig.",
+        "Komm früh und kleide dich zurückhaltend, meist in einem dunklen Anzug.",
+        "Zeig langfristiges Engagement und Teamorientierung statt individuellem Ehrgeiz."
+      ]
+    },
+    "singapore": {
+      "name": "Singapur",
+      "summary": "Singapur ist ein führendes asiatisches Zentrum für Finanzen, Handel und Technologie mit sehr internationalen Arbeitskräften. Viele multinationale Konzerne haben dort ihren Asien-Pazifik-Hauptsitz.",
+      "jobMarket": "Finanzen, Technologie, Logistik, biomedizinische Wissenschaften und professionelle Dienstleistungen sind Schlüsselbranchen. Fachleute für Software, Daten, Cybersicherheit und Finanzen sind sehr gefragt.",
+      "visa": "Fachkräfte brauchen in der Regel einen Employment Pass, bei dem das Gehalt und ein Punktesystem berücksichtigt werden, während mittelqualifizierte Arbeitskräfte den S Pass nutzen können. Die Kriterien werden regelmäßig aktualisiert, also schau auf der offiziellen Website des Ministry of Manpower (MOM) nach.",
+      "salaryNote": "Die Gehälter in Finanzen und Tech sind konkurrenzfähig, und die Einkommensteuer ist relativ niedrig. Wohnen und ein eigenes Auto sind teuer.",
+      "languages": "Englisch (die wichtigste Geschäftssprache) sowie Mandarin, Malaiisch und Tamil",
+      "tips": [
+        "Halte deinen Lebenslauf knapp und ergebnisorientiert; ein Foto ist optional.",
+        "Sei klar in Bezug auf deine Kündigungsfrist und den Status deiner Arbeitserlaubnis.",
+        "Zeig, dass du in einem vielfältigen Team kulturübergreifend arbeiten kannst.",
+        "Sei darauf vorbereitet, dein Wunschgehalt direkt zu besprechen, denn danach wird oft früh gefragt."
+      ]
+    }
+  },
+  "tipCategories": {
+    "before": "Vor dem Interview",
+    "during": "Während des Interviews",
+    "tough": "Schwierige Fragen",
+    "remote": "Remote-Interviews",
+    "after": "Nach dem Interview"
+  },
+  "tips": {
+    "before-reverse-engineer-posting": { "title": "Mach aus der Stellenanzeige eine Checkliste", "body": "Markiere jede Fähigkeit und Aufgabe in der Anzeige und schreib zu jeder ein Beispiel aus deiner Erfahrung. Lücken, die du jetzt entdeckst, sind Fragen, auf die du dich vorbereiten kannst, statt von ihnen überrascht zu werden." },
+    "before-story-bank": { "title": "Leg dir einen Vorrat aus fünf Geschichten an", "body": "Bereite fünf kurze Geschichten vor: über einen Erfolg, einen Misserfolg, einen Konflikt, eine Situation, in der du geführt hast, und eine, in der du schnell gelernt hast. Die meisten verhaltensbasierten Fragen kannst du beantworten, indem du eine davon anpasst." },
+    "before-news-check": { "title": "Check die neuesten Unternehmensnews", "body": "Such am Vortag nach aktuellen Nachrichten, Produkteinführungen oder Finanzierungsrunden des Unternehmens. Wenn du etwas Aktuelles erwähnst, zeigt das echtes Interesse und liefert dir eine natürliche Frage." },
+    "before-map-interviewers": { "title": "Informier dich über deine Interviewer", "body": "Wenn du weißt, wer das Interview führt, schau dir die beruflichen Profile an, um Rolle und Hintergrund zu verstehen. So kannst du deine Beispiele darauf zuschneiden, was jeder Person wichtig ist." },
+    "before-practice-out-loud": { "title": "Übe deine Antworten laut", "body": "Im Kopf klingt alles flüssig, aber erst beim Sprechen merkst du, wo du abschweifst oder hängen bleibst. Sag deine wichtigsten Antworten ein paarmal laut und stopp am besten die Zeit auf ein bis zwei Minuten." },
+    "before-prepare-kit": { "title": "Pack deine Interview-Tasche", "body": "Leg ausgedruckte Exemplare deines Lebenslaufs, ein Notizbuch, einen Stift, deinen Ausweis und die Kontaktdaten der Ansprechperson bereit. Wenn am Vorabend alles fertig ist, fällt der Stress in letzter Minute weg." },
+    "before-plan-route": { "title": "Plan deine Anfahrt mit Puffer", "body": "Prüf die Fahrzeit zur gleichen Tageszeit und plane mindestens 20 Minuten Puffer ein. Sei früh in der Nähe und geh 5 bis 10 Minuten vor Beginn hinein." },
+    "before-thirty-sixty-ninety": { "title": "Skizziere einen 30-60-90-Tage-Plan", "body": "Notier dir ein paar Stichpunkte dazu, was du in deinen ersten drei Monaten lernen, liefern und verbessern würdest. Selbst wenn niemand fragt, schärft das deine Antworten darauf, wie du Mehrwert schaffen würdest." },
+    "during-first-ninety-seconds": { "title": "Nutze die ersten 90 Sekunden", "body": "Der erste Eindruck entsteht schnell, also begrüße alle herzlich, lächle und sprich sie mit Namen an. Ein ruhiger, freundlicher Start macht den Rest des Gesprächs für beide Seiten leichter." },
+    "during-pause-before-answering": { "title": "Mach eine Pause, bevor du antwortest", "body": "Zwei oder drei Sekunden Bedenkzeit wirken selbstbewusst, nicht langsam. So kannst du das beste Beispiel wählen und musst die Stille nicht mit Füllwörtern füllen." },
+    "during-numbers-in-answers": { "title": "Bring Zahlen in deine Antworten", "body": "Beziffere deine Wirkung, wann immer es geht: eingesparte Zeit, gesteigerter Umsatz, weniger Fehler oder betreute Kunden. Konkrete Zahlen machen deine Geschichten glaubwürdig und einprägsam." },
+    "during-clarify-question": { "title": "Kläre unklare Fragen", "body": "Wenn eine Frage vage ist, stell eine kurze Rückfrage oder fasse zusammen, was du verstanden hast. Die richtige Frage zu beantworten ist besser, als schnell zu antworten." },
+    "during-watch-length": { "title": "Halte Antworten bei etwa zwei Minuten", "body": "Lange Antworten verlieren die Aufmerksamkeit, kurze wirken dünn. Ziel auf ein bis zwei Minuten und frag dann zum Beispiel nach, ob man dazu mehr Details hören möchte." },
+    "during-take-notes": { "title": "Mach dir kurze Notizen", "body": "Wenn du wichtige Punkte notierst, die die Interviewerin oder der Interviewer erwähnt, zeigt das Engagement. Du kannst dich in deinen Fragen und in deiner Dankesnachricht darauf beziehen." },
+    "during-mirror-energy": { "title": "Pass dich dem Stil des Gegenübers an", "body": "Achte darauf, ob dein Gegenüber formell oder locker, schnell oder bedächtig ist, und pass deinen Ton leicht an. Wenn du dich dem Tempo anpasst, entsteht eine Verbindung, ohne dass du deine Persönlichkeit verlierst." },
+    "during-close-strong": { "title": "Schließ mit einem klaren Abschluss", "body": "Fass vor dem Gehen kurz zusammen, warum du zur Stelle passt, und bestätige dein Interesse. Frag dann nach den nächsten Schritten und dem voraussichtlichen Zeitplan." },
+    "tough-gap-in-cv": { "title": "Eine Lücke im Lebenslauf erklären", "body": "Nenn den Grund kurz und ehrlich, ob Pflege von Angehörigen, Gesundheit, Weiterbildung oder Jobsuche. Geh dann schnell dazu über, was du getan hast, um am Ball zu bleiben, und warum du jetzt bereit bist." },
+    "tough-why-leaving": { "title": "Warum willst du deinen Job verlassen?", "body": "Konzentrier dich darauf, wohin du willst, etwa Weiterentwicklung, neue Herausforderungen oder eine bessere Passung, statt darauf, wovor du fliehst. Kritisiere nie deinen aktuellen oder früheren Arbeitgeber." },
+    "tough-failure-story": { "title": "Erzähl von einem Misserfolg", "body": "Wähl einen echten, aber verkraftbaren Fehler, steh ohne Ausreden zu deinem Anteil und verwende den Großteil der Antwort darauf, was du gelernt hast. Schließ damit, wie du diese Lektion später angewendet hast." },
+    "tough-overqualified": { "title": "Du wirkst überqualifiziert", "body": "Geh auf die unausgesprochene Sorge ein, meist dass du dich langweilst oder schnell wieder gehst. Erklär, warum diese Stelle gerade jetzt zu deinen Zielen passt und wie deine Erfahrung dem Team vom ersten Tag an hilft." },
+    "tough-dont-know-answer": { "title": "Wenn du die Antwort nicht weißt", "body": "Bluffe nicht. Sag, was du weißt, erklär, wie du den Rest herausfinden würdest, und denk das Problem wenn möglich laut durch, damit man sieht, wie du denkst." },
+    "tough-other-offers": { "title": "Hast du noch andere Bewerbungsgespräche?", "body": "Du kannst ruhig Ja sagen, ohne Unternehmen oder Details zu nennen. Betone, dass diese Stelle sehr gut passt, und teile zeitliche Einschränkungen ehrlich mit." },
+    "tough-illegal-questions": { "title": "Umgang mit unzulässigen Fragen", "body": "In vielen Ländern sind Fragen zu Alter, Religion, Familienstand oder Familienplanung nicht erlaubt. Du kannst höflich zu deinen Qualifikationen zurücklenken, etwa indem du sagst, dass nichts davon deine Fähigkeit beeinträchtigt, den Job zu machen." },
+    "tough-where-in-five-years": { "title": "Wo siehst du dich in fünf Jahren?", "body": "Zeig Ehrgeiz, der zu dem Weg passt, den diese Stelle bieten kann, etwa tiefere Expertise oder mehr Verantwortung. Nenn keine völlig andere Karriere und nicht den Job deines Gegenübers." },
+    "remote-test-tech": { "title": "Teste die Plattform vorher", "body": "Installiere die Video-App, aktualisiere sie und mach am Vortag einen Testanruf mit einer Freundin oder einem Freund. Prüf, ob Kamera, Mikrofon und Bildschirmfreigabe auf dem Gerät funktionieren, das du nutzen wirst." },
+    "remote-camera-eye-level": { "title": "Bring die Kamera auf Augenhöhe", "body": "Stell deinen Laptop auf Bücher oder einen Ständer, sodass die Kamera auf Höhe deiner Augen ist. Schau bei wichtigen Punkten in die Linse, damit es sich für dein Gegenüber wie Blickkontakt anfühlt." },
+    "remote-lighting-audio": { "title": "Sorg für gutes Licht und guten Ton", "body": "Setz dich mit dem Gesicht zu einem Fenster oder einer Lampe, damit dein Gesicht gleichmäßig beleuchtet ist, und vermeide helles Licht hinter dir. Kabelgebundene Kopfhörer mit Mikrofon klingen meist klarer als die Lautsprecher des Laptops." },
+    "remote-clean-background": { "title": "Wähl einen ruhigen Hintergrund", "body": "Setz dich vor einen aufgeräumten, neutralen Hintergrund und entferne Ablenkungen aus dem Bild. Sag allen zu Hause, wann dein Interview ist, und schalte Benachrichtigungen auf allen Geräten stumm." },
+    "remote-notes-off-screen": { "title": "Nutze Notizen klug", "body": "Ein paar Stichworte auf einem Klebezettel neben der Kamera können helfen, aber lies keine ganzen Antworten ab. Interviewer merken es, wenn deine Augen ständig über den Bildschirm wandern." },
+    "remote-lag-etiquette": { "title": "Rechne mit Tonverzögerung", "body": "Warte kurz, nachdem dein Gegenüber fertig ist, bevor du sprichst, damit ihr euch nicht ins Wort fallt. Wenn die Verbindung abbricht, wähl dich ruhig wieder ein und fass kurz zusammen, wo du warst." },
+    "remote-backup-plan": { "title": "Hab einen Plan B", "body": "Halte dein Handy geladen und die Kontaktdaten der Ansprechperson griffbereit, falls dein Internet ausfällt. Ein einsatzbereiter mobiler Hotspot kann das Interview retten." },
+    "remote-one-way-video": { "title": "Aufgezeichnete Video-Interviews", "body": "Bei aufgezeichneten Interviews ohne Live-Gegenüber behandle die Kamera als dein Publikum und lächle zu Beginn. Nutze Übungsfragen, um den Bildausschnitt zu prüfen, und antworte dann mit derselben Energie wie in einem Live-Gespräch." },
+    "after-debrief-notes": { "title": "Schreib sofort eine Nachbetrachtung", "body": "Notier dir innerhalb einer Stunde die gestellten Fragen, deine Antworten, Namen und alles, was du verbessern würdest. Diese Notizen helfen dir bei Follow-ups und deinen nächsten Interviews." },
+    "after-personal-thank-you": { "title": "Mach deine Dankesnachricht persönlich", "body": "Schick innerhalb von 24 Stunden eine kurze Dankes-E-Mail, in der du ein konkretes Thema aus dem Gespräch aufgreifst. Ein persönliches Detail macht sie einprägsam statt austauschbar." },
+    "after-follow-up-timing": { "title": "Hak zum richtigen Zeitpunkt nach", "body": "Wenn man dir einen Zeitrahmen genannt hat, warte, bis er abgelaufen ist, bevor du nachhakst. Andernfalls ist eine höfliche Nachfrage nach etwa einer Woche angemessen." },
+    "after-connect-linkedin": { "title": "Vernetz dich professionell", "body": "Überleg, den Personen, die du kennengelernt hast, eine Kontaktanfrage mit einer kurzen Nachricht zu schicken. Bleib professionell und nutze sie nicht, um nach der Entscheidung zu fragen." },
+    "after-handle-silence": { "title": "Bleib bei Funkstille gelassen", "body": "Einstellungsprozesse dauern oft länger als geplant, aus Gründen, die nichts mit dir zu tun haben. Konzentrier dich nach ein oder zwei höflichen Nachfragen auf andere Chancen." },
+    "after-ask-feedback": { "title": "Bitte nach einer Absage um Feedback", "body": "Antworte freundlich und frag, ob man dir ein oder zwei Punkte nennen kann, die du verbessern könntest. Nicht alle antworten, aber hilfreiches Feedback ist wertvoll, und eine positive Antwort hält die Tür offen." },
+    "after-compare-offers": { "title": "Vergleiche Angebote im Gesamtbild", "body": "Schau über das Grundgehalt hinaus auf Bonus, Zusatzleistungen, Urlaub, Flexibilität, Entwicklungsmöglichkeiten und Arbeitsweg. Wenn du alles nebeneinander in eine Tabelle schreibst, wird die richtige Wahl klarer." },
+    "after-keep-pipeline": { "title": "Halte deine Bewerbungen am Laufen", "body": "Leg deine Jobsuche nicht auf Eis, während du auf die Entscheidung eines Unternehmens wartest. Wenn du dich weiter bewirbst, bleiben deine Optionen offen und der Druck auf jedes einzelne Interview sinkt." }
+  }
+}

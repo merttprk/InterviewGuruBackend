@@ -1,0 +1,226 @@
+[
+  {
+    "id": "united-states",
+    "name": "Amerika Birleşik Devletleri",
+    "flag": "🇺🇸",
+    "summary": "Amerika Birleşik Devletleri dünyanın en büyük ekonomisi ve dinamik, oldukça rekabetçi bir iş piyasasına sahip. Maaşlar genellikle yüksek, ancak sağlık sigortası ve ücretli izin gibi yan haklar işverene göre büyük farklılık gösteriyor.",
+    "jobMarket": "Teknoloji, sağlık, finans ve profesyonel hizmetler sürekli olarak büyük ölçekte işe alım yapıyor. Mühendislik, veri, siber güvenlik ve hemşirelik rollerine pek çok eyalette talep güçlü olmaya devam ediyor.",
+    "visa": "Yaygın yollar arasında uzmanlık gerektiren meslekler için H-1B vizesi, şirket içi transferler için L-1, olağanüstü yetenek için O-1 ve istihdama dayalı green card'lar var. Çoğu yol işveren sponsorluğu gerektiriyor ve bazılarında kura uygulanıyor; kurallar sık değiştiği için mutlaka resmi USCIS ve Dışişleri Bakanlığı (State Department) web sitelerini kontrol et.",
+    "salaryNote": "Maaşlar şehre ve eyalete göre çok değişiyor; en yüksek ücretleri kıyı bölgelerindeki teknoloji merkezleri ödüyor. Teklifleri karşılaştırırken sağlık giderlerini, vergileri ve prim ya da hisse haklarını mutlaka hesaba kat.",
+    "languages": "İngilizce",
+    "tips": [
+      "Özgeçmişini bir iki sayfayla sınırla; fotoğraf, yaş ve medeni durum ekleme.",
+      "Başarılarını sayılar, yüzdeler ve sonuçlarla somutlaştır.",
+      "Davranışsal sorular bekle ve bunları STAR yöntemine uygun, net hikâyelerle yanıtla.",
+      "Kendi katkılarından özgüvenle bahsetmen beklenir; bu övünmek olarak görülmez."
+    ]
+  },
+  {
+    "id": "canada",
+    "name": "Kanada",
+    "flag": "🇨🇦",
+    "summary": "Kanada istikrarlı ve çeşitli bir ekonomiye sahip ve nitelikli göçmenleri aktif olarak memnuniyetle karşılıyor. Başlıca merkezler arasında Toronto, Vancouver, Montreal ve Calgary var.",
+    "jobMarket": "Sağlık, teknoloji, nitelikli zanaatlar, mühendislik ve finans en çok işe alım yapan sektörler. Pek çok eyalette hemşirelik, inşaat ve BT rollerinde eleman açığı bildiriliyor.",
+    "visa": "Nitelikli çalışanlar genellikle Express Entry veya eyalet aday programları (Provincial Nominee Programs) üzerinden daimi oturum için başvuruyor; işverene özel çalışma izinleri ise iş piyasası değerlendirmesi gerektirebiliyor. Programlar ve seçim kriterleri sık değiştiği için resmi Immigration, Refugees and Citizenship Canada (IRCC) web sitesini kontrol et.",
+    "salaryNote": "Maaşlar genellikle ABD'den düşük ama kamu sağlık sistemiyle birlikte geliyor. Ücretler ve yaşam maliyeti eyaletler ve şehirler arasında ciddi farklılık gösteriyor.",
+    "languages": "İngilizce ve Fransızca (Quebec'in büyük bölümünde Fransızca şart)",
+    "tips": [
+      "Fotoğraf, doğum tarihi ve medeni durum içermeyen bir iki sayfalık özgeçmiş kullan.",
+      "Kanadalı işverenler ilgili yerel ya da aktarılabilir deneyime değer verir; bunu net şekilde öne çıkar.",
+      "Nezaket ve iş birliğine açık bir üslup önemlidir; aşırı agresif kendini tanıtmaktan kaçın.",
+      "Referanslar sıkça kontrol edildiği için onları önceden hazırla."
+    ]
+  },
+  {
+    "id": "united-kingdom",
+    "name": "Birleşik Krallık",
+    "flag": "🇬🇧",
+    "summary": "Birleşik Krallık, hizmet sektörü ağırlıklı büyük bir ekonomiye sahip ve Londra finans ile teknolojinin küresel merkezlerinden biri. Manchester, Edinburgh ve Bristol gibi şehirlerde de iş piyasası büyüyor.",
+    "jobMarket": "Finans, teknoloji, sağlık (özellikle NHS, yani kamu sağlık hizmeti), mühendislik ve yaratıcı endüstriler başlıca işverenler. Sağlık ve sosyal bakım, yazılım ve veri rolleri eleman açığı listelerinde sıkça yer alıyor.",
+    "visa": "Ana yol, maaş ve beceri eşiklerini karşılayan lisanslı bir sponsordan iş teklifi gerektiren Skilled Worker vizesi. Bunun yanında Health and Care Worker, Global Talent ve Graduate yolları da var; eşikler düzenli olarak güncellendiği için güncel şartları GOV.UK'den kontrol et.",
+    "salaryNote": "Londra'daki maaşlar belirgin şekilde daha yüksek ama yaşam maliyeti de öyle. Maaşlar genellikle gelir vergisi ve National Insurance (sosyal sigorta primi) kesilmeden önceki yıllık brüt tutar olarak belirtiliyor.",
+    "languages": "İngilizce",
+    "tips": [
+      "CV'ni yaklaşık iki sayfada tut ve fotoğraf ekleme.",
+      "Pek çok mülakat yetkinlik bazlı ilerlediği için bu formata uygun örnekler kullan.",
+      "Sert bir satış yaklaşımı yerine mütevazı ve ölçülü bir üslup daha iyi sonuç verir.",
+      "Başvuru izin veriyorsa kısa ve pozisyona özel bir ön yazı ekle."
+    ]
+  },
+  {
+    "id": "ireland",
+    "name": "İrlanda",
+    "flag": "🇮🇪",
+    "summary": "İrlanda, pek çok küresel teknoloji ve ilaç şirketinin Avrupa merkezine ev sahipliği yapan İngilizce konuşulan bir AB ülkesi. Fırsatların çoğu Dublin, Cork ve Galway'de yoğunlaşıyor.",
+    "jobMarket": "Teknoloji, ilaç, tıbbi cihazlar, finans ve uçak kiralama başlıca sektörler. Yazılım mühendisliği, veri, sağlık ve inşaat rollerine istikrarlı bir talep var.",
+    "visa": "AB dışından gelen profesyoneller, talep gören meslekler için genellikle Critical Skills Employment Permit'i, diğer roller için ise General Employment Permit'i kullanıyor. Uygunluk listeleri ve maaş eşikleri düzenli olarak gözden geçirildiği için resmi Department of Enterprise ve Irish Immigration Service web sitelerini kontrol et.",
+    "salaryNote": "Teknoloji ve ilaç sektöründeki maaşlar Avrupa standartlarına göre rekabetçi. Dublin'de konut maliyetleri yüksek olduğundan teklifleri karşılaştırırken kirayı dikkatle hesaba kat.",
+    "languages": "İngilizce (İrlandaca resmî dil olsa da iş hayatında nadiren gerekiyor)",
+    "tips": [
+      "Fotoğrafsız, öz ve iki sayfalık bir CV kullan.",
+      "Mülakatın başında samimi bir sohbet yaygındır; rahatla ve sohbete katıl.",
+      "Sadece küresel markaya değil, şirketin İrlanda'daki çalışmalarına da gerçek ilgi göster.",
+      "Yetkinlik bazlı sorular yaygın olduğu için yapılandırılmış örnekler hazırla."
+    ]
+  },
+  {
+    "id": "germany",
+    "name": "Almanya",
+    "flag": "🇩🇪",
+    "summary": "Almanya, mühendisliği, üretimi ve Mittelstand denen güçlü orta ölçekli şirketleriyle bilinen Avrupa'nın en büyük ekonomisi. Berlin, Münih, Hamburg ve Frankfurt başlıca iş merkezleri.",
+    "jobMarket": "Otomotiv, makine ve elektrik mühendisliği, BT, sağlık ve nitelikli zanaatlar yetenek açığıyla karşı karşıya. Hemşirelik, yazılım geliştirme ve mühendislik rolleri özellikle aranıyor.",
+    "visa": "Başlıca yollar, maaş eşiğini karşılayan nitelikli profesyoneller için EU Blue Card, nitelikli çalışan vizesi ve iş arayanlar için Opportunity Card (Chancenkarte). Diplomaların tanınması ve maaş seviyeleri gibi şartlar değiştiği için resmi Make it in Germany portalını ve Almanya'nın yurt dışı temsilciliklerini kontrol et.",
+    "salaryNote": "Maaşlar genellikle yıllık brüt olarak belirtiliyor; vergiler ve sosyal güvenlik kesintileri ciddi bir yer tutuyor. Ücretler güneyde ve büyük şehirlerde daha yüksek olma eğiliminde.",
+    "languages": "Almanca (teknoloji ve girişimlerde İngilizce yaygın, ama Almanca seçeneklerini büyük ölçüde genişletir)",
+    "tips": [
+      "Tablo biçiminde bir CV (Lebenslauf) standarttır; profesyonel fotoğraf isteğe bağlı ama hâlâ yaygın.",
+      "Varsa sertifikalarını ve iş referanslarını (Arbeitszeugnisse) başvuruna ekle.",
+      "Dakik ve titiz ol; mülakatlar genellikle yapılandırılmış ve olgulara odaklıdır.",
+      "Niteliklerin ve her roldeki görevlerin hakkında ayrıntılı sorular bekle."
+    ]
+  },
+  {
+    "id": "netherlands",
+    "name": "Hollanda",
+    "flag": "🇳🇱",
+    "summary": "Hollanda, İngilizce konuşanların oranının yüksek olduğu açık ve uluslararası bir ekonomiye sahip. Amsterdam, Rotterdam, Lahey ve Eindhoven pek çok çok uluslu işverene ev sahipliği yapıyor.",
+    "jobMarket": "Teknoloji, lojistik, tarım-gıda, yaşam bilimleri, ileri teknoloji üretimi ve finans güçlü sektörler. Yazılım, veri, mühendislik ve sağlık rollerine talep var.",
+    "visa": "Pek çok profesyonel, göç idaresi tarafından tanınmış bir işveren ve asgari maaş şartı arayan Highly Skilled Migrant programıyla ya da EU Blue Card ile geliyor. Kurallar ve eşikler düzenli olarak güncellendiği için resmi IND web sitesini kontrol et.",
+    "salaryNote": "Maaşlar genellikle yıllık brüt olarak belirtiliyor ve çoğu zaman tatil ödeneği içeriyor. Randstad bölgesinde konut maliyetleri yüksek olabiliyor.",
+    "languages": "Felemenkçe ve İngilizce (uluslararası şirketlerde İngilizce yaygın olarak kullanılıyor)",
+    "tips": [
+      "CV'ni kısa ve olgulara dayalı tut; fotoğraf isteğe bağlı.",
+      "Hollandalılar doğrudan iletişim kurar; net ve dürüst yanıtlar ver.",
+      "Bağımsız çalışabildiğini ve uzlaşmaya dayalı kararlara katkı sunabildiğini göster.",
+      "Başarılarını abartma; mütevazı ama somut örnekler iyi karşılanır."
+    ]
+  },
+  {
+    "id": "switzerland",
+    "name": "İsviçre",
+    "flag": "🇨🇭",
+    "summary": "İsviçre, dünyanın en yüksek maaşlarından bazılarını, istikrarlı bir ekonomiyi ve çok yüksek bir yaşam kalitesini sunuyor. Zürih, Cenevre, Basel ve Lozan başlıca iş merkezleri.",
+    "jobMarket": "Bankacılık, sigortacılık, ilaç, hassas mühendislik, BT ve uluslararası kuruluşlar başlıca işverenler. Teknoloji, yaşam bilimleri ve finans uzmanları özellikle aranıyor.",
+    "visa": "AB/EFTA vatandaşları serbest dolaşımdan yararlanıyor; AB dışı vatandaşlar ise yıllık kotalarla karşılaşıyor ve genellikle yüksek nitelikli olmaları, işverenin de uygun bir yerel aday bulunamadığını göstermesi gerekiyor. Güncel kurallar için resmi State Secretariat for Migration (SEM) ve kanton makamlarının web sitelerini kontrol et.",
+    "salaryNote": "Maaşlar çok yüksek, ama kiralar, sağlık sigortası ve günlük giderler de öyle. Ücret seviyeleri kantonlar ve dil bölgeleri arasında da farklılık gösteriyor.",
+    "languages": "Bölgeye göre Almanca, Fransızca ve İtalyanca; çok uluslu şirketlerde İngilizce yaygın",
+    "tips": [
+      "Eksiksiz bir başvuru genellikle fotoğraflı CV, sertifikalar ve referans mektupları içerir.",
+      "Titizlik ve güvenilirlik değerlidir; belgelerindeki her ayrıntıyı iki kez kontrol et.",
+      "Dakiklik şarttır; birkaç dakika erken var.",
+      "Bölgenin yerel dilini öğrenmek büyük bir avantajdır."
+    ]
+  },
+  {
+    "id": "luxembourg",
+    "name": "Lüksemburg",
+    "flag": "🇱🇺",
+    "summary": "Lüksemburg, Avrupa'nın en yüksek ortalama gelirlerinden birine sahip küçük ama zengin bir AB ülkesi. İş gücünün büyük bir kısmı her gün komşu Fransa, Belçika ve Almanya'dan gidip geliyor.",
+    "jobMarket": "Finansal hizmetler, fon yönetimi, bankacılık, AB kurumları, BT ve lojistik öne çıkıyor. Uyum (compliance), muhasebe, BT alanındaki ve birden fazla dil bilen profesyonellere talep yüksek.",
+    "visa": "AB vatandaşları serbestçe çalışabiliyor; AB dışından gelen profesyoneller ise genellikle EU Blue Card'ı ya da bir iş teklifine bağlı ücretli çalışan oturma iznini kullanıyor. Şartlar değiştiği için resmi Guichet.lu portalını ve göç idaresini kontrol et.",
+    "salaryNote": "Maaşlar, yüksek yasal asgari ücretin de desteğiyle AB'nin en yüksekleri arasında. Konut pahalı olduğundan pek çok kişi sınırın öte tarafında yaşıyor.",
+    "languages": "Lüksemburgca, Fransızca ve Almanca; finans sektöründe İngilizce yaygın",
+    "tips": [
+      "Çok dillilik büyük bir avantaj olduğu için konuştuğun tüm dilleri öne çıkar.",
+      "Uygunsa CV'ni finans ya da AB bağlamına göre uyarla; tarihleri ve sorumlulukları net yaz.",
+      "Mülakat sırasında dil değişebilir; birden fazla dilde yanıt vermeye hazır ol.",
+      "Finans ve kurumsal rollerde resmî ve özenli bir sunum beklenir."
+    ]
+  },
+  {
+    "id": "sweden",
+    "name": "İsveç",
+    "flag": "🇸🇪",
+    "summary": "İsveç, küresel markaları, girişimleri ve iş-yaşam dengesine verdiği önemle bilinen yenilikçi bir ekonomiye sahip. Stockholm, Göteborg ve Malmö başlıca iş merkezleri.",
+    "jobMarket": "Teknoloji, oyun, temiz enerji, yaşam bilimleri, mühendislik ve sağlık kilit sektörler. Yazılım geliştiricilere, mühendislere ve sağlık personeline talep var.",
+    "visa": "AB dışından gelen profesyoneller genellikle maaş ve çalışma koşulları şartlarını karşılayan bir iş teklifine dayalı çalışma iznine ihtiyaç duyuyor; bazıları EU Blue Card için de uygun olabiliyor. Kurallar son yıllarda sıkılaştırıldığı için resmi İsveç Göç Kurumu (Migrationsverket) web sitesini kontrol et.",
+    "salaryNote": "Maaşlar Batı Avrupa standartlarına göre orta düzeyde, ama yan haklar, ebeveyn izni ve tatiller cömert. Vergiler görece yüksek.",
+    "languages": "İsveççe (özellikle teknolojide İngilizce yaygın olarak konuşuluyor)",
+    "tips": [
+      "CV'ni öz tut; fotoğraf isteğe bağlı.",
+      "İsveç'te iş yerleri hiyerarşik değildir; hiyerarşi yerine takım çalışması ve alçakgönüllülük göster.",
+      "Abartıdan kaçın; dengeli ve dürüst yanıtlar güven oluşturur.",
+      "Nasıl iş birliği yaptığın ve birlikte nasıl karar aldığınla ilgili sorular bekle."
+    ]
+  },
+  {
+    "id": "denmark",
+    "name": "Danimarka",
+    "flag": "🇩🇰",
+    "summary": "Danimarka güçlü bir ekonomiyi yüksek güven ortamı, esnek çalışma kuralları ve mükemmel bir iş-yaşam dengesiyle birleştiriyor. Kopenhag ve Aarhus başlıca istihdam merkezleri.",
+    "jobMarket": "Yaşam bilimleri, yeşil enerji, denizcilik, BT ve mühendislik kilit sektörler. Sağlık profesyonelleri, mühendisler ve BT uzmanları sıkça aranıyor.",
+    "visa": "Yaygın yollar arasında yüksek maaşlı iş teklifleri için Pay Limit Scheme, eleman açığı olan meslekler için Positive List ve sertifikalı işverenler için hızlı başvuru programları var. Programlar ve eşikler değiştiği için resmi New to Denmark (SIRI) web sitesini kontrol et.",
+    "salaryNote": "Maaşlar yüksek, ama kapsamlı kamu hizmetlerini finanse eden gelir vergileri de öyle. Çalışanların çoğu cömert ücretli tatil hakkına sahip.",
+    "languages": "Danca (uluslararası şirketlerde İngilizce yaygın olarak kullanılıyor)",
+    "tips": [
+      "Kısa ve kişisel bir CV ile pozisyona özel bir motivasyon mektubu yaz.",
+      "Danimarka kültürü resmiyetten uzak ve eşitlikçidir; rahat ama profesyonel ol.",
+      "Bağımsız çalışabildiğini ve sorumluluk aldığını göster.",
+      "Bilmediğin konularda dürüst ol; kendini abartmak ters tepebilir."
+    ]
+  },
+  {
+    "id": "australia",
+    "name": "Avustralya",
+    "flag": "🇦🇺",
+    "summary": "Avustralya güçlü bir ekonomiye, yüksek yaşam standardına ve nitelikli göçte köklü bir geçmişe sahip. Sidney, Melbourne, Brisbane ve Perth başlıca iş piyasaları.",
+    "jobMarket": "Sağlık, inşaat, madencilik ve doğal kaynaklar, eğitim ve teknoloji başlıca işverenler. Hemşireler, mühendisler, zanaatkârlar ve BT profesyonelleri sıkça beceri açığı listelerinde yer alıyor.",
+    "visa": "Seçenekler arasında işveren sponsorluğunda geçici ve daimi vizeler ile puana dayalı bağımsız ya da eyalet adaylığıyla verilen nitelikli çalışan vizeleri var. Meslek listeleri ve şartlar düzenli olarak değiştiği için resmi Department of Home Affairs web sitesini kontrol et.",
+    "salaryNote": "Maaşlar genellikle yüksek ve işverenler bunun üzerine zorunlu superannuation (emeklilik katkısı) ödüyor. Sidney ve Melbourne'de maliyetler, özellikle konut, yüksek.",
+    "languages": "İngilizce",
+    "tips": [
+      "İki üç sayfalık bir özgeçmiş yaygındır; fotoğrafa gerek yok.",
+      "Samimi ve mütevazı bir üslup kullan; kibir hemen fark edilir.",
+      "STAR yöntemiyle davranışsal örnekler hazırla.",
+      "Alanın gerektiriyorsa yerel standartları ya da lisans şartlarını bildiğini göster."
+    ]
+  },
+  {
+    "id": "united-arab-emirates",
+    "name": "Birleşik Arap Emirlikleri",
+    "flag": "🇦🇪",
+    "summary": "Birleşik Arap Emirlikleri, geniş bir uluslararası iş gücüne sahip bölgesel bir iş merkezi. Dubai ve Abu Dabi dünyanın dört bir yanından profesyonelleri çekiyor.",
+    "jobMarket": "Finans, gayrimenkul, inşaat, turizm ve konaklama, havacılık, lojistik ve teknoloji başlıca sektörler. Yapay zekâ, fintek ve yenilenebilir enerjide talep artıyor.",
+    "visa": "Profesyonellerin çoğu işveren sponsorluğunda çalışma izni ve oturma vizesiyle çalışıyor; belirli nitelikli ya da yüksek gelirli kişiler için Golden Visa ve Green Visa seçenekleri de var. Kurallar değiştiği için u.ae gibi resmi devlet portallarını ve ilgili emirlik makamlarını kontrol et.",
+    "salaryNote": "Pek çok işte kişisel gelir vergisi yok ve paketler konut ya da ulaşım ödeneği içerebiliyor. Sadece taban maaşı değil, her zaman toplam paketi karşılaştır.",
+    "languages": "Arapça ve İngilizce (İngilizce ana iş dili)",
+    "tips": [
+      "CV'de profesyonel bir fotoğraf yaygın ve kabul görür.",
+      "İşverenler sıkça sorduğu için uyruğunu ve vize durumunu belirt.",
+      "Mülakatlar için resmî ve muhafazakâr giyin.",
+      "Güven ilişkisi kur; ilişkiler ve saygılı davranışlar çok önemlidir."
+    ]
+  },
+  {
+    "id": "japan",
+    "name": "Japonya",
+    "flag": "🇯🇵",
+    "summary": "Japonya, otomotiv, elektronik ve üretimde küresel liderlere sahip büyük bir gelişmiş ekonomi. Tokyo, Osaka ve Nagoya en büyük iş piyasaları.",
+    "jobMarket": "BT, mühendislik, üretim, sağlık ve konaklama sektörleri yaşlanan nüfus nedeniyle iş gücü açığıyla karşı karşıya. Yazılım mühendisleri ve Japonca bilen uzmanlar özellikle değerli.",
+    "visa": "Yaygın yollar arasında Engineer/Specialist in Humanities/International Services vizesi, puana dayalı Highly Skilled Professional vizesi ve belirli sektörler için Specified Skilled Worker vizeleri var. Şartlar değiştiği için resmi Immigration Services Agency of Japan web sitesini kontrol et.",
+    "salaryNote": "Taban maaşlar ABD'ye kıyasla mütevazı olabilir, ama primler ve ödenekler yaygın. Pek çok geleneksel şirkette kıdem hâlâ ücreti etkiliyor.",
+    "languages": "Japonca (yalnızca İngilizce gerektiren roller çoğunlukla teknoloji ve yabancı şirketlerde bulunuyor)",
+    "tips": [
+      "Geleneksel şirketler fotoğraflı, standart formatta bir özgeçmiş (rirekisho) bekleyebilir.",
+      "Nezaket, alçakgönüllülük ve resmî selamlaşma çok önemlidir.",
+      "Erken var ve muhafazakâr giyin; genellikle koyu renk bir takım elbise tercih edilir.",
+      "Bireysel hırs yerine uzun vadeli bağlılık ve takım odaklılık göster."
+    ]
+  },
+  {
+    "id": "singapore",
+    "name": "Singapur",
+    "flag": "🇸🇬",
+    "summary": "Singapur, son derece uluslararası bir iş gücüne sahip, finans, ticaret ve teknolojide Asya'nın önde gelen merkezlerinden biri. Pek çok çok uluslu şirket Asya-Pasifik merkezini burada konumlandırıyor.",
+    "jobMarket": "Finans, teknoloji, lojistik, biyomedikal bilimler ve profesyonel hizmetler kilit sektörler. Yazılım, veri, siber güvenlik ve finans uzmanlarına talep güçlü.",
+    "visa": "Profesyonellerin genellikle maaşı ve puana dayalı bir çerçeveyi dikkate alan Employment Pass'e ihtiyacı var; orta nitelikli çalışanlar ise S Pass kullanabiliyor. Kriterler düzenli olarak güncellendiği için resmi Ministry of Manpower (MOM) web sitesini kontrol et.",
+    "salaryNote": "Finans ve teknolojideki maaşlar rekabetçi ve kişisel gelir vergisi görece düşük. Konut ve araç sahibi olmak pahalı.",
+    "languages": "İngilizce (ana iş dili), ayrıca Mandarin Çincesi, Malayca ve Tamilce",
+    "tips": [
+      "CV'ni öz ve sonuç odaklı tut; fotoğraf isteğe bağlı.",
+      "İhbar süren ve çalışma izni durumun konusunda net ol.",
+      "Çeşitli bir ekipte farklı kültürlerle çalışabildiğini göster.",
+      "Beklediğin maaşı doğrudan konuşmaya hazır ol; bu genellikle erken aşamada sorulur."
+    ]
+  }
+]

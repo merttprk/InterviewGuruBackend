@@ -1,0 +1,1874 @@
+[
+  {
+    "id": "software-engineer",
+    "title": "Yazılım Mühendisi",
+    "category": "Teknoloji",
+    "description": "Yazılım uygulamalarını ve sistemlerini tasarlar, geliştirir, test eder ve bakımını yapar.",
+    "ranges": [
+      {
+        "region": "Amerika Birleşik Devletleri",
+        "currency": "USD",
+        "junior": 95000,
+        "mid": 130000,
+        "senior": 175000
+      },
+      {
+        "region": "Birleşik Krallık",
+        "currency": "GBP",
+        "junior": 35000,
+        "mid": 55000,
+        "senior": 80000
+      },
+      {
+        "region": "Almanya",
+        "currency": "EUR",
+        "junior": 52000,
+        "mid": 68000,
+        "senior": 88000
+      },
+      {
+        "region": "Türkiye",
+        "currency": "TRY",
+        "junior": 840000,
+        "mid": 1450000,
+        "senior": 2400000
+      },
+      {
+        "region": "Hindistan",
+        "currency": "INR",
+        "junior": 600000,
+        "mid": 1500000,
+        "senior": 3200000
+      },
+      {
+        "region": "Endonezya",
+        "currency": "IDR",
+        "junior": 120000000,
+        "mid": 240000000,
+        "senior": 450000000
+      },
+      {
+        "region": "Malezya",
+        "currency": "MYR",
+        "junior": 54000,
+        "mid": 96000,
+        "senior": 168000
+      },
+      {
+        "region": "Brezilya",
+        "currency": "BRL",
+        "junior": 72000,
+        "mid": 144000,
+        "senior": 252000
+      },
+      {
+        "region": "İspanya",
+        "currency": "EUR",
+        "junior": 28000,
+        "mid": 42000,
+        "senior": 60000
+      },
+      {
+        "region": "Fransa",
+        "currency": "EUR",
+        "junior": 40000,
+        "mid": 52000,
+        "senior": 70000
+      }
+    ]
+  },
+  {
+    "id": "data-analyst",
+    "title": "Veri Analisti",
+    "category": "Teknoloji",
+    "description": "Ham veriyi iş kararlarına yön veren raporlara, panolara ve içgörülere dönüştürür.",
+    "ranges": [
+      {
+        "region": "Amerika Birleşik Devletleri",
+        "currency": "USD",
+        "junior": 65000,
+        "mid": 85000,
+        "senior": 110000
+      },
+      {
+        "region": "Birleşik Krallık",
+        "currency": "GBP",
+        "junior": 30000,
+        "mid": 42000,
+        "senior": 58000
+      },
+      {
+        "region": "Almanya",
+        "currency": "EUR",
+        "junior": 45000,
+        "mid": 56000,
+        "senior": 70000
+      },
+      {
+        "region": "Türkiye",
+        "currency": "TRY",
+        "junior": 600000,
+        "mid": 960000,
+        "senior": 1560000
+      },
+      {
+        "region": "Hindistan",
+        "currency": "INR",
+        "junior": 420000,
+        "mid": 900000,
+        "senior": 1800000
+      },
+      {
+        "region": "Endonezya",
+        "currency": "IDR",
+        "junior": 84000000,
+        "mid": 156000000,
+        "senior": 276000000
+      },
+      {
+        "region": "Malezya",
+        "currency": "MYR",
+        "junior": 42000,
+        "mid": 72000,
+        "senior": 114000
+      },
+      {
+        "region": "Brezilya",
+        "currency": "BRL",
+        "junior": 54000,
+        "mid": 96000,
+        "senior": 156000
+      },
+      {
+        "region": "İspanya",
+        "currency": "EUR",
+        "junior": 24000,
+        "mid": 33000,
+        "senior": 45000
+      },
+      {
+        "region": "Fransa",
+        "currency": "EUR",
+        "junior": 35000,
+        "mid": 44000,
+        "senior": 56000
+      }
+    ]
+  },
+  {
+    "id": "product-manager",
+    "title": "Ürün Yöneticisi",
+    "category": "Teknoloji",
+    "description": "Bir ürünün ne yapması gerektiğine karar verir; mühendislik, tasarım ve iş ekiplerini bunu hayata geçirmek için aynı hedefte buluşturur.",
+    "ranges": [
+      {
+        "region": "Amerika Birleşik Devletleri",
+        "currency": "USD",
+        "junior": 100000,
+        "mid": 140000,
+        "senior": 185000
+      },
+      {
+        "region": "Birleşik Krallık",
+        "currency": "GBP",
+        "junior": 45000,
+        "mid": 65000,
+        "senior": 90000
+      },
+      {
+        "region": "Almanya",
+        "currency": "EUR",
+        "junior": 58000,
+        "mid": 75000,
+        "senior": 95000
+      },
+      {
+        "region": "Türkiye",
+        "currency": "TRY",
+        "junior": 960000,
+        "mid": 1680000,
+        "senior": 2760000
+      },
+      {
+        "region": "Hindistan",
+        "currency": "INR",
+        "junior": 1200000,
+        "mid": 2600000,
+        "senior": 4800000
+      },
+      {
+        "region": "Endonezya",
+        "currency": "IDR",
+        "junior": 144000000,
+        "mid": 288000000,
+        "senior": 540000000
+      },
+      {
+        "region": "Malezya",
+        "currency": "MYR",
+        "junior": 72000,
+        "mid": 120000,
+        "senior": 192000
+      },
+      {
+        "region": "Brezilya",
+        "currency": "BRL",
+        "junior": 96000,
+        "mid": 168000,
+        "senior": 276000
+      },
+      {
+        "region": "İspanya",
+        "currency": "EUR",
+        "junior": 35000,
+        "mid": 50000,
+        "senior": 70000
+      },
+      {
+        "region": "Fransa",
+        "currency": "EUR",
+        "junior": 45000,
+        "mid": 60000,
+        "senior": 80000
+      }
+    ]
+  },
+  {
+    "id": "ux-designer",
+    "title": "UX Tasarımcısı",
+    "category": "Teknoloji",
+    "description": "Kullanıcı ihtiyaçlarını araştırır; dijital ürünler için sezgisel akışlar, tel çerçeveler ve arayüzler tasarlar.",
+    "ranges": [
+      {
+        "region": "Amerika Birleşik Devletleri",
+        "currency": "USD",
+        "junior": 75000,
+        "mid": 100000,
+        "senior": 135000
+      },
+      {
+        "region": "Birleşik Krallık",
+        "currency": "GBP",
+        "junior": 30000,
+        "mid": 45000,
+        "senior": 65000
+      },
+      {
+        "region": "Almanya",
+        "currency": "EUR",
+        "junior": 45000,
+        "mid": 58000,
+        "senior": 74000
+      },
+      {
+        "region": "Türkiye",
+        "currency": "TRY",
+        "junior": 660000,
+        "mid": 1140000,
+        "senior": 1920000
+      },
+      {
+        "region": "Hindistan",
+        "currency": "INR",
+        "junior": 500000,
+        "mid": 1200000,
+        "senior": 2400000
+      },
+      {
+        "region": "Endonezya",
+        "currency": "IDR",
+        "junior": 96000000,
+        "mid": 180000000,
+        "senior": 330000000
+      },
+      {
+        "region": "Malezya",
+        "currency": "MYR",
+        "junior": 42000,
+        "mid": 78000,
+        "senior": 126000
+      },
+      {
+        "region": "Brezilya",
+        "currency": "BRL",
+        "junior": 60000,
+        "mid": 108000,
+        "senior": 180000
+      },
+      {
+        "region": "İspanya",
+        "currency": "EUR",
+        "junior": 25000,
+        "mid": 36000,
+        "senior": 50000
+      },
+      {
+        "region": "Fransa",
+        "currency": "EUR",
+        "junior": 36000,
+        "mid": 46000,
+        "senior": 60000
+      }
+    ]
+  },
+  {
+    "id": "devops-engineer",
+    "title": "DevOps Mühendisi",
+    "category": "Teknoloji",
+    "description": "Altyapıyı, dağıtımları ve izlemeyi otomatikleştirerek yazılımın güvenilir ve hızlı yayına çıkmasını sağlar.",
+    "ranges": [
+      {
+        "region": "Amerika Birleşik Devletleri",
+        "currency": "USD",
+        "junior": 100000,
+        "mid": 135000,
+        "senior": 175000
+      },
+      {
+        "region": "Birleşik Krallık",
+        "currency": "GBP",
+        "junior": 40000,
+        "mid": 60000,
+        "senior": 85000
+      },
+      {
+        "region": "Almanya",
+        "currency": "EUR",
+        "junior": 55000,
+        "mid": 70000,
+        "senior": 90000
+      },
+      {
+        "region": "Türkiye",
+        "currency": "TRY",
+        "junior": 900000,
+        "mid": 1560000,
+        "senior": 2520000
+      },
+      {
+        "region": "Hindistan",
+        "currency": "INR",
+        "junior": 700000,
+        "mid": 1700000,
+        "senior": 3400000
+      },
+      {
+        "region": "Endonezya",
+        "currency": "IDR",
+        "junior": 132000000,
+        "mid": 264000000,
+        "senior": 480000000
+      },
+      {
+        "region": "Malezya",
+        "currency": "MYR",
+        "junior": 60000,
+        "mid": 108000,
+        "senior": 180000
+      },
+      {
+        "region": "Brezilya",
+        "currency": "BRL",
+        "junior": 84000,
+        "mid": 156000,
+        "senior": 264000
+      },
+      {
+        "region": "İspanya",
+        "currency": "EUR",
+        "junior": 30000,
+        "mid": 45000,
+        "senior": 62000
+      },
+      {
+        "region": "Fransa",
+        "currency": "EUR",
+        "junior": 42000,
+        "mid": 55000,
+        "senior": 72000
+      }
+    ]
+  },
+  {
+    "id": "nurse",
+    "title": "Hemşire",
+    "category": "Sağlık",
+    "description": "Hastalara doğrudan bakım verir, tedavileri uygular ve doktorlar ile ailelerle koordinasyonu sağlar.",
+    "ranges": [
+      {
+        "region": "Amerika Birleşik Devletleri",
+        "currency": "USD",
+        "junior": 75000,
+        "mid": 90000,
+        "senior": 110000
+      },
+      {
+        "region": "Birleşik Krallık",
+        "currency": "GBP",
+        "junior": 31000,
+        "mid": 39000,
+        "senior": 50000
+      },
+      {
+        "region": "Almanya",
+        "currency": "EUR",
+        "junior": 38000,
+        "mid": 45000,
+        "senior": 54000
+      },
+      {
+        "region": "Türkiye",
+        "currency": "TRY",
+        "junior": 480000,
+        "mid": 660000,
+        "senior": 900000
+      },
+      {
+        "region": "Hindistan",
+        "currency": "INR",
+        "junior": 250000,
+        "mid": 420000,
+        "senior": 720000
+      },
+      {
+        "region": "Endonezya",
+        "currency": "IDR",
+        "junior": 48000000,
+        "mid": 78000000,
+        "senior": 126000000
+      },
+      {
+        "region": "Malezya",
+        "currency": "MYR",
+        "junior": 36000,
+        "mid": 54000,
+        "senior": 78000
+      },
+      {
+        "region": "Brezilya",
+        "currency": "BRL",
+        "junior": 42000,
+        "mid": 60000,
+        "senior": 90000
+      },
+      {
+        "region": "İspanya",
+        "currency": "EUR",
+        "junior": 26000,
+        "mid": 32000,
+        "senior": 40000
+      },
+      {
+        "region": "Fransa",
+        "currency": "EUR",
+        "junior": 28000,
+        "mid": 34000,
+        "senior": 42000
+      }
+    ]
+  },
+  {
+    "id": "pharmacist",
+    "title": "Eczacı",
+    "category": "Sağlık",
+    "description": "İlaçları güvenli şekilde verir; hastalara ve sağlık profesyonellerine doz, etkileşim ve yan etkiler konusunda danışmanlık yapar.",
+    "ranges": [
+      {
+        "region": "Amerika Birleşik Devletleri",
+        "currency": "USD",
+        "junior": 125000,
+        "mid": 140000,
+        "senior": 155000
+      },
+      {
+        "region": "Birleşik Krallık",
+        "currency": "GBP",
+        "junior": 42000,
+        "mid": 48000,
+        "senior": 58000
+      },
+      {
+        "region": "Almanya",
+        "currency": "EUR",
+        "junior": 45000,
+        "mid": 54000,
+        "senior": 65000
+      },
+      {
+        "region": "Türkiye",
+        "currency": "TRY",
+        "junior": 600000,
+        "mid": 900000,
+        "senior": 1320000
+      },
+      {
+        "region": "Hindistan",
+        "currency": "INR",
+        "junior": 300000,
+        "mid": 540000,
+        "senior": 960000
+      },
+      {
+        "region": "Endonezya",
+        "currency": "IDR",
+        "junior": 72000000,
+        "mid": 120000000,
+        "senior": 204000000
+      },
+      {
+        "region": "Malezya",
+        "currency": "MYR",
+        "junior": 54000,
+        "mid": 78000,
+        "senior": 114000
+      },
+      {
+        "region": "Brezilya",
+        "currency": "BRL",
+        "junior": 54000,
+        "mid": 78000,
+        "senior": 114000
+      },
+      {
+        "region": "İspanya",
+        "currency": "EUR",
+        "junior": 28000,
+        "mid": 35000,
+        "senior": 45000
+      },
+      {
+        "region": "Fransa",
+        "currency": "EUR",
+        "junior": 38000,
+        "mid": 46000,
+        "senior": 58000
+      }
+    ]
+  },
+  {
+    "id": "physiotherapist",
+    "title": "Fizyoterapist",
+    "category": "Sağlık",
+    "description": "Egzersiz, manuel terapi ve eğitim yoluyla hastaların hareket kabiliyetini geri kazanmasına ve ağrıyı yönetmesine yardımcı olur.",
+    "ranges": [
+      {
+        "region": "Amerika Birleşik Devletleri",
+        "currency": "USD",
+        "junior": 80000,
+        "mid": 98000,
+        "senior": 115000
+      },
+      {
+        "region": "Birleşik Krallık",
+        "currency": "GBP",
+        "junior": 31000,
+        "mid": 40000,
+        "senior": 50000
+      },
+      {
+        "region": "Almanya",
+        "currency": "EUR",
+        "junior": 36000,
+        "mid": 42000,
+        "senior": 50000
+      },
+      {
+        "region": "Türkiye",
+        "currency": "TRY",
+        "junior": 420000,
+        "mid": 600000,
+        "senior": 840000
+      },
+      {
+        "region": "Hindistan",
+        "currency": "INR",
+        "junior": 240000,
+        "mid": 420000,
+        "senior": 720000
+      },
+      {
+        "region": "Endonezya",
+        "currency": "IDR",
+        "junior": 48000000,
+        "mid": 84000000,
+        "senior": 138000000
+      },
+      {
+        "region": "Malezya",
+        "currency": "MYR",
+        "junior": 36000,
+        "mid": 54000,
+        "senior": 78000
+      },
+      {
+        "region": "Brezilya",
+        "currency": "BRL",
+        "junior": 36000,
+        "mid": 54000,
+        "senior": 84000
+      },
+      {
+        "region": "İspanya",
+        "currency": "EUR",
+        "junior": 24000,
+        "mid": 30000,
+        "senior": 38000
+      },
+      {
+        "region": "Fransa",
+        "currency": "EUR",
+        "junior": 28000,
+        "mid": 35000,
+        "senior": 44000
+      }
+    ]
+  },
+  {
+    "id": "accountant",
+    "title": "Muhasebeci",
+    "category": "İş Dünyası ve Finans",
+    "description": "Mali tabloları hazırlar, defterleri tutar ve vergi ile raporlama yükümlülüklerine uyumu sağlar.",
+    "ranges": [
+      {
+        "region": "Amerika Birleşik Devletleri",
+        "currency": "USD",
+        "junior": 58000,
+        "mid": 75000,
+        "senior": 98000
+      },
+      {
+        "region": "Birleşik Krallık",
+        "currency": "GBP",
+        "junior": 28000,
+        "mid": 40000,
+        "senior": 55000
+      },
+      {
+        "region": "Almanya",
+        "currency": "EUR",
+        "junior": 42000,
+        "mid": 52000,
+        "senior": 65000
+      },
+      {
+        "region": "Türkiye",
+        "currency": "TRY",
+        "junior": 480000,
+        "mid": 780000,
+        "senior": 1260000
+      },
+      {
+        "region": "Hindistan",
+        "currency": "INR",
+        "junior": 300000,
+        "mid": 600000,
+        "senior": 1200000
+      },
+      {
+        "region": "Endonezya",
+        "currency": "IDR",
+        "junior": 60000000,
+        "mid": 108000000,
+        "senior": 192000000
+      },
+      {
+        "region": "Malezya",
+        "currency": "MYR",
+        "junior": 36000,
+        "mid": 60000,
+        "senior": 96000
+      },
+      {
+        "region": "Brezilya",
+        "currency": "BRL",
+        "junior": 48000,
+        "mid": 84000,
+        "senior": 138000
+      },
+      {
+        "region": "İspanya",
+        "currency": "EUR",
+        "junior": 24000,
+        "mid": 32000,
+        "senior": 44000
+      },
+      {
+        "region": "Fransa",
+        "currency": "EUR",
+        "junior": 32000,
+        "mid": 40000,
+        "senior": 52000
+      }
+    ]
+  },
+  {
+    "id": "financial-analyst",
+    "title": "Finansal Analist",
+    "category": "İş Dünyası ve Finans",
+    "description": "Performansı, bütçeleri ve yatırım kararlarını değerlendirmek için tahminler ve finansal modeller oluşturur.",
+    "ranges": [
+      {
+        "region": "Amerika Birleşik Devletleri",
+        "currency": "USD",
+        "junior": 72000,
+        "mid": 95000,
+        "senior": 125000
+      },
+      {
+        "region": "Birleşik Krallık",
+        "currency": "GBP",
+        "junior": 35000,
+        "mid": 50000,
+        "senior": 70000
+      },
+      {
+        "region": "Almanya",
+        "currency": "EUR",
+        "junior": 50000,
+        "mid": 62000,
+        "senior": 80000
+      },
+      {
+        "region": "Türkiye",
+        "currency": "TRY",
+        "junior": 600000,
+        "mid": 1020000,
+        "senior": 1680000
+      },
+      {
+        "region": "Hindistan",
+        "currency": "INR",
+        "junior": 500000,
+        "mid": 1000000,
+        "senior": 2000000
+      },
+      {
+        "region": "Endonezya",
+        "currency": "IDR",
+        "junior": 84000000,
+        "mid": 156000000,
+        "senior": 276000000
+      },
+      {
+        "region": "Malezya",
+        "currency": "MYR",
+        "junior": 48000,
+        "mid": 84000,
+        "senior": 132000
+      },
+      {
+        "region": "Brezilya",
+        "currency": "BRL",
+        "junior": 60000,
+        "mid": 108000,
+        "senior": 180000
+      },
+      {
+        "region": "İspanya",
+        "currency": "EUR",
+        "junior": 28000,
+        "mid": 40000,
+        "senior": 55000
+      },
+      {
+        "region": "Fransa",
+        "currency": "EUR",
+        "junior": 38000,
+        "mid": 48000,
+        "senior": 65000
+      }
+    ]
+  },
+  {
+    "id": "hr-specialist",
+    "title": "İK Uzmanı",
+    "category": "İş Dünyası ve Finans",
+    "description": "Bir kurum içinde işe alım, oryantasyon, çalışan ilişkileri ve İK politikalarıyla ilgilenir.",
+    "ranges": [
+      {
+        "region": "Amerika Birleşik Devletleri",
+        "currency": "USD",
+        "junior": 55000,
+        "mid": 70000,
+        "senior": 90000
+      },
+      {
+        "region": "Birleşik Krallık",
+        "currency": "GBP",
+        "junior": 26000,
+        "mid": 35000,
+        "senior": 48000
+      },
+      {
+        "region": "Almanya",
+        "currency": "EUR",
+        "junior": 42000,
+        "mid": 52000,
+        "senior": 64000
+      },
+      {
+        "region": "Türkiye",
+        "currency": "TRY",
+        "junior": 420000,
+        "mid": 720000,
+        "senior": 1140000
+      },
+      {
+        "region": "Hindistan",
+        "currency": "INR",
+        "junior": 300000,
+        "mid": 600000,
+        "senior": 1100000
+      },
+      {
+        "region": "Endonezya",
+        "currency": "IDR",
+        "junior": 60000000,
+        "mid": 102000000,
+        "senior": 168000000
+      },
+      {
+        "region": "Malezya",
+        "currency": "MYR",
+        "junior": 36000,
+        "mid": 60000,
+        "senior": 90000
+      },
+      {
+        "region": "Brezilya",
+        "currency": "BRL",
+        "junior": 42000,
+        "mid": 72000,
+        "senior": 114000
+      },
+      {
+        "region": "İspanya",
+        "currency": "EUR",
+        "junior": 22000,
+        "mid": 30000,
+        "senior": 40000
+      },
+      {
+        "region": "Fransa",
+        "currency": "EUR",
+        "junior": 30000,
+        "mid": 38000,
+        "senior": 48000
+      }
+    ]
+  },
+  {
+    "id": "project-manager",
+    "title": "Proje Yöneticisi",
+    "category": "İş Dünyası ve Finans",
+    "description": "Projeleri planlar; kapsamı, bütçeyi ve takvimi yönetir, teslimata kadar paydaşları aynı sayfada tutar.",
+    "ranges": [
+      {
+        "region": "Amerika Birleşik Devletleri",
+        "currency": "USD",
+        "junior": 75000,
+        "mid": 100000,
+        "senior": 130000
+      },
+      {
+        "region": "Birleşik Krallık",
+        "currency": "GBP",
+        "junior": 35000,
+        "mid": 50000,
+        "senior": 70000
+      },
+      {
+        "region": "Almanya",
+        "currency": "EUR",
+        "junior": 52000,
+        "mid": 66000,
+        "senior": 82000
+      },
+      {
+        "region": "Türkiye",
+        "currency": "TRY",
+        "junior": 660000,
+        "mid": 1140000,
+        "senior": 1860000
+      },
+      {
+        "region": "Hindistan",
+        "currency": "INR",
+        "junior": 700000,
+        "mid": 1400000,
+        "senior": 2600000
+      },
+      {
+        "region": "Endonezya",
+        "currency": "IDR",
+        "junior": 96000000,
+        "mid": 180000000,
+        "senior": 324000000
+      },
+      {
+        "region": "Malezya",
+        "currency": "MYR",
+        "junior": 54000,
+        "mid": 90000,
+        "senior": 144000
+      },
+      {
+        "region": "Brezilya",
+        "currency": "BRL",
+        "junior": 72000,
+        "mid": 120000,
+        "senior": 192000
+      },
+      {
+        "region": "İspanya",
+        "currency": "EUR",
+        "junior": 30000,
+        "mid": 42000,
+        "senior": 56000
+      },
+      {
+        "region": "Fransa",
+        "currency": "EUR",
+        "junior": 40000,
+        "mid": 50000,
+        "senior": 65000
+      }
+    ]
+  },
+  {
+    "id": "lawyer",
+    "title": "Avukat",
+    "category": "İş Dünyası ve Finans",
+    "description": "Müvekkillerine hukuki konularda danışmanlık yapar, sözleşmeler hazırlar ve onları müzakerelerde ya da mahkemede temsil eder.",
+    "ranges": [
+      {
+        "region": "Amerika Birleşik Devletleri",
+        "currency": "USD",
+        "junior": 90000,
+        "mid": 140000,
+        "senior": 200000
+      },
+      {
+        "region": "Birleşik Krallık",
+        "currency": "GBP",
+        "junior": 40000,
+        "mid": 65000,
+        "senior": 100000
+      },
+      {
+        "region": "Almanya",
+        "currency": "EUR",
+        "junior": 55000,
+        "mid": 80000,
+        "senior": 110000
+      },
+      {
+        "region": "Türkiye",
+        "currency": "TRY",
+        "junior": 540000,
+        "mid": 1080000,
+        "senior": 2160000
+      },
+      {
+        "region": "Hindistan",
+        "currency": "INR",
+        "junior": 500000,
+        "mid": 1200000,
+        "senior": 3000000
+      },
+      {
+        "region": "Endonezya",
+        "currency": "IDR",
+        "junior": 84000000,
+        "mid": 180000000,
+        "senior": 420000000
+      },
+      {
+        "region": "Malezya",
+        "currency": "MYR",
+        "junior": 48000,
+        "mid": 96000,
+        "senior": 180000
+      },
+      {
+        "region": "Brezilya",
+        "currency": "BRL",
+        "junior": 60000,
+        "mid": 120000,
+        "senior": 240000
+      },
+      {
+        "region": "İspanya",
+        "currency": "EUR",
+        "junior": 28000,
+        "mid": 45000,
+        "senior": 70000
+      },
+      {
+        "region": "Fransa",
+        "currency": "EUR",
+        "junior": 38000,
+        "mid": 55000,
+        "senior": 85000
+      }
+    ]
+  },
+  {
+    "id": "sales-representative",
+    "title": "Satış Temsilcisi",
+    "category": "Satış ve Pazarlama",
+    "description": "Potansiyel müşterileri bulur ve değerlendirir, ürünleri tanıtır ve gelir hedeflerine ulaşmak için satışları kapatır.",
+    "ranges": [
+      {
+        "region": "Amerika Birleşik Devletleri",
+        "currency": "USD",
+        "junior": 50000,
+        "mid": 70000,
+        "senior": 95000
+      },
+      {
+        "region": "Birleşik Krallık",
+        "currency": "GBP",
+        "junior": 25000,
+        "mid": 35000,
+        "senior": 50000
+      },
+      {
+        "region": "Almanya",
+        "currency": "EUR",
+        "junior": 38000,
+        "mid": 50000,
+        "senior": 65000
+      },
+      {
+        "region": "Türkiye",
+        "currency": "TRY",
+        "junior": 420000,
+        "mid": 720000,
+        "senior": 1200000
+      },
+      {
+        "region": "Hindistan",
+        "currency": "INR",
+        "junior": 300000,
+        "mid": 600000,
+        "senior": 1200000
+      },
+      {
+        "region": "Endonezya",
+        "currency": "IDR",
+        "junior": 54000000,
+        "mid": 96000000,
+        "senior": 168000000
+      },
+      {
+        "region": "Malezya",
+        "currency": "MYR",
+        "junior": 36000,
+        "mid": 60000,
+        "senior": 96000
+      },
+      {
+        "region": "Brezilya",
+        "currency": "BRL",
+        "junior": 36000,
+        "mid": 66000,
+        "senior": 108000
+      },
+      {
+        "region": "İspanya",
+        "currency": "EUR",
+        "junior": 22000,
+        "mid": 30000,
+        "senior": 42000
+      },
+      {
+        "region": "Fransa",
+        "currency": "EUR",
+        "junior": 28000,
+        "mid": 36000,
+        "senior": 48000
+      }
+    ]
+  },
+  {
+    "id": "digital-marketing-specialist",
+    "title": "Dijital Pazarlama Uzmanı",
+    "category": "Satış ve Pazarlama",
+    "description": "Arama, sosyal medya, e-posta ve ücretli kanallarda çevrim içi kampanyalar planlar ve optimize eder.",
+    "ranges": [
+      {
+        "region": "Amerika Birleşik Devletleri",
+        "currency": "USD",
+        "junior": 55000,
+        "mid": 72000,
+        "senior": 95000
+      },
+      {
+        "region": "Birleşik Krallık",
+        "currency": "GBP",
+        "junior": 26000,
+        "mid": 36000,
+        "senior": 50000
+      },
+      {
+        "region": "Almanya",
+        "currency": "EUR",
+        "junior": 40000,
+        "mid": 50000,
+        "senior": 63000
+      },
+      {
+        "region": "Türkiye",
+        "currency": "TRY",
+        "junior": 420000,
+        "mid": 720000,
+        "senior": 1140000
+      },
+      {
+        "region": "Hindistan",
+        "currency": "INR",
+        "junior": 350000,
+        "mid": 700000,
+        "senior": 1300000
+      },
+      {
+        "region": "Endonezya",
+        "currency": "IDR",
+        "junior": 60000000,
+        "mid": 108000000,
+        "senior": 180000000
+      },
+      {
+        "region": "Malezya",
+        "currency": "MYR",
+        "junior": 36000,
+        "mid": 60000,
+        "senior": 96000
+      },
+      {
+        "region": "Brezilya",
+        "currency": "BRL",
+        "junior": 42000,
+        "mid": 72000,
+        "senior": 120000
+      },
+      {
+        "region": "İspanya",
+        "currency": "EUR",
+        "junior": 22000,
+        "mid": 30000,
+        "senior": 42000
+      },
+      {
+        "region": "Fransa",
+        "currency": "EUR",
+        "junior": 30000,
+        "mid": 38000,
+        "senior": 50000
+      }
+    ]
+  },
+  {
+    "id": "teacher",
+    "title": "Öğretmen",
+    "category": "Eğitim",
+    "description": "Okul ortamında dersleri planlar, öğrencilere ders verir ve gelişimlerini değerlendirir.",
+    "ranges": [
+      {
+        "region": "Amerika Birleşik Devletleri",
+        "currency": "USD",
+        "junior": 47000,
+        "mid": 60000,
+        "senior": 75000
+      },
+      {
+        "region": "Birleşik Krallık",
+        "currency": "GBP",
+        "junior": 32000,
+        "mid": 40000,
+        "senior": 48000
+      },
+      {
+        "region": "Almanya",
+        "currency": "EUR",
+        "junior": 48000,
+        "mid": 58000,
+        "senior": 68000
+      },
+      {
+        "region": "Türkiye",
+        "currency": "TRY",
+        "junior": 480000,
+        "mid": 600000,
+        "senior": 780000
+      },
+      {
+        "region": "Hindistan",
+        "currency": "INR",
+        "junior": 300000,
+        "mid": 480000,
+        "senior": 780000
+      },
+      {
+        "region": "Endonezya",
+        "currency": "IDR",
+        "junior": 36000000,
+        "mid": 60000000,
+        "senior": 96000000
+      },
+      {
+        "region": "Malezya",
+        "currency": "MYR",
+        "junior": 36000,
+        "mid": 54000,
+        "senior": 78000
+      },
+      {
+        "region": "Brezilya",
+        "currency": "BRL",
+        "junior": 36000,
+        "mid": 54000,
+        "senior": 78000
+      },
+      {
+        "region": "İspanya",
+        "currency": "EUR",
+        "junior": 30000,
+        "mid": 36000,
+        "senior": 44000
+      },
+      {
+        "region": "Fransa",
+        "currency": "EUR",
+        "junior": 28000,
+        "mid": 34000,
+        "senior": 44000
+      }
+    ]
+  },
+  {
+    "id": "civil-engineer",
+    "title": "İnşaat Mühendisi",
+    "category": "Mühendislik",
+    "description": "Yollar, köprüler, binalar ve su sistemleri gibi altyapıları tasarlar ve yapımını denetler.",
+    "ranges": [
+      {
+        "region": "Amerika Birleşik Devletleri",
+        "currency": "USD",
+        "junior": 70000,
+        "mid": 90000,
+        "senior": 120000
+      },
+      {
+        "region": "Birleşik Krallık",
+        "currency": "GBP",
+        "junior": 30000,
+        "mid": 42000,
+        "senior": 58000
+      },
+      {
+        "region": "Almanya",
+        "currency": "EUR",
+        "junior": 48000,
+        "mid": 58000,
+        "senior": 72000
+      },
+      {
+        "region": "Türkiye",
+        "currency": "TRY",
+        "junior": 540000,
+        "mid": 900000,
+        "senior": 1500000
+      },
+      {
+        "region": "Hindistan",
+        "currency": "INR",
+        "junior": 350000,
+        "mid": 700000,
+        "senior": 1400000
+      },
+      {
+        "region": "Endonezya",
+        "currency": "IDR",
+        "junior": 72000000,
+        "mid": 132000000,
+        "senior": 228000000
+      },
+      {
+        "region": "Malezya",
+        "currency": "MYR",
+        "junior": 42000,
+        "mid": 72000,
+        "senior": 120000
+      },
+      {
+        "region": "Brezilya",
+        "currency": "BRL",
+        "junior": 60000,
+        "mid": 102000,
+        "senior": 168000
+      },
+      {
+        "region": "İspanya",
+        "currency": "EUR",
+        "junior": 26000,
+        "mid": 35000,
+        "senior": 48000
+      },
+      {
+        "region": "Fransa",
+        "currency": "EUR",
+        "junior": 36000,
+        "mid": 45000,
+        "senior": 60000
+      }
+    ]
+  },
+  {
+    "id": "mechanical-engineer",
+    "title": "Makine Mühendisi",
+    "category": "Mühendislik",
+    "description": "Makineleri, ürünleri ve üretim süreçlerini tasarlar, analiz eder ve iyileştirir.",
+    "ranges": [
+      {
+        "region": "Amerika Birleşik Devletleri",
+        "currency": "USD",
+        "junior": 72000,
+        "mid": 92000,
+        "senior": 122000
+      },
+      {
+        "region": "Birleşik Krallık",
+        "currency": "GBP",
+        "junior": 30000,
+        "mid": 43000,
+        "senior": 60000
+      },
+      {
+        "region": "Almanya",
+        "currency": "EUR",
+        "junior": 50000,
+        "mid": 62000,
+        "senior": 78000
+      },
+      {
+        "region": "Türkiye",
+        "currency": "TRY",
+        "junior": 540000,
+        "mid": 900000,
+        "senior": 1500000
+      },
+      {
+        "region": "Hindistan",
+        "currency": "INR",
+        "junior": 350000,
+        "mid": 720000,
+        "senior": 1440000
+      },
+      {
+        "region": "Endonezya",
+        "currency": "IDR",
+        "junior": 72000000,
+        "mid": 132000000,
+        "senior": 228000000
+      },
+      {
+        "region": "Malezya",
+        "currency": "MYR",
+        "junior": 42000,
+        "mid": 72000,
+        "senior": 120000
+      },
+      {
+        "region": "Brezilya",
+        "currency": "BRL",
+        "junior": 60000,
+        "mid": 102000,
+        "senior": 168000
+      },
+      {
+        "region": "İspanya",
+        "currency": "EUR",
+        "junior": 26000,
+        "mid": 36000,
+        "senior": 50000
+      },
+      {
+        "region": "Fransa",
+        "currency": "EUR",
+        "junior": 37000,
+        "mid": 46000,
+        "senior": 62000
+      }
+    ]
+  },
+  {
+    "id": "electrical-engineer",
+    "title": "Elektrik Mühendisi",
+    "category": "Mühendislik",
+    "description": "Enerji dağıtımından elektroniğe ve kontrol sistemlerine kadar elektrik sistemlerini tasarlar ve test eder.",
+    "ranges": [
+      {
+        "region": "Amerika Birleşik Devletleri",
+        "currency": "USD",
+        "junior": 78000,
+        "mid": 100000,
+        "senior": 130000
+      },
+      {
+        "region": "Birleşik Krallık",
+        "currency": "GBP",
+        "junior": 32000,
+        "mid": 45000,
+        "senior": 62000
+      },
+      {
+        "region": "Almanya",
+        "currency": "EUR",
+        "junior": 52000,
+        "mid": 64000,
+        "senior": 80000
+      },
+      {
+        "region": "Türkiye",
+        "currency": "TRY",
+        "junior": 560000,
+        "mid": 960000,
+        "senior": 1560000
+      },
+      {
+        "region": "Hindistan",
+        "currency": "INR",
+        "junior": 380000,
+        "mid": 780000,
+        "senior": 1560000
+      },
+      {
+        "region": "Endonezya",
+        "currency": "IDR",
+        "junior": 78000000,
+        "mid": 144000000,
+        "senior": 246000000
+      },
+      {
+        "region": "Malezya",
+        "currency": "MYR",
+        "junior": 45000,
+        "mid": 78000,
+        "senior": 126000
+      },
+      {
+        "region": "Brezilya",
+        "currency": "BRL",
+        "junior": 64000,
+        "mid": 108000,
+        "senior": 180000
+      },
+      {
+        "region": "İspanya",
+        "currency": "EUR",
+        "junior": 27000,
+        "mid": 37000,
+        "senior": 52000
+      },
+      {
+        "region": "Fransa",
+        "currency": "EUR",
+        "junior": 38000,
+        "mid": 48000,
+        "senior": 64000
+      }
+    ]
+  },
+  {
+    "id": "graphic-designer",
+    "title": "Grafik Tasarımcı",
+    "category": "Yaratıcı Meslekler",
+    "description": "Markalar, pazarlama materyalleri, web siteleri ve yayınlar için görsel konseptler oluşturur.",
+    "ranges": [
+      {
+        "region": "Amerika Birleşik Devletleri",
+        "currency": "USD",
+        "junior": 45000,
+        "mid": 60000,
+        "senior": 80000
+      },
+      {
+        "region": "Birleşik Krallık",
+        "currency": "GBP",
+        "junior": 24000,
+        "mid": 32000,
+        "senior": 45000
+      },
+      {
+        "region": "Almanya",
+        "currency": "EUR",
+        "junior": 34000,
+        "mid": 42000,
+        "senior": 54000
+      },
+      {
+        "region": "Türkiye",
+        "currency": "TRY",
+        "junior": 420000,
+        "mid": 660000,
+        "senior": 1020000
+      },
+      {
+        "region": "Hindistan",
+        "currency": "INR",
+        "junior": 250000,
+        "mid": 500000,
+        "senior": 1000000
+      },
+      {
+        "region": "Endonezya",
+        "currency": "IDR",
+        "junior": 54000000,
+        "mid": 90000000,
+        "senior": 150000000
+      },
+      {
+        "region": "Malezya",
+        "currency": "MYR",
+        "junior": 30000,
+        "mid": 48000,
+        "senior": 78000
+      },
+      {
+        "region": "Brezilya",
+        "currency": "BRL",
+        "junior": 36000,
+        "mid": 60000,
+        "senior": 96000
+      },
+      {
+        "region": "İspanya",
+        "currency": "EUR",
+        "junior": 20000,
+        "mid": 26000,
+        "senior": 36000
+      },
+      {
+        "region": "Fransa",
+        "currency": "EUR",
+        "junior": 26000,
+        "mid": 33000,
+        "senior": 44000
+      }
+    ]
+  },
+  {
+    "id": "architect",
+    "title": "Mimar",
+    "category": "Yaratıcı Meslekler",
+    "description": "Estetik, işlev, yönetmelikler ve bütçe arasında denge kurarak binalar ve mekânlar tasarlar.",
+    "ranges": [
+      {
+        "region": "Amerika Birleşik Devletleri",
+        "currency": "USD",
+        "junior": 65000,
+        "mid": 88000,
+        "senior": 120000
+      },
+      {
+        "region": "Birleşik Krallık",
+        "currency": "GBP",
+        "junior": 32000,
+        "mid": 45000,
+        "senior": 62000
+      },
+      {
+        "region": "Almanya",
+        "currency": "EUR",
+        "junior": 45000,
+        "mid": 56000,
+        "senior": 72000
+      },
+      {
+        "region": "Türkiye",
+        "currency": "TRY",
+        "junior": 480000,
+        "mid": 840000,
+        "senior": 1440000
+      },
+      {
+        "region": "Hindistan",
+        "currency": "INR",
+        "junior": 350000,
+        "mid": 700000,
+        "senior": 1500000
+      },
+      {
+        "region": "Endonezya",
+        "currency": "IDR",
+        "junior": 72000000,
+        "mid": 132000000,
+        "senior": 240000000
+      },
+      {
+        "region": "Malezya",
+        "currency": "MYR",
+        "junior": 42000,
+        "mid": 72000,
+        "senior": 120000
+      },
+      {
+        "region": "Brezilya",
+        "currency": "BRL",
+        "junior": 54000,
+        "mid": 90000,
+        "senior": 150000
+      },
+      {
+        "region": "İspanya",
+        "currency": "EUR",
+        "junior": 24000,
+        "mid": 33000,
+        "senior": 46000
+      },
+      {
+        "region": "Fransa",
+        "currency": "EUR",
+        "junior": 32000,
+        "mid": 42000,
+        "senior": 56000
+      }
+    ]
+  },
+  {
+    "id": "customer-support-specialist",
+    "title": "Müşteri Destek Uzmanı",
+    "category": "Konaklama ve Müşteri Hizmetleri",
+    "description": "Müşterilerin soru ve sorunlarını telefon, canlı sohbet ya da e-postayla çözer ve müşteri memnuniyetini korur.",
+    "ranges": [
+      {
+        "region": "Amerika Birleşik Devletleri",
+        "currency": "USD",
+        "junior": 38000,
+        "mid": 46000,
+        "senior": 58000
+      },
+      {
+        "region": "Birleşik Krallık",
+        "currency": "GBP",
+        "junior": 24000,
+        "mid": 28000,
+        "senior": 34000
+      },
+      {
+        "region": "Almanya",
+        "currency": "EUR",
+        "junior": 30000,
+        "mid": 36000,
+        "senior": 44000
+      },
+      {
+        "region": "Türkiye",
+        "currency": "TRY",
+        "junior": 420000,
+        "mid": 540000,
+        "senior": 720000
+      },
+      {
+        "region": "Hindistan",
+        "currency": "INR",
+        "junior": 200000,
+        "mid": 350000,
+        "senior": 600000
+      },
+      {
+        "region": "Endonezya",
+        "currency": "IDR",
+        "junior": 54000000,
+        "mid": 78000000,
+        "senior": 114000000
+      },
+      {
+        "region": "Malezya",
+        "currency": "MYR",
+        "junior": 26000,
+        "mid": 38000,
+        "senior": 54000
+      },
+      {
+        "region": "Brezilya",
+        "currency": "BRL",
+        "junior": 26000,
+        "mid": 36000,
+        "senior": 54000
+      },
+      {
+        "region": "İspanya",
+        "currency": "EUR",
+        "junior": 18000,
+        "mid": 22000,
+        "senior": 28000
+      },
+      {
+        "region": "Fransa",
+        "currency": "EUR",
+        "junior": 23000,
+        "mid": 27000,
+        "senior": 34000
+      }
+    ]
+  },
+  {
+    "id": "hotel-manager",
+    "title": "Otel Müdürü",
+    "category": "Konaklama ve Müşteri Hizmetleri",
+    "description": "Otel operasyonlarını, personeli, misafir deneyimini ve finansal performansı yönetir.",
+    "ranges": [
+      {
+        "region": "Amerika Birleşik Devletleri",
+        "currency": "USD",
+        "junior": 55000,
+        "mid": 75000,
+        "senior": 105000
+      },
+      {
+        "region": "Birleşik Krallık",
+        "currency": "GBP",
+        "junior": 28000,
+        "mid": 40000,
+        "senior": 58000
+      },
+      {
+        "region": "Almanya",
+        "currency": "EUR",
+        "junior": 40000,
+        "mid": 52000,
+        "senior": 70000
+      },
+      {
+        "region": "Türkiye",
+        "currency": "TRY",
+        "junior": 540000,
+        "mid": 960000,
+        "senior": 1680000
+      },
+      {
+        "region": "Hindistan",
+        "currency": "INR",
+        "junior": 400000,
+        "mid": 900000,
+        "senior": 1800000
+      },
+      {
+        "region": "Endonezya",
+        "currency": "IDR",
+        "junior": 72000000,
+        "mid": 144000000,
+        "senior": 264000000
+      },
+      {
+        "region": "Malezya",
+        "currency": "MYR",
+        "junior": 42000,
+        "mid": 72000,
+        "senior": 126000
+      },
+      {
+        "region": "Brezilya",
+        "currency": "BRL",
+        "junior": 48000,
+        "mid": 90000,
+        "senior": 156000
+      },
+      {
+        "region": "İspanya",
+        "currency": "EUR",
+        "junior": 25000,
+        "mid": 36000,
+        "senior": 52000
+      },
+      {
+        "region": "Fransa",
+        "currency": "EUR",
+        "junior": 32000,
+        "mid": 42000,
+        "senior": 58000
+      }
+    ]
+  },
+  {
+    "id": "chef",
+    "title": "Şef",
+    "category": "Konaklama ve Müşteri Hizmetleri",
+    "description": "Menüleri planlar, yemekleri hazırlar ve mutfak ekibini tutarlı kalite standartlarında yönetir.",
+    "ranges": [
+      {
+        "region": "Amerika Birleşik Devletleri",
+        "currency": "USD",
+        "junior": 42000,
+        "mid": 55000,
+        "senior": 72000
+      },
+      {
+        "region": "Birleşik Krallık",
+        "currency": "GBP",
+        "junior": 25000,
+        "mid": 32000,
+        "senior": 45000
+      },
+      {
+        "region": "Almanya",
+        "currency": "EUR",
+        "junior": 30000,
+        "mid": 38000,
+        "senior": 50000
+      },
+      {
+        "region": "Türkiye",
+        "currency": "TRY",
+        "junior": 420000,
+        "mid": 660000,
+        "senior": 1080000
+      },
+      {
+        "region": "Hindistan",
+        "currency": "INR",
+        "junior": 240000,
+        "mid": 480000,
+        "senior": 960000
+      },
+      {
+        "region": "Endonezya",
+        "currency": "IDR",
+        "junior": 54000000,
+        "mid": 90000000,
+        "senior": 150000000
+      },
+      {
+        "region": "Malezya",
+        "currency": "MYR",
+        "junior": 30000,
+        "mid": 48000,
+        "senior": 84000
+      },
+      {
+        "region": "Brezilya",
+        "currency": "BRL",
+        "junior": 30000,
+        "mid": 48000,
+        "senior": 84000
+      },
+      {
+        "region": "İspanya",
+        "currency": "EUR",
+        "junior": 19000,
+        "mid": 25000,
+        "senior": 35000
+      },
+      {
+        "region": "Fransa",
+        "currency": "EUR",
+        "junior": 24000,
+        "mid": 30000,
+        "senior": 42000
+      }
+    ]
+  }
+]

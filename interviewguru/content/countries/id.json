@@ -1,0 +1,226 @@
+[
+  {
+    "id": "united-states",
+    "name": "Amerika Serikat",
+    "flag": "🇺🇸",
+    "summary": "Amerika Serikat adalah ekonomi terbesar di dunia dengan pasar kerja yang dinamis dan sangat kompetitif. Gaji sering kali tinggi, tetapi tunjangan seperti asuransi kesehatan dan cuti berbayar sangat bervariasi antarperusahaan.",
+    "jobMarket": "Sektor teknologi, kesehatan, keuangan, dan jasa profesional secara konsisten merekrut dalam jumlah besar. Peran di bidang teknik, data, keamanan siber, dan keperawatan tetap sangat dicari di banyak negara bagian.",
+    "visa": "Jalur umum meliputi visa H-1B untuk pekerjaan khusus, L-1 untuk mutasi antarperusahaan, O-1 untuk kemampuan luar biasa, dan green card berbasis pekerjaan. Sebagian besar jalur membutuhkan sponsor dari pemberi kerja dan sebagian menggunakan undian, jadi selalu periksa situs resmi USCIS dan Departemen Luar Negeri karena aturannya sering berubah.",
+    "salaryNote": "Gaji sangat bervariasi menurut kota dan negara bagian, dengan pusat teknologi di pesisir membayar paling tinggi. Selalu perhitungkan biaya kesehatan, pajak, serta bonus atau saham saat membandingkan tawaran.",
+    "languages": "Bahasa Inggris",
+    "tips": [
+      "Buat résumé kamu satu atau dua halaman saja dan jangan cantumkan foto, usia, atau status pernikahan.",
+      "Ukur pencapaianmu dengan angka, persentase, dan hasil nyata.",
+      "Bersiaplah menghadapi pertanyaan perilaku dan jawab dengan cerita yang jelas bergaya STAR.",
+      "Membicarakan kontribusimu sendiri dengan percaya diri itu wajar dan tidak dianggap sombong."
+    ]
+  },
+  {
+    "id": "canada",
+    "name": "Kanada",
+    "flag": "🇨🇦",
+    "summary": "Kanada memiliki ekonomi yang stabil dan beragam serta aktif menyambut imigran terampil. Pusat utamanya antara lain Toronto, Vancouver, Montreal, dan Calgary.",
+    "jobMarket": "Kesehatan, teknologi, keterampilan teknis (skilled trades), teknik, dan keuangan adalah sektor perekrutan utama. Banyak provinsi melaporkan kekurangan tenaga di bidang keperawatan, konstruksi, dan TI.",
+    "visa": "Pekerja terampil sering mengajukan izin tinggal tetap melalui Express Entry atau Provincial Nominee Programs, sedangkan izin kerja khusus pemberi kerja mungkin memerlukan penilaian pasar tenaga kerja. Program dan kriteria seleksi sering berubah, jadi periksa situs resmi Immigration, Refugees and Citizenship Canada (IRCC).",
+    "salaryNote": "Gaji umumnya lebih rendah daripada di AS, tetapi disertai layanan kesehatan publik. Gaji dan biaya hidup sangat berbeda antarprovinsi dan antarkota.",
+    "languages": "Bahasa Inggris dan Prancis (bahasa Prancis sangat penting di sebagian besar Quebec)",
+    "tips": [
+      "Gunakan résumé satu atau dua halaman tanpa foto, tanggal lahir, atau status pernikahan.",
+      "Pemberi kerja di Kanada menghargai pengalaman lokal atau yang bisa diterapkan, jadi tonjolkan dengan jelas.",
+      "Kesopanan dan nada yang kolaboratif itu penting; hindari promosi diri yang terlalu agresif.",
+      "Siapkan referensi sejak awal karena biasanya akan diperiksa."
+    ]
+  },
+  {
+    "id": "united-kingdom",
+    "name": "Britania Raya",
+    "flag": "🇬🇧",
+    "summary": "Britania Raya memiliki ekonomi besar yang digerakkan sektor jasa, dengan London sebagai pusat global keuangan dan teknologi. Kota seperti Manchester, Edinburgh, dan Bristol juga memiliki pasar kerja yang terus berkembang.",
+    "jobMarket": "Keuangan, teknologi, kesehatan (terutama NHS), teknik, dan industri kreatif adalah pemberi kerja utama. Peran di bidang kesehatan dan layanan sosial, perangkat lunak, serta data sering muncul dalam daftar kekurangan tenaga kerja.",
+    "visa": "Jalur utamanya adalah Skilled Worker visa, yang membutuhkan tawaran kerja dari sponsor berlisensi dan memenuhi ambang gaji serta keterampilan. Ada juga jalur Health and Care Worker, Global Talent, dan Graduate; periksa GOV.UK untuk persyaratan terbaru karena ambang batasnya diperbarui secara rutin.",
+    "salaryNote": "Gaji di London jauh lebih tinggi, tetapi biaya hidupnya juga. Gaji biasanya disebutkan sebagai angka kotor tahunan sebelum pajak penghasilan dan National Insurance.",
+    "languages": "Bahasa Inggris",
+    "tips": [
+      "Buat CV kamu sekitar dua halaman dan jangan cantumkan foto.",
+      "Gunakan contoh berbasis kompetensi karena banyak wawancara mengikuti format itu.",
+      "Nada yang rendah hati dan tidak berlebihan lebih efektif daripada menjual diri secara agresif.",
+      "Tambahkan surat lamaran singkat yang disesuaikan jika proses lamaran memungkinkan."
+    ]
+  },
+  {
+    "id": "ireland",
+    "name": "Irlandia",
+    "flag": "🇮🇪",
+    "summary": "Irlandia adalah negara Uni Eropa berbahasa Inggris yang menjadi lokasi kantor pusat Eropa bagi banyak perusahaan teknologi dan farmasi global. Sebagian besar peluang terkonsentrasi di Dublin, Cork, dan Galway.",
+    "jobMarket": "Teknologi, farmasi, alat kesehatan, keuangan, dan penyewaan pesawat adalah sektor utama. Peran di bidang rekayasa perangkat lunak, data, kesehatan, dan konstruksi terus dicari.",
+    "visa": "Profesional dari luar Uni Eropa umumnya menggunakan Critical Skills Employment Permit untuk profesi yang banyak dicari atau General Employment Permit untuk peran lainnya. Daftar kelayakan dan ambang gaji ditinjau secara rutin, jadi periksa situs resmi Department of Enterprise dan Irish Immigration Service.",
+    "salaryNote": "Gaji di sektor teknologi dan farmasi kompetitif menurut standar Eropa. Biaya perumahan di Dublin tinggi, jadi pertimbangkan biaya sewa dengan cermat saat membandingkan tawaran.",
+    "languages": "Bahasa Inggris (bahasa Irlandia adalah bahasa resmi tetapi jarang diwajibkan di tempat kerja)",
+    "tips": [
+      "Gunakan CV dua halaman yang ringkas tanpa foto.",
+      "Obrolan ringan yang ramah di awal wawancara itu biasa; santai saja dan ikut terlibat.",
+      "Tunjukkan minat yang tulus pada kegiatan perusahaan di Irlandia, bukan hanya pada merek globalnya.",
+      "Pertanyaan berbasis kompetensi sering muncul, jadi siapkan contoh yang terstruktur."
+    ]
+  },
+  {
+    "id": "germany",
+    "name": "Jerman",
+    "flag": "🇩🇪",
+    "summary": "Jerman adalah ekonomi terbesar di Eropa, terkenal dengan teknik, manufaktur, dan Mittelstand, yaitu jaringan kuat perusahaan menengah. Berlin, München, Hamburg, dan Frankfurt adalah pusat kerja utama.",
+    "jobMarket": "Otomotif, teknik mesin dan elektro, TI, kesehatan, serta keterampilan teknis semuanya kekurangan tenaga. Peran keperawatan, pengembangan perangkat lunak, dan teknik sangat dicari.",
+    "visa": "Jalur utamanya adalah EU Blue Card untuk profesional berkualifikasi yang memenuhi ambang gaji, visa pekerja terampil, dan Opportunity Card bagi pencari kerja. Persyaratan seperti pengakuan kualifikasi dan tingkat gaji bisa berubah, jadi periksa portal resmi Make it in Germany dan perwakilan Jerman di luar negeri.",
+    "salaryNote": "Gaji biasanya disebutkan sebagai angka kotor tahunan, dan pajak serta iuran jaminan sosialnya cukup besar. Gaji cenderung lebih tinggi di wilayah selatan dan di kota-kota besar.",
+    "languages": "Bahasa Jerman (bahasa Inggris umum di bidang teknologi dan startup, tetapi bahasa Jerman sangat memperluas pilihanmu)",
+    "tips": [
+      "CV berbentuk tabel (Lebenslauf) adalah standar; foto profesional bersifat opsional tetapi masih umum.",
+      "Sertakan sertifikat dan surat referensi kerja (Arbeitszeugnisse) dalam lamaranmu jika kamu memilikinya.",
+      "Datanglah tepat waktu dan bersikaplah teliti; wawancara cenderung terstruktur dan berfokus pada fakta.",
+      "Bersiaplah menghadapi pertanyaan rinci tentang kualifikasimu dan apa persisnya yang kamu kerjakan di setiap peran."
+    ]
+  },
+  {
+    "id": "netherlands",
+    "name": "Belanda",
+    "flag": "🇳🇱",
+    "summary": "Belanda memiliki ekonomi yang terbuka dan internasional dengan banyak penutur bahasa Inggris. Amsterdam, Rotterdam, Den Haag, dan Eindhoven menjadi lokasi banyak perusahaan multinasional.",
+    "jobMarket": "Teknologi, logistik, agri-pangan, ilmu hayati, manufaktur teknologi tinggi, dan keuangan adalah sektor yang kuat. Peran di bidang perangkat lunak, data, teknik, dan kesehatan banyak dicari.",
+    "visa": "Banyak profesional datang melalui skema Highly Skilled Migrant, yang mensyaratkan pemberi kerja yang diakui oleh otoritas imigrasi dan gaji minimum, atau melalui EU Blue Card. Aturan dan ambang batas diperbarui secara rutin, jadi periksa situs resmi IND.",
+    "salaryNote": "Gaji biasanya disebutkan sebagai angka kotor tahunan dan sering kali sudah termasuk tunjangan liburan. Biaya perumahan di wilayah Randstad bisa tinggi.",
+    "languages": "Bahasa Belanda dan Inggris (bahasa Inggris banyak digunakan di perusahaan internasional)",
+    "tips": [
+      "Buat CV kamu singkat dan faktual; foto bersifat opsional.",
+      "Gaya komunikasi Belanda itu lugas, jadi berikan jawaban yang jelas dan jujur.",
+      "Tunjukkan bahwa kamu bisa bekerja mandiri dan berkontribusi dalam pengambilan keputusan berbasis konsensus.",
+      "Jangan melebih-lebihkan pencapaian; contoh yang sederhana tetapi konkret lebih mengena."
+    ]
+  },
+  {
+    "id": "switzerland",
+    "name": "Swiss",
+    "flag": "🇨🇭",
+    "summary": "Swiss menawarkan beberapa gaji tertinggi di dunia, ekonomi yang stabil, dan kualitas hidup yang sangat tinggi. Zürich, Jenewa, Basel, dan Lausanne adalah pusat kerja utama.",
+    "jobMarket": "Perbankan, asuransi, farmasi, teknik presisi, TI, dan organisasi internasional adalah pemberi kerja utama. Spesialis di bidang teknologi, ilmu hayati, dan keuangan sangat dicari.",
+    "visa": "Warga Uni Eropa/EFTA menikmati kebebasan bergerak, sedangkan warga di luar Uni Eropa menghadapi kuota tahunan dan biasanya harus sangat berkualifikasi, dengan pemberi kerja membuktikan tidak ada kandidat lokal yang sesuai. Periksa situs resmi State Secretariat for Migration (SEM) dan otoritas kanton untuk aturan terbaru.",
+    "salaryNote": "Gaji sangat tinggi, tetapi begitu pula biaya sewa, asuransi kesehatan, dan biaya sehari-hari. Tingkat gaji juga berbeda antarkanton dan antarwilayah bahasa.",
+    "languages": "Bahasa Jerman, Prancis, dan Italia tergantung wilayah; bahasa Inggris umum di perusahaan multinasional",
+    "tips": [
+      "Lamaran yang lengkap sering mencakup CV dengan foto, sertifikat, dan surat referensi.",
+      "Ketelitian dan keandalan sangat dihargai; periksa ulang setiap detail dalam dokumenmu.",
+      "Ketepatan waktu itu wajib; datanglah beberapa menit lebih awal.",
+      "Mempelajari bahasa lokal di wilayah tersebut adalah keunggulan besar."
+    ]
+  },
+  {
+    "id": "luxembourg",
+    "name": "Luksemburg",
+    "flag": "🇱🇺",
+    "summary": "Luksemburg adalah negara Uni Eropa yang kecil tetapi makmur dengan salah satu pendapatan rata-rata tertinggi di Eropa. Sebagian besar tenaga kerjanya pulang-pergi setiap hari dari negara tetangga, yaitu Prancis, Belgia, dan Jerman.",
+    "jobMarket": "Jasa keuangan, administrasi dana, perbankan, lembaga Uni Eropa, TI, dan logistik mendominasi. Profesional di bidang kepatuhan, akuntansi, TI, dan yang multibahasa sangat dicari.",
+    "visa": "Warga Uni Eropa dapat bekerja dengan bebas, sedangkan profesional dari luar Uni Eropa biasanya menggunakan EU Blue Card atau izin tinggal pekerja bergaji yang terkait dengan tawaran kerja. Persyaratannya bisa berubah, jadi periksa portal resmi Guichet.lu dan direktorat imigrasi.",
+    "salaryNote": "Gaji termasuk yang tertinggi di Uni Eropa, didukung oleh upah minimum resmi yang tinggi. Perumahan mahal, itulah sebabnya banyak orang tinggal di seberang perbatasan.",
+    "languages": "Bahasa Luksemburg, Prancis, dan Jerman; bahasa Inggris banyak digunakan di sektor keuangan",
+    "tips": [
+      "Tonjolkan semua bahasa yang kamu kuasai karena kemampuan multibahasa adalah nilai tambah besar.",
+      "Sesuaikan CV kamu dengan konteks keuangan atau Uni Eropa jika relevan, dengan tanggal dan tanggung jawab yang tepat.",
+      "Wawancara bisa berganti bahasa, jadi bersiaplah menjawab dalam lebih dari satu bahasa.",
+      "Penampilan yang formal dan rapi diharapkan untuk peran di sektor keuangan dan kelembagaan."
+    ]
+  },
+  {
+    "id": "sweden",
+    "name": "Swedia",
+    "flag": "🇸🇪",
+    "summary": "Swedia memiliki ekonomi inovatif yang dikenal dengan merek global, startup, dan fokus kuat pada keseimbangan kerja dan kehidupan. Stockholm, Göteborg, dan Malmö adalah pusat kerja utama.",
+    "jobMarket": "Teknologi, gim, energi bersih, ilmu hayati, teknik, dan kesehatan adalah sektor utama. Pengembang perangkat lunak, insinyur, dan tenaga kesehatan banyak dicari.",
+    "visa": "Profesional dari luar Uni Eropa biasanya memerlukan izin kerja berdasarkan tawaran kerja yang memenuhi syarat gaji dan kondisi kerja, dan sebagian mungkin memenuhi syarat EU Blue Card. Aturannya diperketat dalam beberapa tahun terakhir, jadi periksa situs resmi Swedish Migration Agency (Migrationsverket).",
+    "salaryNote": "Gaji tergolong sedang menurut standar Eropa Barat, tetapi tunjangan, cuti orang tua, dan hari libur sangat murah hati. Pajaknya relatif tinggi.",
+    "languages": "Bahasa Swedia (bahasa Inggris banyak digunakan, terutama di bidang teknologi)",
+    "tips": [
+      "Buat CV kamu ringkas; foto bersifat opsional.",
+      "Tempat kerja di Swedia berstruktur datar, jadi tunjukkan kerja sama tim dan kerendahan hati, bukan hierarki.",
+      "Hindari melebih-lebihkan; jawaban yang seimbang dan jujur membangun kepercayaan.",
+      "Bersiaplah menghadapi pertanyaan tentang cara kamu berkolaborasi dan mengambil keputusan bersama."
+    ]
+  },
+  {
+    "id": "denmark",
+    "name": "Denmark",
+    "flag": "🇩🇰",
+    "summary": "Denmark memadukan ekonomi yang kuat dengan tingkat kepercayaan tinggi, aturan ketenagakerjaan yang fleksibel, dan keseimbangan kerja-hidup yang sangat baik. Kopenhagen dan Aarhus adalah pusat lapangan kerja utama.",
+    "jobMarket": "Ilmu hayati, energi hijau, pelayaran, TI, dan teknik adalah sektor utama. Tenaga kesehatan profesional, insinyur, dan spesialis TI sering dicari.",
+    "visa": "Jalur umum meliputi Pay Limit Scheme untuk tawaran kerja bergaji tinggi, Positive List untuk profesi yang kekurangan tenaga, dan skema jalur cepat untuk pemberi kerja bersertifikat. Periksa situs resmi New to Denmark (SIRI) karena skema dan ambang batasnya bisa berubah.",
+    "salaryNote": "Gaji tinggi, tetapi pajak penghasilannya juga tinggi untuk membiayai layanan publik yang luas. Sebagian besar karyawan mendapat cuti berbayar yang murah hati.",
+    "languages": "Bahasa Denmark (bahasa Inggris banyak digunakan di perusahaan internasional)",
+    "tips": [
+      "Tulis CV yang singkat dan personal serta surat motivasi yang disesuaikan.",
+      "Budaya Denmark informal dan egaliter, jadi bersikaplah santai tetapi tetap profesional.",
+      "Tunjukkan bahwa kamu bisa bekerja mandiri dan bertanggung jawab.",
+      "Jujurlah tentang hal yang tidak kamu ketahui; menjual diri berlebihan bisa jadi bumerang."
+    ]
+  },
+  {
+    "id": "australia",
+    "name": "Australia",
+    "flag": "🇦🇺",
+    "summary": "Australia memiliki ekonomi yang kuat, standar hidup yang tinggi, dan sejarah panjang migrasi tenaga terampil. Sydney, Melbourne, Brisbane, dan Perth adalah pasar kerja utama.",
+    "jobMarket": "Kesehatan, konstruksi, pertambangan dan sumber daya, pendidikan, serta teknologi adalah pemberi kerja utama. Perawat, insinyur, tenaga terampil teknis, dan profesional TI sering masuk daftar kekurangan keterampilan.",
+    "visa": "Pilihannya meliputi visa sementara dan permanen yang disponsori pemberi kerja, serta visa terampil mandiri atau nominasi negara bagian berbasis poin. Daftar profesi dan persyaratannya berubah secara rutin, jadi periksa situs resmi Department of Home Affairs.",
+    "salaryNote": "Gaji umumnya tinggi dan pemberi kerja wajib membayar superannuation (iuran pensiun) di luar gaji. Biaya hidup di Sydney dan Melbourne tinggi, terutama perumahan.",
+    "languages": "Bahasa Inggris",
+    "tips": [
+      "Résumé dua sampai tiga halaman itu umum; tidak perlu foto.",
+      "Gunakan nada yang ramah dan membumi; sikap arogan cepat terlihat.",
+      "Siapkan contoh perilaku dengan metode STAR.",
+      "Tunjukkan bahwa kamu memahami standar atau lisensi lokal jika bidangmu memerlukannya."
+    ]
+  },
+  {
+    "id": "united-arab-emirates",
+    "name": "Uni Emirat Arab",
+    "flag": "🇦🇪",
+    "summary": "Uni Emirat Arab adalah pusat bisnis regional dengan tenaga kerja internasional yang besar. Dubai dan Abu Dhabi menarik profesional dari seluruh dunia.",
+    "jobMarket": "Keuangan, properti, konstruksi, pariwisata dan perhotelan, penerbangan, logistik, serta teknologi adalah sektor utama. Permintaan terus tumbuh di bidang AI, fintech, dan energi terbarukan.",
+    "visa": "Sebagian besar profesional bekerja dengan izin kerja dan visa tinggal yang disponsori pemberi kerja, dan ada juga opsi Golden Visa dan Green Visa untuk orang tertentu yang terampil atau berpenghasilan tinggi. Periksa portal resmi pemerintah seperti u.ae dan otoritas emirat terkait karena aturannya bisa berubah.",
+    "salaryNote": "Banyak pekerjaan tidak dikenai pajak penghasilan pribadi, dan paketnya bisa mencakup tunjangan perumahan atau transportasi. Selalu bandingkan total paket, bukan hanya gaji pokok.",
+    "languages": "Bahasa Arab dan Inggris (bahasa Inggris adalah bahasa bisnis utama)",
+    "tips": [
+      "Foto profesional di CV itu umum dan diterima.",
+      "Cantumkan kewarganegaraan dan status visa kamu karena pemberi kerja sering menanyakannya.",
+      "Berpakaianlah formal dan sopan untuk wawancara.",
+      "Bangun kedekatan; hubungan baik dan sikap yang santun sangat penting."
+    ]
+  },
+  {
+    "id": "japan",
+    "name": "Jepang",
+    "flag": "🇯🇵",
+    "summary": "Jepang adalah ekonomi maju yang besar dengan pemimpin global di bidang otomotif, elektronik, dan manufaktur. Tokyo, Osaka, dan Nagoya adalah pasar kerja terbesar.",
+    "jobMarket": "TI, teknik, manufaktur, kesehatan, dan perhotelan menghadapi kekurangan tenaga kerja akibat populasi yang menua. Software engineer dan spesialis yang menguasai bahasa Jepang sangat dihargai.",
+    "visa": "Jalur umum adalah visa Engineer/Specialist in Humanities/International Services, visa Highly Skilled Professional berbasis poin, dan visa Specified Skilled Worker untuk industri tertentu. Periksa situs resmi Immigration Services Agency of Japan karena persyaratannya bisa berubah.",
+    "salaryNote": "Gaji pokok bisa tergolong sederhana dibandingkan AS, tetapi bonus dan tunjangan umum diberikan. Senioritas masih memengaruhi gaji di banyak perusahaan tradisional.",
+    "languages": "Bahasa Jepang (peran yang hanya berbahasa Inggris umumnya ada di bidang teknologi dan perusahaan asing)",
+    "tips": [
+      "Perusahaan tradisional mungkin mengharapkan résumé berformat standar (rirekisho) dengan foto.",
+      "Kesopanan, kerendahan hati, dan salam formal sangat penting.",
+      "Datanglah lebih awal dan berpakaianlah konservatif, biasanya dengan setelan jas gelap.",
+      "Tunjukkan komitmen jangka panjang dan orientasi tim, bukan ambisi pribadi."
+    ]
+  },
+  {
+    "id": "singapore",
+    "name": "Singapura",
+    "flag": "🇸🇬",
+    "summary": "Singapura adalah pusat utama Asia untuk keuangan, perdagangan, dan teknologi, dengan tenaga kerja yang sangat internasional. Banyak perusahaan multinasional menempatkan kantor pusat Asia-Pasifik mereka di sana.",
+    "jobMarket": "Keuangan, teknologi, logistik, ilmu biomedis, dan jasa profesional adalah sektor utama. Spesialis perangkat lunak, data, keamanan siber, dan keuangan sangat dicari.",
+    "visa": "Profesional biasanya memerlukan Employment Pass, yang mempertimbangkan gaji dan kerangka berbasis poin, sedangkan pekerja berketerampilan menengah dapat menggunakan S Pass. Kriterianya diperbarui secara rutin, jadi periksa situs resmi Ministry of Manpower (MOM).",
+    "salaryNote": "Gaji di sektor keuangan dan teknologi kompetitif dan pajak penghasilan pribadi relatif rendah. Perumahan dan kepemilikan mobil mahal.",
+    "languages": "Bahasa Inggris (bahasa bisnis utama), ditambah Mandarin, Melayu, dan Tamil",
+    "tips": [
+      "Buat CV kamu ringkas dan berfokus pada hasil; foto bersifat opsional.",
+      "Jelaskan dengan jelas masa pemberitahuan (notice period) dan status izin kerja kamu.",
+      "Tunjukkan bahwa kamu bisa bekerja lintas budaya dalam tim yang beragam.",
+      "Bersiaplah membahas gaji yang diharapkan secara langsung karena hal ini sering ditanyakan sejak awal."
+    ]
+  }
+]

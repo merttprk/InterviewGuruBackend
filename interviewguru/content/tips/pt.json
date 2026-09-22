@@ -1,0 +1,242 @@
+[
+  {
+    "id": "before-reverse-engineer-posting",
+    "category": "Antes da entrevista",
+    "title": "Transforme a vaga em um checklist",
+    "body": "Destaque cada habilidade e responsabilidade do anúncio e escreva ao lado um exemplo da sua experiência. As lacunas que você encontrar agora viram perguntas para as quais você pode se preparar, em vez de ser pego de surpresa."
+  },
+  {
+    "id": "before-story-bank",
+    "category": "Antes da entrevista",
+    "title": "Monte um banco de cinco histórias",
+    "body": "Prepare cinco histórias curtas sobre um sucesso, um fracasso, um conflito, uma vez em que você liderou e uma vez em que aprendeu rápido. A maioria das perguntas comportamentais pode ser respondida adaptando uma delas."
+  },
+  {
+    "id": "before-news-check",
+    "category": "Antes da entrevista",
+    "title": "Confira as últimas notícias da empresa",
+    "body": "Na véspera, pesquise notícias recentes, lançamentos de produtos ou rodadas de investimento da empresa. Mencionar algo atual mostra interesse real e rende uma pergunta natural para você fazer."
+  },
+  {
+    "id": "before-map-interviewers",
+    "category": "Antes da entrevista",
+    "title": "Pesquise quem vai entrevistar você",
+    "body": "Se você souber quem vai conduzir a entrevista, veja os perfis profissionais dessas pessoas para entender o cargo e a trajetória delas. Isso ajuda você a adaptar seus exemplos ao que interessa a cada uma."
+  },
+  {
+    "id": "before-practice-out-loud",
+    "category": "Antes da entrevista",
+    "title": "Pratique as respostas em voz alta",
+    "body": "Ensaiar em silêncio passa uma falsa sensação de fluência, mas falar revela onde você se enrola ou trava. Diga suas principais respostas em voz alta algumas vezes, de preferência cronometrando entre um e dois minutos."
+  },
+  {
+    "id": "before-prepare-kit",
+    "category": "Antes da entrevista",
+    "title": "Prepare seu kit de entrevista",
+    "body": "Separe cópias impressas do seu CV, um caderno, uma caneta, seu documento de identidade e os contatos de quem vai entrevistar você. Deixar tudo pronto na noite anterior elimina o estresse de última hora."
+  },
+  {
+    "id": "before-plan-route",
+    "category": "Antes da entrevista",
+    "title": "Planeje o trajeto com folga",
+    "body": "Confira o tempo de deslocamento no mesmo horário do dia e acrescente pelo menos 20 minutos de folga. Procure chegar às redondezas com antecedência e entrar de 5 a 10 minutos antes do início."
+  },
+  {
+    "id": "before-thirty-sixty-ninety",
+    "category": "Antes da entrevista",
+    "title": "Esboce um plano de 30-60-90 dias",
+    "body": "Anote alguns tópicos sobre o que você aprenderia, entregaria e melhoraria nos seus três primeiros meses. Mesmo que ninguém pergunte, isso deixa mais afiadas suas respostas sobre como você agregaria valor."
+  },
+  {
+    "id": "during-first-ninety-seconds",
+    "category": "Durante a entrevista",
+    "title": "Domine os primeiros 90 segundos",
+    "body": "A primeira impressão se forma rápido, então cumprimente todos com simpatia, sorria e chame as pessoas pelo nome. Um início calmo e amigável facilita o restante da conversa para os dois lados."
+  },
+  {
+    "id": "during-pause-before-answering",
+    "category": "Durante a entrevista",
+    "title": "Faça uma pausa antes de responder",
+    "body": "Levar dois ou três segundos para pensar passa confiança, não lentidão. Isso ajuda você a escolher o melhor exemplo e a não preencher o silêncio com vícios de linguagem."
+  },
+  {
+    "id": "during-numbers-in-answers",
+    "category": "Durante a entrevista",
+    "title": "Coloque números nas suas respostas",
+    "body": "Sempre que possível, quantifique o impacto: tempo economizado, receita aumentada, erros reduzidos ou clientes atendidos. Números concretos tornam suas histórias críveis e memoráveis."
+  },
+  {
+    "id": "during-clarify-question",
+    "category": "Durante a entrevista",
+    "title": "Esclareça perguntas confusas",
+    "body": "Se uma pergunta for vaga, faça uma breve pergunta de esclarecimento ou repita o que você entendeu. Responder à pergunta certa é melhor do que responder rápido."
+  },
+  {
+    "id": "during-watch-length",
+    "category": "Durante a entrevista",
+    "title": "Responda em cerca de dois minutos",
+    "body": "Respostas longas perdem a atenção e as curtas parecem rasas. Busque de um a dois minutos e depois confira com algo como: quer que eu detalhe mais esse ponto?"
+  },
+  {
+    "id": "during-take-notes",
+    "category": "Durante a entrevista",
+    "title": "Faça anotações rápidas",
+    "body": "Anotar os pontos principais que o entrevistador menciona mostra envolvimento. Você pode retomá-los nas suas perguntas e na sua mensagem de agradecimento."
+  },
+  {
+    "id": "during-mirror-energy",
+    "category": "Durante a entrevista",
+    "title": "Acompanhe o estilo do entrevistador",
+    "body": "Observe se o entrevistador é formal ou descontraído, rápido ou reflexivo, e ajuste levemente o seu tom. Acompanhar o ritmo dele cria conexão sem que você perca sua personalidade."
+  },
+  {
+    "id": "during-close-strong",
+    "category": "Durante a entrevista",
+    "title": "Termine com um fechamento claro",
+    "body": "Antes de sair, resuma brevemente por que você se encaixa na vaga e confirme seu interesse. Depois pergunte sobre os próximos passos e o prazo previsto."
+  },
+  {
+    "id": "tough-gap-in-cv",
+    "category": "Perguntas difíceis",
+    "title": "Como explicar uma lacuna no CV",
+    "body": "Seja breve e honesto sobre o motivo, seja cuidado com familiares, saúde, estudos ou busca de emprego. Em seguida, fale logo sobre o que você fez para se manter atualizado e por que está pronto agora."
+  },
+  {
+    "id": "tough-why-leaving",
+    "category": "Perguntas difíceis",
+    "title": "Por que você quer sair do seu emprego?",
+    "body": "Foque no que você busca, como crescimento, novos desafios ou um ambiente mais adequado, e não no que você quer deixar para trás. Nunca critique seu empregador atual ou anterior."
+  },
+  {
+    "id": "tough-failure-story",
+    "category": "Perguntas difíceis",
+    "title": "Fale sobre um fracasso",
+    "body": "Escolha um erro real, mas contornável, assuma sua parte sem desculpas e dedique a maior parte da resposta ao que você aprendeu. Termine contando como você aplicou essa lição depois."
+  },
+  {
+    "id": "tough-overqualified",
+    "category": "Perguntas difíceis",
+    "title": "Você parece qualificado demais",
+    "body": "Aborde a preocupação oculta, que geralmente é a de que você vai se entediar ou sair logo. Explique por que essa vaga combina com seus objetivos agora e como sua experiência ajuda a equipe desde o primeiro dia."
+  },
+  {
+    "id": "tough-dont-know-answer",
+    "category": "Perguntas difíceis",
+    "title": "Quando você não sabe a resposta",
+    "body": "Não blefe. Diga o que você sabe, explique como descobriria o restante e, se possível, raciocine sobre o problema em voz alta para que vejam como você pensa."
+  },
+  {
+    "id": "tough-other-offers",
+    "category": "Perguntas difíceis",
+    "title": "Você está participando de outros processos?",
+    "body": "Tudo bem dizer que sim, sem citar empresas nem detalhes. Reforce que essa vaga combina muito com você e compartilhe com honestidade qualquer restrição de prazo."
+  },
+  {
+    "id": "tough-illegal-questions",
+    "category": "Perguntas difíceis",
+    "title": "Como lidar com perguntas inadequadas",
+    "body": "Em muitos países, perguntas sobre idade, religião, estado civil ou planos de ter filhos não são permitidas. Você pode redirecionar a conversa com educação para suas qualificações, por exemplo dizendo que nada disso afetará sua capacidade de fazer o trabalho."
+  },
+  {
+    "id": "tough-where-in-five-years",
+    "category": "Perguntas difíceis",
+    "title": "Onde você se vê daqui a cinco anos?",
+    "body": "Mostre uma ambição compatível com o caminho que essa vaga pode oferecer, como aprofundar sua especialização ou assumir mais responsabilidades. Evite citar uma carreira totalmente diferente ou o próprio cargo do entrevistador."
+  },
+  {
+    "id": "remote-test-tech",
+    "category": "Entrevistas remotas",
+    "title": "Teste a plataforma com antecedência",
+    "body": "Instale o aplicativo de vídeo, atualize-o e faça uma chamada de teste com um amigo no dia anterior. Verifique se a câmera, o microfone e o compartilhamento de tela funcionam no dispositivo que você vai usar."
+  },
+  {
+    "id": "remote-camera-eye-level",
+    "category": "Entrevistas remotas",
+    "title": "Deixe a câmera na altura dos olhos",
+    "body": "Apoie o notebook em livros ou em um suporte para que a câmera fique na altura dos seus olhos. Olhe para a lente ao fazer os pontos principais, assim o entrevistador sente que você está olhando nos olhos dele."
+  },
+  {
+    "id": "remote-lighting-audio",
+    "category": "Entrevistas remotas",
+    "title": "Acerte a iluminação e o áudio",
+    "body": "Fique de frente para uma janela ou luminária para que seu rosto fique bem iluminado e evite luz forte atrás de você. Fones com fio e microfone costumam soar mais nítidos do que os alto-falantes do notebook."
+  },
+  {
+    "id": "remote-clean-background",
+    "category": "Entrevistas remotas",
+    "title": "Escolha um fundo tranquilo",
+    "body": "Sente-se diante de um fundo arrumado e neutro e tire do enquadramento o que possa distrair. Avise as pessoas da casa sobre o horário da entrevista e silencie as notificações em todos os dispositivos."
+  },
+  {
+    "id": "remote-notes-off-screen",
+    "category": "Entrevistas remotas",
+    "title": "Use anotações com sabedoria",
+    "body": "Algumas palavras-chave em um post-it perto da câmera podem ajudar, mas não leia respostas inteiras. Os entrevistadores percebem quando seus olhos ficam percorrendo a tela."
+  },
+  {
+    "id": "remote-lag-etiquette",
+    "category": "Entrevistas remotas",
+    "title": "Considere o atraso do áudio",
+    "body": "Espere um instante depois que o entrevistador terminar antes de falar, para não falarem ao mesmo tempo. Se a conexão cair, volte com calma e resuma rapidamente onde você tinha parado."
+  },
+  {
+    "id": "remote-backup-plan",
+    "category": "Entrevistas remotas",
+    "title": "Tenha um plano B",
+    "body": "Mantenha o celular carregado e os contatos do entrevistador à mão caso sua internet caia. Um roteador móvel pronto para usar pode salvar a entrevista."
+  },
+  {
+    "id": "remote-one-way-video",
+    "category": "Entrevistas remotas",
+    "title": "Entrevistas em vídeo gravado",
+    "body": "Em entrevistas gravadas sem uma pessoa ao vivo, trate a câmera como sua plateia e sorria no início. Use as perguntas de treino para conferir o enquadramento e depois responda com a mesma energia de uma chamada ao vivo."
+  },
+  {
+    "id": "after-debrief-notes",
+    "category": "Depois da entrevista",
+    "title": "Faça um resumo logo em seguida",
+    "body": "Em até uma hora, anote as perguntas feitas, suas respostas, os nomes e o que você melhoraria. Essas anotações ajudam nos contatos de acompanhamento e nas próximas entrevistas."
+  },
+  {
+    "id": "after-personal-thank-you",
+    "category": "Depois da entrevista",
+    "title": "Personalize sua mensagem de agradecimento",
+    "body": "Envie um e-mail curto de agradecimento em até 24 horas mencionando um assunto específico que vocês discutiram. Um detalhe pessoal torna a mensagem memorável em vez de genérica."
+  },
+  {
+    "id": "after-follow-up-timing",
+    "category": "Depois da entrevista",
+    "title": "Faça o acompanhamento na hora certa",
+    "body": "Se informaram um prazo, espere ele passar antes de entrar em contato. Caso contrário, um contato educado cerca de uma semana depois é razoável."
+  },
+  {
+    "id": "after-connect-linkedin",
+    "category": "Depois da entrevista",
+    "title": "Conecte-se profissionalmente",
+    "body": "Considere enviar um convite de conexão com uma mensagem curta para as pessoas que você conheceu. Mantenha o tom profissional e não use isso para perguntar sobre a decisão."
+  },
+  {
+    "id": "after-handle-silence",
+    "category": "Depois da entrevista",
+    "title": "Lide com o silêncio com calma",
+    "body": "Processos seletivos costumam demorar mais que o previsto por motivos que não têm nada a ver com você. Depois de um ou dois contatos educados, mantenha o foco em outras oportunidades."
+  },
+  {
+    "id": "after-ask-feedback",
+    "category": "Depois da entrevista",
+    "title": "Peça feedback após uma recusa",
+    "body": "Responda com elegância e pergunte se podem compartilhar uma ou duas coisas que você poderia melhorar. Nem todos vão responder, mas um feedback útil vale muito, e uma resposta positiva mantém a porta aberta."
+  },
+  {
+    "id": "after-compare-offers",
+    "category": "Depois da entrevista",
+    "title": "Compare as ofertas como um todo",
+    "body": "Olhe além do salário-base: bônus, benefícios, férias, flexibilidade, crescimento e deslocamento. Colocar tudo lado a lado em uma tabela deixa a escolha certa mais clara."
+  },
+  {
+    "id": "after-keep-pipeline",
+    "category": "Depois da entrevista",
+    "title": "Mantenha outros processos em andamento",
+    "body": "Não pause sua busca de emprego enquanto espera a decisão de uma empresa. Continuar se candidatando mantém suas opções abertas e reduz a pressão sobre qualquer entrevista isolada."
+  }
+]

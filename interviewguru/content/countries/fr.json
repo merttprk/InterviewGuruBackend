@@ -1,0 +1,226 @@
+[
+  {
+    "id": "united-states",
+    "name": "États-Unis",
+    "flag": "🇺🇸",
+    "summary": "Les États-Unis sont la première économie mondiale, avec un marché du travail dynamique et très concurrentiel. Les salaires sont souvent élevés, mais les avantages comme l'assurance santé et les congés payés varient beaucoup d'un employeur à l'autre.",
+    "jobMarket": "La tech, la santé, la finance et les services professionnels recrutent massivement et de façon constante. Les postes en ingénierie, data, cybersécurité et soins infirmiers restent très demandés dans de nombreux États.",
+    "visa": "Les voies courantes sont le visa H-1B pour les professions spécialisées, le L-1 pour les mutations intra-groupe, l'O-1 pour les talents exceptionnels et les green cards liées à l'emploi. La plupart nécessitent le parrainage d'un employeur et certaines passent par un tirage au sort : consulte toujours les sites officiels de l'USCIS et du State Department, car les règles changent souvent.",
+    "salaryNote": "Les salaires varient énormément selon la ville et l'État, les pôles tech des côtes étant les mieux payés. Pense toujours à intégrer les frais de santé, les impôts, les primes et les actions quand tu compares des offres.",
+    "languages": "Anglais",
+    "tips": [
+      "Limite ton CV à une ou deux pages et n'indique ni photo, ni âge, ni situation familiale.",
+      "Chiffre tes réussites avec des nombres, des pourcentages et des résultats concrets.",
+      "Attends-toi à des questions comportementales et réponds-y avec des histoires claires selon la méthode STAR.",
+      "Parler avec assurance de tes propres contributions est attendu, pas perçu comme de la vantardise."
+    ]
+  },
+  {
+    "id": "canada",
+    "name": "Canada",
+    "flag": "🇨🇦",
+    "summary": "Le Canada a une économie stable et diversifiée et accueille activement les immigrants qualifiés. Les grands pôles sont Toronto, Vancouver, Montréal et Calgary.",
+    "jobMarket": "La santé, la tech, les métiers spécialisés, l'ingénierie et la finance sont les principaux secteurs qui recrutent. De nombreuses provinces signalent des pénuries dans les soins infirmiers, la construction et l'informatique.",
+    "visa": "Les travailleurs qualifiés demandent souvent la résidence permanente via Entrée express ou les Programmes des candidats des provinces, tandis que les permis de travail liés à un employeur peuvent exiger une étude d'impact sur le marché du travail. Les programmes et critères de sélection changent souvent : consulte le site officiel d'Immigration, Réfugiés et Citoyenneté Canada (IRCC).",
+    "salaryNote": "Les salaires sont en général plus bas qu'aux États-Unis, mais le système de santé est public. La rémunération et le coût de la vie varient beaucoup selon les provinces et les villes.",
+    "languages": "Anglais et français (le français est indispensable dans une grande partie du Québec)",
+    "tips": [
+      "Utilise un CV d'une ou deux pages sans photo, date de naissance ni situation familiale.",
+      "Les employeurs canadiens apprécient l'expérience locale ou transférable : mets-la bien en avant.",
+      "La politesse et un ton collaboratif comptent ; évite l'autopromotion trop agressive.",
+      "Prépare tes références à l'avance, car elles sont souvent vérifiées."
+    ]
+  },
+  {
+    "id": "united-kingdom",
+    "name": "Royaume-Uni",
+    "flag": "🇬🇧",
+    "summary": "Le Royaume-Uni possède une grande économie tournée vers les services, avec Londres comme centre mondial de la finance et de la tech. Des villes comme Manchester, Édimbourg et Bristol ont aussi des marchés de l'emploi en croissance.",
+    "jobMarket": "La finance, la tech, la santé (notamment le NHS), l'ingénierie et les industries créatives sont de gros employeurs. Les métiers de la santé et du social, du logiciel et de la data figurent souvent sur les listes de pénurie.",
+    "visa": "La voie principale est le Skilled Worker visa, qui exige une offre d'un employeur agréé respectant des seuils de salaire et de qualification. Il existe aussi les visas Health and Care Worker, Global Talent et Graduate ; consulte GOV.UK pour les conditions actuelles, car les seuils sont régulièrement mis à jour.",
+    "salaryNote": "Les salaires à Londres sont nettement plus élevés, tout comme le coût de la vie. Ils sont généralement exprimés en brut annuel, avant impôt sur le revenu et National Insurance.",
+    "languages": "Anglais",
+    "tips": [
+      "Limite ton CV à environ deux pages et n'y mets pas de photo.",
+      "Prépare des exemples basés sur les compétences, car beaucoup d'entretiens suivent ce format.",
+      "Un ton modeste et mesuré fonctionne mieux qu'un discours très commercial.",
+      "Ajoute une lettre de motivation courte et personnalisée quand la candidature le permet."
+    ]
+  },
+  {
+    "id": "ireland",
+    "name": "Irlande",
+    "flag": "🇮🇪",
+    "summary": "L'Irlande est un pays anglophone de l'UE qui accueille le siège européen de nombreuses entreprises mondiales de la tech et de la pharma. La plupart des opportunités se concentrent à Dublin, Cork et Galway.",
+    "jobMarket": "La tech, l'industrie pharmaceutique, les dispositifs médicaux, la finance et le leasing d'avions sont des secteurs majeurs. Les postes en développement logiciel, data, santé et construction sont demandés de façon régulière.",
+    "visa": "Les professionnels hors UE utilisent souvent le Critical Skills Employment Permit pour les métiers en tension ou le General Employment Permit pour les autres postes. Les listes d'éligibilité et les seuils de salaire sont revus régulièrement : consulte les sites officiels du Department of Enterprise et de l'Irish Immigration Service.",
+    "salaryNote": "Les salaires dans la tech et la pharma sont compétitifs pour l'Europe. Le logement à Dublin coûte cher, alors tiens bien compte du loyer quand tu compares des offres.",
+    "languages": "Anglais (l'irlandais est une langue officielle mais rarement exigé au travail)",
+    "tips": [
+      "Utilise un CV concis de deux pages sans photo.",
+      "Un peu de conversation amicale en début d'entretien est courant : détends-toi et joue le jeu.",
+      "Montre un intérêt sincère pour les activités de l'entreprise en Irlande, pas seulement pour la marque mondiale.",
+      "Les questions basées sur les compétences sont fréquentes, alors prépare des exemples structurés."
+    ]
+  },
+  {
+    "id": "germany",
+    "name": "Allemagne",
+    "flag": "🇩🇪",
+    "summary": "L'Allemagne est la première économie d'Europe, réputée pour son ingénierie, son industrie et son solide Mittelstand de PME. Berlin, Munich, Hambourg et Francfort sont les principaux pôles d'emploi.",
+    "jobMarket": "L'automobile, l'ingénierie mécanique et électrique, l'informatique, la santé et les métiers qualifiés manquent tous de talents. Les postes d'infirmier, de développeur et d'ingénieur sont particulièrement recherchés.",
+    "visa": "Les principales voies sont la carte bleue européenne pour les professionnels qualifiés atteignant un seuil de salaire, le visa de travailleur qualifié et la Chancenkarte (carte d'opportunité) pour les chercheurs d'emploi. Les conditions comme la reconnaissance des diplômes et les niveaux de salaire évoluent : consulte le portail officiel Make it in Germany et les représentations allemandes à l'étranger.",
+    "salaryNote": "Les salaires sont généralement exprimés en brut annuel, et les impôts et cotisations sociales sont importants. La rémunération tend à être plus élevée dans le sud et dans les grandes villes.",
+    "languages": "Allemand (l'anglais est courant dans la tech et les startups, mais l'allemand élargit fortement tes options)",
+    "tips": [
+      "Un CV sous forme de tableau (Lebenslauf) est la norme ; une photo professionnelle est facultative mais encore courante.",
+      "Joins à ta candidature tes diplômes et certificats de travail (Arbeitszeugnisse) si tu en as.",
+      "Sois ponctuel et précis ; les entretiens sont souvent structurés et centrés sur les faits.",
+      "Attends-toi à des questions détaillées sur tes qualifications et sur ce que tu as fait exactement à chaque poste."
+    ]
+  },
+  {
+    "id": "netherlands",
+    "name": "Pays-Bas",
+    "flag": "🇳🇱",
+    "summary": "Les Pays-Bas ont une économie ouverte et internationale, avec une forte proportion d'anglophones. Amsterdam, Rotterdam, La Haye et Eindhoven accueillent de nombreux employeurs multinationaux.",
+    "jobMarket": "La tech, la logistique, l'agroalimentaire, les sciences de la vie, l'industrie high-tech et la finance sont des secteurs forts. Les postes dans le logiciel, la data, l'ingénierie et la santé sont demandés.",
+    "visa": "Beaucoup de professionnels arrivent via le dispositif Highly Skilled Migrant, qui exige un employeur reconnu par le service d'immigration et un salaire minimum, ou via la carte bleue européenne. Les règles et seuils sont régulièrement mis à jour : consulte le site officiel de l'IND.",
+    "salaryNote": "Les salaires sont généralement exprimés en brut annuel et incluent souvent une prime de vacances. Le logement dans la région de la Randstad peut être cher.",
+    "languages": "Néerlandais et anglais (l'anglais est très utilisé dans les entreprises internationales)",
+    "tips": [
+      "Garde un CV court et factuel ; la photo est facultative.",
+      "La communication néerlandaise est directe, alors donne des réponses claires et honnêtes.",
+      "Montre que tu sais travailler en autonomie et contribuer à des décisions prises par consensus.",
+      "N'exagère pas tes réussites ; des exemples modestes mais concrets font bonne impression."
+    ]
+  },
+  {
+    "id": "switzerland",
+    "name": "Suisse",
+    "flag": "🇨🇭",
+    "summary": "La Suisse offre certains des salaires les plus élevés au monde, une économie stable et une très grande qualité de vie. Zurich, Genève, Bâle et Lausanne sont les principaux centres d'emploi.",
+    "jobMarket": "La banque, l'assurance, l'industrie pharmaceutique, la mécanique de précision, l'informatique et les organisations internationales sont de grands employeurs. Les spécialistes de la tech, des sciences de la vie et de la finance sont particulièrement recherchés.",
+    "visa": "Les citoyens de l'UE/AELE bénéficient de la libre circulation, tandis que les ressortissants hors UE sont soumis à des quotas annuels et doivent généralement être hautement qualifiés, l'employeur devant prouver qu'aucun candidat local adapté n'a été trouvé. Consulte les sites officiels du Secrétariat d'État aux migrations (SEM) et des autorités cantonales pour les règles actuelles.",
+    "salaryNote": "Les salaires sont très élevés, mais les loyers, l'assurance maladie et les dépenses courantes le sont aussi. Les niveaux de rémunération varient aussi selon les cantons et les régions linguistiques.",
+    "languages": "Allemand, français et italien selon la région ; l'anglais est courant dans les multinationales",
+    "tips": [
+      "Un dossier de candidature complet comprend souvent un CV avec photo, des diplômes et des lettres de référence.",
+      "La précision et la fiabilité sont appréciées ; vérifie chaque détail de tes documents.",
+      "La ponctualité est essentielle ; arrive quelques minutes en avance.",
+      "Apprendre la langue locale de la région est un gros avantage."
+    ]
+  },
+  {
+    "id": "luxembourg",
+    "name": "Luxembourg",
+    "flag": "🇱🇺",
+    "summary": "Le Luxembourg est un petit pays riche de l'UE, avec l'un des revenus moyens les plus élevés d'Europe. Une grande partie de sa main-d'œuvre fait la navette chaque jour depuis la France, la Belgique et l'Allemagne voisines.",
+    "jobMarket": "Les services financiers, l'administration de fonds, la banque, les institutions européennes, l'informatique et la logistique dominent. Les profils en conformité, comptabilité, informatique et les professionnels multilingues sont très demandés.",
+    "visa": "Les citoyens de l'UE peuvent travailler librement, tandis que les professionnels hors UE utilisent généralement la carte bleue européenne ou un titre de séjour de travailleur salarié lié à une offre d'emploi. Les conditions évoluent : consulte le portail officiel Guichet.lu et la direction de l'immigration.",
+    "salaryNote": "Les salaires comptent parmi les plus élevés de l'UE, soutenus par un salaire minimum légal élevé. Le logement est cher, c'est pourquoi beaucoup de gens vivent de l'autre côté de la frontière.",
+    "languages": "Luxembourgeois, français et allemand ; l'anglais est très utilisé dans la finance",
+    "tips": [
+      "Mets en avant toutes les langues que tu parles, car le multilinguisme est un atout majeur.",
+      "Adapte ton CV au contexte de la finance ou des institutions européennes si c'est pertinent, avec des dates et des responsabilités précises.",
+      "Les entretiens peuvent changer de langue en cours de route, alors sois prêt à répondre dans plusieurs langues.",
+      "Une présentation formelle et soignée est attendue pour les postes dans la finance et les institutions."
+    ]
+  },
+  {
+    "id": "sweden",
+    "name": "Suède",
+    "flag": "🇸🇪",
+    "summary": "La Suède a une économie innovante, connue pour ses marques mondiales, ses startups et l'importance qu'elle accorde à l'équilibre vie pro/vie perso. Stockholm, Göteborg et Malmö sont les principaux pôles d'emploi.",
+    "jobMarket": "La tech, le jeu vidéo, les énergies propres, les sciences de la vie, l'ingénierie et la santé sont des secteurs clés. Les développeurs, les ingénieurs et le personnel de santé sont demandés.",
+    "visa": "Les professionnels hors UE ont généralement besoin d'un permis de travail basé sur une offre d'emploi respectant des conditions de salaire et d'emploi, et certains peuvent prétendre à la carte bleue européenne. Les règles se sont durcies ces dernières années : consulte le site officiel de l'Office suédois des migrations (Migrationsverket).",
+    "salaryNote": "Les salaires sont modérés par rapport à l'Europe de l'Ouest, mais les avantages, le congé parental et les vacances sont généreux. Les impôts sont relativement élevés.",
+    "languages": "Suédois (l'anglais est très répandu, surtout dans la tech)",
+    "tips": [
+      "Garde un CV concis ; la photo est facultative.",
+      "Les organisations suédoises sont peu hiérarchiques : montre ton esprit d'équipe et ton humilité plutôt que le sens de la hiérarchie.",
+      "Évite d'exagérer ; des réponses équilibrées et honnêtes inspirent confiance.",
+      "Attends-toi à des questions sur ta façon de collaborer et de prendre des décisions collectivement."
+    ]
+  },
+  {
+    "id": "denmark",
+    "name": "Danemark",
+    "flag": "🇩🇰",
+    "summary": "Le Danemark allie une économie solide, un haut niveau de confiance, un droit du travail flexible et un excellent équilibre vie pro/vie perso. Copenhague et Aarhus sont les principaux bassins d'emploi.",
+    "jobMarket": "Les sciences de la vie, les énergies vertes, le transport maritime, l'informatique et l'ingénierie sont des secteurs clés. Les professionnels de santé, les ingénieurs et les spécialistes IT sont souvent recherchés.",
+    "visa": "Les voies courantes incluent le Pay Limit Scheme pour les offres bien rémunérées, la Positive List pour les métiers en pénurie et des procédures accélérées pour les employeurs certifiés. Consulte le site officiel New to Denmark (SIRI), car les dispositifs et seuils évoluent.",
+    "salaryNote": "Les salaires sont élevés, mais les impôts sur le revenu aussi, ce qui finance de nombreux services publics. La plupart des salariés bénéficient de congés payés généreux.",
+    "languages": "Danois (l'anglais est très utilisé dans les entreprises internationales)",
+    "tips": [
+      "Rédige un CV court et personnel, accompagné d'une lettre de motivation adaptée.",
+      "La culture danoise est informelle et égalitaire : sois détendu mais professionnel.",
+      "Montre que tu sais travailler en autonomie et prendre tes responsabilités.",
+      "Sois honnête sur ce que tu ne sais pas ; en faire trop peut se retourner contre toi."
+    ]
+  },
+  {
+    "id": "australia",
+    "name": "Australie",
+    "flag": "🇦🇺",
+    "summary": "L'Australie a une économie solide, un niveau de vie élevé et une longue tradition d'immigration qualifiée. Sydney, Melbourne, Brisbane et Perth sont les principaux marchés de l'emploi.",
+    "jobMarket": "La santé, la construction, les mines et ressources, l'éducation et la tech sont de gros employeurs. Les infirmiers, ingénieurs, artisans et professionnels de l'informatique figurent souvent sur les listes de pénurie de compétences.",
+    "visa": "Les options incluent des visas temporaires et permanents parrainés par un employeur, ainsi que des visas qualifiés à points, indépendants ou parrainés par un État. Les listes de métiers et les conditions changent régulièrement : consulte le site officiel du Department of Home Affairs.",
+    "salaryNote": "Les salaires sont généralement élevés et les employeurs versent en plus une cotisation obligatoire de superannuation (épargne retraite). Le coût de la vie à Sydney et Melbourne est élevé, surtout le logement.",
+    "languages": "Anglais",
+    "tips": [
+      "Un CV de deux à trois pages est courant ; pas besoin de photo.",
+      "Adopte un ton amical et simple ; l'arrogance se remarque vite.",
+      "Prépare des exemples comportementaux avec la méthode STAR.",
+      "Montre que tu connais les normes locales ou les autorisations d'exercer si ton domaine en exige."
+    ]
+  },
+  {
+    "id": "united-arab-emirates",
+    "name": "Émirats arabes unis",
+    "flag": "🇦🇪",
+    "summary": "Les Émirats arabes unis sont un carrefour régional des affaires avec une importante main-d'œuvre internationale. Dubaï et Abou Dabi attirent des professionnels du monde entier.",
+    "jobMarket": "La finance, l'immobilier, la construction, le tourisme et l'hôtellerie, l'aviation, la logistique et la tech sont des secteurs majeurs. La demande augmente dans l'IA, la fintech et les énergies renouvelables.",
+    "visa": "La plupart des professionnels travaillent avec un permis de travail et un visa de résidence parrainés par l'employeur, et il existe aussi les Golden Visa et Green Visa pour certains profils qualifiés ou à hauts revenus. Consulte les portails officiels comme u.ae et les autorités de l'émirat concerné, car les règles changent.",
+    "salaryNote": "Beaucoup d'emplois ne sont pas soumis à l'impôt sur le revenu, et les packages peuvent inclure des indemnités de logement ou de transport. Compare toujours la rémunération globale, pas seulement le salaire de base.",
+    "languages": "Arabe et anglais (l'anglais est la principale langue des affaires)",
+    "tips": [
+      "Une photo professionnelle sur le CV est courante et acceptée.",
+      "Indique ta nationalité et ton statut de visa, car les employeurs le demandent souvent.",
+      "Adopte une tenue formelle et sobre pour les entretiens.",
+      "Crée un bon rapport ; les relations et le respect des usages comptent beaucoup."
+    ]
+  },
+  {
+    "id": "japan",
+    "name": "Japon",
+    "flag": "🇯🇵",
+    "summary": "Le Japon est une grande économie avancée qui compte des leaders mondiaux de l'automobile, de l'électronique et de l'industrie. Tokyo, Osaka et Nagoya sont les plus grands marchés de l'emploi.",
+    "jobMarket": "L'informatique, l'ingénierie, l'industrie, la santé et l'hôtellerie manquent de main-d'œuvre en raison du vieillissement de la population. Les ingénieurs logiciels et les spécialistes parlant japonais sont particulièrement appréciés.",
+    "visa": "Les voies courantes sont le visa Engineer/Specialist in Humanities/International Services, le visa à points Highly Skilled Professional et les visas Specified Skilled Worker pour certains secteurs. Consulte le site officiel de l'Immigration Services Agency of Japan, car les conditions évoluent.",
+    "salaryNote": "Les salaires de base peuvent être modestes par rapport aux États-Unis, mais les primes et indemnités sont courantes. L'ancienneté influence encore la rémunération dans de nombreuses entreprises traditionnelles.",
+    "languages": "Japonais (les postes uniquement en anglais existent surtout dans la tech et les entreprises étrangères)",
+    "tips": [
+      "Les entreprises traditionnelles peuvent attendre un CV au format standard (rirekisho) avec photo.",
+      "La politesse, l'humilité et les salutations formelles sont très importantes.",
+      "Arrive en avance et habille-toi sobrement, en général avec un costume sombre.",
+      "Montre un engagement sur le long terme et un esprit d'équipe plutôt qu'une ambition individuelle."
+    ]
+  },
+  {
+    "id": "singapore",
+    "name": "Singapour",
+    "flag": "🇸🇬",
+    "summary": "Singapour est un pôle asiatique majeur de la finance, du commerce et de la tech, avec une main-d'œuvre très internationale. De nombreuses multinationales y installent leur siège Asie-Pacifique.",
+    "jobMarket": "La finance, la tech, la logistique, les sciences biomédicales et les services professionnels sont des secteurs clés. Les spécialistes du logiciel, de la data, de la cybersécurité et de la finance sont très demandés.",
+    "visa": "Les professionnels ont généralement besoin d'un Employment Pass, qui tient compte du salaire et d'un système à points, tandis que les travailleurs moyennement qualifiés peuvent utiliser le S Pass. Les critères sont régulièrement mis à jour : consulte le site officiel du Ministry of Manpower (MOM).",
+    "salaryNote": "Les salaires dans la finance et la tech sont compétitifs et l'impôt sur le revenu est relativement bas. Le logement et la possession d'une voiture coûtent cher.",
+    "languages": "Anglais (principale langue des affaires), ainsi que mandarin, malais et tamoul",
+    "tips": [
+      "Garde un CV concis et axé sur les résultats ; la photo est facultative.",
+      "Sois clair sur ton préavis et ton statut de permis de travail.",
+      "Montre que tu sais travailler avec différentes cultures dans une équipe diversifiée.",
+      "Prépare-toi à parler directement de tes prétentions salariales, car la question arrive souvent tôt."
+    ]
+  }
+]
