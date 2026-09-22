@@ -20,15 +20,19 @@ export async function sendPush(
   }
   if (uids.length === 0) return 0;
 
+  // Yeni OneSignal anahtarları (`os_v2_…`) "Key" şemasıyla, eski anahtarlar "Basic" ile kabul edilir.
+  const authorization = apiKey.startsWith("os_v2_") ? `Key ${apiKey}` : `Basic ${apiKey}`;
   const response = await fetch("https://onesignal.com/api/v1/notifications", {
     method: "POST",
     headers: {
       "Content-Type": "application/json",
-      "Authorization": `Basic ${apiKey}`,
+      "Authorization": authorization,
     },
     body: JSON.stringify({
       app_id: appId,
-      include_external_user_ids: uids,
+      // SDK 5 kullanıcı modeli: OneSignal.login(uid) → external_id takma adı.
+      include_aliases: { external_id: uids },
+      target_channel: "push",
       headings: { en: title },
       contents: { en: message },
       data,
