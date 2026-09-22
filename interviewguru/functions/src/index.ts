@@ -206,6 +206,8 @@ export const evaluateInterview = onCall(AI_OPTIONS, async (request) => {
       throw new AppError("invalid-parameters", "No answers");
     }
 
+    // Hoş geldin kredisi idempotent: ilk işi mülakat/metin iyileştirme olan kullanıcı da alır.
+    await credits.grantWelcomeIfNeeded(uid, request.data?.deviceId);
     await credits.assertCanSpend(uid, CREDIT_COST.evaluateInterview);
     const language: Language = normalizeLanguage(request.data?.language || interview.language);
     const evaluation = await evaluateAnswers(interview.role, interview.seniority, qa, language);
