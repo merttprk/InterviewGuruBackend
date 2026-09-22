@@ -1,0 +1,242 @@
+[
+  {
+    "id": "before-reverse-engineer-posting",
+    "category": "Before the interview",
+    "title": "Turn the job ad into a checklist",
+    "body": "Highlight every skill and responsibility in the posting and write one example from your experience next to each. Gaps you find now are questions you can prepare for instead of being surprised by."
+  },
+  {
+    "id": "before-story-bank",
+    "category": "Before the interview",
+    "title": "Build a bank of five stories",
+    "body": "Prepare five short stories about a success, a failure, a conflict, a time you led and a time you learned fast. Most behavioral questions can be answered by adapting one of them."
+  },
+  {
+    "id": "before-news-check",
+    "category": "Before the interview",
+    "title": "Check the latest company news",
+    "body": "The day before, search for recent news, product launches or funding about the company. Mentioning something current shows real interest and gives you a natural question to ask."
+  },
+  {
+    "id": "before-map-interviewers",
+    "category": "Before the interview",
+    "title": "Look up your interviewers",
+    "body": "If you know who will interview you, check their professional profiles to understand their role and background. It helps you tailor examples to what each person cares about."
+  },
+  {
+    "id": "before-practice-out-loud",
+    "category": "Before the interview",
+    "title": "Practice answers out loud",
+    "body": "Rehearsing silently feels fluent, but speaking reveals where you ramble or get stuck. Say your key answers aloud a few times, ideally timing them to one or two minutes."
+  },
+  {
+    "id": "before-prepare-kit",
+    "category": "Before the interview",
+    "title": "Pack your interview kit",
+    "body": "Prepare printed copies of your CV, a notebook, a pen, your ID and the interviewer's contact details. Having everything ready the night before removes last-minute stress."
+  },
+  {
+    "id": "before-plan-route",
+    "category": "Before the interview",
+    "title": "Plan your route with a buffer",
+    "body": "Check the travel time at the same hour of day and add at least 20 minutes of buffer. Aim to arrive nearby early and walk in 5 to 10 minutes before the start."
+  },
+  {
+    "id": "before-thirty-sixty-ninety",
+    "category": "Before the interview",
+    "title": "Sketch a 30-60-90 day plan",
+    "body": "Write a few bullet points on what you would learn, deliver and improve in your first three months. Even if nobody asks, it sharpens your answers about how you would add value."
+  },
+  {
+    "id": "during-first-ninety-seconds",
+    "category": "During the interview",
+    "title": "Own the first 90 seconds",
+    "body": "First impressions form quickly, so greet everyone warmly, smile and use their names. A calm, friendly start makes the rest of the conversation easier for both sides."
+  },
+  {
+    "id": "during-pause-before-answering",
+    "category": "During the interview",
+    "title": "Pause before you answer",
+    "body": "Taking two or three seconds to think looks confident, not slow. It helps you choose the best example and avoid filling the silence with filler words."
+  },
+  {
+    "id": "during-numbers-in-answers",
+    "category": "During the interview",
+    "title": "Put numbers in your answers",
+    "body": "Whenever possible, quantify impact: time saved, revenue grown, errors reduced or customers served. Concrete figures make your stories credible and memorable."
+  },
+  {
+    "id": "during-clarify-question",
+    "category": "During the interview",
+    "title": "Clarify unclear questions",
+    "body": "If a question is vague, ask a short clarifying question or restate what you understood. Answering the right question is better than answering quickly."
+  },
+  {
+    "id": "during-watch-length",
+    "category": "During the interview",
+    "title": "Keep answers to about two minutes",
+    "body": "Long answers lose attention and short ones feel thin. Aim for one to two minutes, then check in with something like: would you like more detail on that?"
+  },
+  {
+    "id": "during-take-notes",
+    "category": "During the interview",
+    "title": "Take brief notes",
+    "body": "Jotting down key points the interviewer mentions shows engagement. You can refer back to them in your questions and in your thank-you message."
+  },
+  {
+    "id": "during-mirror-energy",
+    "category": "During the interview",
+    "title": "Match the interviewer's style",
+    "body": "Notice whether the interviewer is formal or relaxed, fast or thoughtful, and adjust your tone slightly. Matching their pace builds rapport without losing your own personality."
+  },
+  {
+    "id": "during-close-strong",
+    "category": "During the interview",
+    "title": "End with a clear close",
+    "body": "Before leaving, briefly summarise why you fit the role and confirm your interest. Then ask about the next steps and the expected timeline."
+  },
+  {
+    "id": "tough-gap-in-cv",
+    "category": "Tough questions",
+    "title": "Explaining a gap in your CV",
+    "body": "Be brief and honest about the reason, whether it was caregiving, health, study or a job search. Then quickly move on to what you did to stay sharp and why you are ready now."
+  },
+  {
+    "id": "tough-why-leaving",
+    "category": "Tough questions",
+    "title": "Why are you leaving your job?",
+    "body": "Focus on what you are moving toward, such as growth, new challenges or a better fit, rather than what you are escaping. Never criticise your current or previous employer."
+  },
+  {
+    "id": "tough-failure-story",
+    "category": "Tough questions",
+    "title": "Tell me about a failure",
+    "body": "Choose a real but recoverable mistake, own your part without excuses, and spend most of the answer on what you learned. Close with how you applied that lesson later."
+  },
+  {
+    "id": "tough-overqualified",
+    "category": "Tough questions",
+    "title": "You seem overqualified",
+    "body": "Address the hidden concern, which is usually that you will get bored or leave quickly. Explain why this role fits your goals now and how your experience helps the team from day one."
+  },
+  {
+    "id": "tough-dont-know-answer",
+    "category": "Tough questions",
+    "title": "When you don't know the answer",
+    "body": "Don't bluff. Say what you do know, explain how you would find the rest, and if possible reason through the problem out loud so they can see how you think."
+  },
+  {
+    "id": "tough-other-offers",
+    "category": "Tough questions",
+    "title": "Are you interviewing elsewhere?",
+    "body": "It's fine to say yes without naming companies or details. Emphasise that this role is a strong match and share any timeline constraints honestly."
+  },
+  {
+    "id": "tough-illegal-questions",
+    "category": "Tough questions",
+    "title": "Handling inappropriate questions",
+    "body": "In many countries, questions about age, religion, marital status or family plans are not allowed. You can politely steer back to your qualifications, for example by saying nothing will affect your ability to do the job."
+  },
+  {
+    "id": "tough-where-in-five-years",
+    "category": "Tough questions",
+    "title": "Where do you see yourself in five years?",
+    "body": "Show ambition that fits the path this role can offer, such as deeper expertise or more responsibility. Avoid naming a completely different career or the interviewer's own job."
+  },
+  {
+    "id": "remote-test-tech",
+    "category": "Remote interviews",
+    "title": "Test the platform in advance",
+    "body": "Install the video app, update it and do a test call with a friend a day before. Check that your camera, microphone and screen sharing all work on the device you'll use."
+  },
+  {
+    "id": "remote-camera-eye-level",
+    "category": "Remote interviews",
+    "title": "Put the camera at eye level",
+    "body": "Raise your laptop on books or a stand so the camera is level with your eyes. Look at the lens when making key points so it feels like eye contact to the interviewer."
+  },
+  {
+    "id": "remote-lighting-audio",
+    "category": "Remote interviews",
+    "title": "Get lighting and audio right",
+    "body": "Face a window or lamp so your face is evenly lit, and avoid bright light behind you. Wired earphones with a microphone usually sound clearer than laptop speakers."
+  },
+  {
+    "id": "remote-clean-background",
+    "category": "Remote interviews",
+    "title": "Choose a calm background",
+    "body": "Sit in front of a tidy, neutral background and remove distractions from the frame. Tell people at home when your interview is and silence notifications on every device."
+  },
+  {
+    "id": "remote-notes-off-screen",
+    "category": "Remote interviews",
+    "title": "Use notes wisely",
+    "body": "A few keywords on a sticky note near the camera can help, but don't read full answers. Interviewers notice when your eyes keep moving across the screen."
+  },
+  {
+    "id": "remote-lag-etiquette",
+    "category": "Remote interviews",
+    "title": "Allow for audio delay",
+    "body": "Wait a beat after the interviewer finishes before you speak to avoid talking over each other. If the connection drops, calmly rejoin and briefly summarise where you were."
+  },
+  {
+    "id": "remote-backup-plan",
+    "category": "Remote interviews",
+    "title": "Have a backup plan",
+    "body": "Keep your phone charged and the interviewer's contact details handy in case your internet fails. A mobile hotspot ready to go can save the interview."
+  },
+  {
+    "id": "remote-one-way-video",
+    "category": "Remote interviews",
+    "title": "One-way video interviews",
+    "body": "For recorded interviews without a live person, treat the camera as your audience and smile at the start. Use any practice questions to check framing, then answer with the same energy as a live call."
+  },
+  {
+    "id": "after-debrief-notes",
+    "category": "After the interview",
+    "title": "Write a debrief right away",
+    "body": "Within an hour, note down the questions asked, your answers, names and anything you would improve. These notes help with follow-ups and your next interviews."
+  },
+  {
+    "id": "after-personal-thank-you",
+    "category": "After the interview",
+    "title": "Personalise your thank-you note",
+    "body": "Send a short thank-you email within 24 hours that mentions one specific topic you discussed. A personal detail makes it memorable instead of generic."
+  },
+  {
+    "id": "after-follow-up-timing",
+    "category": "After the interview",
+    "title": "Follow up at the right time",
+    "body": "If they gave a timeline, wait until it passes before following up. Otherwise, a polite check-in about a week later is reasonable."
+  },
+  {
+    "id": "after-connect-linkedin",
+    "category": "After the interview",
+    "title": "Connect professionally",
+    "body": "Consider sending a connection request with a short note to the people you met. Keep it professional and don't use it to ask about the decision."
+  },
+  {
+    "id": "after-handle-silence",
+    "category": "After the interview",
+    "title": "Handle silence calmly",
+    "body": "Hiring processes often take longer than planned for reasons that have nothing to do with you. After one or two polite follow-ups, keep your focus on other opportunities."
+  },
+  {
+    "id": "after-ask-feedback",
+    "category": "After the interview",
+    "title": "Ask for feedback after a rejection",
+    "body": "Reply graciously and ask whether they can share one or two things you could improve. Not everyone will answer, but useful feedback is valuable, and a positive reply keeps the door open."
+  },
+  {
+    "id": "after-compare-offers",
+    "category": "After the interview",
+    "title": "Compare offers on the full picture",
+    "body": "Look beyond base salary to bonus, benefits, leave, flexibility, growth and commute. Writing them side by side in a table makes the right choice clearer."
+  },
+  {
+    "id": "after-keep-pipeline",
+    "category": "After the interview",
+    "title": "Keep your pipeline active",
+    "body": "Don't pause your job search while you wait for one company's decision. Continuing to apply keeps your options open and reduces the pressure on any single interview."
+  }
+]
